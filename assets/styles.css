@@ -23,3 +23,37 @@ main{max-width:1220px;margin:auto;padding:0 28px 80px}.hero{min-height:470px;dis
 @media(max-width:560px){main{padding:0 16px 60px}.site-header{padding:0 16px}.brand small{display:none}.header-meta{font-size:10px}.hero h1{font-size:46px}.kpis{grid-template-columns:1fr}.kpis .kpi:last-child{grid-column:auto}.panel{padding:18px;border-radius:18px}.segmented{width:100%}.segmented button{flex:1;min-width:42%}.metric-strip{grid-template-columns:repeat(2,1fr)}.bar-row{grid-template-columns:90px 1fr 60px}.method-grid{grid-template-columns:1fr}footer{padding:22px 16px;flex-direction:column;gap:6px}}
 
 body:after{content:"";position:fixed;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,#0057a8 0%,#168cff 55%,#72c7ff 100%);z-index:30;pointer-events:none}.site-header{position:relative}.site-header:after{content:"USO INTERNO";position:absolute;right:28px;bottom:-20px;font-size:8px;letter-spacing:.18em;font-weight:800;color:#4f6d8d;background:#06152f;border:1px solid rgba(84,170,255,.18);padding:4px 7px;border-radius:999px}@media(max-width:560px){.site-header:after{display:none}}
+.people-panel{margin-top:8px}
+.people-hero{display:grid;grid-template-columns:.8fr 1.2fr;gap:18px;margin-bottom:22px}
+.leader-card{min-height:260px;border:1px solid rgba(74,169,255,.28);border-radius:22px;padding:24px;background:
+linear-gradient(145deg,rgba(15,77,143,.55),rgba(7,24,49,.92));position:relative;overflow:hidden}
+.leader-card:after{content:"";position:absolute;width:210px;height:210px;border-radius:50%;background:#168cff;filter:blur(90px);opacity:.16;right:-60px;top:-60px}
+.leader-kicker{font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:#63b7ff;font-weight:850}
+.leader-main{display:flex;align-items:center;gap:16px;margin-top:18px;position:relative;z-index:1}
+.leader-main .avatar{width:74px;height:74px;border-radius:22px}
+.leader-main h3{margin:0;font-size:24px;letter-spacing:-.035em}
+.leader-main small{display:block;color:var(--muted);margin-top:5px}
+.leader-score{font-size:40px;font-weight:900;letter-spacing:-.05em;margin-top:24px}
+.leader-score span{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700;margin-left:7px}
+.leader-meta{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:16px}
+.leader-meta div{background:rgba(4,16,33,.5);border:1px solid var(--line);border-radius:12px;padding:10px}
+.leader-meta span{display:block;color:var(--muted);font-size:8px;text-transform:uppercase;letter-spacing:.08em}
+.leader-meta strong{display:block;margin-top:4px;font-size:13px}
+.people-ranking{border:1px solid var(--line);border-radius:20px;background:#08162b;padding:20px}
+.person-rank-row{display:grid;grid-template-columns:28px 1fr auto;gap:10px;align-items:center;padding:9px 4px;border-top:1px solid rgba(255,255,255,.055)}
+.person-rank-row:first-child{border-top:0}
+.person-rank-row .rank-org .avatar{width:30px;height:30px;border-radius:9px}
+.person-rank-row .rank-value{font-size:12px}
+.people-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:18px}
+.person-card{border:1px solid var(--line);border-radius:16px;background:linear-gradient(155deg,rgba(255,255,255,.035),rgba(255,255,255,.012));padding:15px}
+.person-card-head{display:flex;gap:10px;align-items:center}
+.person-card-head .avatar{width:38px;height:38px;border-radius:11px}
+.person-card-title{min-width:0}
+.person-card-title strong{display:block;font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.person-card-title small{display:block;color:var(--muted);font-size:9px;margin-top:2px}
+.person-card-metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:13px}
+.person-card-metrics div{background:#08162b;border:1px solid rgba(255,255,255,.05);border-radius:9px;padding:8px}
+.person-card-metrics span{display:block;color:var(--muted);font-size:7px;text-transform:uppercase}
+.person-card-metrics strong{display:block;font-size:11px;margin-top:4px}
+@media(max-width:900px){.people-hero{grid-template-columns:1fr}.people-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.people-grid{grid-template-columns:1fr}.leader-meta{grid-template-columns:1fr 1fr 1fr}.leader-score{font-size:32px}}
