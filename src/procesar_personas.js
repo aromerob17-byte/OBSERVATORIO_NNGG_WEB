@@ -50,7 +50,9 @@ function procesarPersona(persona) {
     tweet => tweet.text.startsWith("RT @")
   );
 
-  // El rendimiento se atribuye solo a publicaciones propias.\n  // Los RT se conservan como actividad, pero sus métricas pertenecen al tuit original.\n  const metricas = sumarMetricas(publicacionesPropias);
+  // El rendimiento se atribuye solo a publicaciones propias.
+  // Los RT se conservan como actividad, pero sus métricas pertenecen al tuit original.
+  const metricas = sumarMetricas(publicacionesPropias);
   const totalInteracciones =
     metricas.likes +
     metricas.reposts +
