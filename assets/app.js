@@ -20,7 +20,7 @@ function labelMetric(m){return({impresiones:"Impresiones",interacciones:"Interac
 
 function renderKpis(){
  const orgs=state.summary.organizaciones||[];
- const people=state.peopleSummary?.personas||[];
+ const people=(state.peopleSummary?.personas||[]).filter(p=>n(p.total_publicaciones)>0);
 
  const orgTotals=orgs.reduce((a,o)=>{
    a.posts+=n(o.total_publicaciones);a.imp+=n(o.impresiones);a.int+=n(o.interacciones);return a
@@ -77,7 +77,7 @@ function personMetricLabel(m){
  return ({interacciones:"Interacciones",impresiones:"Impresiones",engagement_sobre_impresiones:"Engagement",seguidores:"Seguidores"})[m]||m;
 }
 function renderPeople(){
- const data=state.peopleSummary?.personas||[];
+ const data=(state.peopleSummary?.personas||[]).filter(p=>n(p.total_publicaciones)>0);
  if(!data.length){
    $("#person-leader").innerHTML='<div class="empty">Todavía no hay datos personales disponibles.</div>';
    $("#person-ranking-list").innerHTML="";
