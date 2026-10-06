@@ -23,6 +23,10 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: observatorio-update
+  cancel-in-progress: true
+
 jobs:
   actualizar:
     runs-on: ubuntu-latest
@@ -66,8 +70,11 @@ jobs:
           git config user.name "Observatorio Bot"
           git config user.email "actions@github.com"
           git add data/
-          git diff --cached --quiet || git commit -m "Actualización automática"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualización automática"
+            git pull --rebase origin main
+            git push
+          fi
 
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5
