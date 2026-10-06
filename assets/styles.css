@@ -139,3 +139,221 @@ linear-gradient(145deg,rgba(15,77,143,.55),rgba(7,24,49,.92));position:relative;
     flex:0 0 auto;
   }
 }
+
+.section-copy{
+  margin:8px 0 0;
+  max-width:650px;
+  color:var(--muted);
+  font-size:12px;
+  line-height:1.6;
+}
+.topics-head{
+  align-items:flex-start;
+}
+.topics-summary{
+  display:flex;
+  gap:9px;
+  align-items:center;
+  flex-wrap:wrap;
+  margin:-4px 0 18px;
+  color:#7f91aa;
+  font-size:10px;
+}
+.topics-summary strong{
+  color:#dce8f6;
+  font-weight:800;
+}
+.topics-summary .topic-summary-chip{
+  padding:6px 9px;
+  border:1px solid var(--line);
+  background:#081426;
+  border-radius:999px;
+}
+.topics-list{
+  display:flex;
+  flex-direction:column;
+  gap:6px;
+}
+.topic-row{
+  appearance:none;
+  width:100%;
+  display:grid;
+  grid-template-columns:30px 10px minmax(180px,260px) minmax(160px,1fr) 90px;
+  gap:10px;
+  align-items:center;
+  padding:8px 8px;
+  background:transparent;
+  border:1px solid transparent;
+  border-radius:12px;
+  color:inherit;
+  text-align:left;
+  cursor:pointer;
+  transition:.16s ease;
+}
+.topic-row:hover,
+.topic-row.active{
+  background:rgba(255,255,255,.025);
+  border-color:var(--line);
+}
+.topic-rank{
+  color:#65738c;
+  font-size:11px;
+  font-weight:900;
+  text-align:right;
+}
+.topic-dot{
+  width:9px;
+  height:9px;
+  border-radius:50%;
+  background:var(--topic-color);
+  box-shadow:0 0 14px color-mix(in srgb,var(--topic-color) 35%,transparent);
+}
+.topic-label{
+  min-width:0;
+  display:flex;
+  align-items:center;
+  gap:7px;
+}
+.topic-label strong{
+  font-size:12px;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.topic-badge{
+  flex:0 0 auto;
+  font-size:7px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:#7fbfff;
+  border:1px solid rgba(84,170,255,.22);
+  background:rgba(22,140,255,.07);
+  padding:3px 5px;
+  border-radius:999px;
+}
+.topic-track{
+  height:12px;
+  border-radius:999px;
+  background:#07101f;
+  overflow:hidden;
+  border:1px solid rgba(255,255,255,.035);
+}
+.topic-fill{
+  height:100%;
+  min-width:3px;
+  border-radius:999px;
+  background:linear-gradient(90deg,var(--topic-color),color-mix(in srgb,var(--topic-color) 72%,white));
+  transform-origin:left;
+  animation:grow .55s ease both;
+}
+.topic-value{
+  text-align:right;
+  color:#d7e2f0;
+  font-size:11px;
+  font-variant-numeric:tabular-nums;
+  font-weight:750;
+}
+.topic-detail{
+  display:none;
+  margin-top:18px;
+  padding:18px;
+  border:1px solid var(--line);
+  border-radius:16px;
+  background:#071427;
+}
+.topic-detail.visible{
+  display:block;
+}
+.topic-detail-head{
+  display:flex;
+  justify-content:space-between;
+  gap:14px;
+  align-items:flex-start;
+  margin-bottom:14px;
+}
+.topic-detail-head h3{
+  margin:0;
+  font-size:16px;
+}
+.topic-detail-head p{
+  margin:5px 0 0;
+  color:var(--muted);
+  font-size:10px;
+}
+.topic-detail-grid{
+  display:grid;
+  grid-template-columns:.8fr 1.2fr;
+  gap:18px;
+}
+.topic-authors{
+  display:flex;
+  flex-direction:column;
+  gap:7px;
+}
+.topic-author{
+  display:grid;
+  grid-template-columns:1fr auto;
+  gap:10px;
+  font-size:10px;
+  padding:7px 0;
+  border-bottom:1px solid rgba(255,255,255,.05);
+}
+.topic-author small{
+  display:block;
+  color:var(--muted);
+  margin-top:2px;
+}
+.topic-examples{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:8px;
+}
+.topic-example{
+  border:1px solid rgba(255,255,255,.055);
+  background:#08182d;
+  border-radius:12px;
+  padding:11px;
+  min-width:0;
+}
+.topic-example strong{
+  display:block;
+  font-size:10px;
+}
+.topic-example p{
+  margin:7px 0 9px;
+  font-size:10px;
+  color:#bdc8d7;
+  line-height:1.45;
+  display:-webkit-box;
+  -webkit-line-clamp:3;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
+}
+.topic-example a{
+  color:#58b4ff;
+  font-size:9px;
+}
+@media(max-width:900px){
+  .topic-row{
+    grid-template-columns:26px 9px minmax(150px,220px) 1fr 72px;
+  }
+  .topic-detail-grid{
+    grid-template-columns:1fr;
+  }
+}
+@media(max-width:620px){
+  .topic-row{
+    grid-template-columns:24px 9px minmax(0,1fr) 68px;
+  }
+  .topic-track{
+    grid-column:3/5;
+    margin-top:2px;
+  }
+  .topic-value{
+    grid-column:4;
+    grid-row:1;
+  }
+  .topic-examples{
+    grid-template-columns:1fr;
+  }
+}
