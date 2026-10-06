@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - "cuentas.json"
+      - "personas.json"
       - "src/**"
       - "package.json"
       - "package-lock.json"
@@ -47,6 +48,14 @@ jobs:
 
       - name: Procesar datos
         run: node src/procesar.js
+
+      - name: Recoger personas de X
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: node src/recoger_personas.js
+
+      - name: Procesar personas
+        run: node src/procesar_personas.js
 
       - name: Guardar cambios
         run: |
