@@ -19,10 +19,33 @@ function esc(s=""){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt
 function labelMetric(m){return({impresiones:"Impresiones",interacciones:"Interacciones",engagement_sobre_impresiones:"Engagement",seguidores:"Seguidores"})[m]||m}
 
 function renderKpis(){
- const orgs=state.summary.organizaciones;
- const totals=orgs.reduce((a,o)=>{a.posts+=n(o.total_publicaciones);a.imp+=n(o.impresiones);a.int+=n(o.interacciones);a.likes+=n(o.likes);a.follow+=n(o.seguidores);return a},{posts:0,imp:0,int:0,likes:0,follow:0});
+ const orgs=state.summary.organizaciones||[];
+ const people=state.peopleSummary?.personas||[];
+
+ const orgTotals=orgs.reduce((a,o)=>{
+   a.posts+=n(o.total_publicaciones);a.imp+=n(o.impresiones);a.int+=n(o.interacciones);return a
+ },{posts:0,imp:0,int:0});
+
+ const peopleTotals=people.reduce((a,o)=>{
+   a.posts+=n(o.total_publicaciones);a.imp+=n(o.impresiones);a.int+=n(o.interacciones);return a
+ },{posts:0,imp:0,int:0});
+
+ const totals={
+   posts:orgTotals.posts+peopleTotals.posts,
+   imp:orgTotals.imp+peopleTotals.imp,
+   int:orgTotals.int+peopleTotals.int
+ };
+
  $("#hero-total").textContent=compact.format(totals.int);
- const items=[["Organizaciones",orgs.length,"monitorizadas"],["Publicaciones",totals.posts,"desde el 05/10"],["Impresiones",totals.imp,"acumuladas"],["Interacciones",totals.int,"públicas"],["Seguidores",totals.follow,"audiencia total"]];
+
+ const items=[
+   ["Organizaciones",orgs.length,"monitorizadas"],
+   ["Personas",people.length,"líderes seguidos"],
+   ["Publicaciones",totals.posts,"analizadas desde el 05/10"],
+   ["Impresiones",totals.imp,"analizadas"],
+   ["Interacciones",totals.int,"analizadas"]
+ ];
+
  $("#kpis").innerHTML=items.map(([l,v,s])=>`<article class="kpi"><span>${l}</span><strong>${typeof v==="number"?compact.format(v):v}</strong><em>${s}</em></article>`).join("");
 }
 function sorted(){
