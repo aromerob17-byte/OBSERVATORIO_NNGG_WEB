@@ -50,7 +50,7 @@ function procesarPersona(persona) {
     tweet => tweet.text.startsWith("RT @")
   );
 
-  const metricas = sumarMetricas(tweets);
+  // El rendimiento se atribuye solo a publicaciones propias.\n  // Los RT se conservan como actividad, pero sus métricas pertenecen al tuit original.\n  const metricas = sumarMetricas(publicacionesPropias);
   const totalInteracciones =
     metricas.likes +
     metricas.reposts +
@@ -58,20 +58,20 @@ function procesarPersona(persona) {
     metricas.citas;
 
   const mejorInteracciones =
-    tweets.length > 0
-      ? [...tweets].sort((a, b) => interacciones(b) - interacciones(a))[0]
+    publicacionesPropias.length > 0
+      ? [...publicacionesPropias].sort((a, b) => interacciones(b) - interacciones(a))[0]
       : null;
 
   const mejorImpresiones =
-    tweets.length > 0
-      ? [...tweets].sort(
+    publicacionesPropias.length > 0
+      ? [...publicacionesPropias].sort(
           (a, b) =>
             numero(b.public_metrics?.impression_count) -
             numero(a.public_metrics?.impression_count)
         )[0]
       : null;
 
-  const totalPublicaciones = tweets.length;
+  const totalPublicaciones = publicacionesPropias.length;
 
   return {
     nombre: persona.nombre_persona,
@@ -79,7 +79,7 @@ function procesarPersona(persona) {
     avatar: persona.usuario.profile_image_url || "",
     seguidores: persona.usuario.metrics?.followers_count || 0,
     siguiendo: persona.usuario.metrics?.following_count || 0,
-    total_publicaciones: totalPublicaciones,
+    total_publicaciones: totalPublicaciones,\n    actividad_total: tweets.length,
     publicaciones_propias: publicacionesPropias.length,
     retweets: retweets.length,
     impresiones: metricas.impresiones,
