@@ -57,3 +57,20 @@ linear-gradient(145deg,rgba(15,77,143,.55),rgba(7,24,49,.92));position:relative;
 .person-card-metrics strong{display:block;font-size:11px;margin-top:4px}
 @media(max-width:900px){.people-hero{grid-template-columns:1fr}.people-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:560px){.people-grid{grid-template-columns:1fr}.leader-meta{grid-template-columns:1fr 1fr 1fr}.leader-score{font-size:32px}}
+
+.creator-signature{
+  position:absolute;
+  left:50%;
+  transform:translateX(-50%);
+  font-size:13px;
+  letter-spacing:.04em;
+  color:#7f93ad;
+  white-space:nowrap;
+}
+.creator-signature strong{
+  color:#f7fbff;
+  font-weight:850;
+}
+@media(max-width:760px){
+  .creator-signature{display:none}
+}
