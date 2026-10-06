@@ -16,12 +16,17 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   actualizar:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Descargar repositorio
@@ -50,3 +55,15 @@ jobs:
           git add data/
           git diff --cached --quiet || git commit -m "Actualización automática"
           git push
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Preparar sitio
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Publicar dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4
