@@ -106,7 +106,10 @@ const stopwords = new Set([
   "avui","ahir","dema","ara","molt","mes","menys","tambe","sense",
   "govern","gobierno","politica","politico","partido","partits",
   "espana","catalunya","campana","elecciones","eleccions",
-  "joven","jovenes","jove","joves","joventut","twitter","video","foto"
+  "joven","jovenes","jove","joves","joventut","twitter","video","foto",
+  "masa","comienza","comenzar","empieza","empezar","vamos","hacer","hace","hecho",
+  "necesita","necesitamos","quiero","queremos","puede","pueden","debe","deben",
+  "nuevo","nueva","nuevos","nuevas","gran","grande","mejor","peor"
 ]);
 
 function tokensSignificativos(texto) {
@@ -196,7 +199,7 @@ function candidatosEmergentes() {
       const apariciones = item.posts.size;
       const autores = item.autores.size;
 
-      if (!(apariciones >= 3 || (apariciones >= 2 && autores >= 2))) {
+      if (!(apariciones >= 2 && autores >= 2)) {
         return false;
       }
 
