@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0b1020">
+  <meta name="description" content="Observatorio de actividad y rendimiento en X de organizaciones juveniles políticas en España.">
+  <title>Observatorio Joven · X</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <div class="noise"></div>
+  <header class="site-header">
+    <a class="brand" href="#">
+      <span class="brand-mark">OJ</span>
+      <span>
+        <strong>Observatorio Joven</strong>
+        <small>Elecciones · 29N</small>
+      </span>
+    </a>
+    <div class="header-meta">
+      <span class="live-dot"></span>
+      <span id="updated">Cargando datos…</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">RADIOGRAFÍA DIGITAL · DESDE EL 5 DE OCTUBRE</p>
+        <h1>La conversación joven,<br><span>medida en tiempo real.</span></h1>
+        <p class="hero-text">Actividad, alcance e interacción de las principales organizaciones juveniles políticas en X. Datos públicos, comparados con una metodología común.</p>
+      </div>
+      <div class="hero-orbit" aria-hidden="true">
+        <div class="orbit-ring ring-a"></div>
+        <div class="orbit-ring ring-b"></div>
+        <div class="orbit-core">
+          <strong id="hero-total">—</strong>
+          <span>interacciones</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="kpis" id="kpis"></section>
+
+    <section class="panel spotlight">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">PULSO GENERAL</p>
+          <h2>Quién mueve la conversación</h2>
+        </div>
+        <div class="segmented" id="ranking-tabs">
+          <button class="active" data-metric="impresiones">Impresiones</button>
+          <button data-metric="interacciones">Interacciones</button>
+          <button data-metric="engagement_sobre_impresiones">Engagement</button>
+          <button data-metric="seguidores">Seguidores</button>
+        </div>
+      </div>
+      <div class="ranking-layout">
+        <div class="ranking-list" id="ranking-list"></div>
+        <div class="chart-card">
+          <div class="chart-title">
+            <span id="chart-title">Cuota de impresiones</span>
+            <small id="chart-subtitle">Total acumulado desde el 05/10</small>
+          </div>
+          <div class="bars" id="bars"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-head standalone">
+      <div>
+        <p class="eyebrow">ORGANIZACIÓN A ORGANIZACIÓN</p>
+        <h2>Ficha de rendimiento</h2>
+      </div>
+      <div class="search-wrap">
+        <input id="search" type="search" placeholder="Buscar organización…">
+      </div>
+    </section>
+
+    <section class="org-grid" id="org-grid"></section>
+
+    <section class="panel">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">CONTENIDO</p>
+          <h2>Publicaciones que han marcado el periodo</h2>
+        </div>
+        <div class="segmented" id="post-tabs">
+          <button class="active" data-postmetric="interacciones">Más interacciones</button>
+          <button data-postmetric="impresiones">Más impresiones</button>
+        </div>
+      </div>
+      <div class="post-grid" id="post-grid"></div>
+    </section>
+
+    <section class="panel table-panel">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">DATOS COMPLETOS</p>
+          <h2>Comparativa</h2>
+        </div>
+        <span class="method-chip">Interacciones = Me gusta + reposts + respuestas + citas</span>
+      </div>
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th>Organización</th>
+              <th>Seguidores</th>
+              <th>Posts</th>
+              <th>Impresiones</th>
+              <th>Interacciones</th>
+              <th>Inter./post</th>
+              <th>Engagement</th>
+            </tr>
+          </thead>
+          <tbody id="data-table"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="methodology">
+      <div>
+        <p class="eyebrow">METODOLOGÍA</p>
+        <h2>Qué estamos midiendo</h2>
+      </div>
+      <div class="method-grid">
+        <article><strong>Alcance</strong><p>Impresiones públicas acumuladas de las publicaciones recogidas desde el inicio del periodo.</p></article>
+        <article><strong>Interacciones</strong><p>Suma de me gusta, reposts, respuestas y citas. Los marcadores se muestran aparte y no entran en la fórmula.</p></article>
+        <article><strong>Engagement</strong><p>Interacciones divididas entre impresiones, multiplicadas por 100. Es una métrica comparativa propia del observatorio.</p></article>
+        <article><strong>Actualización</strong><p>La recogida se ejecuta automáticamente una vez al día y refresca las últimas 48 horas para actualizar métricas recientes.</p></article>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>Observatorio Joven · Datos públicos de X</span>
+    <span>Periodo iniciado el 05/10/2026</span>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
