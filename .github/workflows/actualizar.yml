@@ -65,6 +65,9 @@ jobs:
       - name: Analizar temas
         run: node src/procesar_temas.js
 
+      - name: Guardar memoria histórica
+        run: node src/guardar_historico.js
+
       - name: Guardar cambios
         run: |
           git config user.name "Observatorio Bot"
