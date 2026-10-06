@@ -50,11 +50,23 @@
           <p class="eyebrow">PULSO GENERAL</p>
           <h2>Quién mueve la conversación</h2>
         </div>
-        <div class="segmented" id="ranking-tabs">
-          <button class="active" data-metric="impresiones">Impresiones</button>
-          <button data-metric="interacciones">Interacciones</button>
-          <button data-metric="engagement_sobre_impresiones">Engagement</button>
-          <button data-metric="seguidores">Seguidores</button>
+        <div class="analysis-controls">
+          <div class="segmented metric-tabs" id="ranking-tabs">
+            <button class="active" data-metric="interacciones">Interacciones</button>
+            <button data-metric="impresiones">Impresiones</button>
+            <button data-metric="likes">Likes</button>
+            <button data-metric="reposts">Reposts</button>
+            <button data-metric="respuestas">Respuestas</button>
+            <button data-metric="citas">Citas</button>
+            <button data-metric="engagement_sobre_impresiones">Engagement</button>
+            <button data-metric="total_publicaciones">Posts</button>
+            <button data-metric="seguidores">Seguidores</button>
+          </div>
+          <div class="view-switch" id="ranking-view">
+            <span>VER COMO</span>
+            <button class="active" data-view="total">Totales</button>
+            <button data-view="per_post">Por post</button>
+          </div>
         </div>
       </div>
       <div class="ranking-layout">
@@ -87,11 +99,23 @@
           <p class="eyebrow">PERSONAS · CONVERSACIÓN JOVEN</p>
           <h2>Quién lidera la conversación</h2>
         </div>
-        <div class="segmented" id="person-tabs">
-          <button class="active" data-personmetric="interacciones">Interacciones</button>
-          <button data-personmetric="impresiones">Impresiones</button>
-          <button data-personmetric="engagement_sobre_impresiones">Engagement</button>
-          <button data-personmetric="seguidores">Seguidores</button>
+        <div class="analysis-controls">
+          <div class="segmented metric-tabs" id="person-tabs">
+            <button class="active" data-personmetric="interacciones">Interacciones</button>
+            <button data-personmetric="impresiones">Impresiones</button>
+            <button data-personmetric="likes">Likes</button>
+            <button data-personmetric="reposts">Reposts</button>
+            <button data-personmetric="respuestas">Respuestas</button>
+            <button data-personmetric="citas">Citas</button>
+            <button data-personmetric="engagement_sobre_impresiones">Engagement</button>
+            <button data-personmetric="total_publicaciones">Posts</button>
+            <button data-personmetric="seguidores">Seguidores</button>
+          </div>
+          <div class="view-switch" id="person-view">
+            <span>VER COMO</span>
+            <button class="active" data-view="total">Totales</button>
+            <button data-view="per_post">Por post</button>
+          </div>
         </div>
       </div>
 
@@ -115,9 +139,13 @@
           <p class="eyebrow">CONTENIDO</p>
           <h2>Publicaciones que han marcado el periodo</h2>
         </div>
-        <div class="segmented" id="post-tabs">
-          <button class="active" data-postmetric="interacciones">Más interacciones</button>
-          <button data-postmetric="impresiones">Más impresiones</button>
+        <div class="segmented metric-tabs" id="post-tabs">
+          <button class="active" data-postmetric="interacciones">Interacciones</button>
+          <button data-postmetric="impresiones">Impresiones</button>
+          <button data-postmetric="likes">Likes</button>
+          <button data-postmetric="reposts">Reposts</button>
+          <button data-postmetric="respuestas">Respuestas</button>
+          <button data-postmetric="citas">Citas</button>
         </div>
       </div>
       <div class="post-grid" id="post-grid"></div>
