@@ -10,6 +10,7 @@ on:
     paths:
       - "cuentas.json"
       - "personas.json"
+      - "temas_config.json"
       - "src/**"
       - "package.json"
       - "package-lock.json"
@@ -56,6 +57,9 @@ jobs:
 
       - name: Procesar personas
         run: node src/procesar_personas.js
+
+      - name: Analizar temas
+        run: node src/procesar_temas.js
 
       - name: Guardar cambios
         run: |
