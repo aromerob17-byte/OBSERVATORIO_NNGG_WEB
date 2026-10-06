@@ -232,6 +232,7 @@ linear-gradient(145deg,rgba(15,77,143,.55),rgba(7,24,49,.92));position:relative;
   border-radius:999px;
 }
 .topic-track{
+  display:block;
   height:12px;
   border-radius:999px;
   background:#07101f;
@@ -239,6 +240,7 @@ linear-gradient(145deg,rgba(15,77,143,.55),rgba(7,24,49,.92));position:relative;
   border:1px solid rgba(255,255,255,.035);
 }
 .topic-fill{
+  display:block;
   height:100%;
   min-width:3px;
   border-radius:999px;
