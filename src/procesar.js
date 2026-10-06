@@ -54,7 +54,9 @@ function procesarCuenta(cuenta) {
     tweet => tweet.text.startsWith("RT @")
   );
 
-  const metricas = sumarMetricas(tweets);
+  // El rendimiento se atribuye solo a publicaciones propias.
+  // Los RT se conservan como actividad, pero sus métricas pertenecen al tuit original.
+  const metricas = sumarMetricas(publicacionesPropias);
 
   const totalInteracciones =
     metricas.likes +
@@ -63,22 +65,22 @@ function procesarCuenta(cuenta) {
     metricas.citas;
 
   const mejorInteracciones =
-    tweets.length > 0
-      ? [...tweets].sort(
+    publicacionesPropias.length > 0
+      ? [...publicacionesPropias].sort(
           (a, b) => interacciones(b) - interacciones(a)
         )[0]
       : null;
 
   const mejorImpresiones =
-    tweets.length > 0
-      ? [...tweets].sort(
+    publicacionesPropias.length > 0
+      ? [...publicacionesPropias].sort(
           (a, b) =>
             numero(b.public_metrics?.impression_count) -
             numero(a.public_metrics?.impression_count)
         )[0]
       : null;
 
-  const totalPublicaciones = tweets.length;
+  const totalPublicaciones = publicacionesPropias.length;
 
   return {
     nombre: cuenta.nombre_organizacion,
@@ -92,6 +94,8 @@ function procesarCuenta(cuenta) {
       cuenta.usuario.metrics?.following_count || 0,
 
     total_publicaciones: totalPublicaciones,
+
+    actividad_total: tweets.length,
 
     publicaciones_propias: publicacionesPropias.length,
 
