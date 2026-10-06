@@ -133,6 +133,34 @@
       <div class="people-grid" id="people-grid"></div>
     </section>
 
+    <section class="panel topics-panel" id="temas">
+      <div class="section-head topics-head">
+        <div>
+          <p class="eyebrow">AGENDA DE LA CONVERSACIÓN</p>
+          <h2>De qué se habla</h2>
+          <p class="section-copy">Asuntos concretos detectados en las publicaciones propias. Un mismo post puede pertenecer a varios temas.</p>
+        </div>
+        <div class="analysis-controls">
+          <div class="segmented metric-tabs" id="topic-tabs">
+            <button class="active" data-topicmetric="interacciones">Interacciones</button>
+            <button data-topicmetric="impresiones">Impresiones</button>
+            <button data-topicmetric="tweets">Posts</button>
+            <button data-topicmetric="interacciones_por_tweet">Inter./post</button>
+            <button data-topicmetric="engagement">Engagement</button>
+          </div>
+          <div class="view-switch" id="topic-scope">
+            <span>ÁMBITO</span>
+            <button class="active" data-scope="total">Todo</button>
+            <button data-scope="organizaciones">Organizaciones</button>
+            <button data-scope="personas">Personas</button>
+          </div>
+        </div>
+      </div>
+      <div class="topics-summary" id="topics-summary">Cargando análisis temático…</div>
+      <div class="topics-list" id="topics-list"></div>
+      <div class="topic-detail" id="topic-detail"></div>
+    </section>
+
     <section class="panel">
       <div class="section-head">
         <div>
