@@ -1,0 +1,4218 @@
+[
+  {
+    "nombre_persona": "Ignacio Dancausa",
+    "usuario": {
+      "id": "1026901163336257536",
+      "name": "Ignacio Dancausa",
+      "username": "Idancausa",
+      "description": "@nngg_es 🇪🇸",
+      "location": "España",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1898412087774175233/ZBSjbLND_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 10606,
+        "following_count": 1531,
+        "like_count": 101664,
+        "listed_count": 80,
+        "media_count": 817,
+        "tweet_count": 26741
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:04.997Z"
+    },
+    "total_tweets": 29,
+    "tweets": [
+      {
+        "created_at": "2026-10-06T07:09:23.000Z",
+        "edit_history_tweet_ids": [
+          "2107367601558999406"
+        ],
+        "id": "2107367601558999406",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 332
+        },
+        "text": "RT @dchopenawer: El vídeo de Óscar Puente rompiéndose el cuádriceps y chillando como un gorrino debería subirse a Twitter 46 veces, una por…"
+      },
+      {
+        "created_at": "2026-10-06T06:12:18.000Z",
+        "edit_history_tweet_ids": [
+          "2107353233299575177"
+        ],
+        "id": "2107353233299575177",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "text": "RT @CharlsChanels: Hay gente en España que, gana 1200€, vive con sus padres con 35 años, y que tiene que pedir préstamos para veranear... Q…"
+      },
+      {
+        "created_at": "2026-10-05T23:42:41.000Z",
+        "edit_history_tweet_ids": [
+          "2107255186188382372"
+        ],
+        "id": "2107255186188382372",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "RT @actuapolitica: \"Es comunismo o libertad\": Ignacio Dancausa anticipa la batalla electoral.\n\n⏳ “Es cuestión de tiempo”, afirma el dirigen…"
+      },
+      {
+        "created_at": "2026-10-05T23:41:16.000Z",
+        "edit_history_tweet_ids": [
+          "2107254827927351383"
+        ],
+        "id": "2107254827927351383",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "text": "RT @CharlsChanels: La vieja cantinela de la privatización de hospitales.\n\n31 años llevo oyéndola y no he visto un sólo hospital público en…"
+      },
+      {
+        "created_at": "2026-10-05T23:39:56.000Z",
+        "edit_history_tweet_ids": [
+          "2107254490185478312"
+        ],
+        "id": "2107254490185478312",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "text": "RT @PMedinaHuerta: Serán recordados como gobierno que destruyó el proyecto de vida de una generación entera."
+      },
+      {
+        "created_at": "2026-10-05T23:25:02.000Z",
+        "edit_history_tweet_ids": [
+          "2107250742192959554"
+        ],
+        "id": "2107250742192959554",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "text": "RT @MunozAbrines: https://t.co/dTpA8x3sy4"
+      },
+      {
+        "created_at": "2026-10-05T23:21:22.000Z",
+        "edit_history_tweet_ids": [
+          "2107249820171674023"
+        ],
+        "id": "2107249820171674023",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3375
+        },
+        "text": "RT @SantiCalvo_Eco: Se termina una legislatura histórica: la primera de la democracia en la que no se ha aprobado ni un solo Presupuesto Ge…"
+      },
+      {
+        "created_at": "2026-10-05T22:33:02.000Z",
+        "edit_history_tweet_ids": [
+          "2107237654702010724"
+        ],
+        "id": "2107237654702010724",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 230
+        },
+        "text": "RT @JavierSanz: Decían que la perroflautada era por la vivienda, claro https://t.co/VtK9gSV1lq"
+      },
+      {
+        "created_at": "2026-10-05T22:32:41.000Z",
+        "edit_history_tweet_ids": [
+          "2107237568559435811"
+        ],
+        "id": "2107237568559435811",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 326
+        },
+        "text": "RT @carlosggjr1: La sanidad la inventó el PSOE  https://t.co/qyz22FwzxV"
+      },
+      {
+        "created_at": "2026-10-05T22:11:04.000Z",
+        "edit_history_tweet_ids": [
+          "2107232130099241082"
+        ],
+        "id": "2107232130099241082",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "text": "RT @NunezHuesca: “Necesitamos reconstruir la esperanza de toda una generación que siente que no tiene oportunidades. Y, sobre todo, necesit…"
+      },
+      {
+        "created_at": "2026-10-05T22:01:59.000Z",
+        "edit_history_tweet_ids": [
+          "2107229841288560871"
+        ],
+        "id": "2107229841288560871",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "text": "RT @elespanolcom: El \"candidato Feijóo\" elige Ceuta para lanzar su precampaña, este miércoles, y reúne a la Junta Directiva del PP el jueve…"
+      },
+      {
+        "created_at": "2026-10-05T20:54:37.000Z",
+        "edit_history_tweet_ids": [
+          "2107212890088317340"
+        ],
+        "id": "2107212890088317340",
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 8020,
+          "like_count": 687,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 281
+        },
+        "text": "No lo vamos a olvidar a la hora de votar. https://t.co/xYrTILLBsW"
+      },
+      {
+        "created_at": "2026-10-05T20:54:17.000Z",
+        "edit_history_tweet_ids": [
+          "2107212803094257885"
+        ],
+        "id": "2107212803094257885",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3981
+        },
+        "text": "RT @Espball: https://t.co/bJotEKWlGc"
+      },
+      {
+        "created_at": "2026-10-05T20:27:22.000Z",
+        "edit_history_tweet_ids": [
+          "2107206031071727620"
+        ],
+        "id": "2107206031071727620",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "text": "RT @Landaburu_Anto: Orgulloso de formar parte de la generación que va a acabar con el sanchismo. https://t.co/LNVzkXh7Ns"
+      },
+      {
+        "created_at": "2026-10-05T15:42:56.000Z",
+        "edit_history_tweet_ids": [
+          "2107134452044611944"
+        ],
+        "id": "2107134452044611944",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "text": "RT @benjalh1971: Me parece muy acertado este eslogan del PP porque refleja el sentir de millones de españoles y, desde luego, el sentir de…"
+      },
+      {
+        "created_at": "2026-10-05T15:18:36.000Z",
+        "edit_history_tweet_ids": [
+          "2107128326074814832"
+        ],
+        "id": "2107128326074814832",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1479
+        },
+        "text": "RT @larazon_es: 🔬 Un posible brote de sarna en la acampada de Sol disparó las alarmas de Salud Pública https://t.co/LmOJo6LYvY"
+      },
+      {
+        "created_at": "2026-10-05T13:59:46.000Z",
+        "edit_history_tweet_ids": [
+          "2107108488099090650"
+        ],
+        "id": "2107108488099090650",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "text": "RT @adrianph01: ¡Buenos días!\n\nQuedan 57 días para que @NunezFeijoo sea el próximo presidente del Gobierno de 🇪🇸"
+      },
+      {
+        "created_at": "2026-10-05T13:12:11.000Z",
+        "edit_history_tweet_ids": [
+          "2107096511825985857"
+        ],
+        "id": "2107096511825985857",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 557
+        },
+        "text": "RT @NunezFeijoo: La vivienda ha sido el gran fracaso de este Gobierno y tiene que ser el éxito del siguiente. https://t.co/CfX6XkR5nt"
+      },
+      {
+        "created_at": "2026-10-05T12:35:25.000Z",
+        "edit_history_tweet_ids": [
+          "2107087262584336799"
+        ],
+        "id": "2107087262584336799",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "text": "RT @gllanavega: 🗣️ Hoy España vuelve a tener la palabra.\n\n🫂 Desde Asturias, donde comenzó la Reconquista, afrontamos estas elecciones con i…"
+      },
+      {
+        "created_at": "2026-10-05T11:35:48.000Z",
+        "edit_history_tweet_ids": [
+          "2107072257239482715"
+        ],
+        "id": "2107072257239482715",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8138,
+          "like_count": 327,
+          "quote_count": 13,
+          "reply_count": 216,
+          "retweet_count": 99
+        },
+        "text": "Comienza la RECONSTRUCCIÓN NACIONAL 🇪🇸\n\nVamos a tirar abajo todas y cada una de las políticas que nos han traído a la ruina, vamos a hacer las reformas generacionales y valientes que necesita España.\n\nA la orden presidente @NunezFeijoo 🫡 https://t.co/Ax4YsTOpJu"
+      },
+      {
+        "created_at": "2026-10-05T11:26:23.000Z",
+        "edit_history_tweet_ids": [
+          "2107069889878102404"
+        ],
+        "id": "2107069889878102404",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "text": "RT @NNGG_Es: 29 de noviembre. \n\nEllos o nosotros. https://t.co/wz4XPaGpxg"
+      },
+      {
+        "created_at": "2026-10-05T10:37:22.000Z",
+        "edit_history_tweet_ids": [
+          "2107057551879651565"
+        ],
+        "id": "2107057551879651565",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "text": "RT @NNGG_Es: 🗳️ Nos jugamos mucho.\n\nEspaña o traición.\n\n🔴 ¿QUÉ DEBES SABER ANTES DE LAS PRÓXIMAS ELECCIONES? \n\n🧵 https://t.co/vExfQPwhqt"
+      },
+      {
+        "created_at": "2026-10-05T10:10:18.000Z",
+        "edit_history_tweet_ids": [
+          "2107050740292477049"
+        ],
+        "id": "2107050740292477049",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "text": "RT @NNGG_Es: En nuestra mano está acabar con esta traición.\n\nEspaña no puede más. Nos necesita.\n\nAhora es el momento de decidir qué país qu…"
+      },
+      {
+        "created_at": "2026-10-05T08:03:37.000Z",
+        "edit_history_tweet_ids": [
+          "2107018861748814140"
+        ],
+        "id": "2107018861748814140",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 359
+        },
+        "text": "RT @voz_populi: 🔵 Así han reaccionado Isabel Díaz Ayuso y José Luis Martínez Almeida a la convocatoria de elecciones generales\n\n👉 No pudier…"
+      },
+      {
+        "created_at": "2026-10-05T07:53:54.000Z",
+        "edit_history_tweet_ids": [
+          "2107016415534612573"
+        ],
+        "id": "2107016415534612573",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 769
+        },
+        "text": "RT @Tagelca: “El poder adquisitivo de los españoles ha aumentado el triple” ha dicho el psicópata de Pedro Sánchez.\n\nY aún así habrá gente…"
+      },
+      {
+        "created_at": "2026-10-05T07:33:05.000Z",
+        "edit_history_tweet_ids": [
+          "2107011175502487962"
+        ],
+        "id": "2107011175502487962",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "text": "RT @nnggmadrid: 29 de noviembre: chao pescao. \n\n¡TODOS A LAS URNAS! 🗳️ https://t.co/jKiLJXzTy1"
+      },
+      {
+        "created_at": "2026-10-05T07:18:40.000Z",
+        "edit_history_tweet_ids": [
+          "2107007546493919447"
+        ],
+        "id": "2107007546493919447",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2175
+        },
+        "text": "RT @ppopular: POR FIN. https://t.co/jXag4WAS9k"
+      },
+      {
+        "created_at": "2026-10-05T07:01:22.000Z",
+        "edit_history_tweet_ids": [
+          "2107003193947304366"
+        ],
+        "id": "2107003193947304366",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "text": "RT @RuizBartolome_: Se mire como se mire, esto no es ni medio normal. Nos han robado el país https://t.co/FmMONEp67w"
+      },
+      {
+        "created_at": "2026-10-05T00:06:15.000Z",
+        "edit_history_tweet_ids": [
+          "2106898725574783307"
+        ],
+        "id": "2106898725574783307",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 481
+        },
+        "text": "RT @VLLCLibertario: TODA DE MILEI https://t.co/TuTM9p0p8l"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Andrea Llopart",
+    "usuario": {
+      "id": "2484280808",
+      "name": "Andrea Llopart",
+      "username": "andreallopart",
+      "description": "🇪🇸🇪🇺 | Portavoz nacional de @nngg_ES  | Defendiendo mis valores e ideas sin complejos | †",
+      "location": "Barcelone, Espagne",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2094404257898270720/pV6G6cL5_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 4876,
+        "following_count": 1226,
+        "like_count": 66893,
+        "listed_count": 18,
+        "media_count": 958,
+        "tweet_count": 14182
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:05.249Z"
+    },
+    "total_tweets": 20,
+    "tweets": [
+      {
+        "created_at": "2026-10-05T21:45:22.000Z",
+        "edit_history_tweet_ids": [
+          "2107225662675464235"
+        ],
+        "id": "2107225662675464235",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "text": "RT @Idancausa: No lo vamos a olvidar a la hora de votar. https://t.co/xYrTILLBsW"
+      },
+      {
+        "created_at": "2026-10-05T16:04:09.000Z",
+        "edit_history_tweet_ids": [
+          "2107139790747664779"
+        ],
+        "id": "2107139790747664779",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5311
+        },
+        "text": "RT @MariaJamardoC: Se puede votar con A, de amnistía, de apagón, de Adamuz o de Ábalos; con B, de Begoña; con C, de Ceuta o de ‘cloacas’; c…"
+      },
+      {
+        "created_at": "2026-10-05T13:54:39.000Z",
+        "edit_history_tweet_ids": [
+          "2107107201810825282"
+        ],
+        "id": "2107107201810825282",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "text": "RT @Javi_MFresneda: Tranquilidad y cabeza fría, que queda mucho partido. Juntos detrás y balón al pie. A saber qué sorpresas nos esperan de…"
+      },
+      {
+        "created_at": "2026-10-05T12:56:53.000Z",
+        "edit_history_tweet_ids": [
+          "2107092664726229195"
+        ],
+        "id": "2107092664726229195",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 446
+        },
+        "text": "RT @javiernegre10: La oposición sabe qué errores cometió en las últimas generales. PP y Vox entiéndanse. Jueguen en equipo. No más campañas…"
+      },
+      {
+        "created_at": "2026-10-05T12:33:38.000Z",
+        "edit_history_tweet_ids": [
+          "2107086813252972903"
+        ],
+        "id": "2107086813252972903",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "text": "V de vivienda no construida por 8 años de socialismo.\n\nLecciones, ni una. https://t.co/i95whG9zbT"
+      },
+      {
+        "created_at": "2026-10-05T12:32:51.000Z",
+        "edit_history_tweet_ids": [
+          "2107086616422404602"
+        ],
+        "id": "2107086616422404602",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 823
+        },
+        "text": "RT @bernaabee_: Por culpa de este Gobierno han muerto casi 50 personas en Adamuz y esta tía pensando en el verano joven. \n\nNos merecemos to…"
+      },
+      {
+        "created_at": "2026-10-05T11:54:00.000Z",
+        "edit_history_tweet_ids": [
+          "2107076836421488811"
+        ],
+        "id": "2107076836421488811",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "text": "RT @Jon_Echeverria_: Cómo tienen que estar para centrar la campaña en: VIVIENDA.\n\nEl 1º problema de los españoles.\n\nEl 16º cuando llegaron.…"
+      },
+      {
+        "created_at": "2026-10-05T11:53:44.000Z",
+        "edit_history_tweet_ids": [
+          "2107076771158130973"
+        ],
+        "id": "2107076771158130973",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "text": "RT @Idancausa: Comienza la RECONSTRUCCIÓN NACIONAL 🇪🇸\n\nVamos a tirar abajo todas y cada una de las políticas que nos han traído a la ruina,…"
+      },
+      {
+        "created_at": "2026-10-05T11:23:58.000Z",
+        "edit_history_tweet_ids": [
+          "2107069280231821421"
+        ],
+        "id": "2107069280231821421",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1080
+        },
+        "text": "RT @NunezFeijoo: Por fin, la palabra la tiene España. https://t.co/F0lLqloPHr"
+      },
+      {
+        "created_at": "2026-10-05T11:23:35.000Z",
+        "edit_history_tweet_ids": [
+          "2107069184274264405"
+        ],
+        "id": "2107069184274264405",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2977
+        },
+        "text": "RT @larazon_es: ‼️#ÚLTIMAHORA | Petición urgente al Supremo para garantizar que el censo del 29N no incorpora altas paralizadas por la \"ley…"
+      },
+      {
+        "created_at": "2026-10-05T11:23:09.000Z",
+        "edit_history_tweet_ids": [
+          "2107069075218473043"
+        ],
+        "id": "2107069075218473043",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "text": "RT @NNGG_Es: 🗳️ Nos jugamos mucho.\n\nEspaña o traición.\n\n🔴 ¿QUÉ DEBES SABER ANTES DE LAS PRÓXIMAS ELECCIONES? \n\n🧵 https://t.co/vExfQPwhqt"
+      },
+      {
+        "created_at": "2026-10-05T11:22:59.000Z",
+        "edit_history_tweet_ids": [
+          "2107069031903633901"
+        ],
+        "id": "2107069031903633901",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "text": "RT @NNGG_Es: 29 de noviembre. \n\nEllos o nosotros. https://t.co/wz4XPaGpxg"
+      },
+      {
+        "created_at": "2026-10-05T09:01:22.000Z",
+        "edit_history_tweet_ids": [
+          "2107033391665451352"
+        ],
+        "id": "2107033391665451352",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "text": "RT @Mtelladof: Ante un presidente que nos hizo votar en julio estábamos preparados hasta para votar en Nochebuena. \n\nEstamos listos, y nos…"
+      },
+      {
+        "created_at": "2026-10-05T08:44:33.000Z",
+        "edit_history_tweet_ids": [
+          "2107029161248268631"
+        ],
+        "id": "2107029161248268631",
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 88653,
+          "like_count": 530,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 29
+        },
+        "text": "El discurso de Feijóo de hoy ha sido impecable. https://t.co/yeGGTFGWjm"
+      },
+      {
+        "created_at": "2026-10-05T08:43:21.000Z",
+        "edit_history_tweet_ids": [
+          "2107028859044421845"
+        ],
+        "id": "2107028859044421845",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "text": "RT @DolorsMM: “Soy perfectamente consciente de la dimensión del trabajo que hay que hacer. \n\nNo me temblará el pulso. Si los españoles me d…"
+      },
+      {
+        "created_at": "2026-10-05T08:39:35.000Z",
+        "edit_history_tweet_ids": [
+          "2107027911748489629"
+        ],
+        "id": "2107027911748489629",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 749
+        },
+        "text": "RT @NunezFeijoo: Por fin decidirán los españoles."
+      },
+      {
+        "created_at": "2026-10-05T08:37:48.000Z",
+        "edit_history_tweet_ids": [
+          "2107027461540376940"
+        ],
+        "id": "2107027461540376940",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5775
+        },
+        "text": "RT @cayetanaAT: Españoles, ¡a las urnas!\n\n29 de Noviembre: \nPor la Reconstrucción y la Decencia.\n\nPedro Sánchez:\n\n1. Banalizó la mentira.\n2…"
+      },
+      {
+        "created_at": "2026-10-05T07:39:56.000Z",
+        "edit_history_tweet_ids": [
+          "2107012900665573612"
+        ],
+        "id": "2107012900665573612",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "text": "RT @nnggmadrid: 29 de noviembre: chao pescao. \n\n¡TODOS A LAS URNAS! 🗳️ https://t.co/jKiLJXzTy1"
+      },
+      {
+        "created_at": "2026-10-05T07:15:44.000Z",
+        "edit_history_tweet_ids": [
+          "2107006809890312569"
+        ],
+        "id": "2107006809890312569",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 657,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "text": "Es la última oportunidad para España. \n\n¡A por ello! https://t.co/kC7LFX7v2V"
+      },
+      {
+        "created_at": "2026-10-05T04:48:32.000Z",
+        "edit_history_tweet_ids": [
+          "2106969767856722270"
+        ],
+        "id": "2106969767856722270",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3049
+        },
+        "text": "RT @juanrallo: Si Sánchez recurre a la tropelía democrática de convalidar los decretos en la comisión permanente del Congreso, PP-Vox, si g…"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Jon Echeverría",
+    "usuario": {
+      "id": "1184913506522546176",
+      "name": "Jon Echeverría",
+      "username": "Jon_Echeverria_",
+      "description": "Derecho y Economía @uc3m\nVicesecretario de Ideario Político @NNGG_Es \n«Vasco, y por eso, doblemente español» 🇪🇸",
+      "location": "San Sebastián",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1864815470794141696/vpT7FIIJ_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 17574,
+        "following_count": 990,
+        "like_count": 14218,
+        "listed_count": 74,
+        "media_count": 966,
+        "tweet_count": 4456
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:05.454Z"
+    },
+    "total_tweets": 11,
+    "tweets": [
+      {
+        "created_at": "2026-10-06T13:27:47.000Z",
+        "edit_history_tweet_ids": [
+          "2107462826197450895"
+        ],
+        "id": "2107462826197450895",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "text": "RT @juanrallo: Con la demanda de vivienda “como inversión” puedes explicar, como mucho, por qué suben los precios de compra. Pero, si esas…"
+      },
+      {
+        "created_at": "2026-10-06T00:06:11.000Z",
+        "edit_history_tweet_ids": [
+          "2107261096839053548"
+        ],
+        "id": "2107261096839053548",
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 59400,
+          "like_count": 5358,
+          "quote_count": 27,
+          "reply_count": 169,
+          "retweet_count": 965
+        },
+        "text": "Las calles ahora mismo ardiendo en Barcelona por la vivienda.\n\nAllí gobierna el PSOE en municipio, Comunidad Autónoma y Gobierno central.\n\nCulpa de Ayuso. https://t.co/xU3f7hnHzW"
+      },
+      {
+        "created_at": "2026-10-05T22:14:35.000Z",
+        "edit_history_tweet_ids": [
+          "2107233012392051116"
+        ],
+        "id": "2107233012392051116",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 26103,
+          "like_count": 634,
+          "quote_count": 24,
+          "reply_count": 216,
+          "retweet_count": 64
+        },
+        "text": "Ir a por lana y salir trasquilado 😎 https://t.co/pUwguHc0j7"
+      },
+      {
+        "created_at": "2026-10-05T21:45:45.000Z",
+        "edit_history_tweet_ids": [
+          "2107225755721879863"
+        ],
+        "id": "2107225755721879863",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2814
+        },
+        "text": "RT @ppopular: Miedo le tenías tú a un esguince. https://t.co/SoavNpr8m4"
+      },
+      {
+        "created_at": "2026-10-05T21:04:26.000Z",
+        "edit_history_tweet_ids": [
+          "2107215360013504723"
+        ],
+        "id": "2107215360013504723",
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 74796,
+          "like_count": 4534,
+          "quote_count": 43,
+          "reply_count": 84,
+          "retweet_count": 1702
+        },
+        "text": "Vaya videazo. https://t.co/PljJtrsvIJ"
+      },
+      {
+        "created_at": "2026-10-05T15:14:29.000Z",
+        "edit_history_tweet_ids": [
+          "2107127289595249121"
+        ],
+        "id": "2107127289595249121",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3645,
+          "like_count": 215,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 20
+        },
+        "text": "\"Democracia o cuento de la criada\" 😂\n\nLa desesperación en la izquierda es más palpable que nunca. https://t.co/ugTDj51DGQ"
+      },
+      {
+        "created_at": "2026-10-05T13:14:59.000Z",
+        "edit_history_tweet_ids": [
+          "2107097216678543537"
+        ],
+        "id": "2107097216678543537",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15522,
+          "like_count": 447,
+          "quote_count": 19,
+          "reply_count": 704,
+          "retweet_count": 103
+        },
+        "text": "Única y exclusivamente @NunezFeijoo puede echar a Pedro Sánchez.\n\nCuantos más votos, más reformas.\n\nA VOTAR EN MASA. https://t.co/4Sjlv4mHVL"
+      },
+      {
+        "created_at": "2026-10-05T10:44:49.000Z",
+        "edit_history_tweet_ids": [
+          "2107059429711773766"
+        ],
+        "id": "2107059429711773766",
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4432,
+          "like_count": 393,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 136
+        },
+        "text": "Cómo tienen que estar para centrar la campaña en: VIVIENDA.\n\nEl 1º problema de los españoles.\n\nEl 16º cuando llegaron.\n\nA cualquier Gobierno le destrozaría este marco.\n\nPero este Gobierno lo prefiere a Ceuta y corrupción.\n\nVamos a darles la estocada final. https://t.co/bkJIysQw4p"
+      },
+      {
+        "created_at": "2026-10-05T10:38:09.000Z",
+        "edit_history_tweet_ids": [
+          "2107057749557453037"
+        ],
+        "id": "2107057749557453037",
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 16949,
+          "like_count": 548,
+          "quote_count": 5,
+          "reply_count": 155,
+          "retweet_count": 48
+        },
+        "text": "Cuando pase el 29N a Maricarmen hay que hacerle un MONUMENTO.\n\nLa anciana que hizo caer a Sánchez. https://t.co/MKrqHjD0rM"
+      },
+      {
+        "created_at": "2026-10-05T10:16:10.000Z",
+        "edit_history_tweet_ids": [
+          "2107052219501863074"
+        ],
+        "id": "2107052219501863074",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "text": "RT @LuisPeBart: 🔵 Basta de desprestigio de las instituciones y de la justicia.\n\nEl 29N España tiene la oportunidad de decir lo que piensa y…"
+      },
+      {
+        "created_at": "2026-10-05T10:06:22.000Z",
+        "edit_history_tweet_ids": [
+          "2107049751980146767"
+        ],
+        "id": "2107049751980146767",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2175
+        },
+        "text": "RT @ppopular: POR FIN. https://t.co/jXag4WAS9k"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Miguel Sastre Uyá",
+    "usuario": {
+      "id": "1669292882287624192",
+      "name": "Miguel Sastre Uyá",
+      "username": "migsasuya",
+      "description": "Arquitecto. Diputado Nacional por Cádiz XV Legislatura. La política al servicio de la persona. Escribo @LaVozdeCadiz. A veces hablo @CanalSurRadio",
+      "location": "",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1780871557964877824/8McU4MB3_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 2111,
+        "following_count": 1396,
+        "like_count": 7080,
+        "listed_count": 7,
+        "media_count": 483,
+        "tweet_count": 4937
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:05.777Z"
+    },
+    "total_tweets": 22,
+    "tweets": [
+      {
+        "created_at": "2026-10-06T12:45:20.000Z",
+        "edit_history_tweet_ids": [
+          "2107452143774900665"
+        ],
+        "id": "2107452143774900665",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 275
+        },
+        "text": "RT @NunezFeijoo: El PP respetó el criterio del Tribunal Supremo cuando dictó sentencia condenatoria sobre el procés y también ahora. Pero n…"
+      },
+      {
+        "created_at": "2026-10-06T12:44:57.000Z",
+        "edit_history_tweet_ids": [
+          "2107452049201795258"
+        ],
+        "id": "2107452049201795258",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 258
+        },
+        "text": "RT @NunezFeijoo: El Senado otorga la más alta distinción a los presidentes de Ceuta y Melilla cuando más lo necesitan.\n\nReivindico la españ…"
+      },
+      {
+        "created_at": "2026-10-06T10:13:19.000Z",
+        "edit_history_tweet_ids": [
+          "2107413886521483444"
+        ],
+        "id": "2107413886521483444",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "text": "RT @ppopular: Volveremos a ser un gran país. https://t.co/z88vW8Lsu0"
+      },
+      {
+        "created_at": "2026-10-06T09:23:34.000Z",
+        "edit_history_tweet_ids": [
+          "2107401366817976485"
+        ],
+        "id": "2107401366817976485",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "text": "RT @bsemper: Volver a unir a los españoles en un proyecto común y compartido de país."
+      },
+      {
+        "created_at": "2026-10-06T09:22:06.000Z",
+        "edit_history_tweet_ids": [
+          "2107400997543055634"
+        ],
+        "id": "2107400997543055634",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "@CAnne34755 Sí sí, lo puse abajo en otro tuit, que me dí cuenta al segundo."
+      },
+      {
+        "created_at": "2026-10-06T09:21:36.000Z",
+        "edit_history_tweet_ids": [
+          "2107400872028242196"
+        ],
+        "id": "2107400872028242196",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "text": "RT @EsterMunoz85: No podemos confiarnos porque Pedro Sánchez está dispuesto a todo.\n\nEs importante que, más allá de las encuestas, la gente…"
+      },
+      {
+        "created_at": "2026-10-06T09:21:21.000Z",
+        "edit_history_tweet_ids": [
+          "2107400812288700839"
+        ],
+        "id": "2107400812288700839",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "text": "RT @EsterMunoz85: Desde el Gobierno, hay quien le dice a la gente que Sánchez tiene una ventana de oportunidad, pero no.\n\nLa ventana de opo…"
+      },
+      {
+        "created_at": "2026-10-05T22:00:18.000Z",
+        "edit_history_tweet_ids": [
+          "2107229419731386678"
+        ],
+        "id": "2107229419731386678",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "text": "RT @ppopular: El objetivo de Feijóo: recuperar la confianza. https://t.co/lb9KiH2oFe"
+      },
+      {
+        "created_at": "2026-10-05T21:43:05.000Z",
+        "edit_history_tweet_ids": [
+          "2107225087258796534"
+        ],
+        "id": "2107225087258796534",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "Ah, Gobierno municipal: PSOE.\n\nPero qué mal gobierna la oposición."
+      },
+      {
+        "created_at": "2026-10-05T21:22:31.000Z",
+        "edit_history_tweet_ids": [
+          "2107219909977498106"
+        ],
+        "id": "2107219909977498106",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "text": "RT @antoniosanz: Andalucía ha iniciado ya la mayor transformación sanitaria.\n\nVamos a poner en marcha el Comité de Evaluación, Innovación y…"
+      },
+      {
+        "created_at": "2026-10-05T21:18:34.000Z",
+        "edit_history_tweet_ids": [
+          "2107218914530775120"
+        ],
+        "id": "2107218914530775120",
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7647,
+          "like_count": 682,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 82
+        },
+        "text": "Gobierno estatal: PSOE\nGobierno autonómico: PSOE\n\n¿La culpa? Evidentemente, de las políticas de derechas… https://t.co/yDZvCrpYQJ"
+      },
+      {
+        "created_at": "2026-10-05T20:44:56.000Z",
+        "edit_history_tweet_ids": [
+          "2107210453428441590"
+        ],
+        "id": "2107210453428441590",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 349
+        },
+        "text": "RT @NunezFeijoo: Mi único objetivo es acertar. Lo único que me mueve son los intereses generales. https://t.co/nONaeZuXaB"
+      },
+      {
+        "created_at": "2026-10-05T20:40:23.000Z",
+        "edit_history_tweet_ids": [
+          "2107209308895142301"
+        ],
+        "id": "2107209308895142301",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 364
+        },
+        "text": "RT @EsterMunoz85: Sánchez no ha sacado todavía a todos los etarras de las cárceles."
+      },
+      {
+        "created_at": "2026-10-05T20:39:31.000Z",
+        "edit_history_tweet_ids": [
+          "2107209090665750895"
+        ],
+        "id": "2107209090665750895",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5311
+        },
+        "text": "RT @MariaJamardoC: Se puede votar con A, de amnistía, de apagón, de Adamuz o de Ábalos; con B, de Begoña; con C, de Ceuta o de ‘cloacas’; c…"
+      },
+      {
+        "created_at": "2026-10-05T13:11:50.000Z",
+        "edit_history_tweet_ids": [
+          "2107096425523998943"
+        ],
+        "id": "2107096425523998943",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "text": "RT @juanBravoBaena: ¿Sánchez convoca elecciones para hablar de vivienda?\n\nPerfecto, hablemos de cómo ha condenado a una generación.\n\nY habl…"
+      },
+      {
+        "created_at": "2026-10-05T12:45:49.000Z",
+        "edit_history_tweet_ids": [
+          "2107089880388092019"
+        ],
+        "id": "2107089880388092019",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "text": "RT @JuanMa_Moreno: Ya era hora de darle voz a los españoles.\n\nEs el momento de la alternancia política en España. Salvemos la calidad democ…"
+      },
+      {
+        "created_at": "2026-10-05T09:25:24.000Z",
+        "edit_history_tweet_ids": [
+          "2107039440178684357"
+        ],
+        "id": "2107039440178684357",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 875,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 9
+        },
+        "text": "Estamos preparados.\n\nLo que necesita España ahora es @NunezFeijoo y @ppopular 🇪🇸 https://t.co/JnckJW6RMm"
+      },
+      {
+        "created_at": "2026-10-05T09:24:10.000Z",
+        "edit_history_tweet_ids": [
+          "2107039130194526635"
+        ],
+        "id": "2107039130194526635",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1080
+        },
+        "text": "RT @NunezFeijoo: Por fin, la palabra la tiene España. https://t.co/F0lLqloPHr"
+      },
+      {
+        "created_at": "2026-10-05T08:14:41.000Z",
+        "edit_history_tweet_ids": [
+          "2107021646238277686"
+        ],
+        "id": "2107021646238277686",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 749
+        },
+        "text": "RT @NunezFeijoo: Por fin decidirán los españoles."
+      },
+      {
+        "created_at": "2026-10-05T07:19:57.000Z",
+        "edit_history_tweet_ids": [
+          "2107007872773091361"
+        ],
+        "id": "2107007872773091361",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1740
+        },
+        "text": "RT @educarazo: Sánchez quiere que olvidemos a…\n\n❌Ábalos y sus sobrinas.\n❌Santos Cerdán y sus chistorras.\n❌Jéssica y su piso.\n❌Begoña y su c…"
+      },
+      {
+        "created_at": "2026-10-05T07:19:42.000Z",
+        "edit_history_tweet_ids": [
+          "2107007808101376428"
+        ],
+        "id": "2107007808101376428",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2175
+        },
+        "text": "RT @ppopular: POR FIN. https://t.co/jXag4WAS9k"
+      },
+      {
+        "created_at": "2026-10-05T06:01:59.000Z",
+        "edit_history_tweet_ids": [
+          "2106988249881231522"
+        ],
+        "id": "2106988249881231522",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 474,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "text": "Pues de lo más equilibrado y objetivo sobre el reto de la vivienda que he visto. Ojalá llegue a todo el mundo.\n\nAsí sí. https://t.co/FK0IDMzlyq"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Noelia Núñez",
+    "usuario": {
+      "id": "74775385",
+      "name": "Noelia Núñez",
+      "username": "noelia_n",
+      "description": "Libertad por encima de todo.",
+      "location": "Fuenlabrada, Madrid.",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1991514952671088640/gN7pCAY1_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 37989,
+        "following_count": 1455,
+        "like_count": 14032,
+        "listed_count": 138,
+        "media_count": 2908,
+        "tweet_count": 27514
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:06.042Z"
+    },
+    "total_tweets": 50,
+    "tweets": [
+      {
+        "created_at": "2026-10-06T12:08:47.000Z",
+        "edit_history_tweet_ids": [
+          "2107442947058778289"
+        ],
+        "id": "2107442947058778289",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "text": "RT @naroh: Lo decían sus propios ministros. La luz de gas a la que Sánchez somete desde hace años a todo el mundo es digna de estudio en el…"
+      },
+      {
+        "created_at": "2026-10-06T11:56:45.000Z",
+        "edit_history_tweet_ids": [
+          "2107439920101167128"
+        ],
+        "id": "2107439920101167128",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "text": "RT @ALMA_EZCURRA: Si actuaban para el PSOE, desde el PSOE, con dinero del PSOE y bajo las órdenes de dirigentes del PSOE, la Justicia tiene…"
+      },
+      {
+        "created_at": "2026-10-06T11:09:17.000Z",
+        "edit_history_tweet_ids": [
+          "2107427972391281029"
+        ],
+        "id": "2107427972391281029",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "text": "RT @davidmartinezg: Sánchez retuerce el ordenamiento jurídico para burlar al Parlamento, con una maniobra autócrata y sin precedentes, pero…"
+      },
+      {
+        "created_at": "2026-10-06T10:58:04.000Z",
+        "edit_history_tweet_ids": [
+          "2107425150778130683"
+        ],
+        "id": "2107425150778130683",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 275
+        },
+        "text": "RT @TsevanRabtan: Lo han hecho. Han aprobado dos Reales Decretos-ley que el propio Sánchez admite que son esencialmente los mismos que el C…"
+      },
+      {
+        "created_at": "2026-10-06T10:57:54.000Z",
+        "edit_history_tweet_ids": [
+          "2107425109539778613"
+        ],
+        "id": "2107425109539778613",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 298
+        },
+        "text": "RT @TheObjective_es: 🔴 El PP solicita ante la Audiencia Nacional la imputación del PSOE por financiación irregular.\n\n✍️ Una noticia de Palo…"
+      },
+      {
+        "created_at": "2026-10-06T10:36:01.000Z",
+        "edit_history_tweet_ids": [
+          "2107419601957200192"
+        ],
+        "id": "2107419601957200192",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "text": "RT @20m: 🔴Desahucian a Esther de su vivienda de Bilbao, alquilada durante 10 años por la Agencia Pública social de Euskadi https://t.co/5Xc…"
+      },
+      {
+        "created_at": "2026-10-06T10:32:45.000Z",
+        "edit_history_tweet_ids": [
+          "2107418779240046917"
+        ],
+        "id": "2107418779240046917",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 258
+        },
+        "text": "RT @NunezFeijoo: El Senado otorga la más alta distinción a los presidentes de Ceuta y Melilla cuando más lo necesitan.\n\nReivindico la españ…"
+      },
+      {
+        "created_at": "2026-10-06T09:32:44.000Z",
+        "edit_history_tweet_ids": [
+          "2107403675463307355"
+        ],
+        "id": "2107403675463307355",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 557
+        },
+        "text": "RT @david_h_morales: Los chistes sobre el cáncer te los dejamos a ti. https://t.co/SQikY49qcv"
+      },
+      {
+        "created_at": "2026-10-06T09:05:07.000Z",
+        "edit_history_tweet_ids": [
+          "2107396726118326402"
+        ],
+        "id": "2107396726118326402",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "text": "RT @pelayobarro: Seguramente @oscar_puente_sea el peor ministro de la historia de España. Y no solo por sus deméritos, como el estado lamen…"
+      },
+      {
+        "created_at": "2026-10-06T07:56:27.000Z",
+        "edit_history_tweet_ids": [
+          "2107379444797342003"
+        ],
+        "id": "2107379444797342003",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "text": "RT @suker778: https://t.co/cp6RBIQbdI"
+      },
+      {
+        "created_at": "2026-10-06T06:58:52.000Z",
+        "edit_history_tweet_ids": [
+          "2107364955054129223"
+        ],
+        "id": "2107364955054129223",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2971
+        },
+        "text": "RT @jaimeberenguer: En enero de 2026 el gobierno de Pedro Sánchez renunció a 3.000 millones de los fondos Next Gen para vivienda social ale…"
+      },
+      {
+        "created_at": "2026-10-06T06:16:41.000Z",
+        "edit_history_tweet_ids": [
+          "2107354338406682759"
+        ],
+        "id": "2107354338406682759",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2557
+        },
+        "text": "RT @entrammbasaguas: #EXCLUSIVA El miembro de Los Rocho que dice que el plan era matar a la juez del hermano de Sánchez sostiene que les of…"
+      },
+      {
+        "created_at": "2026-10-06T06:10:40.000Z",
+        "edit_history_tweet_ids": [
+          "2107352823201698211"
+        ],
+        "id": "2107352823201698211",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "text": "RT @Jon_Echeverria_: \"Democracia o cuento de la criada\" 😂\n\nLa desesperación en la izquierda es más palpable que nunca."
+      },
+      {
+        "created_at": "2026-10-06T05:54:52.000Z",
+        "edit_history_tweet_ids": [
+          "2107348849073226055"
+        ],
+        "id": "2107348849073226055",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 704
+        },
+        "text": "RT @pabloharour: 🔴 ACOJONANTE\n\nEl narcotraficante con el que la cloaca de la PSOE contacto para asesinar a la magistrada que investigaba el…"
+      },
+      {
+        "created_at": "2026-10-06T05:44:50.000Z",
+        "edit_history_tweet_ids": [
+          "2107346323376873796"
+        ],
+        "id": "2107346323376873796",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1408
+        },
+        "text": "RT @JuezTeo: Gente aparentemente inteligente, incluido algún que otro jurista, defendiendo que la Diputación Permanente del Parlamento está…"
+      },
+      {
+        "created_at": "2026-10-05T22:16:08.000Z",
+        "edit_history_tweet_ids": [
+          "2107233403422580744"
+        ],
+        "id": "2107233403422580744",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "text": "RT @erraticorunhes: Magnífico titular https://t.co/Nmq0d76hIL"
+      },
+      {
+        "created_at": "2026-10-05T22:03:07.000Z",
+        "edit_history_tweet_ids": [
+          "2107230125699789044"
+        ],
+        "id": "2107230125699789044",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "text": "RT @fernandolg88: Siguiendo gracias al @analisisDN de @telemadrid la última hora de lo que está ocurriendo en Barcelona. Calles ardiendo y…"
+      },
+      {
+        "created_at": "2026-10-05T21:20:46.000Z",
+        "edit_history_tweet_ids": [
+          "2107219469332553813"
+        ],
+        "id": "2107219469332553813",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2814
+        },
+        "text": "RT @ppopular: Miedo le tenías tú a un esguince. https://t.co/SoavNpr8m4"
+      },
+      {
+        "created_at": "2026-10-05T21:04:59.000Z",
+        "edit_history_tweet_ids": [
+          "2107215497360269504"
+        ],
+        "id": "2107215497360269504",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "text": "RT @Idancausa: No lo vamos a olvidar a la hora de votar. https://t.co/xYrTILLBsW"
+      },
+      {
+        "created_at": "2026-10-05T20:48:32.000Z",
+        "edit_history_tweet_ids": [
+          "2107211359515762858"
+        ],
+        "id": "2107211359515762858",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2749
+        },
+        "text": "RT @juanrallo: Huelga general contra la oposición y a favor del gobierno del PSOE antes de las elecciones. Apenas se nota la desesperación…"
+      },
+      {
+        "created_at": "2026-10-05T20:37:41.000Z",
+        "edit_history_tweet_ids": [
+          "2107208625534144585"
+        ],
+        "id": "2107208625534144585",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 317
+        },
+        "text": "RT @abc_es: 🔷 #EXCLUSIVA ABC 🔷\n\n🔴 Iñaqui Carnicero presentó «gastos manipulados» que Transportes autorizó\n\n🔎 Investigación de @KettyGarat…"
+      },
+      {
+        "created_at": "2026-10-05T20:36:07.000Z",
+        "edit_history_tweet_ids": [
+          "2107208235077824989"
+        ],
+        "id": "2107208235077824989",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 217
+        },
+        "text": "RT @Mtelladof: Esta es la barbaridad que el Gobierno tratará que olvides o que ignores usando las peores artimañas y desplegando toda su pr…"
+      },
+      {
+        "created_at": "2026-10-05T19:09:24.000Z",
+        "edit_history_tweet_ids": [
+          "2107186408272113800"
+        ],
+        "id": "2107186408272113800",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "text": "RT @elespanolcom: El \"candidato Feijóo\" elige Ceuta para lanzar su precampaña, este miércoles, y reúne a la Junta Directiva del PP el jueve…"
+      },
+      {
+        "created_at": "2026-10-05T18:43:35.000Z",
+        "edit_history_tweet_ids": [
+          "2107179913555960299"
+        ],
+        "id": "2107179913555960299",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1507
+        },
+        "text": "RT @PhilAMellows: Cielos. El adelanto electoral ha conseguido dos milagros: movilizar a los sindicatos tras 8 años de tocarse los huevos y…"
+      },
+      {
+        "created_at": "2026-10-05T18:35:44.000Z",
+        "edit_history_tweet_ids": [
+          "2107177938705694929"
+        ],
+        "id": "2107177938705694929",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "text": "RT @RubenArranz_: Vamos a vivir unas semanas de pornografia pura. \n\nTodo lo que no sea abordarlo con cierta sorna será un tremendo error de…"
+      },
+      {
+        "created_at": "2026-10-05T16:53:27.000Z",
+        "edit_history_tweet_ids": [
+          "2107152196848759116"
+        ],
+        "id": "2107152196848759116",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 299
+        },
+        "text": "RT @Mtelladof: Vaya, resulta que el Gobierno sí podía hacer lo que lleva más de dos meses diciendo que no podía hacer.\n\nSánchez ha ignorado…"
+      },
+      {
+        "created_at": "2026-10-05T15:32:33.000Z",
+        "edit_history_tweet_ids": [
+          "2107131839806615691"
+        ],
+        "id": "2107131839806615691",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "text": "RT @ppopular: Volveremos a ser un gran país. https://t.co/z88vW8Lsu0"
+      },
+      {
+        "created_at": "2026-10-05T14:19:59.000Z",
+        "edit_history_tweet_ids": [
+          "2107113576712351920"
+        ],
+        "id": "2107113576712351920",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 349
+        },
+        "text": "RT @NunezFeijoo: Mi único objetivo es acertar. Lo único que me mueve son los intereses generales. https://t.co/nONaeZuXaB"
+      },
+      {
+        "created_at": "2026-10-05T13:03:10.000Z",
+        "edit_history_tweet_ids": [
+          "2107094243621700004"
+        ],
+        "id": "2107094243621700004",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 557
+        },
+        "text": "RT @NunezFeijoo: La vivienda ha sido el gran fracaso de este Gobierno y tiene que ser el éxito del siguiente. https://t.co/CfX6XkR5nt"
+      },
+      {
+        "created_at": "2026-10-05T10:59:31.000Z",
+        "edit_history_tweet_ids": [
+          "2107063125425922233"
+        ],
+        "id": "2107063125425922233",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2475,
+          "like_count": 237,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "text": "Sabes que en la izquierda están absolutamente acabados cuando desempolvan la campañita del miedo.\n\nNo hay ilusión, no hay esperanza, no creen en su líder ni en su proyecto. \n\nSolo tienen el miedo pero ya no engañan a nadie."
+      },
+      {
+        "created_at": "2026-10-05T10:53:04.000Z",
+        "edit_history_tweet_ids": [
+          "2107061501983158619"
+        ],
+        "id": "2107061501983158619",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1293,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "Silencio y croquetas a media asta en la esperanza de la izquierda."
+      },
+      {
+        "created_at": "2026-10-05T10:21:15.000Z",
+        "edit_history_tweet_ids": [
+          "2107053498861043907"
+        ],
+        "id": "2107053498861043907",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1080
+        },
+        "text": "RT @NunezFeijoo: Por fin, la palabra la tiene España. https://t.co/F0lLqloPHr"
+      },
+      {
+        "created_at": "2026-10-05T10:01:46.000Z",
+        "edit_history_tweet_ids": [
+          "2107048593488245061"
+        ],
+        "id": "2107048593488245061",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3763
+        },
+        "text": "RT @eldebate_com: «Querían matarla»\n\n🔴🔴 Un miembro del clan de Los Rocho confiesa a El Debate el verdadero plan con la juez del hermano de…"
+      },
+      {
+        "created_at": "2026-10-05T09:58:58.000Z",
+        "edit_history_tweet_ids": [
+          "2107047887859331175"
+        ],
+        "id": "2107047887859331175",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2397
+        },
+        "text": "RT @elequidistante: De toda la indignante intervención de Sánchez me quedo con este momento en el que dice que “los intereses de la gente d…"
+      },
+      {
+        "created_at": "2026-10-05T09:07:58.000Z",
+        "edit_history_tweet_ids": [
+          "2107035053150679145"
+        ],
+        "id": "2107035053150679145",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 368
+        },
+        "text": "RT @ppopular: Si ocho años no han sido suficientes, ¿para qué piden cuatro años más? \n\nEl daño ha sido descomunal, pero no ha sido irrevers…"
+      },
+      {
+        "created_at": "2026-10-05T09:01:39.000Z",
+        "edit_history_tweet_ids": [
+          "2107033466231517692"
+        ],
+        "id": "2107033466231517692",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "text": "RT @Mcuquerella: Feijóo: \"Si soy presidente se sabrá todo lo que quede por saber y se corregirá todo lo que haya que corregir\""
+      },
+      {
+        "created_at": "2026-10-05T08:57:09.000Z",
+        "edit_history_tweet_ids": [
+          "2107032330678239368"
+        ],
+        "id": "2107032330678239368",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6687,
+          "like_count": 343,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 57
+        },
+        "text": "Gran estrategia electoral la de remarcar que eres un aspirante a totalitario que desprecia los resultados de las votaciones.\n\nVamos a ganarle en lo que más detesta: en las urnas. https://t.co/s3aTnFumCs"
+      },
+      {
+        "created_at": "2026-10-05T08:37:23.000Z",
+        "edit_history_tweet_ids": [
+          "2107027359803015281"
+        ],
+        "id": "2107027359803015281",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 749
+        },
+        "text": "RT @NunezFeijoo: Por fin decidirán los españoles."
+      },
+      {
+        "created_at": "2026-10-05T08:35:06.000Z",
+        "edit_history_tweet_ids": [
+          "2107026783665340909"
+        ],
+        "id": "2107026783665340909",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "text": "RT @ALMA_EZCURRA: @NunezFeijoo: “Necesitamos reconstruir la esperanza de toda una generación que siente que no tiene oportunidades\n\nY, sobr…"
+      },
+      {
+        "created_at": "2026-10-05T08:03:40.000Z",
+        "edit_history_tweet_ids": [
+          "2107018872482054319"
+        ],
+        "id": "2107018872482054319",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "@fervlc1 Va a deslumbrar"
+      },
+      {
+        "created_at": "2026-10-05T07:57:00.000Z",
+        "edit_history_tweet_ids": [
+          "2107017194752335875"
+        ],
+        "id": "2107017194752335875",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1697,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "text": "Ganas. https://t.co/hmCeHV8m24"
+      },
+      {
+        "created_at": "2026-10-05T07:45:31.000Z",
+        "edit_history_tweet_ids": [
+          "2107014306684457056"
+        ],
+        "id": "2107014306684457056",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 823,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "text": "@davidmartinezg Ellos no son la vivienda. Por tanto, son los buitres.\n\nPuntualidad de Puente en hacer el ridículo."
+      },
+      {
+        "created_at": "2026-10-05T07:44:05.000Z",
+        "edit_history_tweet_ids": [
+          "2107013942895681923"
+        ],
+        "id": "2107013942895681923",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "text": "RT @davidmartinezg: Guau. Nivelón. Esto es todo lo que tienen. Va a ser legendario. https://t.co/TuNZunr4fI"
+      },
+      {
+        "created_at": "2026-10-05T07:21:14.000Z",
+        "edit_history_tweet_ids": [
+          "2107008196128747637"
+        ],
+        "id": "2107008196128747637",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2253
+        },
+        "text": "RT @pirlosantos: “Referente mundial de feminismo” dice el pavo cuyo Gobierno ha colocado a prostitutas en empresas públicas, ha sacado a vi…"
+      },
+      {
+        "created_at": "2026-10-05T07:13:55.000Z",
+        "edit_history_tweet_ids": [
+          "2107006354871222322"
+        ],
+        "id": "2107006354871222322",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2175
+        },
+        "text": "RT @ppopular: POR FIN. https://t.co/jXag4WAS9k"
+      },
+      {
+        "created_at": "2026-10-05T07:12:08.000Z",
+        "edit_history_tweet_ids": [
+          "2107005905795682484"
+        ],
+        "id": "2107005905795682484",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3033,
+          "like_count": 267,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "text": "Siendo un personaje, hasta el final.\n\nAdiós, Pedro. \nTranquilo, ya eres historia."
+      },
+      {
+        "created_at": "2026-10-05T06:55:10.000Z",
+        "edit_history_tweet_ids": [
+          "2107001633561354448"
+        ],
+        "id": "2107001633561354448",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15883,
+          "like_count": 368,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "text": "Fondo buitre https://t.co/e5jb7kRluy"
+      },
+      {
+        "created_at": "2026-10-05T06:32:37.000Z",
+        "edit_history_tweet_ids": [
+          "2106995961344250358"
+        ],
+        "id": "2106995961344250358",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "text": "RT @Mtelladof: Los que hoy se envuelven en la bandera de la vivienda no han hecho nada en 8 años, salvo pegarse la vida padre a costa de lo…"
+      },
+      {
+        "created_at": "2026-10-05T06:02:25.000Z",
+        "edit_history_tweet_ids": [
+          "2106988359063077100"
+        ],
+        "id": "2106988359063077100",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1652
+        },
+        "text": "RT @JorgeCalabres: 🚨EXCLUSIVA de @elespanolcom \n\nLa UCO investiga si altos cargos del PSOE recibieron regalos de Venezuela: Delcy dio un re…"
+      },
+      {
+        "created_at": "2026-10-05T06:02:17.000Z",
+        "edit_history_tweet_ids": [
+          "2106988326242943152"
+        ],
+        "id": "2106988326242943152",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1493
+        },
+        "text": "RT @pabloharour: SUMA Y SIGUE\n\nUn documento de las cloacas de la PSOE apunta a que también querían destruir al anterior presidente del Trib…"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Beatriz Fanjul",
+    "usuario": {
+      "id": "320145391",
+      "name": "Bea Fanjul",
+      "username": "bea_fanjul",
+      "description": "Diputada vasca.",
+      "location": "Pais Vasco",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1680256634432507907/nkXdg466_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 99973,
+        "following_count": 1969,
+        "like_count": 5474,
+        "listed_count": 305,
+        "media_count": 1204,
+        "tweet_count": 11077
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:06.273Z"
+    },
+    "total_tweets": 4,
+    "tweets": [
+      {
+        "created_at": "2026-10-05T14:54:19.000Z",
+        "edit_history_tweet_ids": [
+          "2107122215888314727"
+        ],
+        "id": "2107122215888314727",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 423
+        },
+        "text": "RT @Er_Richal: Frente Amplio https://t.co/0DY1iHNogV"
+      },
+      {
+        "created_at": "2026-10-05T14:20:16.000Z",
+        "edit_history_tweet_ids": [
+          "2107113647654985962"
+        ],
+        "id": "2107113647654985962",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 349
+        },
+        "text": "RT @NunezFeijoo: Mi único objetivo es acertar. Lo único que me mueve son los intereses generales. https://t.co/nONaeZuXaB"
+      },
+      {
+        "created_at": "2026-10-05T12:57:25.000Z",
+        "edit_history_tweet_ids": [
+          "2107092796847116307"
+        ],
+        "id": "2107092796847116307",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 557
+        },
+        "text": "RT @NunezFeijoo: La vivienda ha sido el gran fracaso de este Gobierno y tiene que ser el éxito del siguiente. https://t.co/CfX6XkR5nt"
+      },
+      {
+        "created_at": "2026-10-05T12:18:51.000Z",
+        "edit_history_tweet_ids": [
+          "2107083089973281256"
+        ],
+        "id": "2107083089973281256",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1080
+        },
+        "text": "RT @NunezFeijoo: Por fin, la palabra la tiene España. https://t.co/F0lLqloPHr"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Álvaro Picazo",
+    "usuario": {
+      "id": "1330603586775101440",
+      "name": "Álvaro Picazo",
+      "username": "picazzo_15",
+      "description": "Presidente de @nnggmadrid 🇪🇸",
+      "location": "Comunidad de Madrid, España",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2043371421364101120/UrdJgnUa_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 1198,
+        "following_count": 1009,
+        "like_count": 32848,
+        "listed_count": 4,
+        "media_count": 188,
+        "tweet_count": 3641
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:06.521Z"
+    },
+    "total_tweets": 13,
+    "tweets": [
+      {
+        "created_at": "2026-10-06T10:57:31.000Z",
+        "edit_history_tweet_ids": [
+          "2107425011393081522"
+        ],
+        "id": "2107425011393081522",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "text": "Los españoles no olvidamos. https://t.co/y9nlA1b0pU"
+      },
+      {
+        "created_at": "2026-10-06T09:23:31.000Z",
+        "edit_history_tweet_ids": [
+          "2107401353802772646"
+        ],
+        "id": "2107401353802772646",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 633,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "text": "El 29 de noviembre comienza la RECONSTRUCCIÓN de España.\n\nEstamos preparados 🔥 https://t.co/ZDgsgEqKIR"
+      },
+      {
+        "created_at": "2026-10-06T08:55:02.000Z",
+        "edit_history_tweet_ids": [
+          "2107394185921765483"
+        ],
+        "id": "2107394185921765483",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "text": "RT @CharlsChanels: Hay gente en España que, gana 1200€, vive con sus padres con 35 años, y que tiene que pedir préstamos para veranear... Q…"
+      },
+      {
+        "created_at": "2026-10-06T08:26:16.000Z",
+        "edit_history_tweet_ids": [
+          "2107386947945553963"
+        ],
+        "id": "2107386947945553963",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "text": "RT @nnggmadrid: 29-N: RECONSTRUCCIÓN NACIONAL 🏗️🇪🇸 https://t.co/UnYNsbGF3v"
+      },
+      {
+        "created_at": "2026-10-05T21:56:49.000Z",
+        "edit_history_tweet_ids": [
+          "2107228542107038112"
+        ],
+        "id": "2107228542107038112",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2509
+        },
+        "text": "RT @Getede_: QUE PAGASTEIS PUTAS CON DINERO PUBLICO Y TODA TU FAMILIA ESTA IMPUTADA"
+      },
+      {
+        "created_at": "2026-10-05T21:44:05.000Z",
+        "edit_history_tweet_ids": [
+          "2107225338044657909"
+        ],
+        "id": "2107225338044657909",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2271
+        },
+        "text": "RT @SoyAlexWhite: Me sorprende ver a TANTA gente con miedo de que gobierne la derecha a partir del 29 de Noviembre.\nMiedo a qué? Acaso hemo…"
+      },
+      {
+        "created_at": "2026-10-05T21:11:53.000Z",
+        "edit_history_tweet_ids": [
+          "2107217233076478093"
+        ],
+        "id": "2107217233076478093",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3774
+        },
+        "text": "RT @CharlsChanels: Es que es gracioso el argumento de \"si gana la derecha, de vienen años jodidos...\".\n\nNo como ahora, que somos potencia e…"
+      },
+      {
+        "created_at": "2026-10-05T21:08:59.000Z",
+        "edit_history_tweet_ids": [
+          "2107216505276428403"
+        ],
+        "id": "2107216505276428403",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "text": "RT @Idancausa: No lo vamos a olvidar a la hora de votar. https://t.co/xYrTILLBsW"
+      },
+      {
+        "created_at": "2026-10-05T12:55:53.000Z",
+        "edit_history_tweet_ids": [
+          "2107092413382803619"
+        ],
+        "id": "2107092413382803619",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1358
+        },
+        "text": "RT @IdiazAyuso: Sánchez ocupa el espacio de la ultraizquierda. Y llevará estas elecciones desde el extremo. https://t.co/MJglMpgnqd"
+      },
+      {
+        "created_at": "2026-10-05T12:55:23.000Z",
+        "edit_history_tweet_ids": [
+          "2107092286035079413"
+        ],
+        "id": "2107092286035079413",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "text": "RT @NNGG_Es: 29 de noviembre. \n\nEllos o nosotros. https://t.co/wz4XPaGpxg"
+      },
+      {
+        "created_at": "2026-10-05T11:52:39.000Z",
+        "edit_history_tweet_ids": [
+          "2107076499509789122"
+        ],
+        "id": "2107076499509789122",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "text": "RT @Idancausa: Comienza la RECONSTRUCCIÓN NACIONAL 🇪🇸\n\nVamos a tirar abajo todas y cada una de las políticas que nos han traído a la ruina,…"
+      },
+      {
+        "created_at": "2026-10-05T07:35:58.000Z",
+        "edit_history_tweet_ids": [
+          "2107011900014055844"
+        ],
+        "id": "2107011900014055844",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7864,
+          "like_count": 430,
+          "quote_count": 4,
+          "reply_count": 55,
+          "retweet_count": 64
+        },
+        "text": "Los jóvenes vamos a recuperar lo que nunca tuvimos que haber perdido.\n\nEl 29 de noviembre, o Sánchez o España."
+      },
+      {
+        "created_at": "2026-10-05T07:29:49.000Z",
+        "edit_history_tweet_ids": [
+          "2107010355180306887"
+        ],
+        "id": "2107010355180306887",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "text": "RT @nnggmadrid: 29 de noviembre: chao pescao. \n\n¡TODOS A LAS URNAS! 🗳️ https://t.co/jKiLJXzTy1"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Hugo Manchón",
+    "usuario": {
+      "id": "249817975",
+      "name": "Hugo Manchón",
+      "username": "hugomanchon",
+      "description": "Cosecha del 92 || Libertad, siempre || @PPCatalunya",
+      "location": "Barcelona",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2050101713952985088/XUPMsFIo_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 40891,
+        "following_count": 537,
+        "like_count": 17078,
+        "listed_count": 164,
+        "media_count": 8825,
+        "tweet_count": 30245
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:06.696Z"
+    },
+    "total_tweets": 3,
+    "tweets": [
+      {
+        "created_at": "2026-10-06T07:45:45.000Z",
+        "edit_history_tweet_ids": [
+          "2107376750728814785"
+        ],
+        "id": "2107376750728814785",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1192,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "text": "8 años de PSOE y salís ahora. Para comer estáis vosotros, con los millones de Pedro y Yolanda. \n\nLa cesta de la compra y la luz años disparadas. La vivienda pasa de ser la preocupación 15 a la 1. Y vosotros, con las pancartas llenas de polvo y los megáfonos sin pilas desde Rajoy. https://t.co/wHVA9QE0mq"
+      },
+      {
+        "created_at": "2026-10-05T07:39:50.000Z",
+        "edit_history_tweet_ids": [
+          "2107012877144203692"
+        ],
+        "id": "2107012877144203692",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2175
+        },
+        "text": "RT @ppopular: POR FIN. https://t.co/jXag4WAS9k"
+      },
+      {
+        "created_at": "2026-10-05T07:39:48.000Z",
+        "edit_history_tweet_ids": [
+          "2107012867056922917"
+        ],
+        "id": "2107012867056922917",
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 56124,
+          "like_count": 5359,
+          "quote_count": 32,
+          "reply_count": 156,
+          "retweet_count": 2156
+        },
+        "text": "TODOS A VOTAR. #29N https://t.co/Q8TI1BYafN"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Aránzazu Figueroa",
+    "usuario": {
+      "id": "1201299890",
+      "name": "Aránzazu Figueroa",
+      "username": "Aranza8_8",
+      "description": "Secretaria General de @JSE_ORG | Derecho y Economía- URJC",
+      "location": "Madrid, Comunidad de Madrid",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1667539519359406080/Y7L0bMx1_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 2789,
+        "following_count": 1063,
+        "like_count": 5579,
+        "listed_count": 14,
+        "media_count": 236,
+        "tweet_count": 9195
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:06.915Z"
+    },
+    "total_tweets": 14,
+    "tweets": [
+      {
+        "created_at": "2026-10-05T20:39:29.000Z",
+        "edit_history_tweet_ids": [
+          "2107209079601102896"
+        ],
+        "id": "2107209079601102896",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "text": "RT @matiasdelara: Hay que recuperar esto \n\nVAS A QUEDARTE https://t.co/xY53jHko33"
+      },
+      {
+        "created_at": "2026-10-05T20:39:22.000Z",
+        "edit_history_tweet_ids": [
+          "2107209053021561281"
+        ],
+        "id": "2107209053021561281",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1913
+        },
+        "text": "RT @pdrsnche: soltad a los perros porque me he escapado https://t.co/ilGEE9687Y"
+      },
+      {
+        "created_at": "2026-10-05T20:38:11.000Z",
+        "edit_history_tweet_ids": [
+          "2107208752814563741"
+        ],
+        "id": "2107208752814563741",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "text": "RT @Rebeca_Torro: La maquinaria electoral está lista: salimos a ganar para seguir conquistando derechos y proteger los que ahora amenazan P…"
+      },
+      {
+        "created_at": "2026-10-05T20:38:06.000Z",
+        "edit_history_tweet_ids": [
+          "2107208733981860037"
+        ],
+        "id": "2107208733981860037",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 278
+        },
+        "text": "RT @PSOE: Derechos frente a derechas. Las elecciones del #29N no son unas elecciones más.\n\nVamos a dejarnos la piel para ganarnos la confia…"
+      },
+      {
+        "created_at": "2026-10-05T20:37:59.000Z",
+        "edit_history_tweet_ids": [
+          "2107208702637862950"
+        ],
+        "id": "2107208702637862950",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "text": "RT @guardiola_92: Queremos alertar de la ley lider que está tramitando estos meses Ayuso en la Asamblea de Madrid. \n\nUna ley que privatiza…"
+      },
+      {
+        "created_at": "2026-10-05T20:15:52.000Z",
+        "edit_history_tweet_ids": [
+          "2107203136188522804"
+        ],
+        "id": "2107203136188522804",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "text": "RT @patxilopez: Salimos de la Comisión Ejecutiva Federal con las baterías cargadas y el rumbo claro. \n\nEspaña tiene que seguir avanzando.…"
+      },
+      {
+        "created_at": "2026-10-05T17:32:50.000Z",
+        "edit_history_tweet_ids": [
+          "2107162109570068754"
+        ],
+        "id": "2107162109570068754",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "text": "RT @JSE_ORG: NI UN PASO ATRÁS 🔥\n\nVamos a por todas ✊🏼 https://t.co/t7pe4Z6cQp"
+      },
+      {
+        "created_at": "2026-10-05T10:51:29.000Z",
+        "edit_history_tweet_ids": [
+          "2107061107273916472"
+        ],
+        "id": "2107061107273916472",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "text": "RT @guardiola_92: No han empezado aún las elecciones y el PP ya está amenazando con un falso fraude electoral. \n\n¿Será que tienen miedo a p…"
+      },
+      {
+        "created_at": "2026-10-05T10:28:12.000Z",
+        "edit_history_tweet_ids": [
+          "2107055246690209891"
+        ],
+        "id": "2107055246690209891",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "text": "RT @Espejodevillano: LOS QUE CONOCEMOS EL PSOE"
+      },
+      {
+        "created_at": "2026-10-05T10:17:33.000Z",
+        "edit_history_tweet_ids": [
+          "2107052564885692464"
+        ],
+        "id": "2107052564885692464",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2658,
+          "like_count": 325,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 111
+        },
+        "text": "Hoy más que nunca, contigo. \n\nPor seguir dignificando a la clase trabajadora de este país. Por la juventud, por la libertad, por la humanidad, por nosotras. \n\nAdelante @sanchezcastejon ✊🏼🌹❤️ https://t.co/ADyiQJr7qx"
+      },
+      {
+        "created_at": "2026-10-05T10:11:32.000Z",
+        "edit_history_tweet_ids": [
+          "2107051053132734965"
+        ],
+        "id": "2107051053132734965",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1045
+        },
+        "text": "RT @PSOE: 3 años pidiendo elecciones y no pareces muy contento, Alberto. https://t.co/coRfbJvqMx"
+      },
+      {
+        "created_at": "2026-10-05T10:11:28.000Z",
+        "edit_history_tweet_ids": [
+          "2107051035122377061"
+        ],
+        "id": "2107051035122377061",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5754
+        },
+        "text": "RT @sanchezcastejon: Frente a sus áticos, sus recortes y su servilismo a las élites, nuestro compromiso con la gente: vivienda asequible, s…"
+      },
+      {
+        "created_at": "2026-10-05T10:11:25.000Z",
+        "edit_history_tweet_ids": [
+          "2107051020945920217"
+        ],
+        "id": "2107051020945920217",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 210
+        },
+        "text": "RT @JSE_ORG: Aún quedan muchas injusticias que corregir, muchas metas sociales que conquistar y muchos problemas que resolver. \n\nDebemos mo…"
+      },
+      {
+        "created_at": "2026-10-05T10:11:20.000Z",
+        "edit_history_tweet_ids": [
+          "2107051002386145564"
+        ],
+        "id": "2107051002386145564",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "text": "RT @ifcasado: Yo a partir de hoy y hasta el 29N  https://t.co/RsRZmQQ1ZT"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Víctor Camino",
+    "usuario": {
+      "id": "295284777",
+      "name": "Víctor Camino",
+      "username": "VictorCaminoVlc",
+      "description": "Nostalgia de futuro 🏳️🌿✊🏻 Diputado en el Congreso y vicesecretario general del @PSOEvalencia.",
+      "location": "València ⇄ Madrid ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1812248950168059904/u0g0ynmd_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 9766,
+        "following_count": 3573,
+        "like_count": 70776,
+        "listed_count": 121,
+        "media_count": 2657,
+        "tweet_count": 43412
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:07.151Z"
+    },
+    "total_tweets": 13,
+    "tweets": [
+      {
+        "created_at": "2026-10-06T12:25:55.000Z",
+        "edit_history_tweet_ids": [
+          "2107447260086935827"
+        ],
+        "id": "2107447260086935827",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 649
+        },
+        "text": "RT @sanchezcastejon: Hoy aprobamos medidas de VIVIENDA, de puro sentido común, de humanidad, que unen a pequeños propietarios e inquilinos.…"
+      },
+      {
+        "created_at": "2026-10-06T11:51:20.000Z",
+        "edit_history_tweet_ids": [
+          "2107438554812969117"
+        ],
+        "id": "2107438554812969117",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "text": "RT @VictorCaminoVlc: El voto es un pie en pared ante el avance de la intolerancia en el mundo.\nY el PSOE el dique de contención para seguir…"
+      },
+      {
+        "created_at": "2026-10-06T11:07:22.000Z",
+        "edit_history_tweet_ids": [
+          "2107427489005871288"
+        ],
+        "id": "2107427489005871288",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 197
+        },
+        "text": "RT @PSOE: Este Gobierno ni tira la toalla ni deja tirada a la gente. \n\nNo vamos a permitir que haya ni un desahucio más como el que sufrió…"
+      },
+      {
+        "created_at": "2026-10-06T06:31:23.000Z",
+        "edit_history_tweet_ids": [
+          "2107358037694648537"
+        ],
+        "id": "2107358037694648537",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 396
+        },
+        "text": "RT @PSOE: Nos vemos en las urnas 🌹\n\nEl #29N derechos o derechas\n\nhttps://t.co/jqLqH0fTz6 https://t.co/36hypdxgwz"
+      },
+      {
+        "created_at": "2026-10-06T06:30:38.000Z",
+        "edit_history_tweet_ids": [
+          "2107357849508552974"
+        ],
+        "id": "2107357849508552974",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1948
+        },
+        "text": "RT @RamonLopez_G: \"Quien no me quiera votar que no me vote. Pero qué casualidad que la gente se pilla la baja los lunes y los viernes\". \n\nY…"
+      },
+      {
+        "created_at": "2026-10-05T16:40:37.000Z",
+        "edit_history_tweet_ids": [
+          "2107148968128090221"
+        ],
+        "id": "2107148968128090221",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4326
+        },
+        "text": "RT @carlagaleote: Quiero recordar que VOX como medida estrella en su programa electoral cita más de 10 veces ELIMINAR el derecho al aborto.…"
+      },
+      {
+        "created_at": "2026-10-05T15:03:44.000Z",
+        "edit_history_tweet_ids": [
+          "2107124585179332863"
+        ],
+        "id": "2107124585179332863",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1140,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "text": "El voto es un pie en pared ante el avance de la intolerancia en el mundo.\nY el PSOE el dique de contención para seguir luchando.\n\nSé que hay mucho que mejorar, pero necesitamos más izquierda para salir del bloqueo.\n\nEl 29 de noviembre, Elecciones Generales. https://t.co/s1LF07mcGt"
+      },
+      {
+        "created_at": "2026-10-05T10:24:28.000Z",
+        "edit_history_tweet_ids": [
+          "2107054307472441699"
+        ],
+        "id": "2107054307472441699",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "text": "RT @eltiempojusto: Víctor Camino, diputado del PSOE en Valencia: \"Ayuso está pendiente de intentar instigar ese insulto permanente, de inte…"
+      },
+      {
+        "created_at": "2026-10-05T07:54:19.000Z",
+        "edit_history_tweet_ids": [
+          "2107016521025290459"
+        ],
+        "id": "2107016521025290459",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 789
+        },
+        "text": "RT @pilarbernabe: Esta democracia costó demasiado para dejarla en manos de quienes la desprecian. A defenderla, voto a voto. A ganar.🌹"
+      },
+      {
+        "created_at": "2026-10-05T07:18:10.000Z",
+        "edit_history_tweet_ids": [
+          "2107007424486105259"
+        ],
+        "id": "2107007424486105259",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1723
+        },
+        "text": "RT @PSOE: Vamos a dejarnos la piel, vamos a trabajar para ilusionar y para volver a ganar🌹\n\n@sanchezcastejon https://t.co/bjc9RgeQC1"
+      },
+      {
+        "created_at": "2026-10-05T07:16:31.000Z",
+        "edit_history_tweet_ids": [
+          "2107007006959915120"
+        ],
+        "id": "2107007006959915120",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "text": "RT @La_SER: 🔴 Pedro Sánchez: \"Ahora depende de vosotros y de vosotras el futuro del país. El mundo se asoma a una época muy compleja\"\n\nhttp…"
+      },
+      {
+        "created_at": "2026-10-05T07:12:33.000Z",
+        "edit_history_tweet_ids": [
+          "2107006010275557393"
+        ],
+        "id": "2107006010275557393",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44544,
+          "like_count": 219,
+          "quote_count": 5,
+          "reply_count": 113,
+          "retweet_count": 59
+        },
+        "text": "Nos vamos a votar. \n\nPedro Sánchez anuncia un adelanto electoral para el 29 de noviembre para ampliar la mayoría parlamentaria de la izquierda.\n\nQueda aún mucho por avanzar. https://t.co/iqFUX0UXSl"
+      },
+      {
+        "created_at": "2026-10-05T07:02:45.000Z",
+        "edit_history_tweet_ids": [
+          "2107003541273616430"
+        ],
+        "id": "2107003541273616430",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "text": "RT @desdelamoncloa: 🔴 EN DIRECTO\n\nComparecencia del presidente del Gobierno, @sanchezcastejon, desde La Moncloa. https://t.co/xLpxNmQfUD"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Santiago Limón",
+    "usuario": {
+      "id": "257408267",
+      "name": "Santiago Limón",
+      "username": "SantiLiCer",
+      "description": "12/06/1996 // Ante todo, bético, ariscaleño y socialista // Amor a mi pueblo // Quien quiere, puede, quien no, busca excusas // Fidelidad como filosofia de vida",
+      "location": "Villanueva del Ariscal",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1129177704488722432/6xSXY7xj_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 483,
+        "following_count": 316,
+        "like_count": 138,
+        "listed_count": 0,
+        "media_count": 92,
+        "tweet_count": 4579
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:07.305Z"
+    },
+    "total_tweets": 0,
+    "tweets": []
+  },
+  {
+    "nombre_persona": "Ada Santana",
+    "usuario": {
+      "id": "80176041",
+      "name": "adaildes santana",
+      "username": "adasantana",
+      "description": "",
+      "location": "SALVADOR/BAHIA",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1244592638499717120/oEFG5peQ_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 33,
+        "following_count": 154,
+        "like_count": 10,
+        "listed_count": 0,
+        "media_count": 1,
+        "tweet_count": 120
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:07.449Z"
+    },
+    "total_tweets": 0,
+    "tweets": []
+  },
+  {
+    "nombre_persona": "Ferran Verdejo",
+    "usuario": {
+      "id": "352612846",
+      "name": "Ferran Verdejo León",
+      "username": "FerranVerdejo",
+      "description": "",
+      "location": "",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1927961013401407488/jNoOMxhj_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 290,
+        "following_count": 1,
+        "like_count": 819,
+        "listed_count": 7,
+        "media_count": 0,
+        "tweet_count": 5
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:07.598Z"
+    },
+    "total_tweets": 0,
+    "tweets": []
+  },
+  {
+    "nombre_persona": "Laura García Manota",
+    "usuario": {
+      "id": "925810111",
+      "name": "Laura García Manota",
+      "username": "lauragmanota",
+      "description": "Tinenta d’alcaldia de @lhajuntament 👩‍🎓 Pedagoga, màster en Psicopedagogia. Primera Secretària de la @jsccatalunya 💜",
+      "location": "",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1843001188469362688/IRRgFSfW_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 1257,
+        "following_count": 821,
+        "like_count": 7778,
+        "listed_count": 10,
+        "media_count": 300,
+        "tweet_count": 5545
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:07.782Z"
+    },
+    "total_tweets": 0,
+    "tweets": []
+  },
+  {
+    "nombre_persona": "Pepa Millán",
+    "usuario": {
+      "id": "1103432653536149504",
+      "name": "Pepa R. de Millán 🇪🇸",
+      "username": "Pepa_Millan",
+      "description": "Egabrense. Portavoz de @vox_es en el Congreso de los Diputados. “Los que no quieren ser vencidos por la verdad, son vencidos por el error”.",
+      "location": "",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1922723038350528512/VxWBcx50_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 91691,
+        "following_count": 1123,
+        "like_count": 14528,
+        "listed_count": 231,
+        "media_count": 1066,
+        "tweet_count": 14701
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:07.979Z"
+    },
+    "total_tweets": 6,
+    "tweets": [
+      {
+        "created_at": "2026-10-06T10:37:26.000Z",
+        "edit_history_tweet_ids": [
+          "2107419955725799523"
+        ],
+        "id": "2107419955725799523",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "text": "RT @VOX_Congreso: 📺 @Pepa_Millan recuerda en @programadear que UGT y CCOO no han dicho ni una palabra durante estos 8 últimos años.\n\n\"Estos…"
+      },
+      {
+        "created_at": "2026-10-05T21:49:37.000Z",
+        "edit_history_tweet_ids": [
+          "2107226729542807823"
+        ],
+        "id": "2107226729542807823",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7863
+        },
+        "text": "RT @vox_es: El mensaje de @Santi_ABASCAL a todos los españoles:\n\n\"Les animo a que no voten por correo. Voten en la urna, porque en estos mo…"
+      },
+      {
+        "created_at": "2026-10-05T21:44:01.000Z",
+        "edit_history_tweet_ids": [
+          "2107225319316861167"
+        ],
+        "id": "2107225319316861167",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 244
+        },
+        "text": "RT @VOX_Congreso: 📺 Mañana a las 10:30, @Pepa_Millan estará en @programadear de @telecincoes \n\n➡️ Síguelo aquí en directo: https://t.co/mMJ…"
+      },
+      {
+        "created_at": "2026-10-05T13:11:39.000Z",
+        "edit_history_tweet_ids": [
+          "2107096378811822317"
+        ],
+        "id": "2107096378811822317",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1510
+        },
+        "text": "RT @Pontifex_es: Existe el martirio de quien ofrece la vida en un momento determinado y aquel, más oculto, de quien la da día tras día. Sí,…"
+      },
+      {
+        "created_at": "2026-10-05T12:43:36.000Z",
+        "edit_history_tweet_ids": [
+          "2107089319844278570"
+        ],
+        "id": "2107089319844278570",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4075
+        },
+        "text": "RT @Santi_ABASCAL: Esta es la última oportunidad para una inmensa mayoría de españoles. \n\nNo la vamos a desaprovechar. https://t.co/aZZDLQ7…"
+      },
+      {
+        "created_at": "2026-10-05T07:14:58.000Z",
+        "edit_history_tweet_ids": [
+          "2107006615656214680"
+        ],
+        "id": "2107006615656214680",
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 104607,
+          "like_count": 7767,
+          "quote_count": 100,
+          "reply_count": 773,
+          "retweet_count": 1391
+        },
+        "text": "Sánchez o España."
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Júlia Calvet",
+    "usuario": {
+      "id": "1059831463418445824",
+      "name": "Júlia Calvet Puig",
+      "username": "JCPuig_",
+      "description": "Abogada ⚖️- Portavoz Nacional de Juventud de VOX. Diputada en el Parlament de Catalunya. Patria y Familia 🇪🇸⚔️",
+      "location": "Barcelona, España",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1616886821249589248/10Ogr_mR_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 23688,
+        "following_count": 796,
+        "like_count": 11679,
+        "listed_count": 76,
+        "media_count": 389,
+        "tweet_count": 7413
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:08.261Z"
+    },
+    "total_tweets": 2,
+    "tweets": [
+      {
+        "created_at": "2026-10-05T14:25:42.000Z",
+        "edit_history_tweet_ids": [
+          "2107115016532996302"
+        ],
+        "id": "2107115016532996302",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "text": "RT @voz_populi: 🔴 Illa inyecta 257 millones para tutelar la gestión del Govern con enfoque de género\n\nPor Óscar Benítez (@Oscar_Benitez_)…"
+      },
+      {
+        "created_at": "2026-10-05T14:25:39.000Z",
+        "edit_history_tweet_ids": [
+          "2107115000502595758"
+        ],
+        "id": "2107115000502595758",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "text": "RT @VOX_Cataluna: ❌ Mientras te dicen que su prioridad es la vivienda, se gastan tu dinero en basura ideológica que no te sirve para nada.…"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Tesh Sidi",
+    "usuario": {
+      "id": "1266577880",
+      "name": "Tesh Sidi🇪🇭",
+      "username": "teshsidi",
+      "description": "Portavoz de @masmadrid__ 🏛️ | Ingeniera informática | IA & Big Data |Saharaui 🇪🇭 | Los memes me dan vida 😎 | Madre🐈‍⬛ y Runner 🏃🏾‍♀️",
+      "location": "Madrid, Comunidad de Madrid",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1960535152737533952/iEmnlXl__normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 48796,
+        "following_count": 2860,
+        "like_count": 12452,
+        "listed_count": 229,
+        "media_count": 1539,
+        "tweet_count": 12305
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:08.511Z"
+    },
+    "total_tweets": 20,
+    "tweets": [
+      {
+        "created_at": "2026-10-06T11:00:01.000Z",
+        "edit_history_tweet_ids": [
+          "2107425639871496656"
+        ],
+        "id": "2107425639871496656",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2115,
+          "like_count": 112,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 20
+        },
+        "text": "El miedo a no ganar les lleva a poner en duda el sistema electoral. El 29N hay que votar en masa. https://t.co/qwWDVBjbFG"
+      },
+      {
+        "created_at": "2026-10-06T09:59:31.000Z",
+        "edit_history_tweet_ids": [
+          "2107410416150139203"
+        ],
+        "id": "2107410416150139203",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15880,
+          "like_count": 481,
+          "quote_count": 6,
+          "reply_count": 64,
+          "retweet_count": 68
+        },
+        "text": "Habéis votado con PP y VOX toda la legislatura. Lleváis gobernado juntos 3 años. https://t.co/5eIANPcoFG"
+      },
+      {
+        "created_at": "2026-10-06T09:55:29.000Z",
+        "edit_history_tweet_ids": [
+          "2107409398851399810"
+        ],
+        "id": "2107409398851399810",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "text": "RT @RequenaAguilar: No paro de pensar últimamente en “la pedagogía de la crueldad” de la que habla la feminista Rita Segato, esos discursos…"
+      },
+      {
+        "created_at": "2026-10-06T09:54:43.000Z",
+        "edit_history_tweet_ids": [
+          "2107409208966586859"
+        ],
+        "id": "2107409208966586859",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3696,
+          "like_count": 254,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 27
+        },
+        "text": "El proyecto para España 🤡 https://t.co/Rz6mN3miJ0"
+      },
+      {
+        "created_at": "2026-10-05T19:05:59.000Z",
+        "edit_history_tweet_ids": [
+          "2107185551447146649"
+        ],
+        "id": "2107185551447146649",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "text": "RT @carlossmato: Has currado como una jabata, Tesh.\nNadie te puede reprochar nada porque te has dejado jirones de vida y esfuerzo en conseg…"
+      },
+      {
+        "created_at": "2026-10-05T17:50:54.000Z",
+        "edit_history_tweet_ids": [
+          "2107166655164076220"
+        ],
+        "id": "2107166655164076220",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3668,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 3
+        },
+        "text": "Es la vía ✊🏽🔥 https://t.co/8UAHPAcyB7"
+      },
+      {
+        "created_at": "2026-10-05T17:48:40.000Z",
+        "edit_history_tweet_ids": [
+          "2107166091973939641"
+        ],
+        "id": "2107166091973939641",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "text": "@olympeabogados Y la ley para penalizar las terapias 🫠"
+      },
+      {
+        "created_at": "2026-10-05T15:22:39.000Z",
+        "edit_history_tweet_ids": [
+          "2107129346473263404"
+        ],
+        "id": "2107129346473263404",
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 56851,
+          "like_count": 815,
+          "quote_count": 26,
+          "reply_count": 219,
+          "retweet_count": 282
+        },
+        "text": "Un día triste en lo personal y para el pueblo saharaui. Las últimas vías las tiene el PP en el Senado y el gobierno vía real decreto(carta de naturaleza)\n\nLos saharauis se quedan sin la ley para obtener la nacionalidad a dos semanas de su aprobación por el adelanto electoral"
+      },
+      {
+        "created_at": "2026-10-05T12:46:22.000Z",
+        "edit_history_tweet_ids": [
+          "2107090016946041156"
+        ],
+        "id": "2107090016946041156",
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 85921,
+          "like_count": 3733,
+          "quote_count": 20,
+          "reply_count": 320,
+          "retweet_count": 445
+        },
+        "text": "A plorar a un altre costat. Les que heu recolzat l’especulació sou vosaltres.\n\nPROU! https://t.co/lGty7eYiYV"
+      },
+      {
+        "created_at": "2026-10-05T12:34:49.000Z",
+        "edit_history_tweet_ids": [
+          "2107087111509717425"
+        ],
+        "id": "2107087111509717425",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "text": "RT @VillalbaNavarro: España vuelve a fallar, una legislatura más, al pueblo Saharaui. Con la convocatoria electoral decae todo el procedimi…"
+      },
+      {
+        "created_at": "2026-10-05T12:05:51.000Z",
+        "edit_history_tweet_ids": [
+          "2107079820517491059"
+        ],
+        "id": "2107079820517491059",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "text": "RT @PalomoVictorM: Esto es buena noticia para los inquilinos.\n\nLos buitres - tanto Blackstone como Alquiler Seguro- tendrán una regulación…"
+      },
+      {
+        "created_at": "2026-10-05T11:11:24.000Z",
+        "edit_history_tweet_ids": [
+          "2107066116874842607"
+        ],
+        "id": "2107066116874842607",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3244,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "text": "@jmvillarroya No era otra, siempre fue la misma. La mayoría parlamentaria ha sido destructiva y lacaya durante todos estos años.\n\nSabes perfectamente de lo que hablo."
+      },
+      {
+        "created_at": "2026-10-05T11:09:30.000Z",
+        "edit_history_tweet_ids": [
+          "2107065582852129223",
+          "2107065640053879143"
+        ],
+        "id": "2107065640053879143",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6750,
+          "like_count": 246,
+          "quote_count": 4,
+          "reply_count": 79,
+          "retweet_count": 51
+        },
+        "text": "El próximo 29 de noviembre hay que recordar a quienes estuvieron del lado de la especulación. https://t.co/vKgwv3uFJN"
+      },
+      {
+        "created_at": "2026-10-05T09:33:29.000Z",
+        "edit_history_tweet_ids": [
+          "2107041476056125515"
+        ],
+        "id": "2107041476056125515",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "text": "RT @JMGJurado: Especulación o derecho a vivir"
+      },
+      {
+        "created_at": "2026-10-05T09:31:59.000Z",
+        "edit_history_tweet_ids": [
+          "2107041096622547109"
+        ],
+        "id": "2107041096622547109",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "RT @PabloMonP: Es curioso, incluso diría sintomático, que siempre que se habla de Frente Amplio, elecciones, bloque progresista... se habla…"
+      },
+      {
+        "created_at": "2026-10-05T08:58:26.000Z",
+        "edit_history_tweet_ids": [
+          "2107032653928997072"
+        ],
+        "id": "2107032653928997072",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4585,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 10
+        },
+        "text": "Totalmente! Una lista de avances que habrá que seguir empujando con mayoría social. https://t.co/TcNOzOFSf0"
+      },
+      {
+        "created_at": "2026-10-05T08:55:38.000Z",
+        "edit_history_tweet_ids": [
+          "2107031952431657354"
+        ],
+        "id": "2107031952431657354",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 134916,
+          "like_count": 604,
+          "quote_count": 31,
+          "reply_count": 366,
+          "retweet_count": 56
+        },
+        "text": "Vivienda, vivienda y vivienda! \n\n29.11.2026"
+      },
+      {
+        "created_at": "2026-10-05T08:44:38.000Z",
+        "edit_history_tweet_ids": [
+          "2107029183604093290"
+        ],
+        "id": "2107029183604093290",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 637
+        },
+        "text": "RT @Fgarea: Es perfectamente legal y, de hecho, en 2019 la Diputación Permanente convalidó con las Cortes disueltas un decreto sobre vivien…"
+      },
+      {
+        "created_at": "2026-10-05T08:22:06.000Z",
+        "edit_history_tweet_ids": [
+          "2107023512594415719"
+        ],
+        "id": "2107023512594415719",
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 65700,
+          "like_count": 506,
+          "quote_count": 19,
+          "reply_count": 107,
+          "retweet_count": 94
+        },
+        "text": "Con la convocatoria de elecciones anticipadas y el registro de enmiendas por parte del Partido Popular en el Senado a la ley de nacionalidad saharaui, mañana, con la publicación en el BOE, quedarían disueltas las Cortes y una ley aprobada por amplias mayorías y al 99% se iría a"
+      },
+      {
+        "created_at": "2026-10-05T08:00:50.000Z",
+        "edit_history_tweet_ids": [
+          "2107018158775451895"
+        ],
+        "id": "2107018158775451895",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "text": "RT @manuelabergerot: Proteger a la gente o proteger a los buitres. Rentismo o derecho a la vivienda.\n\nVamos a pelear hasta el último voto p…"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Eduardo Fernández Rubiño",
+    "usuario": {
+      "id": "360612491",
+      "name": "Eduardo Rubiño",
+      "username": "EduardoFRub",
+      "description": "Portavoz adjunto de @MasMadridCiudad",
+      "location": "Madrid",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1586078640546217985/0yBBOeZG_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 90855,
+        "following_count": 6026,
+        "like_count": 27011,
+        "listed_count": 453,
+        "media_count": 2556,
+        "tweet_count": 21606
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:08.685Z"
+    },
+    "total_tweets": 1,
+    "tweets": [
+      {
+        "created_at": "2026-10-05T12:18:31.000Z",
+        "edit_history_tweet_ids": [
+          "2107083009224557014"
+        ],
+        "id": "2107083009224557014",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "text": "RT @el_pais: Rueda de prensa de Verónica Barbero, Mónica García, Ernest Urtasun y Antonio Maíllo https://t.co/FREc0Scf4V"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Ana Balsera",
+    "usuario": {
+      "id": "701431343708815360",
+      "name": "Ana Balsera",
+      "username": "anabalseramarin",
+      "description": "Dona, colomenca, advocada, feminista, d'esquerres i republicana. Diputada al @parlamentcat per @Esquerra_ERC",
+      "location": "Santa Coloma de Gramenet",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1444588197401485312/aw2bkSV3_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 1846,
+        "following_count": 703,
+        "like_count": 25668,
+        "listed_count": 26,
+        "media_count": 269,
+        "tweet_count": 6886
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:08.856Z"
+    },
+    "total_tweets": 2,
+    "tweets": [
+      {
+        "created_at": "2026-10-05T08:38:04.000Z",
+        "edit_history_tweet_ids": [
+          "2107027529995342210"
+        ],
+        "id": "2107027529995342210",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "text": "RT @Elisendalamany: Estem preparats per defensar Catalunya.\n\nNomés hi ha un partit que aquests tres anys ha pensat a defensar Catalunya i e…"
+      },
+      {
+        "created_at": "2026-10-05T08:21:33.000Z",
+        "edit_history_tweet_ids": [
+          "2107023372756369804"
+        ],
+        "id": "2107023372756369804",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "text": "RT @junqueras: Preparats per defensar Catalunya i partir-nos la cara per millorar la vida de la gent."
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Marta Rosique",
+    "usuario": {
+      "id": "572925673",
+      "name": "Marta Rosique i Saltor",
+      "username": "MartaRosiq",
+      "description": "Periodista i politòloga. Fent d'altaveu de la gent que s'organitza i que transforma, a través de https://t.co/mt4KPkFY5E i La Sembra.",
+      "location": "Països Catalans",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1803502085175996416/cPRPaM1h_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 16130,
+        "following_count": 1334,
+        "like_count": 6273,
+        "listed_count": 115,
+        "media_count": 602,
+        "tweet_count": 4644
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:09.000Z"
+    },
+    "total_tweets": 0,
+    "tweets": []
+  },
+  {
+    "nombre_persona": "Mar Besses",
+    "usuario": {
+      "id": "923118630925201408",
+      "name": "Mar Besses i Casanovas",
+      "username": "marbesses",
+      "description": "Politòloga. Diputada del @joventrepublica al Parlament de Catalunya i regidora a l’Ajuntament de Sant Joan Despí ✊🏻",
+      "location": "Sant Joan Despí",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1802828649457991680/Z90Lwe_T_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 1275,
+        "following_count": 1057,
+        "like_count": 5856,
+        "listed_count": 17,
+        "media_count": 61,
+        "tweet_count": 1067
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:09.159Z"
+    },
+    "total_tweets": 0,
+    "tweets": []
+  },
+  {
+    "nombre_persona": "Marc Martínez",
+    "usuario": {
+      "id": "989228161908051983",
+      "name": "Marc Martínez i Romeu",
+      "username": "marc_martinez6",
+      "description": "“Que no ens enterri una història que no fem”⚒️ // Politòleg, i ara, Portaveu Nacional del @joventrepublica",
+      "location": "Lleida, Països Catalans",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2013227383071838208/fvo-fQVr_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 524,
+        "following_count": 628,
+        "like_count": 13452,
+        "listed_count": 4,
+        "media_count": 63,
+        "tweet_count": 3369
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:09.338Z"
+    },
+    "total_tweets": 1,
+    "tweets": [
+      {
+        "created_at": "2026-10-05T19:30:43.000Z",
+        "edit_history_tweet_ids": [
+          "2107191773558948320"
+        ],
+        "id": "2107191773558948320",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 888
+        },
+        "text": "RT @Durankevicius: 14 anys sense convocar una vaga general. \n\nCatorze! \n\nI ho fan un cop s’han dissolt les corts.\n\nQui em negui que són les…"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Laure Vega",
+    "usuario": {
+      "id": "2936807781",
+      "name": "Laure Vega",
+      "username": "laurevega",
+      "description": "El camí que condueix a l'intel·lecte ha de passar pel cor.\n• Schiller •",
+      "location": "Sant Boi de Llobregat",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1914795290596364288/jGKO8qFg_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 10083,
+        "following_count": 4114,
+        "like_count": 71217,
+        "listed_count": 50,
+        "media_count": 1606,
+        "tweet_count": 14057
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:09.618Z"
+    },
+    "total_tweets": 5,
+    "tweets": [
+      {
+        "created_at": "2026-10-06T12:43:28.000Z",
+        "edit_history_tweet_ids": [
+          "2107451675963527515"
+        ],
+        "id": "2107451675963527515",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "text": "RT @ivan_sants: \"Què produeix una casa? Res, tampoc. Perquè, doncs, ha de donar un benefici real al propietari, altrament que d’habitar-la…"
+      },
+      {
+        "created_at": "2026-10-06T12:42:59.000Z",
+        "edit_history_tweet_ids": [
+          "2107451553737212061"
+        ],
+        "id": "2107451553737212061",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "@peregatell (Tota la resta és estar mort)\n\nG.C"
+      },
+      {
+        "created_at": "2026-10-06T11:52:30.000Z",
+        "edit_history_tweet_ids": [
+          "2107438848540135622"
+        ],
+        "id": "2107438848540135622",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "text": "RT @peregatell: Ens van dir que no hi havia futur, que no valia la pena intentar-ho. Vam caure en l’apatia, el cinisme i la desesperança. V…"
+      },
+      {
+        "created_at": "2026-10-06T10:22:20.000Z",
+        "edit_history_tweet_ids": [
+          "2107416158609535255"
+        ],
+        "id": "2107416158609535255",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "text": "RT @SindicatLloguer: VAGA GENERAL! 🔑\nElls han arrossegat els peus durant vuit anys. Nosaltres no ens quedarem esperant cap calendari electo…"
+      },
+      {
+        "created_at": "2026-10-06T10:21:44.000Z",
+        "edit_history_tweet_ids": [
+          "2107416006628868323"
+        ],
+        "id": "2107416006628868323",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "text": "RT @Desperdicis: Aquest pròxim dimecres 14 d’octubre farà 48 anys de la mort d’en J. Martínez de Foix, màrtir andreuenc caigut en combat.…"
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Aleix Agustí",
+    "usuario": {
+      "id": "1041790852505509888",
+      "name": "Aleix Agustí",
+      "username": "agusti_aleix",
+      "description": "Secretari General de la @JNCatalunya. De Granollers, Catalunya.",
+      "location": "Granollers, Catalunya",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1908983439518306306/Pu533EDl_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 684,
+        "following_count": 662,
+        "like_count": 7905,
+        "listed_count": 1,
+        "media_count": 99,
+        "tweet_count": 3795
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:09.790Z"
+    },
+    "total_tweets": 0,
+    "tweets": []
+  },
+  {
+    "nombre_persona": "Arnau Llambrich",
+    "usuario": {
+      "id": "4687588070",
+      "name": "Arnau Llambrich",
+      "username": "arnau_llambrich",
+      "description": "🗣️ Secretari d’Organització @jncatalunya , de @JuntsxCat, soci del Barça 💙❤️. 🗽 Liberal. Independentista per convicció nacionalista. Convergent.",
+      "location": "La Selva del Camp, Catalunya.",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2044905510378356737/n9BcyDV__normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 3329,
+        "following_count": 1306,
+        "like_count": 89674,
+        "listed_count": 16,
+        "media_count": 4903,
+        "tweet_count": 51141
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:09.948Z"
+    },
+    "total_tweets": 1,
+    "tweets": [
+      {
+        "created_at": "2026-10-06T13:02:26.000Z",
+        "edit_history_tweet_ids": [
+          "2107456449823592477"
+        ],
+        "id": "2107456449823592477",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "Ada Colau no és només una populista, cínica i mentidera compulsiva, també és mala persona."
+      }
+    ]
+  },
+  {
+    "nombre_persona": "Joan Grané",
+    "usuario": {
+      "id": "907339259601997824",
+      "name": "Joan Grané",
+      "username": "JoanGrane_",
+      "description": "Secretari d’Acció Nacionalitzadora a la @JNCatalunya. President local de @JuntsXSantBoi. Santboià i català i convergent. Politòleg (UPF). @JuntsXCat",
+      "location": "Sant Boi de Llobregat",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1909272323003150336/Qv2j1YeL_normal.jpg",
+      "verified": false,
+      "metrics": {
+        "followers_count": 962,
+        "following_count": 1332,
+        "like_count": 38534,
+        "listed_count": 2,
+        "media_count": 542,
+        "tweet_count": 11975
+      }
+    },
+    "periodo": {
+      "desde": "2026-10-04T22:00:00.000Z",
+      "recopilado_en": "2026-10-06T13:31:10.278Z"
+    },
+    "total_tweets": 3,
+    "tweets": [
+      {
+        "created_at": "2026-10-05T16:03:27.000Z",
+        "edit_history_tweet_ids": [
+          "2107139615052448116"
+        ],
+        "id": "2107139615052448116",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 299
+        },
+        "text": "RT @JuntsXCat: 🎥 Portaveu @miriamnoguerasM: \"Ara ja no decidiran Pedro Sánchez i els seus socis. Ara ens toca decidir als catalans quin mod…"
+      },
+      {
+        "created_at": "2026-10-05T09:11:51.000Z",
+        "edit_history_tweet_ids": [
+          "2107036033661747684"
+        ],
+        "id": "2107036033661747684",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "text": "RT @jmcruset: Som-hi @JuntsxCatMadrid ! https://t.co/yhy8kV9Eg1"
+      },
+      {
+        "created_at": "2026-10-05T08:30:58.000Z",
+        "edit_history_tweet_ids": [
+          "2107025744496890169"
+        ],
+        "id": "2107025744496890169",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "President, per respecte al país al que representes; en català, si us plau.\n\nÉs de mínims! https://t.co/AlEUxFm50y"
+      }
+    ]
+  }
+]
