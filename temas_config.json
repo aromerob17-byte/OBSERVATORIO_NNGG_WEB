@@ -148,6 +148,32 @@
       ]
     },
     {
+      "id": "parlamento_cortes",
+      "nombre": "Parlamento y Cortes",
+      "keywords": [
+        "diputacion permanente",
+        "diputación permanente",
+        "disolucion de las cortes",
+        "disolución de las cortes",
+        "cortes generales",
+        "congreso",
+        "senado"
+      ]
+    },
+    {
+      "id": "pactos_mayorias",
+      "nombre": "Pactos y mayorías parlamentarias",
+      "keywords": [
+        "mayoria parlamentaria",
+        "mayoría parlamentaria",
+        "coalicion",
+        "coalición",
+        "pacto parlamentario",
+        "pactos parlamentarios",
+        "bloqueo parlamentario"
+      ]
+    },
+    {
       "id": "corrupcion_justicia",
       "nombre": "Corrupción y justicia",
       "keywords": [
@@ -215,6 +241,26 @@
       ]
     },
     {
+      "id": "orden_publico",
+      "nombre": "Detenciones y orden público",
+      "keywords": [
+        "detenida",
+        "detenido",
+        "detenidas",
+        "detenidos",
+        "detinguda",
+        "detingut",
+        "detingudes",
+        "detinguts",
+        "comisaria",
+        "comissaria",
+        "repressio",
+        "repressió",
+        "antirepresiva",
+        "antirepressiva"
+      ]
+    },
+    {
       "id": "inmigracion",
       "nombre": "Inmigración y fronteras",
       "keywords": [
@@ -236,6 +282,18 @@
         "extranjeria",
         "extranjería",
         "papeles para todos"
+      ]
+    },
+    {
+      "id": "marruecos",
+      "nombre": "Marruecos",
+      "keywords": [
+        "marruecos",
+        "marroc",
+        "marroqui",
+        "marroquí",
+        "marroquies",
+        "marroquíes"
       ]
     },
     {
@@ -553,6 +611,23 @@
       ]
     },
     {
+      "id": "democracia",
+      "nombre": "Democracia y calidad institucional",
+      "keywords": [
+        "degradacion democratica",
+        "degradación democrática",
+        "democracia",
+        "democratico",
+        "democrático",
+        "democratica",
+        "democrática",
+        "totalitario",
+        "autoritarismo",
+        "autoritaria",
+        "autoritario"
+      ]
+    },
+    {
       "id": "protestas",
       "nombre": "Protestas y movilización social",
       "keywords": [
@@ -578,6 +653,18 @@
         "carta de naturaleza",
         "ciudadania",
         "ciudadanía"
+      ]
+    },
+    {
+      "id": "lengua_catalana",
+      "nombre": "Lengua catalana",
+      "keywords": [
+        "en catala",
+        "en català",
+        "llengua catalana",
+        "lengua catalana",
+        "parlar catala",
+        "parlar català"
       ]
     },
     {
@@ -635,7 +722,11 @@
         "sanchez",
         "sánchez",
         "sanchezcastejon",
-        "sanchismo"
+        "sanchismo",
+        "adios pedro",
+        "adiós pedro",
+        "antisanchista",
+        "antisanchistas"
       ]
     },
     {
@@ -916,7 +1007,11 @@
       "a ganar",
       "a guanyar",
       "reconstruccion nacional",
-      "reconstrucción nacional"
+      "reconstrucción nacional",
+      "hora de votar",
+      "papeleta",
+      "a por ello",
+      "nos vamos a votar"
     ],
     "agitacion_fallback": [
       "ganar",
