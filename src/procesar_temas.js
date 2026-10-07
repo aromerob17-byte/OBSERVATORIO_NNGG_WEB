@@ -111,13 +111,13 @@ function pertenece(post, bloque) {
 }
 
 const catalanNeutral = [
-  "independencia","independentisme","independentismo","sobiranisme","soberanismo",
+  "independencia","independentisme","independentismo","independentista","independentistas","sobiranisme","soberanismo",
   "paisos catalans","països catalans","proces","procés","secesion","secesión",
   "puigdemont","amnistia","amnistía","exilio","exili"
 ];
 
 const catalanFavor = [
-  "independencia","independentisme","sobiranisme","paisos catalans","països catalans",
+  "independencia","independentisme","independentista","independentistas","sobiranisme","paisos catalans","països catalans",
   "catalans lliures","catalunya lliure","retorn president","retorno president",
   "causa de la catalanitat","causa de la catalanidad"
 ];
@@ -156,7 +156,7 @@ const espanolFavor = [
   "viva espana","viva españa","espana o","españa o","por espana","por españa",
   "defender espana","defender españa","defender nuestra soberania",
   "defender nuestra soberanía","reconstruccion nacional","reconstrucción nacional",
-  "patria","espanoles","españoles","antiespanol","antiespañol",
+  "patria","antiespanol","antiespañol","traicion a espana","traición a españa",
   "espana es y sera","españa es y será"
 ];
 
@@ -173,7 +173,11 @@ function nacionalismoEspanolFavor(post) {
 
   return (
     pertenece(post, "derecha") &&
-    contieneAlguno(post, ["espana","españa","soberania","soberanía","patria"])
+    contieneAlguno(post, ["espana","españa"]) &&
+    contieneAlguno(post, [
+      "defender","soberania","soberanía","patria","nacion","nación",
+      "traicion","traición","reconstruccion","reconstrucción"
+    ])
   );
 }
 
@@ -305,6 +309,19 @@ for (const post of posts) {
     if (coincideTema(post, entidad)) {
       ids.add(entidad.id);
     }
+  }
+
+  if (
+    ids.has("fondos_buitre") ||
+    ids.has("desahucios") ||
+    ids.has("okupacion") ||
+    ids.has("maricarmen")
+  ) {
+    ids.add("vivienda");
+  }
+
+  if (ids.has("apagon")) {
+    ids.add("energia_clima");
   }
 
   if (nacionalismoCatalanFavor(post)) ids.add("nac_cat_favor");
