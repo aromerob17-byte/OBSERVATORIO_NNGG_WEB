@@ -209,6 +209,10 @@ function candidatosEmergentes() {
         return false;
       }
 
+      if (partes.includes("maricarmen") || item.clave.includes("mari carmen")) {
+        return false;
+      }
+
       return true;
     })
     .map(item => ({
