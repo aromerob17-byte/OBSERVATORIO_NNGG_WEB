@@ -1,60 +1,259 @@
 {
-  "generado_en": "2026-10-07T22:15:35.437Z",
+  "generado_en": "2026-10-07T22:18:30.701Z",
   "version_clasificador": 2,
   "metodologia": "Reglas temáticas estables + entidades + orientación explícita + agitación por fuente + hashtags emergentes validados.",
   "resumen": {
     "publicaciones_analizadas": 142,
-    "publicaciones_clasificadas": 98,
-    "cobertura": 69.01408450704226,
-    "temas_activos": 49,
+    "publicaciones_clasificadas": 128,
+    "cobertura": 90.14084507042254,
+    "temas_activos": 55,
     "temas_emergentes": 0
   },
   "temas": [
+    {
+      "id": "agitacion_derecha",
+      "nombre": "Agitación de Derecha",
+      "tipo": "estable",
+      "total": {
+        "tweets": 35,
+        "impresiones": 1574346,
+        "interacciones": 55144,
+        "likes": 40174,
+        "reposts": 9039,
+        "respuestas": 4919,
+        "citas": 1012,
+        "bookmarks": 1176,
+        "autores": 11,
+        "interacciones_por_tweet": 1575.5428571428572,
+        "impresiones_por_tweet": 44981.31428571429,
+        "engagement": 3.502660787399974
+      },
+      "organizaciones": {
+        "tweets": 9,
+        "impresiones": 982588,
+        "interacciones": 18663,
+        "likes": 13969,
+        "reposts": 1438,
+        "respuestas": 2515,
+        "citas": 741,
+        "bookmarks": 327,
+        "autores": 3,
+        "interacciones_por_tweet": 2073.6666666666665,
+        "impresiones_por_tweet": 109176.44444444444,
+        "engagement": 1.899371862876404
+      },
+      "personas": {
+        "tweets": 26,
+        "impresiones": 591758,
+        "interacciones": 36481,
+        "likes": 26205,
+        "reposts": 7601,
+        "respuestas": 2404,
+        "citas": 271,
+        "bookmarks": 849,
+        "autores": 8,
+        "interacciones_por_tweet": 1403.1153846153845,
+        "impresiones_por_tweet": 22759.923076923078,
+        "engagement": 6.164851172269746
+      },
+      "autores": [
+        {
+          "nombre": "Nuevas Generaciones de España",
+          "username": "NNGG_Es",
+          "tipo": "organizaciones",
+          "tweets": 5,
+          "interacciones": 14228,
+          "impresiones": 807874
+        },
+        {
+          "nombre": "Jon Echeverría",
+          "username": "Jon_Echeverria_",
+          "tipo": "personas",
+          "tweets": 4,
+          "interacciones": 10841,
+          "impresiones": 150375
+        },
+        {
+          "nombre": "Hugo Manchón",
+          "username": "hugomanchon",
+          "tipo": "personas",
+          "tweets": 2,
+          "interacciones": 10769,
+          "impresiones": 198594
+        },
+        {
+          "nombre": "Pepa Millán",
+          "username": "Pepa_Millan",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 10324,
+          "impresiones": 106929
+        },
+        {
+          "nombre": "Nuevas Generaciones de Madrid",
+          "username": "nnggmadrid",
+          "tipo": "organizaciones",
+          "tweets": 3,
+          "interacciones": 4367,
+          "impresiones": 173065
+        },
+        {
+          "nombre": "Ignacio Dancausa",
+          "username": "Idancausa",
+          "tipo": "personas",
+          "tweets": 2,
+          "interacciones": 1861,
+          "impresiones": 18868
+        },
+        {
+          "nombre": "Miguel Sastre Uyá",
+          "username": "migsasuya",
+          "tipo": "personas",
+          "tweets": 5,
+          "interacciones": 1004,
+          "impresiones": 10313
+        },
+        {
+          "nombre": "Andrea Llopart",
+          "username": "andreallopart",
+          "tipo": "personas",
+          "tweets": 5,
+          "interacciones": 763,
+          "impresiones": 95707
+        },
+        {
+          "nombre": "Noelia Núñez",
+          "username": "noelia_n",
+          "tipo": "personas",
+          "tweets": 4,
+          "interacciones": 748,
+          "impresiones": 8732
+        },
+        {
+          "nombre": "Álvaro Picazo",
+          "username": "picazzo_15",
+          "tipo": "personas",
+          "tweets": 3,
+          "interacciones": 171,
+          "impresiones": 2240
+        },
+        {
+          "nombre": "Revuelta",
+          "username": "revuelta_es",
+          "tipo": "organizaciones",
+          "tweets": 1,
+          "interacciones": 68,
+          "impresiones": 1649
+        }
+      ],
+      "ejemplos": [
+        {
+          "id": "2107006615656214680",
+          "autor": "Pepa Millán",
+          "username": "Pepa_Millan",
+          "tipo": "personas",
+          "fecha": "2026-10-05T07:14:58.000Z",
+          "texto": "Sánchez o España.",
+          "interacciones": 10324,
+          "impresiones": 106929
+        },
+        {
+          "id": "2107215360013504723",
+          "autor": "Jon Echeverría",
+          "username": "Jon_Echeverria_",
+          "tipo": "personas",
+          "fecha": "2026-10-05T21:04:26.000Z",
+          "texto": "Vaya videazo. https://t.co/PljJtrsvIJ",
+          "interacciones": 8067,
+          "impresiones": 92673
+        },
+        {
+          "id": "2107012867056922917",
+          "autor": "Hugo Manchón",
+          "username": "hugomanchon",
+          "tipo": "personas",
+          "fecha": "2026-10-05T07:39:48.000Z",
+          "texto": "TODOS A VOTAR. #29N https://t.co/Q8TI1BYafN",
+          "interacciones": 7740,
+          "impresiones": 56917
+        },
+        {
+          "id": "2107533298368983350",
+          "autor": "Nuevas Generaciones de España",
+          "username": "NNGG_Es",
+          "tipo": "organizaciones",
+          "fecha": "2026-10-06T18:07:49.000Z",
+          "texto": "El cáncer de ojo de Esparza sí que te parecía gracioso, ¿no? https://t.co/dwwXKVg4rQ https://t.co/SjKkbfthEI",
+          "interacciones": 6039,
+          "impresiones": 190310
+        },
+        {
+          "id": "2107523901622501726",
+          "autor": "Nuevas Generaciones de España",
+          "username": "NNGG_Es",
+          "tipo": "organizaciones",
+          "fecha": "2026-10-06T17:30:28.000Z",
+          "texto": "Por primera vez en días se duchan. https://t.co/9HpSVtX2fK",
+          "interacciones": 5614,
+          "impresiones": 526165
+        },
+        {
+          "id": "2107556245695811676",
+          "autor": "Hugo Manchón",
+          "username": "hugomanchon",
+          "tipo": "personas",
+          "fecha": "2026-10-06T19:39:00.000Z",
+          "texto": "8 años callados tragando millones en subvenciones y ahora salen todos a la calle. Acojonante.\n\nTodo orquestado. Temen perder el poder.\n\nEl 29N todos a votar. https://t.co/eTpNkeIgOd",
+          "interacciones": 3029,
+          "impresiones": 141677
+        }
+      ]
+    },
     {
       "id": "vivienda",
       "nombre": "Vivienda y alquiler",
       "tipo": "estable",
       "total": {
         "tweets": 35,
-        "impresiones": 596204,
-        "interacciones": 29243,
-        "likes": 22102,
-        "reposts": 4890,
-        "respuestas": 2029,
+        "impresiones": 596333,
+        "interacciones": 29249,
+        "likes": 22105,
+        "reposts": 4891,
+        "respuestas": 2031,
         "citas": 222,
         "bookmarks": 324,
         "autores": 15,
-        "interacciones_por_tweet": 835.5142857142857,
-        "impresiones_por_tweet": 17034.4,
-        "engagement": 4.904864777827724
+        "interacciones_por_tweet": 835.6857142857143,
+        "impresiones_por_tweet": 17038.085714285713,
+        "engagement": 4.904809896484012
       },
       "organizaciones": {
         "tweets": 10,
-        "impresiones": 26032,
-        "interacciones": 1571,
+        "impresiones": 26036,
+        "interacciones": 1572,
         "likes": 1071,
         "reposts": 343,
-        "respuestas": 136,
+        "respuestas": 137,
         "citas": 21,
         "bookmarks": 9,
         "autores": 5,
-        "interacciones_por_tweet": 157.1,
-        "impresiones_por_tweet": 2603.2,
-        "engagement": 6.034880147510756
+        "interacciones_por_tweet": 157.2,
+        "impresiones_por_tweet": 2603.6,
+        "engagement": 6.037793823936088
       },
       "personas": {
         "tweets": 25,
-        "impresiones": 570172,
-        "interacciones": 27672,
-        "likes": 21031,
-        "reposts": 4547,
-        "respuestas": 1893,
+        "impresiones": 570297,
+        "interacciones": 27677,
+        "likes": 21034,
+        "reposts": 4548,
+        "respuestas": 1894,
         "citas": 201,
         "bookmarks": 315,
         "autores": 10,
-        "interacciones_por_tweet": 1106.88,
-        "impresiones_por_tweet": 22806.88,
-        "engagement": 4.853272345888609
+        "interacciones_por_tweet": 1107.08,
+        "impresiones_por_tweet": 22811.88,
+        "engagement": 4.853085322209305
       },
       "autores": [
         {
@@ -62,8 +261,8 @@
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 5,
-          "interacciones": 18956,
-          "impresiones": 296564
+          "interacciones": 18957,
+          "impresiones": 296604
         },
         {
           "nombre": "Tesh Sidi",
@@ -71,7 +270,7 @@
           "tipo": "personas",
           "tweets": 4,
           "interacciones": 6547,
-          "impresiones": 238570
+          "impresiones": 238583
         },
         {
           "nombre": "Arran",
@@ -86,16 +285,16 @@
           "username": "EduardoFRub",
           "tipo": "personas",
           "tweets": 1,
-          "interacciones": 567,
-          "impresiones": 4481
+          "interacciones": 569,
+          "impresiones": 4498
         },
         {
           "nombre": "Víctor Camino",
           "username": "VictorCaminoVlc",
           "tipo": "personas",
           "tweets": 4,
-          "interacciones": 516,
-          "impresiones": 5783
+          "interacciones": 518,
+          "impresiones": 5816
         },
         {
           "nombre": "Noelia Núñez",
@@ -110,8 +309,8 @@
           "username": "JSE_ORG",
           "tipo": "organizaciones",
           "tweets": 2,
-          "interacciones": 488,
-          "impresiones": 2884
+          "interacciones": 489,
+          "impresiones": 2887
         },
         {
           "nombre": "Laure Vega",
@@ -119,7 +318,7 @@
           "tipo": "personas",
           "tweets": 2,
           "interacciones": 301,
-          "impresiones": 2924
+          "impresiones": 2943
         },
         {
           "nombre": "Hugo Manchón",
@@ -135,7 +334,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 87,
-          "impresiones": 969
+          "impresiones": 970
         },
         {
           "nombre": "Noves Generacions de Catalunya",
@@ -143,7 +342,7 @@
           "tipo": "organizaciones",
           "tweets": 2,
           "interacciones": 59,
-          "impresiones": 978
+          "impresiones": 979
         },
         {
           "nombre": "Miguel Sastre Uyá",
@@ -159,7 +358,7 @@
           "tipo": "personas",
           "tweets": 2,
           "interacciones": 57,
-          "impresiones": 1211
+          "impresiones": 1213
         },
         {
           "nombre": "Joventut Socialista de Catalunya",
@@ -187,7 +386,7 @@
           "fecha": "2026-10-06T00:06:11.000Z",
           "texto": "Las calles ahora mismo ardiendo en Barcelona por la vivienda.\n\nAllí gobierna el PSOE en municipio, Comunidad Autónoma y Gobierno central.\n\nCulpa de Ayuso. https://t.co/xU3f7hnHzW",
           "interacciones": 9182,
-          "impresiones": 79948
+          "impresiones": 79952
         },
         {
           "id": "2107510658648432858",
@@ -196,8 +395,8 @@
           "tipo": "personas",
           "fecha": "2026-10-06T16:37:51.000Z",
           "texto": "Acaban de desahuciar a una anciana de 82 años en Bilbao.\n\nAllí gobierna el PSOE en Ayuntamiento, Diputación, Comunidad Autónoma y Gobierno central.\n\nPor ella no sacarán decretos ni convocarán elecciones generales.\n\nCulpa de Ayuso. https://t.co/mpWZfk25L1",
-          "interacciones": 5926,
-          "impresiones": 142208
+          "interacciones": 5927,
+          "impresiones": 142240
         },
         {
           "id": "2107090016946041156",
@@ -217,7 +416,7 @@
           "fecha": "2026-10-06T16:32:06.000Z",
           "texto": "El PSOE presumiendo de vender a Blackrock un edificio del Gobierno para construir 153 pisos de lujo.\n\nEsta campaña promete. https://t.co/pfsqHOVeH2",
           "interacciones": 2519,
-          "impresiones": 52298
+          "impresiones": 52302
         },
         {
           "id": "2107031952431657354",
@@ -242,209 +441,50 @@
       ]
     },
     {
-      "id": "partido_psoe",
-      "nombre": "PSOE",
+      "id": "elecciones_29n",
+      "nombre": "Elecciones 29N",
       "tipo": "estable",
       "total": {
-        "tweets": 11,
-        "impresiones": 291616,
-        "interacciones": 18986,
-        "likes": 14578,
-        "reposts": 3454,
-        "respuestas": 818,
-        "citas": 136,
-        "bookmarks": 250,
-        "autores": 6,
-        "interacciones_por_tweet": 1726,
-        "impresiones_por_tweet": 26510.545454545456,
-        "engagement": 6.51061670141556
+        "tweets": 20,
+        "impresiones": 700736,
+        "interacciones": 24509,
+        "likes": 17128,
+        "reposts": 5156,
+        "respuestas": 2004,
+        "citas": 221,
+        "bookmarks": 460,
+        "autores": 10,
+        "interacciones_por_tweet": 1225.45,
+        "impresiones_por_tweet": 35036.8,
+        "engagement": 3.4976082290620143
       },
       "organizaciones": {
-        "tweets": 0,
-        "impresiones": 0,
-        "interacciones": 0,
-        "likes": 0,
-        "reposts": 0,
-        "respuestas": 0,
-        "citas": 0,
-        "bookmarks": 0,
-        "autores": 0,
-        "interacciones_por_tweet": 0,
-        "impresiones_por_tweet": 0,
-        "engagement": 0
+        "tweets": 7,
+        "impresiones": 133617,
+        "interacciones": 4744,
+        "likes": 3466,
+        "reposts": 628,
+        "respuestas": 580,
+        "citas": 70,
+        "bookmarks": 47,
+        "autores": 4,
+        "interacciones_por_tweet": 677.7142857142857,
+        "impresiones_por_tweet": 19088.14285714286,
+        "engagement": 3.5504464252303225
       },
       "personas": {
-        "tweets": 11,
-        "impresiones": 291616,
-        "interacciones": 18986,
-        "likes": 14578,
-        "reposts": 3454,
-        "respuestas": 818,
-        "citas": 136,
-        "bookmarks": 250,
+        "tweets": 13,
+        "impresiones": 567119,
+        "interacciones": 19765,
+        "likes": 13662,
+        "reposts": 4528,
+        "respuestas": 1424,
+        "citas": 151,
+        "bookmarks": 413,
         "autores": 6,
-        "interacciones_por_tweet": 1726,
-        "impresiones_por_tweet": 26510.545454545456,
-        "engagement": 6.51061670141556
-      },
-      "autores": [
-        {
-          "nombre": "Jon Echeverría",
-          "username": "Jon_Echeverria_",
-          "tipo": "personas",
-          "tweets": 4,
-          "interacciones": 17660,
-          "impresiones": 275583
-        },
-        {
-          "nombre": "Miguel Sastre Uyá",
-          "username": "migsasuya",
-          "tipo": "personas",
-          "tweets": 3,
-          "interacciones": 887,
-          "impresiones": 9198
-        },
-        {
-          "nombre": "Ignacio Dancausa",
-          "username": "Idancausa",
-          "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 278,
-          "impresiones": 3475
-        },
-        {
-          "nombre": "Hugo Manchón",
-          "username": "hugomanchon",
-          "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 89,
-          "impresiones": 1452
-        },
-        {
-          "nombre": "Víctor Camino",
-          "username": "VictorCaminoVlc",
-          "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 49,
-          "impresiones": 1208
-        },
-        {
-          "nombre": "Andrea Llopart",
-          "username": "andreallopart",
-          "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 23,
-          "impresiones": 700
-        }
-      ],
-      "ejemplos": [
-        {
-          "id": "2107261096839053548",
-          "autor": "Jon Echeverría",
-          "username": "Jon_Echeverria_",
-          "tipo": "personas",
-          "fecha": "2026-10-06T00:06:11.000Z",
-          "texto": "Las calles ahora mismo ardiendo en Barcelona por la vivienda.\n\nAllí gobierna el PSOE en municipio, Comunidad Autónoma y Gobierno central.\n\nCulpa de Ayuso. https://t.co/xU3f7hnHzW",
-          "interacciones": 9182,
-          "impresiones": 79948
-        },
-        {
-          "id": "2107510658648432858",
-          "autor": "Jon Echeverría",
-          "username": "Jon_Echeverria_",
-          "tipo": "personas",
-          "fecha": "2026-10-06T16:37:51.000Z",
-          "texto": "Acaban de desahuciar a una anciana de 82 años en Bilbao.\n\nAllí gobierna el PSOE en Ayuntamiento, Diputación, Comunidad Autónoma y Gobierno central.\n\nPor ella no sacarán decretos ni convocarán elecciones generales.\n\nCulpa de Ayuso. https://t.co/mpWZfk25L1",
-          "interacciones": 5926,
-          "impresiones": 142208
-        },
-        {
-          "id": "2107509210338509243",
-          "autor": "Jon Echeverría",
-          "username": "Jon_Echeverria_",
-          "tipo": "personas",
-          "fecha": "2026-10-06T16:32:06.000Z",
-          "texto": "El PSOE presumiendo de vender a Blackrock un edificio del Gobierno para construir 153 pisos de lujo.\n\nEsta campaña promete. https://t.co/pfsqHOVeH2",
-          "interacciones": 2519,
-          "impresiones": 52298
-        },
-        {
-          "id": "2107218914530775120",
-          "autor": "Miguel Sastre Uyá",
-          "username": "migsasuya",
-          "tipo": "personas",
-          "fecha": "2026-10-05T21:18:34.000Z",
-          "texto": "Gobierno estatal: PSOE\nGobierno autonómico: PSOE\n\n¿La culpa? Evidentemente, de las políticas de derechas… https://t.co/yDZvCrpYQJ",
-          "interacciones": 836,
-          "impresiones": 8226
-        },
-        {
-          "id": "2107507465793499601",
-          "autor": "Ignacio Dancausa",
-          "username": "Idancausa",
-          "tipo": "personas",
-          "fecha": "2026-10-06T16:25:10.000Z",
-          "texto": "Sí, el PSOE debe ser investigado por cohecho, tráfico de influencias, blanqueo, financiación ilegal y malversación.\n\nSu corrupción está arruinado España y es justo que paguen. https://t.co/z8Ac69r35g",
-          "interacciones": 278,
-          "impresiones": 3475
-        },
-        {
-          "id": "2107376750728814785",
-          "autor": "Hugo Manchón",
-          "username": "hugomanchon",
-          "tipo": "personas",
-          "fecha": "2026-10-06T07:45:45.000Z",
-          "texto": "8 años de PSOE y salís ahora. Para comer estáis vosotros, con los millones de Pedro y Yolanda. \n\nLa cesta de la compra y la luz años disparadas. La vivienda pasa de ser la preocupación 15 a la 1. Y vosotros, con las pancartas llenas de polvo y los megáfonos sin pilas desde Rajoy. https://t.co/wHVA9QE0mq",
-          "interacciones": 89,
-          "impresiones": 1452
-        }
-      ]
-    },
-    {
-      "id": "agitacion_derecha",
-      "nombre": "Agitación de Derecha",
-      "tipo": "estable",
-      "total": {
-        "tweets": 15,
-        "impresiones": 371047,
-        "interacciones": 17932,
-        "likes": 12188,
-        "reposts": 3861,
-        "respuestas": 1727,
-        "citas": 156,
-        "bookmarks": 368,
-        "autores": 8,
-        "interacciones_por_tweet": 1195.4666666666667,
-        "impresiones_por_tweet": 24736.466666666667,
-        "engagement": 4.83281093769792
-      },
-      "organizaciones": {
-        "tweets": 5,
-        "impresiones": 129784,
-        "interacciones": 4002,
-        "likes": 2860,
-        "reposts": 509,
-        "respuestas": 556,
-        "citas": 77,
-        "bookmarks": 52,
-        "autores": 2,
-        "interacciones_por_tweet": 800.4,
-        "impresiones_por_tweet": 25956.8,
-        "engagement": 3.0835850335942796
-      },
-      "personas": {
-        "tweets": 10,
-        "impresiones": 241263,
-        "interacciones": 13930,
-        "likes": 9328,
-        "reposts": 3352,
-        "respuestas": 1171,
-        "citas": 79,
-        "bookmarks": 316,
-        "autores": 6,
-        "interacciones_por_tweet": 1393,
-        "impresiones_por_tweet": 24126.3,
-        "engagement": 5.7737821381645755
+        "interacciones_por_tweet": 1520.3846153846155,
+        "impresiones_por_tweet": 43624.53846153846,
+        "engagement": 3.485159199392015
       },
       "autores": [
         {
@@ -453,198 +493,23 @@
           "tipo": "personas",
           "tweets": 2,
           "interacciones": 10769,
-          "impresiones": 198532
+          "impresiones": 198594
         },
-        {
-          "nombre": "Nuevas Generaciones de España",
-          "username": "NNGG_Es",
-          "tipo": "organizaciones",
-          "tweets": 3,
-          "interacciones": 2575,
-          "impresiones": 91399
-        },
-        {
-          "nombre": "Jon Echeverría",
-          "username": "Jon_Echeverria_",
-          "tipo": "personas",
-          "tweets": 2,
-          "interacciones": 1570,
-          "impresiones": 20784
-        },
-        {
-          "nombre": "Nuevas Generaciones de Madrid",
-          "username": "nnggmadrid",
-          "tipo": "organizaciones",
-          "tweets": 2,
-          "interacciones": 1427,
-          "impresiones": 38385
-        },
-        {
-          "nombre": "Noelia Núñez",
-          "username": "noelia_n",
-          "tipo": "personas",
-          "tweets": 3,
-          "interacciones": 747,
-          "impresiones": 10699
-        },
-        {
-          "nombre": "Ignacio Dancausa",
-          "username": "Idancausa",
-          "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 665,
-          "impresiones": 9329
-        },
-        {
-          "nombre": "Miguel Sastre Uyá",
-          "username": "migsasuya",
-          "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 104,
-          "impresiones": 881
-        },
-        {
-          "nombre": "Álvaro Picazo",
-          "username": "picazzo_15",
-          "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 75,
-          "impresiones": 1038
-        }
-      ],
-      "ejemplos": [
-        {
-          "id": "2107012867056922917",
-          "autor": "Hugo Manchón",
-          "username": "hugomanchon",
-          "tipo": "personas",
-          "fecha": "2026-10-05T07:39:48.000Z",
-          "texto": "TODOS A VOTAR. #29N https://t.co/Q8TI1BYafN",
-          "interacciones": 7740,
-          "impresiones": 56917
-        },
-        {
-          "id": "2107556245695811676",
-          "autor": "Hugo Manchón",
-          "username": "hugomanchon",
-          "tipo": "personas",
-          "fecha": "2026-10-06T19:39:00.000Z",
-          "texto": "8 años callados tragando millones en subvenciones y ahora salen todos a la calle. Acojonante.\n\nTodo orquestado. Temen perder el poder.\n\nEl 29N todos a votar. https://t.co/eTpNkeIgOd",
-          "interacciones": 3029,
-          "impresiones": 141615
-        },
-        {
-          "id": "2107051499541131352",
-          "autor": "Nuevas Generaciones de España",
-          "username": "NNGG_Es",
-          "tipo": "organizaciones",
-          "fecha": "2026-10-05T10:13:19.000Z",
-          "texto": "29 de noviembre. \n\nEllos o nosotros. https://t.co/wz4XPaGpxg",
-          "interacciones": 2314,
-          "impresiones": 86405
-        },
-        {
-          "id": "2107097216678543537",
-          "autor": "Jon Echeverría",
-          "username": "Jon_Echeverria_",
-          "tipo": "personas",
-          "fecha": "2026-10-05T13:14:59.000Z",
-          "texto": "Única y exclusivamente @NunezFeijoo puede echar a Pedro Sánchez.\n\nCuantos más votos, más reformas.\n\nA VOTAR EN MASA. https://t.co/4Sjlv4mHVL",
-          "interacciones": 1310,
-          "impresiones": 16861
-        },
-        {
-          "id": "2107373265077342257",
-          "autor": "Nuevas Generaciones de Madrid",
-          "username": "nnggmadrid",
-          "tipo": "organizaciones",
-          "fecha": "2026-10-06T07:31:54.000Z",
-          "texto": "29-N: RECONSTRUCCIÓN NACIONAL 🏗️🇪🇸 https://t.co/UnYNsbGF3v",
-          "interacciones": 947,
-          "impresiones": 19836
-        },
-        {
-          "id": "2107072257239482715",
-          "autor": "Ignacio Dancausa",
-          "username": "Idancausa",
-          "tipo": "personas",
-          "fecha": "2026-10-05T11:35:48.000Z",
-          "texto": "Comienza la RECONSTRUCCIÓN NACIONAL 🇪🇸\n\nVamos a tirar abajo todas y cada una de las políticas que nos han traído a la ruina, vamos a hacer las reformas generacionales y valientes que necesita España.\n\nA la orden presidente @NunezFeijoo 🫡 https://t.co/Ax4YsTOpJu",
-          "interacciones": 665,
-          "impresiones": 9329
-        }
-      ]
-    },
-    {
-      "id": "elecciones_29n",
-      "nombre": "Elecciones 29N",
-      "tipo": "estable",
-      "total": {
-        "tweets": 18,
-        "impresiones": 643316,
-        "interacciones": 16744,
-        "likes": 11729,
-        "reposts": 2983,
-        "respuestas": 1843,
-        "citas": 189,
-        "bookmarks": 277,
-        "autores": 10,
-        "interacciones_por_tweet": 930.2222222222222,
-        "impresiones_por_tweet": 35739.77777777778,
-        "engagement": 2.602764426813572
-      },
-      "organizaciones": {
-        "tweets": 6,
-        "impresiones": 133200,
-        "interacciones": 4724,
-        "likes": 3453,
-        "reposts": 624,
-        "respuestas": 577,
-        "citas": 70,
-        "bookmarks": 47,
-        "autores": 4,
-        "interacciones_por_tweet": 787.3333333333334,
-        "impresiones_por_tweet": 22200,
-        "engagement": 3.5465465465465464
-      },
-      "personas": {
-        "tweets": 12,
-        "impresiones": 510116,
-        "interacciones": 12020,
-        "likes": 8276,
-        "reposts": 2359,
-        "respuestas": 1266,
-        "citas": 119,
-        "bookmarks": 230,
-        "autores": 6,
-        "interacciones_por_tweet": 1001.6666666666666,
-        "impresiones_por_tweet": 42509.666666666664,
-        "engagement": 2.356326796258106
-      },
-      "autores": [
         {
           "nombre": "Tesh Sidi",
           "username": "teshsidi",
           "tipo": "personas",
           "tweets": 5,
           "interacciones": 4010,
-          "impresiones": 279263
+          "impresiones": 279266
         },
         {
           "nombre": "Pepa Millán",
           "username": "Pepa_Millan",
           "tipo": "personas",
           "tweets": 1,
-          "interacciones": 3145,
-          "impresiones": 16313
-        },
-        {
-          "nombre": "Hugo Manchón",
-          "username": "hugomanchon",
-          "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 3029,
-          "impresiones": 141615
+          "interacciones": 3150,
+          "impresiones": 16334
         },
         {
           "nombre": "Nuevas Generaciones de España",
@@ -652,7 +517,7 @@
           "tipo": "organizaciones",
           "tweets": 2,
           "interacciones": 2514,
-          "impresiones": 91561
+          "impresiones": 91567
         },
         {
           "nombre": "Nuevas Generaciones de Madrid",
@@ -692,18 +557,28 @@
           "tipo": "organizaciones",
           "tweets": 1,
           "interacciones": 181,
-          "impresiones": 1402
+          "impresiones": 1403
         },
         {
           "nombre": "Noves Generacions de Catalunya",
           "username": "NNGGcat",
           "tipo": "organizaciones",
-          "tweets": 2,
-          "interacciones": 49,
-          "impresiones": 768
+          "tweets": 3,
+          "interacciones": 69,
+          "impresiones": 1178
         }
       ],
       "ejemplos": [
+        {
+          "id": "2107012867056922917",
+          "autor": "Hugo Manchón",
+          "username": "hugomanchon",
+          "tipo": "personas",
+          "fecha": "2026-10-05T07:39:48.000Z",
+          "texto": "TODOS A VOTAR. #29N https://t.co/Q8TI1BYafN",
+          "interacciones": 7740,
+          "impresiones": 56917
+        },
         {
           "id": "2107823713190064447",
           "autor": "Pepa Millán",
@@ -711,8 +586,8 @@
           "tipo": "personas",
           "fecha": "2026-10-07T13:21:49.000Z",
           "texto": "No era convivencia, era conveniencia.\n\nEl 29 de noviembre tenemos la oportunidad de dejar de ser la moneda de cambio de las minorías antiespañolas. https://t.co/JYYQdydroo",
-          "interacciones": 3145,
-          "impresiones": 16313
+          "interacciones": 3150,
+          "impresiones": 16334
         },
         {
           "id": "2107556245695811676",
@@ -722,7 +597,7 @@
           "fecha": "2026-10-06T19:39:00.000Z",
           "texto": "8 años callados tragando millones en subvenciones y ahora salen todos a la calle. Acojonante.\n\nTodo orquestado. Temen perder el poder.\n\nEl 29N todos a votar. https://t.co/eTpNkeIgOd",
           "interacciones": 3029,
-          "impresiones": 141615
+          "impresiones": 141677
         },
         {
           "id": "2107051499541131352",
@@ -753,36 +628,26 @@
           "texto": "Un día triste en lo personal y para el pueblo saharaui. Las últimas vías las tiene el PP en el Senado y el gobierno vía real decreto(carta de naturaleza)\n\nLos saharauis se quedan sin la ley para obtener la nacionalidad a dos semanas de su aprobación por el adelanto electoral",
           "interacciones": 1446,
           "impresiones": 61916
-        },
-        {
-          "id": "2107031952431657354",
-          "autor": "Tesh Sidi",
-          "username": "teshsidi",
-          "tipo": "personas",
-          "fecha": "2026-10-05T08:55:38.000Z",
-          "texto": "Vivienda, vivienda y vivienda! \n\n29.11.2026",
-          "interacciones": 1059,
-          "impresiones": 139285
         }
       ]
     },
     {
-      "id": "actor_ayuso",
-      "nombre": "Ayuso",
+      "id": "partido_psoe",
+      "nombre": "PSOE",
       "tipo": "estable",
       "total": {
-        "tweets": 2,
-        "impresiones": 222156,
-        "interacciones": 15108,
-        "likes": 11439,
-        "reposts": 2803,
-        "respuestas": 735,
-        "citas": 131,
-        "bookmarks": 165,
-        "autores": 1,
-        "interacciones_por_tweet": 7554,
-        "impresiones_por_tweet": 111078,
-        "engagement": 6.800626586722844
+        "tweets": 11,
+        "impresiones": 291658,
+        "interacciones": 18987,
+        "likes": 14578,
+        "reposts": 3454,
+        "respuestas": 819,
+        "citas": 136,
+        "bookmarks": 250,
+        "autores": 6,
+        "interacciones_por_tweet": 1726.090909090909,
+        "impresiones_por_tweet": 26514.363636363636,
+        "engagement": 6.510022012082644
       },
       "organizaciones": {
         "tweets": 0,
@@ -799,27 +664,67 @@
         "engagement": 0
       },
       "personas": {
-        "tweets": 2,
-        "impresiones": 222156,
-        "interacciones": 15108,
-        "likes": 11439,
-        "reposts": 2803,
-        "respuestas": 735,
-        "citas": 131,
-        "bookmarks": 165,
-        "autores": 1,
-        "interacciones_por_tweet": 7554,
-        "impresiones_por_tweet": 111078,
-        "engagement": 6.800626586722844
+        "tweets": 11,
+        "impresiones": 291658,
+        "interacciones": 18987,
+        "likes": 14578,
+        "reposts": 3454,
+        "respuestas": 819,
+        "citas": 136,
+        "bookmarks": 250,
+        "autores": 6,
+        "interacciones_por_tweet": 1726.090909090909,
+        "impresiones_por_tweet": 26514.363636363636,
+        "engagement": 6.510022012082644
       },
       "autores": [
         {
           "nombre": "Jon Echeverría",
           "username": "Jon_Echeverria_",
           "tipo": "personas",
-          "tweets": 2,
-          "interacciones": 15108,
-          "impresiones": 222156
+          "tweets": 4,
+          "interacciones": 17661,
+          "impresiones": 275623
+        },
+        {
+          "nombre": "Miguel Sastre Uyá",
+          "username": "migsasuya",
+          "tipo": "personas",
+          "tweets": 3,
+          "interacciones": 887,
+          "impresiones": 9198
+        },
+        {
+          "nombre": "Ignacio Dancausa",
+          "username": "Idancausa",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 278,
+          "impresiones": 3475
+        },
+        {
+          "nombre": "Hugo Manchón",
+          "username": "hugomanchon",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 89,
+          "impresiones": 1452
+        },
+        {
+          "nombre": "Víctor Camino",
+          "username": "VictorCaminoVlc",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 49,
+          "impresiones": 1208
+        },
+        {
+          "nombre": "Andrea Llopart",
+          "username": "andreallopart",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 23,
+          "impresiones": 702
         }
       ],
       "ejemplos": [
@@ -831,7 +736,7 @@
           "fecha": "2026-10-06T00:06:11.000Z",
           "texto": "Las calles ahora mismo ardiendo en Barcelona por la vivienda.\n\nAllí gobierna el PSOE en municipio, Comunidad Autónoma y Gobierno central.\n\nCulpa de Ayuso. https://t.co/xU3f7hnHzW",
           "interacciones": 9182,
-          "impresiones": 79948
+          "impresiones": 79952
         },
         {
           "id": "2107510658648432858",
@@ -840,8 +745,48 @@
           "tipo": "personas",
           "fecha": "2026-10-06T16:37:51.000Z",
           "texto": "Acaban de desahuciar a una anciana de 82 años en Bilbao.\n\nAllí gobierna el PSOE en Ayuntamiento, Diputación, Comunidad Autónoma y Gobierno central.\n\nPor ella no sacarán decretos ni convocarán elecciones generales.\n\nCulpa de Ayuso. https://t.co/mpWZfk25L1",
-          "interacciones": 5926,
-          "impresiones": 142208
+          "interacciones": 5927,
+          "impresiones": 142240
+        },
+        {
+          "id": "2107509210338509243",
+          "autor": "Jon Echeverría",
+          "username": "Jon_Echeverria_",
+          "tipo": "personas",
+          "fecha": "2026-10-06T16:32:06.000Z",
+          "texto": "El PSOE presumiendo de vender a Blackrock un edificio del Gobierno para construir 153 pisos de lujo.\n\nEsta campaña promete. https://t.co/pfsqHOVeH2",
+          "interacciones": 2519,
+          "impresiones": 52302
+        },
+        {
+          "id": "2107218914530775120",
+          "autor": "Miguel Sastre Uyá",
+          "username": "migsasuya",
+          "tipo": "personas",
+          "fecha": "2026-10-05T21:18:34.000Z",
+          "texto": "Gobierno estatal: PSOE\nGobierno autonómico: PSOE\n\n¿La culpa? Evidentemente, de las políticas de derechas… https://t.co/yDZvCrpYQJ",
+          "interacciones": 836,
+          "impresiones": 8226
+        },
+        {
+          "id": "2107507465793499601",
+          "autor": "Ignacio Dancausa",
+          "username": "Idancausa",
+          "tipo": "personas",
+          "fecha": "2026-10-06T16:25:10.000Z",
+          "texto": "Sí, el PSOE debe ser investigado por cohecho, tráfico de influencias, blanqueo, financiación ilegal y malversación.\n\nSu corrupción está arruinado España y es justo que paguen. https://t.co/z8Ac69r35g",
+          "interacciones": 278,
+          "impresiones": 3475
+        },
+        {
+          "id": "2107376750728814785",
+          "autor": "Hugo Manchón",
+          "username": "hugomanchon",
+          "tipo": "personas",
+          "fecha": "2026-10-06T07:45:45.000Z",
+          "texto": "8 años de PSOE y salís ahora. Para comer estáis vosotros, con los millones de Pedro y Yolanda. \n\nLa cesta de la compra y la luz años disparadas. La vivienda pasa de ser la preocupación 15 a la 1. Y vosotros, con las pancartas llenas de polvo y los megáfonos sin pilas desde Rajoy. https://t.co/wHVA9QE0mq",
+          "interacciones": 89,
+          "impresiones": 1452
         }
       ]
     },
@@ -850,22 +795,22 @@
       "nombre": "Sánchez",
       "tipo": "estable",
       "total": {
-        "tweets": 13,
-        "impresiones": 222248,
-        "interacciones": 14708,
-        "likes": 10622,
-        "reposts": 1981,
-        "respuestas": 1956,
-        "citas": 149,
-        "bookmarks": 63,
-        "autores": 8,
-        "interacciones_por_tweet": 1131.3846153846155,
-        "impresiones_por_tweet": 17096,
-        "engagement": 6.617832331449552
+        "tweets": 17,
+        "impresiones": 229316,
+        "interacciones": 15515,
+        "likes": 11255,
+        "reposts": 2121,
+        "respuestas": 1985,
+        "citas": 154,
+        "bookmarks": 64,
+        "autores": 11,
+        "interacciones_por_tweet": 912.6470588235294,
+        "impresiones_por_tweet": 13489.176470588236,
+        "engagement": 6.765772994470512
       },
       "organizaciones": {
         "tweets": 6,
-        "impresiones": 14745,
+        "impresiones": 14753,
         "interacciones": 567,
         "likes": 383,
         "reposts": 105,
@@ -874,22 +819,22 @@
         "bookmarks": 7,
         "autores": 3,
         "interacciones_por_tweet": 94.5,
-        "impresiones_por_tweet": 2457.5,
-        "engagement": 3.845371312309257
+        "impresiones_por_tweet": 2458.8333333333335,
+        "engagement": 3.843286111299397
       },
       "personas": {
-        "tweets": 7,
-        "impresiones": 207503,
-        "interacciones": 14141,
-        "likes": 10239,
-        "reposts": 1876,
-        "respuestas": 1882,
-        "citas": 144,
-        "bookmarks": 56,
-        "autores": 5,
-        "interacciones_por_tweet": 2020.142857142857,
-        "impresiones_por_tweet": 29643.285714285714,
-        "engagement": 6.814841231211115
+        "tweets": 11,
+        "impresiones": 214563,
+        "interacciones": 14948,
+        "likes": 10872,
+        "reposts": 2016,
+        "respuestas": 1911,
+        "citas": 149,
+        "bookmarks": 57,
+        "autores": 8,
+        "interacciones_por_tweet": 1358.909090909091,
+        "impresiones_por_tweet": 19505.727272727272,
+        "engagement": 6.9667183997240905
       },
       "autores": [
         {
@@ -906,7 +851,7 @@
           "tipo": "personas",
           "tweets": 3,
           "interacciones": 2841,
-          "impresiones": 46927
+          "impresiones": 46930
         },
         {
           "nombre": "Álvaro Picazo",
@@ -917,12 +862,20 @@
           "impresiones": 7950
         },
         {
+          "nombre": "Aránzazu Figueroa",
+          "username": "Aranza8_8",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 464,
+          "impresiones": 2711
+        },
+        {
           "nombre": "Víctor Camino",
           "username": "VictorCaminoVlc",
           "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 397,
-          "impresiones": 45201
+          "tweets": 2,
+          "interacciones": 443,
+          "impresiones": 46208
         },
         {
           "nombre": "Nuevas Generaciones de España",
@@ -930,7 +883,15 @@
           "tipo": "organizaciones",
           "tweets": 2,
           "interacciones": 383,
-          "impresiones": 11236
+          "impresiones": 11242
+        },
+        {
+          "nombre": "Noelia Núñez",
+          "username": "noelia_n",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 291,
+          "impresiones": 3084
         },
         {
           "nombre": "Revuelta",
@@ -938,7 +899,7 @@
           "tipo": "organizaciones",
           "tweets": 2,
           "interacciones": 135,
-          "impresiones": 2741
+          "impresiones": 2743
         },
         {
           "nombre": "Noves Generacions de Catalunya",
@@ -955,6 +916,14 @@
           "tweets": 1,
           "interacciones": 26,
           "impresiones": 496
+        },
+        {
+          "nombre": "Hugo Manchón",
+          "username": "hugomanchon",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 6,
+          "impresiones": 255
         }
       ],
       "ejemplos": [
@@ -986,7 +955,7 @@
           "fecha": "2026-10-06T16:35:52.000Z",
           "texto": "María Jesús Montero ha decidido vengarse de Sánchez autosaboteando la campaña electoral. https://t.co/SuOMg8IW8P",
           "interacciones": 769,
-          "impresiones": 12538
+          "impresiones": 12541
         },
         {
           "id": "2107057749557453037",
@@ -1009,14 +978,329 @@
           "impresiones": 7950
         },
         {
-          "id": "2107006010275557393",
-          "autor": "Víctor Camino",
+          "id": "2107052564885692464",
+          "autor": "Aránzazu Figueroa",
+          "username": "Aranza8_8",
+          "tipo": "personas",
+          "fecha": "2026-10-05T10:17:33.000Z",
+          "texto": "Hoy más que nunca, contigo. \n\nPor seguir dignificando a la clase trabajadora de este país. Por la juventud, por la libertad, por la humanidad, por nosotras. \n\nAdelante @sanchezcastejon ✊🏼🌹❤️ https://t.co/ADyiQJr7qx",
+          "interacciones": 464,
+          "impresiones": 2711
+        }
+      ]
+    },
+    {
+      "id": "actor_ayuso",
+      "nombre": "Ayuso",
+      "tipo": "estable",
+      "total": {
+        "tweets": 2,
+        "impresiones": 222192,
+        "interacciones": 15109,
+        "likes": 11439,
+        "reposts": 2803,
+        "respuestas": 736,
+        "citas": 131,
+        "bookmarks": 165,
+        "autores": 1,
+        "interacciones_por_tweet": 7554.5,
+        "impresiones_por_tweet": 111096,
+        "engagement": 6.799974796572333
+      },
+      "organizaciones": {
+        "tweets": 0,
+        "impresiones": 0,
+        "interacciones": 0,
+        "likes": 0,
+        "reposts": 0,
+        "respuestas": 0,
+        "citas": 0,
+        "bookmarks": 0,
+        "autores": 0,
+        "interacciones_por_tweet": 0,
+        "impresiones_por_tweet": 0,
+        "engagement": 0
+      },
+      "personas": {
+        "tweets": 2,
+        "impresiones": 222192,
+        "interacciones": 15109,
+        "likes": 11439,
+        "reposts": 2803,
+        "respuestas": 736,
+        "citas": 131,
+        "bookmarks": 165,
+        "autores": 1,
+        "interacciones_por_tweet": 7554.5,
+        "impresiones_por_tweet": 111096,
+        "engagement": 6.799974796572333
+      },
+      "autores": [
+        {
+          "nombre": "Jon Echeverría",
+          "username": "Jon_Echeverria_",
+          "tipo": "personas",
+          "tweets": 2,
+          "interacciones": 15109,
+          "impresiones": 222192
+        }
+      ],
+      "ejemplos": [
+        {
+          "id": "2107261096839053548",
+          "autor": "Jon Echeverría",
+          "username": "Jon_Echeverria_",
+          "tipo": "personas",
+          "fecha": "2026-10-06T00:06:11.000Z",
+          "texto": "Las calles ahora mismo ardiendo en Barcelona por la vivienda.\n\nAllí gobierna el PSOE en municipio, Comunidad Autónoma y Gobierno central.\n\nCulpa de Ayuso. https://t.co/xU3f7hnHzW",
+          "interacciones": 9182,
+          "impresiones": 79952
+        },
+        {
+          "id": "2107510658648432858",
+          "autor": "Jon Echeverría",
+          "username": "Jon_Echeverria_",
+          "tipo": "personas",
+          "fecha": "2026-10-06T16:37:51.000Z",
+          "texto": "Acaban de desahuciar a una anciana de 82 años en Bilbao.\n\nAllí gobierna el PSOE en Ayuntamiento, Diputación, Comunidad Autónoma y Gobierno central.\n\nPor ella no sacarán decretos ni convocarán elecciones generales.\n\nCulpa de Ayuso. https://t.co/mpWZfk25L1",
+          "interacciones": 5927,
+          "impresiones": 142240
+        }
+      ]
+    },
+    {
+      "id": "agitacion_izquierda",
+      "nombre": "Agitación de Izquierda",
+      "tipo": "estable",
+      "total": {
+        "tweets": 21,
+        "impresiones": 174705,
+        "interacciones": 13671,
+        "likes": 9900,
+        "reposts": 2351,
+        "respuestas": 1350,
+        "citas": 70,
+        "bookmarks": 90,
+        "autores": 7,
+        "interacciones_por_tweet": 651,
+        "impresiones_por_tweet": 8319.285714285714,
+        "engagement": 7.825191036318365
+      },
+      "organizaciones": {
+        "tweets": 11,
+        "impresiones": 69306,
+        "interacciones": 9769,
+        "likes": 6969,
+        "reposts": 1817,
+        "respuestas": 934,
+        "citas": 49,
+        "bookmarks": 62,
+        "autores": 4,
+        "interacciones_por_tweet": 888.0909090909091,
+        "impresiones_por_tweet": 6300.545454545455,
+        "engagement": 14.095460710472398
+      },
+      "personas": {
+        "tweets": 10,
+        "impresiones": 105399,
+        "interacciones": 3902,
+        "likes": 2931,
+        "reposts": 534,
+        "respuestas": 416,
+        "citas": 21,
+        "bookmarks": 28,
+        "autores": 3,
+        "interacciones_por_tweet": 390.2,
+        "impresiones_por_tweet": 10539.9,
+        "engagement": 3.7021224110285673
+      },
+      "autores": [
+        {
+          "nombre": "Juventudes Socialistas de España",
+          "username": "JSE_ORG",
+          "tipo": "organizaciones",
+          "tweets": 7,
+          "interacciones": 9403,
+          "impresiones": 63252
+        },
+        {
+          "nombre": "Tesh Sidi",
+          "username": "teshsidi",
+          "tipo": "personas",
+          "tweets": 6,
+          "interacciones": 2784,
+          "impresiones": 54871
+        },
+        {
+          "nombre": "Víctor Camino",
           "username": "VictorCaminoVlc",
           "tipo": "personas",
-          "fecha": "2026-10-05T07:12:33.000Z",
-          "texto": "Nos vamos a votar. \n\nPedro Sánchez anuncia un adelanto electoral para el 29 de noviembre para ampliar la mayoría parlamentaria de la izquierda.\n\nQueda aún mucho por avanzar. https://t.co/iqFUX0UXSl",
-          "interacciones": 397,
-          "impresiones": 45201
+          "tweets": 3,
+          "interacciones": 654,
+          "impresiones": 47817
+        },
+        {
+          "nombre": "Aránzazu Figueroa",
+          "username": "Aranza8_8",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 464,
+          "impresiones": 2711
+        },
+        {
+          "nombre": "Arran",
+          "username": "Arran_jovent",
+          "tipo": "organizaciones",
+          "tweets": 2,
+          "interacciones": 306,
+          "impresiones": 5097
+        },
+        {
+          "nombre": "Joventut Socialista de Catalunya",
+          "username": "jsccatalunya",
+          "tipo": "organizaciones",
+          "tweets": 1,
+          "interacciones": 45,
+          "impresiones": 568
+        },
+        {
+          "nombre": "Jovent Republicà",
+          "username": "JoventRepublica",
+          "tipo": "organizaciones",
+          "tweets": 1,
+          "interacciones": 15,
+          "impresiones": 389
+        }
+      ],
+      "ejemplos": [
+        {
+          "id": "2107031166016766071",
+          "autor": "Juventudes Socialistas de España",
+          "username": "JSE_ORG",
+          "tipo": "organizaciones",
+          "fecha": "2026-10-05T08:52:31.000Z",
+          "texto": "ESPAÑA ES Y SERÁ ANTIFASCISTA \n\nVamos con todo ❤️‍🔥 https://t.co/OwqHiO9bog",
+          "interacciones": 4213,
+          "impresiones": 25604
+        },
+        {
+          "id": "2107558061561016481",
+          "autor": "Juventudes Socialistas de España",
+          "username": "JSE_ORG",
+          "tipo": "organizaciones",
+          "fecha": "2026-10-06T19:46:13.000Z",
+          "texto": "Lo que deberíais hacer vosotros es lavaros la boca en vez de reíros de la gente que está defendiendo sus derechos y los vuestros. https://t.co/PvwmYwiGT9",
+          "interacciones": 2285,
+          "impresiones": 20667
+        },
+        {
+          "id": "2107410416150139203",
+          "autor": "Tesh Sidi",
+          "username": "teshsidi",
+          "tipo": "personas",
+          "fecha": "2026-10-06T09:59:31.000Z",
+          "texto": "Habéis votado con PP y VOX toda la legislatura. Lleváis gobernado juntos 3 años. https://t.co/5eIANPcoFG",
+          "interacciones": 1351,
+          "impresiones": 29901
+        },
+        {
+          "id": "2107155636714959008",
+          "autor": "Juventudes Socialistas de España",
+          "username": "JSE_ORG",
+          "tipo": "organizaciones",
+          "fecha": "2026-10-05T17:07:07.000Z",
+          "texto": "NI UN PASO ATRÁS 🔥\n\nVamos a por todas ✊🏼 https://t.co/t7pe4Z6cQp",
+          "interacciones": 1119,
+          "impresiones": 5070
+        },
+        {
+          "id": "2107014610486235538",
+          "autor": "Juventudes Socialistas de España",
+          "username": "JSE_ORG",
+          "tipo": "organizaciones",
+          "fecha": "2026-10-05T07:46:44.000Z",
+          "texto": "Aún quedan muchas injusticias que corregir, muchas metas sociales que conquistar y muchos problemas que resolver. \n\nDebemos movilizarnos, necesitamos una mayoría progresista para seguir transformando España. https://t.co/6QlehKm6jm",
+          "interacciones": 838,
+          "impresiones": 4567
+        },
+        {
+          "id": "2107377609244020747",
+          "autor": "Juventudes Socialistas de España",
+          "username": "JSE_ORG",
+          "tipo": "organizaciones",
+          "fecha": "2026-10-06T07:49:09.000Z",
+          "texto": "Estos son los supuestos moderados.\n\nSe burlan de una rotura de cuádriceps y deshumanizan a quienes no piensan como ellos.\n\nInmorales y crueles. https://t.co/zIr0L8MYU7 https://t.co/dhlwoLti44",
+          "interacciones": 652,
+          "impresiones": 4923
+        }
+      ]
+    },
+    {
+      "id": "marruecos",
+      "nombre": "Marruecos",
+      "tipo": "estable",
+      "total": {
+        "tweets": 1,
+        "impresiones": 540029,
+        "interacciones": 8246,
+        "likes": 7052,
+        "reposts": 720,
+        "respuestas": 281,
+        "citas": 193,
+        "bookmarks": 441,
+        "autores": 1,
+        "interacciones_por_tweet": 8246,
+        "impresiones_por_tweet": 540029,
+        "engagement": 1.5269550338963278
+      },
+      "organizaciones": {
+        "tweets": 1,
+        "impresiones": 540029,
+        "interacciones": 8246,
+        "likes": 7052,
+        "reposts": 720,
+        "respuestas": 281,
+        "citas": 193,
+        "bookmarks": 441,
+        "autores": 1,
+        "interacciones_por_tweet": 8246,
+        "impresiones_por_tweet": 540029,
+        "engagement": 1.5269550338963278
+      },
+      "personas": {
+        "tweets": 0,
+        "impresiones": 0,
+        "interacciones": 0,
+        "likes": 0,
+        "reposts": 0,
+        "respuestas": 0,
+        "citas": 0,
+        "bookmarks": 0,
+        "autores": 0,
+        "interacciones_por_tweet": 0,
+        "impresiones_por_tweet": 0,
+        "engagement": 0
+      },
+      "autores": [
+        {
+          "nombre": "Nuevas Generaciones de Madrid",
+          "username": "nnggmadrid",
+          "tipo": "organizaciones",
+          "tweets": 1,
+          "interacciones": 8246,
+          "impresiones": 540029
+        }
+      ],
+      "ejemplos": [
+        {
+          "id": "2107782588098080840",
+          "autor": "Nuevas Generaciones de Madrid",
+          "username": "nnggmadrid",
+          "tipo": "organizaciones",
+          "fecha": "2026-10-07T10:38:24.000Z",
+          "texto": "Comunicado de nuestro presidente أحب الفاكهة 🇲🇦🤲🏻 https://t.co/3e63e8Q8yG",
+          "interacciones": 8246,
+          "impresiones": 540029
         }
       ]
     },
@@ -1026,7 +1310,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 6,
-        "impresiones": 163133,
+        "impresiones": 163138,
         "interacciones": 7961,
         "likes": 6450,
         "reposts": 1060,
@@ -1035,8 +1319,8 @@
         "bookmarks": 111,
         "autores": 5,
         "interacciones_por_tweet": 1326.8333333333333,
-        "impresiones_por_tweet": 27188.833333333332,
-        "engagement": 4.880067184444594
+        "impresiones_por_tweet": 27189.666666666668,
+        "engagement": 4.87991761576089
       },
       "organizaciones": {
         "tweets": 1,
@@ -1054,7 +1338,7 @@
       },
       "personas": {
         "tweets": 5,
-        "impresiones": 162565,
+        "impresiones": 162570,
         "interacciones": 7916,
         "likes": 6417,
         "reposts": 1049,
@@ -1063,8 +1347,8 @@
         "bookmarks": 111,
         "autores": 4,
         "interacciones_por_tweet": 1583.2,
-        "impresiones_por_tweet": 32513,
-        "engagement": 4.869436840648357
+        "impresiones_por_tweet": 32514,
+        "engagement": 4.869287076336348
       },
       "autores": [
         {
@@ -1081,7 +1365,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 2519,
-          "impresiones": 52298
+          "impresiones": 52302
         },
         {
           "nombre": "Noelia Núñez",
@@ -1105,7 +1389,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 13,
-          "impresiones": 126
+          "impresiones": 127
         }
       ],
       "ejemplos": [
@@ -1127,7 +1411,7 @@
           "fecha": "2026-10-06T16:32:06.000Z",
           "texto": "El PSOE presumiendo de vender a Blackrock un edificio del Gobierno para construir 153 pisos de lujo.\n\nEsta campaña promete. https://t.co/pfsqHOVeH2",
           "interacciones": 2519,
-          "impresiones": 52298
+          "impresiones": 52302
         },
         {
           "id": "2107001633561354448",
@@ -1167,166 +1451,7 @@
           "fecha": "2026-10-07T20:02:20.000Z",
           "texto": "@EnCornetGalera Mira, a mi el diastema a les dents em fa vergonya, però més vergonya em faria contestar això quan algú parla de que hi ha catalans que es lleven la vida perquè un fons voltor sumi zeros al seu compte i que hagi mort una dona gran després d'un desnonament.",
           "interacciones": 13,
-          "impresiones": 126
-        }
-      ]
-    },
-    {
-      "id": "agitacion_izquierda",
-      "nombre": "Agitación de Izquierda",
-      "tipo": "estable",
-      "total": {
-        "tweets": 12,
-        "impresiones": 96150,
-        "interacciones": 7947,
-        "likes": 5428,
-        "reposts": 1588,
-        "respuestas": 881,
-        "citas": 50,
-        "bookmarks": 51,
-        "autores": 6,
-        "interacciones_por_tweet": 662.25,
-        "impresiones_por_tweet": 8012.5,
-        "engagement": 8.265210608424336
-      },
-      "organizaciones": {
-        "tweets": 8,
-        "impresiones": 43325,
-        "interacciones": 6817,
-        "likes": 4727,
-        "reposts": 1349,
-        "respuestas": 700,
-        "citas": 41,
-        "bookmarks": 48,
-        "autores": 3,
-        "interacciones_por_tweet": 852.125,
-        "impresiones_por_tweet": 5415.625,
-        "engagement": 15.734564339296018
-      },
-      "personas": {
-        "tweets": 4,
-        "impresiones": 52825,
-        "interacciones": 1130,
-        "likes": 701,
-        "reposts": 239,
-        "respuestas": 181,
-        "citas": 9,
-        "bookmarks": 3,
-        "autores": 3,
-        "interacciones_por_tweet": 282.5,
-        "impresiones_por_tweet": 13206.25,
-        "engagement": 2.1391386654046376
-      },
-      "autores": [
-        {
-          "nombre": "Juventudes Socialistas de España",
-          "username": "JSE_ORG",
-          "tipo": "organizaciones",
-          "tweets": 5,
-          "interacciones": 6466,
-          "impresiones": 37661
-        },
-        {
-          "nombre": "Víctor Camino",
-          "username": "VictorCaminoVlc",
-          "tipo": "personas",
-          "tweets": 2,
-          "interacciones": 608,
-          "impresiones": 46810
-        },
-        {
-          "nombre": "Aránzazu Figueroa",
-          "username": "Aranza8_8",
-          "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 464,
-          "impresiones": 2711
-        },
-        {
-          "nombre": "Arran",
-          "username": "Arran_jovent",
-          "tipo": "organizaciones",
-          "tweets": 2,
-          "interacciones": 306,
-          "impresiones": 5096
-        },
-        {
-          "nombre": "Tesh Sidi",
-          "username": "teshsidi",
-          "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 58,
-          "impresiones": 3304
-        },
-        {
-          "nombre": "Joventut Socialista de Catalunya",
-          "username": "jsccatalunya",
-          "tipo": "organizaciones",
-          "tweets": 1,
-          "interacciones": 45,
-          "impresiones": 568
-        }
-      ],
-      "ejemplos": [
-        {
-          "id": "2107031166016766071",
-          "autor": "Juventudes Socialistas de España",
-          "username": "JSE_ORG",
-          "tipo": "organizaciones",
-          "fecha": "2026-10-05T08:52:31.000Z",
-          "texto": "ESPAÑA ES Y SERÁ ANTIFASCISTA \n\nVamos con todo ❤️‍🔥 https://t.co/OwqHiO9bog",
-          "interacciones": 4213,
-          "impresiones": 25604
-        },
-        {
-          "id": "2107155636714959008",
-          "autor": "Juventudes Socialistas de España",
-          "username": "JSE_ORG",
-          "tipo": "organizaciones",
-          "fecha": "2026-10-05T17:07:07.000Z",
-          "texto": "NI UN PASO ATRÁS 🔥\n\nVamos a por todas ✊🏼 https://t.co/t7pe4Z6cQp",
-          "interacciones": 1119,
-          "impresiones": 5070
-        },
-        {
-          "id": "2107014610486235538",
-          "autor": "Juventudes Socialistas de España",
-          "username": "JSE_ORG",
-          "tipo": "organizaciones",
-          "fecha": "2026-10-05T07:46:44.000Z",
-          "texto": "Aún quedan muchas injusticias que corregir, muchas metas sociales que conquistar y muchos problemas que resolver. \n\nDebemos movilizarnos, necesitamos una mayoría progresista para seguir transformando España. https://t.co/6QlehKm6jm",
-          "interacciones": 838,
-          "impresiones": 4567
-        },
-        {
-          "id": "2107052564885692464",
-          "autor": "Aránzazu Figueroa",
-          "username": "Aranza8_8",
-          "tipo": "personas",
-          "fecha": "2026-10-05T10:17:33.000Z",
-          "texto": "Hoy más que nunca, contigo. \n\nPor seguir dignificando a la clase trabajadora de este país. Por la juventud, por la libertad, por la humanidad, por nosotras. \n\nAdelante @sanchezcastejon ✊🏼🌹❤️ https://t.co/ADyiQJr7qx",
-          "interacciones": 464,
-          "impresiones": 2711
-        },
-        {
-          "id": "2107006010275557393",
-          "autor": "Víctor Camino",
-          "username": "VictorCaminoVlc",
-          "tipo": "personas",
-          "fecha": "2026-10-05T07:12:33.000Z",
-          "texto": "Nos vamos a votar. \n\nPedro Sánchez anuncia un adelanto electoral para el 29 de noviembre para ampliar la mayoría parlamentaria de la izquierda.\n\nQueda aún mucho por avanzar. https://t.co/iqFUX0UXSl",
-          "interacciones": 397,
-          "impresiones": 45201
-        },
-        {
-          "id": "2107058733888974978",
-          "autor": "Arran",
-          "username": "Arran_jovent",
-          "tipo": "organizaciones",
-          "fecha": "2026-10-05T10:42:04.000Z",
-          "texto": "🔴✊🏽 Acabem amb el règim del 78!\n\nNo caurem en falses dicotomies. L'alternativa política al feixisme i a la crisi de l'habitatge passa per trencar amb el capitalisme i l'estat espanyol. \n\nAra més que mai, organitzem-nos per uns Països Catalans lliures, socialistes i feministes. https://t.co/41a4uwImrc https://t.co/6AAtI4OAsl",
-          "interacciones": 252,
-          "impresiones": 4269
+          "impresiones": 127
         }
       ]
     },
@@ -1336,7 +1461,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 13,
-        "impresiones": 78367,
+        "impresiones": 78390,
         "interacciones": 6993,
         "likes": 4568,
         "reposts": 1211,
@@ -1345,12 +1470,12 @@
         "bookmarks": 52,
         "autores": 7,
         "interacciones_por_tweet": 537.9230769230769,
-        "impresiones_por_tweet": 6028.2307692307695,
-        "engagement": 8.923398879630456
+        "impresiones_por_tweet": 6030,
+        "engagement": 8.920780711825488
       },
       "organizaciones": {
         "tweets": 9,
-        "impresiones": 66623,
+        "impresiones": 66646,
         "interacciones": 6123,
         "likes": 4084,
         "reposts": 1084,
@@ -1359,8 +1484,8 @@
         "bookmarks": 49,
         "autores": 4,
         "interacciones_por_tweet": 680.3333333333334,
-        "impresiones_por_tweet": 7402.555555555556,
-        "engagement": 9.190519790462753
+        "impresiones_por_tweet": 7405.111111111111,
+        "engagement": 9.18734807790415
       },
       "personas": {
         "tweets": 4,
@@ -1391,7 +1516,7 @@
           "tipo": "organizaciones",
           "tweets": 1,
           "interacciones": 947,
-          "impresiones": 19836
+          "impresiones": 19850
         },
         {
           "nombre": "Ignacio Dancausa",
@@ -1407,7 +1532,7 @@
           "tipo": "organizaciones",
           "tweets": 4,
           "interacciones": 644,
-          "impresiones": 16230
+          "impresiones": 16236
         },
         {
           "nombre": "Revuelta",
@@ -1415,7 +1540,7 @@
           "tipo": "organizaciones",
           "tweets": 3,
           "interacciones": 319,
-          "impresiones": 4953
+          "impresiones": 4956
         },
         {
           "nombre": "Miguel Sastre Uyá",
@@ -1453,7 +1578,7 @@
           "fecha": "2026-10-06T07:31:54.000Z",
           "texto": "29-N: RECONSTRUCCIÓN NACIONAL 🏗️🇪🇸 https://t.co/UnYNsbGF3v",
           "interacciones": 947,
-          "impresiones": 19836
+          "impresiones": 19850
         },
         {
           "id": "2107072257239482715",
@@ -1483,7 +1608,7 @@
           "fecha": "2026-10-07T13:31:51.000Z",
           "texto": "Primera visita de Feijóo en precampaña: CEUTA 🇪🇸\n\n💥 El PP es el único partido que puede y ha demostrado defender nuestra soberanía.\n\nEl 29N: España o Sánchez. https://t.co/mSWiX4ZVBt",
           "interacciones": 200,
-          "impresiones": 5156
+          "impresiones": 5162
         },
         {
           "id": "2107735681057300961",
@@ -1493,7 +1618,7 @@
           "fecha": "2026-10-07T07:32:00.000Z",
           "texto": "🇪🇸 Así se encuentra ahora mismo la playa del Trampolín, en Ceuta: completamente desalojada.\n\nSi podía hacerse, ¿por qué permitieron que los ceutíes sufrieran más de lo necesario? ¿Para preparar las elecciones? https://t.co/bIP0sPUC5b",
           "interacciones": 184,
-          "impresiones": 2212
+          "impresiones": 2213
         }
       ]
     },
@@ -1503,17 +1628,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 3,
-        "impresiones": 145132,
-        "interacciones": 6227,
+        "impresiones": 145183,
+        "interacciones": 6228,
         "likes": 4156,
         "reposts": 1450,
-        "respuestas": 520,
+        "respuestas": 521,
         "citas": 101,
         "bookmarks": 90,
         "autores": 2,
-        "interacciones_por_tweet": 2075.6666666666665,
-        "impresiones_por_tweet": 48377.333333333336,
-        "engagement": 4.290576854174131
+        "interacciones_por_tweet": 2076,
+        "impresiones_por_tweet": 48394.333333333336,
+        "engagement": 4.2897584427928885
       },
       "organizaciones": {
         "tweets": 0,
@@ -1531,17 +1656,17 @@
       },
       "personas": {
         "tweets": 3,
-        "impresiones": 145132,
-        "interacciones": 6227,
+        "impresiones": 145183,
+        "interacciones": 6228,
         "likes": 4156,
         "reposts": 1450,
-        "respuestas": 520,
+        "respuestas": 521,
         "citas": 101,
         "bookmarks": 90,
         "autores": 2,
-        "interacciones_por_tweet": 2075.6666666666665,
-        "impresiones_por_tweet": 48377.333333333336,
-        "engagement": 4.290576854174131
+        "interacciones_por_tweet": 2076,
+        "impresiones_por_tweet": 48394.333333333336,
+        "engagement": 4.2897584427928885
       },
       "autores": [
         {
@@ -1549,8 +1674,8 @@
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 1,
-          "interacciones": 5926,
-          "impresiones": 142208
+          "interacciones": 5927,
+          "impresiones": 142240
         },
         {
           "nombre": "Laure Vega",
@@ -1558,7 +1683,7 @@
           "tipo": "personas",
           "tweets": 2,
           "interacciones": 301,
-          "impresiones": 2924
+          "impresiones": 2943
         }
       ],
       "ejemplos": [
@@ -1569,8 +1694,8 @@
           "tipo": "personas",
           "fecha": "2026-10-06T16:37:51.000Z",
           "texto": "Acaban de desahuciar a una anciana de 82 años en Bilbao.\n\nAllí gobierna el PSOE en Ayuntamiento, Diputación, Comunidad Autónoma y Gobierno central.\n\nPor ella no sacarán decretos ni convocarán elecciones generales.\n\nCulpa de Ayuso. https://t.co/mpWZfk25L1",
-          "interacciones": 5926,
-          "impresiones": 142208
+          "interacciones": 5927,
+          "impresiones": 142240
         },
         {
           "id": "2107916899984011437",
@@ -1580,7 +1705,7 @@
           "fecha": "2026-10-07T19:32:06.000Z",
           "texto": "Per la Núria, el Javier, l'Olga, l'Àlex, la Maricarmen i tantes altres.\n\nPel dolor de mandíbula al serrar les dents davant de cada desnonament, cada pujada de lloguer, cada abús.\n\nQue ho paguin tot i que ho paguin car.\n11 de novembre, vaga general. https://t.co/zsmV4h9sro",
           "interacciones": 288,
-          "impresiones": 2798
+          "impresiones": 2816
         },
         {
           "id": "2107924507314802944",
@@ -1590,7 +1715,7 @@
           "fecha": "2026-10-07T20:02:20.000Z",
           "texto": "@EnCornetGalera Mira, a mi el diastema a les dents em fa vergonya, però més vergonya em faria contestar això quan algú parla de que hi ha catalans que es lleven la vida perquè un fons voltor sumi zeros al seu compte i que hagi mort una dona gran després d'un desnonament.",
           "interacciones": 13,
-          "impresiones": 126
+          "impresiones": 127
         }
       ]
     },
@@ -1600,7 +1725,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 4,
-        "impresiones": 33273,
+        "impresiones": 33274,
         "interacciones": 4756,
         "likes": 3398,
         "reposts": 867,
@@ -1609,12 +1734,12 @@
         "bookmarks": 33,
         "autores": 2,
         "interacciones_por_tweet": 1189,
-        "impresiones_por_tweet": 8318.25,
-        "engagement": 14.293871908153758
+        "impresiones_por_tweet": 8318.5,
+        "engagement": 14.293442327342671
       },
       "organizaciones": {
         "tweets": 4,
-        "impresiones": 33273,
+        "impresiones": 33274,
         "interacciones": 4756,
         "likes": 3398,
         "reposts": 867,
@@ -1623,8 +1748,8 @@
         "bookmarks": 33,
         "autores": 2,
         "interacciones_por_tweet": 1189,
-        "impresiones_por_tweet": 8318.25,
-        "engagement": 14.293871908153758
+        "impresiones_por_tweet": 8318.5,
+        "engagement": 14.293442327342671
       },
       "personas": {
         "tweets": 0,
@@ -1655,7 +1780,7 @@
           "tipo": "organizaciones",
           "tweets": 3,
           "interacciones": 543,
-          "impresiones": 7669
+          "impresiones": 7670
         }
       ],
       "ejemplos": [
@@ -1697,7 +1822,7 @@
           "fecha": "2026-10-07T10:35:39.000Z",
           "texto": "🌹✊🏽 Ahir féu 49 anys que Miguel Panadero, militant neonazi de Fuerza Nueva, assassinava Miquel Grau mentre penjava cartells pel 9O.\n\nPer ell i per totes les que el feixisme ha volgut llevar la veu, aquesta Diada, eixim als carrers.\n\n📍 18h, Plaça Sant Agustí https://t.co/ZSvnZwVVQT",
           "interacciones": 54,
-          "impresiones": 827
+          "impresiones": 828
         }
       ]
     },
@@ -1706,22 +1831,22 @@
       "nombre": "PP",
       "tipo": "estable",
       "total": {
-        "tweets": 6,
-        "impresiones": 165278,
-        "interacciones": 3861,
-        "likes": 2699,
-        "reposts": 613,
-        "respuestas": 489,
+        "tweets": 7,
+        "impresiones": 166167,
+        "interacciones": 3965,
+        "likes": 2770,
+        "reposts": 622,
+        "respuestas": 513,
         "citas": 60,
         "bookmarks": 77,
         "autores": 4,
-        "interacciones_por_tweet": 643.5,
-        "impresiones_por_tweet": 27546.333333333332,
-        "engagement": 2.3360640859642543
+        "interacciones_por_tweet": 566.4285714285714,
+        "impresiones_por_tweet": 23738.14285714286,
+        "engagement": 2.386153688758899
       },
       "organizaciones": {
         "tweets": 1,
-        "impresiones": 5156,
+        "impresiones": 5162,
         "interacciones": 200,
         "likes": 137,
         "reposts": 28,
@@ -1730,22 +1855,22 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 200,
-        "impresiones_por_tweet": 5156,
-        "engagement": 3.8789759503491075
+        "impresiones_por_tweet": 5162,
+        "engagement": 3.874467260751647
       },
       "personas": {
-        "tweets": 5,
-        "impresiones": 160122,
-        "interacciones": 3661,
-        "likes": 2562,
-        "reposts": 585,
-        "respuestas": 457,
+        "tweets": 6,
+        "impresiones": 161005,
+        "interacciones": 3765,
+        "likes": 2633,
+        "reposts": 594,
+        "respuestas": 481,
         "citas": 57,
         "bookmarks": 77,
         "autores": 3,
-        "interacciones_por_tweet": 732.2,
-        "impresiones_por_tweet": 32024.4,
-        "engagement": 2.286381634004072
+        "interacciones_por_tweet": 627.5,
+        "impresiones_por_tweet": 26834.166666666668,
+        "engagement": 2.338436694512593
       },
       "autores": [
         {
@@ -1753,8 +1878,8 @@
           "username": "teshsidi",
           "tipo": "personas",
           "tweets": 3,
-          "interacciones": 3531,
-          "impresiones": 158124
+          "interacciones": 3530,
+          "impresiones": 158125
         },
         {
           "nombre": "Nuevas Generaciones de España",
@@ -1762,23 +1887,23 @@
           "tipo": "organizaciones",
           "tweets": 1,
           "interacciones": 200,
-          "impresiones": 5156
+          "impresiones": 5162
+        },
+        {
+          "nombre": "Miguel Sastre Uyá",
+          "username": "migsasuya",
+          "tipo": "personas",
+          "tweets": 2,
+          "interacciones": 146,
+          "impresiones": 1677
         },
         {
           "nombre": "Víctor Camino",
           "username": "VictorCaminoVlc",
           "tipo": "personas",
           "tweets": 1,
-          "interacciones": 88,
-          "impresiones": 1202
-        },
-        {
-          "nombre": "Miguel Sastre Uyá",
-          "username": "migsasuya",
-          "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 42,
-          "impresiones": 796
+          "interacciones": 89,
+          "impresiones": 1203
         }
       ],
       "ejemplos": [
@@ -1799,8 +1924,8 @@
           "tipo": "personas",
           "fecha": "2026-10-06T09:59:31.000Z",
           "texto": "Habéis votado con PP y VOX toda la legislatura. Lleváis gobernado juntos 3 años. https://t.co/5eIANPcoFG",
-          "interacciones": 1352,
-          "impresiones": 29900
+          "interacciones": 1351,
+          "impresiones": 29901
         },
         {
           "id": "2107023512594415719",
@@ -1820,7 +1945,17 @@
           "fecha": "2026-10-07T13:31:51.000Z",
           "texto": "Primera visita de Feijóo en precampaña: CEUTA 🇪🇸\n\n💥 El PP es el único partido que puede y ha demostrado defender nuestra soberanía.\n\nEl 29N: España o Sánchez. https://t.co/mSWiX4ZVBt",
           "interacciones": 200,
-          "impresiones": 5156
+          "impresiones": 5162
+        },
+        {
+          "id": "2107039440178684357",
+          "autor": "Miguel Sastre Uyá",
+          "username": "migsasuya",
+          "tipo": "personas",
+          "fecha": "2026-10-05T09:25:24.000Z",
+          "texto": "Estamos preparados.\n\nLo que necesita España ahora es @NunezFeijoo y @ppopular 🇪🇸 https://t.co/JnckJW6RMm",
+          "interacciones": 104,
+          "impresiones": 881
         },
         {
           "id": "2107737569291374794",
@@ -1829,18 +1964,266 @@
           "tipo": "personas",
           "fecha": "2026-10-07T07:39:31.000Z",
           "texto": "Ayer el PP valenciano fue a reirle las gracias a quienes insultan a miles de acampados por una vivienda digna. \n\nDicen que si ganan se acaban los insultos y durante estos años no han parado de amenazar e insultar. https://t.co/P5fbAziryj",
-          "interacciones": 88,
-          "impresiones": 1202
+          "interacciones": 89,
+          "impresiones": 1203
+        }
+      ]
+    },
+    {
+      "id": "parlamento_cortes",
+      "nombre": "Parlamento y Cortes",
+      "tipo": "estable",
+      "total": {
+        "tweets": 4,
+        "impresiones": 163173,
+        "interacciones": 3215,
+        "likes": 2172,
+        "reposts": 530,
+        "respuestas": 456,
+        "citas": 57,
+        "bookmarks": 182,
+        "autores": 2,
+        "interacciones_por_tweet": 803.75,
+        "impresiones_por_tweet": 40793.25,
+        "engagement": 1.9703014591874881
+      },
+      "organizaciones": {
+        "tweets": 1,
+        "impresiones": 408,
+        "interacciones": 33,
+        "likes": 23,
+        "reposts": 7,
+        "respuestas": 3,
+        "citas": 0,
+        "bookmarks": 0,
+        "autores": 1,
+        "interacciones_por_tweet": 33,
+        "impresiones_por_tweet": 408,
+        "engagement": 8.088235294117647
+      },
+      "personas": {
+        "tweets": 3,
+        "impresiones": 162765,
+        "interacciones": 3182,
+        "likes": 2149,
+        "reposts": 523,
+        "respuestas": 453,
+        "citas": 57,
+        "bookmarks": 182,
+        "autores": 1,
+        "interacciones_por_tweet": 1060.6666666666667,
+        "impresiones_por_tweet": 54255,
+        "engagement": 1.9549657481645315
+      },
+      "autores": [
+        {
+          "nombre": "Tesh Sidi",
+          "username": "teshsidi",
+          "tipo": "personas",
+          "tweets": 3,
+          "interacciones": 3182,
+          "impresiones": 162765
         },
         {
-          "id": "2107502257399070853",
+          "nombre": "Noves Generacions de Catalunya",
+          "username": "NNGGcat",
+          "tipo": "organizaciones",
+          "tweets": 1,
+          "interacciones": 33,
+          "impresiones": 408
+        }
+      ],
+      "ejemplos": [
+        {
+          "id": "2107129346473263404",
+          "autor": "Tesh Sidi",
+          "username": "teshsidi",
+          "tipo": "personas",
+          "fecha": "2026-10-05T15:22:39.000Z",
+          "texto": "Un día triste en lo personal y para el pueblo saharaui. Las últimas vías las tiene el PP en el Senado y el gobierno vía real decreto(carta de naturaleza)\n\nLos saharauis se quedan sin la ley para obtener la nacionalidad a dos semanas de su aprobación por el adelanto electoral",
+          "interacciones": 1446,
+          "impresiones": 61916
+        },
+        {
+          "id": "2107792665316147376",
+          "autor": "Tesh Sidi",
+          "username": "teshsidi",
+          "tipo": "personas",
+          "fecha": "2026-10-07T11:18:26.000Z",
+          "texto": "Familia, hemos sido disueltas. Os cuento algunos marujeos sobre la Diputación Permanente y la disolución de las Cortes. https://t.co/YRiSwJO3fO",
+          "interacciones": 1003,
+          "impresiones": 34541
+        },
+        {
+          "id": "2107023512594415719",
+          "autor": "Tesh Sidi",
+          "username": "teshsidi",
+          "tipo": "personas",
+          "fecha": "2026-10-05T08:22:06.000Z",
+          "texto": "Con la convocatoria de elecciones anticipadas y el registro de enmiendas por parte del Partido Popular en el Senado a la ley de nacionalidad saharaui, mañana, con la publicación en el BOE, quedarían disueltas las Cortes y una ley aprobada por amplias mayorías y al 99% se iría a",
+          "interacciones": 733,
+          "impresiones": 66308
+        },
+        {
+          "id": "2107561452689326581",
+          "autor": "Noves Generacions de Catalunya",
+          "username": "NNGGcat",
+          "tipo": "organizaciones",
+          "fecha": "2026-10-06T19:59:41.000Z",
+          "texto": "En 2027 Pedro Sánchez estará fuera de la Moncloa y fuera del Congreso de los Diputados.\n\nBótalo este 29N. https://t.co/bhbeQ4W3s1",
+          "interacciones": 33,
+          "impresiones": 408
+        }
+      ]
+    },
+    {
+      "id": "actor_feijoo",
+      "nombre": "Feijóo",
+      "tipo": "estable",
+      "total": {
+        "tweets": 6,
+        "impresiones": 122447,
+        "interacciones": 2919,
+        "likes": 1582,
+        "reposts": 284,
+        "respuestas": 1017,
+        "citas": 36,
+        "bookmarks": 70,
+        "autores": 5,
+        "interacciones_por_tweet": 486.5,
+        "impresiones_por_tweet": 20407.833333333332,
+        "engagement": 2.383888539531389
+      },
+      "organizaciones": {
+        "tweets": 1,
+        "impresiones": 5162,
+        "interacciones": 200,
+        "likes": 137,
+        "reposts": 28,
+        "respuestas": 32,
+        "citas": 3,
+        "bookmarks": 0,
+        "autores": 1,
+        "interacciones_por_tweet": 200,
+        "impresiones_por_tweet": 5162,
+        "engagement": 3.874467260751647
+      },
+      "personas": {
+        "tweets": 5,
+        "impresiones": 117285,
+        "interacciones": 2719,
+        "likes": 1445,
+        "reposts": 256,
+        "respuestas": 985,
+        "citas": 33,
+        "bookmarks": 70,
+        "autores": 4,
+        "interacciones_por_tweet": 543.8,
+        "impresiones_por_tweet": 23457,
+        "engagement": 2.318284520612184
+      },
+      "autores": [
+        {
+          "nombre": "Jon Echeverría",
+          "username": "Jon_Echeverria_",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 1310,
+          "impresiones": 16861
+        },
+        {
+          "nombre": "Ignacio Dancausa",
+          "username": "Idancausa",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 665,
+          "impresiones": 9329
+        },
+        {
+          "nombre": "Andrea Llopart",
+          "username": "andreallopart",
+          "tipo": "personas",
+          "tweets": 2,
+          "interacciones": 640,
+          "impresiones": 90214
+        },
+        {
+          "nombre": "Nuevas Generaciones de España",
+          "username": "NNGG_Es",
+          "tipo": "organizaciones",
+          "tweets": 1,
+          "interacciones": 200,
+          "impresiones": 5162
+        },
+        {
+          "nombre": "Miguel Sastre Uyá",
+          "username": "migsasuya",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 104,
+          "impresiones": 881
+        }
+      ],
+      "ejemplos": [
+        {
+          "id": "2107097216678543537",
+          "autor": "Jon Echeverría",
+          "username": "Jon_Echeverria_",
+          "tipo": "personas",
+          "fecha": "2026-10-05T13:14:59.000Z",
+          "texto": "Única y exclusivamente @NunezFeijoo puede echar a Pedro Sánchez.\n\nCuantos más votos, más reformas.\n\nA VOTAR EN MASA. https://t.co/4Sjlv4mHVL",
+          "interacciones": 1310,
+          "impresiones": 16861
+        },
+        {
+          "id": "2107072257239482715",
+          "autor": "Ignacio Dancausa",
+          "username": "Idancausa",
+          "tipo": "personas",
+          "fecha": "2026-10-05T11:35:48.000Z",
+          "texto": "Comienza la RECONSTRUCCIÓN NACIONAL 🇪🇸\n\nVamos a tirar abajo todas y cada una de las políticas que nos han traído a la ruina, vamos a hacer las reformas generacionales y valientes que necesita España.\n\nA la orden presidente @NunezFeijoo 🫡 https://t.co/Ax4YsTOpJu",
+          "interacciones": 665,
+          "impresiones": 9329
+        },
+        {
+          "id": "2107029161248268631",
+          "autor": "Andrea Llopart",
+          "username": "andreallopart",
+          "tipo": "personas",
+          "fecha": "2026-10-05T08:44:33.000Z",
+          "texto": "El discurso de Feijóo de hoy ha sido impecable. https://t.co/yeGGTFGWjm",
+          "interacciones": 564,
+          "impresiones": 89029
+        },
+        {
+          "id": "2107826237481550033",
+          "autor": "Nuevas Generaciones de España",
+          "username": "NNGG_Es",
+          "tipo": "organizaciones",
+          "fecha": "2026-10-07T13:31:51.000Z",
+          "texto": "Primera visita de Feijóo en precampaña: CEUTA 🇪🇸\n\n💥 El PP es el único partido que puede y ha demostrado defender nuestra soberanía.\n\nEl 29N: España o Sánchez. https://t.co/mSWiX4ZVBt",
+          "interacciones": 200,
+          "impresiones": 5162
+        },
+        {
+          "id": "2107039440178684357",
           "autor": "Miguel Sastre Uyá",
           "username": "migsasuya",
           "tipo": "personas",
-          "fecha": "2026-10-06T16:04:28.000Z",
-          "texto": "Gobierno central: PSOE (con PNV apoyándole en el parlamento)\n\nGobierno autonómico (quien tiene competencia sobre la agencia): PNV con PSOE (responsable de vivienda)\n\nGobierno Diputación Foral: PNV con PSOE\n\nGobierno municipal: PNV con PSOE\n\n¿La culpa?: del PP, evidentemente. https://t.co/vZc4UeZOCb",
-          "interacciones": 42,
-          "impresiones": 796
+          "fecha": "2026-10-05T09:25:24.000Z",
+          "texto": "Estamos preparados.\n\nLo que necesita España ahora es @NunezFeijoo y @ppopular 🇪🇸 https://t.co/JnckJW6RMm",
+          "interacciones": 104,
+          "impresiones": 881
+        },
+        {
+          "id": "2107865641118240910",
+          "autor": "Andrea Llopart",
+          "username": "andreallopart",
+          "tipo": "personas",
+          "fecha": "2026-10-07T16:08:25.000Z",
+          "texto": "Bien, muy bien. \n\nVolver la normalidad a Ceuta debe ser la prioridad del próximo Gobierno, y Feijóo se compromete a ello.\n\nEsto es ser un Presidente. https://t.co/XM6NI5e1bP",
+          "interacciones": 76,
+          "impresiones": 1185
         }
       ]
     },
@@ -1850,45 +2233,45 @@
       "tipo": "estable",
       "total": {
         "tweets": 9,
-        "impresiones": 36011,
-        "interacciones": 2729,
-        "likes": 1968,
-        "reposts": 422,
-        "respuestas": 329,
+        "impresiones": 36097,
+        "interacciones": 2733,
+        "likes": 1970,
+        "reposts": 423,
+        "respuestas": 330,
         "citas": 10,
         "bookmarks": 22,
         "autores": 8,
-        "interacciones_por_tweet": 303.22222222222223,
-        "impresiones_por_tweet": 4001.222222222222,
-        "engagement": 7.578239982227652
+        "interacciones_por_tweet": 303.6666666666667,
+        "impresiones_por_tweet": 4010.777777777778,
+        "engagement": 7.571266310219686
       },
       "organizaciones": {
         "tweets": 1,
-        "impresiones": 1470,
-        "interacciones": 241,
+        "impresiones": 1473,
+        "interacciones": 242,
         "likes": 151,
         "reposts": 61,
-        "respuestas": 29,
+        "respuestas": 30,
         "citas": 0,
         "bookmarks": 1,
         "autores": 1,
-        "interacciones_por_tweet": 241,
-        "impresiones_por_tweet": 1470,
-        "engagement": 16.39455782312925
+        "interacciones_por_tweet": 242,
+        "impresiones_por_tweet": 1473,
+        "engagement": 16.429056347589952
       },
       "personas": {
         "tweets": 8,
-        "impresiones": 34541,
-        "interacciones": 2488,
-        "likes": 1817,
-        "reposts": 361,
+        "impresiones": 34624,
+        "interacciones": 2491,
+        "likes": 1819,
+        "reposts": 362,
         "respuestas": 300,
         "citas": 10,
         "bookmarks": 21,
         "autores": 7,
-        "interacciones_por_tweet": 311,
-        "impresiones_por_tweet": 4317.625,
-        "engagement": 7.203034075446571
+        "interacciones_por_tweet": 311.375,
+        "impresiones_por_tweet": 4328,
+        "engagement": 7.194431608133087
       },
       "autores": [
         {
@@ -1904,8 +2287,8 @@
           "username": "EduardoFRub",
           "tipo": "personas",
           "tweets": 1,
-          "interacciones": 567,
-          "impresiones": 4481
+          "interacciones": 569,
+          "impresiones": 4498
         },
         {
           "nombre": "Tesh Sidi",
@@ -1913,7 +2296,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 544,
-          "impresiones": 5093
+          "impresiones": 5106
         },
         {
           "nombre": "Laure Vega",
@@ -1921,23 +2304,23 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 288,
-          "impresiones": 2798
+          "impresiones": 2816
         },
         {
           "nombre": "Juventudes Socialistas de España",
           "username": "JSE_ORG",
           "tipo": "organizaciones",
           "tweets": 1,
-          "interacciones": 241,
-          "impresiones": 1470
+          "interacciones": 242,
+          "impresiones": 1473
         },
         {
           "nombre": "Víctor Camino",
           "username": "VictorCaminoVlc",
           "tipo": "personas",
           "tweets": 2,
-          "interacciones": 217,
-          "impresiones": 2972
+          "interacciones": 218,
+          "impresiones": 3004
         },
         {
           "nombre": "Aránzazu Figueroa",
@@ -1945,7 +2328,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 87,
-          "impresiones": 969
+          "impresiones": 970
         },
         {
           "nombre": "Andrea Llopart",
@@ -1953,7 +2336,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 23,
-          "impresiones": 700
+          "impresiones": 702
         }
       ],
       "ejemplos": [
@@ -1974,8 +2357,8 @@
           "tipo": "personas",
           "fecha": "2026-10-07T18:52:20.000Z",
           "texto": "Maricarmen ha muerto sin poder volver a su casa. Malditos sean los buitres que la acosaron en sus últimos años de vida y la echaron de su casa. Y malditos también los que llevan desde entonces burlándose e inventándose mentiras sobre ella para justificar esta injusticia brutal https://t.co/Xc5GKCs8a0",
-          "interacciones": 567,
-          "impresiones": 4481
+          "interacciones": 569,
+          "impresiones": 4498
         },
         {
           "id": "2107905518383628613",
@@ -1985,7 +2368,7 @@
           "fecha": "2026-10-07T18:46:53.000Z",
           "texto": "Gracias por tanto, Maricarmen. Tu lucha y tu legado son la esperanza de muchas generaciones.\n\nDescansa en paz. 💫",
           "interacciones": 544,
-          "impresiones": 5093
+          "impresiones": 5106
         },
         {
           "id": "2107916899984011437",
@@ -1995,7 +2378,7 @@
           "fecha": "2026-10-07T19:32:06.000Z",
           "texto": "Per la Núria, el Javier, l'Olga, l'Àlex, la Maricarmen i tantes altres.\n\nPel dolor de mandíbula al serrar les dents davant de cada desnonament, cada pujada de lloguer, cada abús.\n\nQue ho paguin tot i que ho paguin car.\n11 de novembre, vaga general. https://t.co/zsmV4h9sro",
           "interacciones": 288,
-          "impresiones": 2798
+          "impresiones": 2816
         },
         {
           "id": "2107911344347570374",
@@ -2004,8 +2387,8 @@
           "tipo": "organizaciones",
           "fecha": "2026-10-07T19:10:02.000Z",
           "texto": "Maricarmen nos ha dejado, pero siempre será ejemplo de lucha y coraje.\n\nEste país nunca olvidará quien fuiste y lo que hiciste por él. \n\nDescansa en paz. https://t.co/dzGWz8vK1O",
-          "interacciones": 241,
-          "impresiones": 1470
+          "interacciones": 242,
+          "impresiones": 1473
         },
         {
           "id": "2107902349008101876",
@@ -2015,7 +2398,7 @@
           "fecha": "2026-10-07T18:34:17.000Z",
           "texto": "Qué golpe más duro.\nQué vida más triste la de los que le jodieron la vida a Maricarmen en sus últimos días. \n\nElla seguirá presente en cada plaza donde acampan quienes luchan por la dignidad de la vivienda.\n\nDescanse en paz. https://t.co/iObvgEU01W",
           "interacciones": 180,
-          "impresiones": 2345
+          "impresiones": 2346
         }
       ]
     },
@@ -2183,7 +2566,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 4,
-        "impresiones": 55213,
+        "impresiones": 55264,
         "interacciones": 1681,
         "likes": 1233,
         "reposts": 191,
@@ -2192,12 +2575,12 @@
         "bookmarks": 31,
         "autores": 4,
         "interacciones_por_tweet": 420.25,
-        "impresiones_por_tweet": 13803.25,
-        "engagement": 3.0445728361074385
+        "impresiones_por_tweet": 13816,
+        "engagement": 3.0417631731326003
       },
       "organizaciones": {
         "tweets": 1,
-        "impresiones": 5156,
+        "impresiones": 5162,
         "interacciones": 200,
         "likes": 137,
         "reposts": 28,
@@ -2206,12 +2589,12 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 200,
-        "impresiones_por_tweet": 5156,
-        "engagement": 3.8789759503491075
+        "impresiones_por_tweet": 5162,
+        "engagement": 3.874467260751647
       },
       "personas": {
         "tweets": 3,
-        "impresiones": 50057,
+        "impresiones": 50102,
         "interacciones": 1481,
         "likes": 1096,
         "reposts": 163,
@@ -2220,8 +2603,8 @@
         "bookmarks": 31,
         "autores": 3,
         "interacciones_por_tweet": 493.6666666666667,
-        "impresiones_por_tweet": 16685.666666666668,
-        "engagement": 2.9586271650318636
+        "impresiones_por_tweet": 16700.666666666668,
+        "engagement": 2.9559698215640093
       },
       "autores": [
         {
@@ -2230,7 +2613,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 769,
-          "impresiones": 12538
+          "impresiones": 12541
         },
         {
           "nombre": "Tesh Sidi",
@@ -2238,7 +2621,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 692,
-          "impresiones": 37098
+          "impresiones": 37140
         },
         {
           "nombre": "Nuevas Generaciones de España",
@@ -2246,7 +2629,7 @@
           "tipo": "organizaciones",
           "tweets": 1,
           "interacciones": 200,
-          "impresiones": 5156
+          "impresiones": 5162
         },
         {
           "nombre": "Miguel Sastre Uyá",
@@ -2266,7 +2649,7 @@
           "fecha": "2026-10-06T16:35:52.000Z",
           "texto": "María Jesús Montero ha decidido vengarse de Sánchez autosaboteando la campaña electoral. https://t.co/SuOMg8IW8P",
           "interacciones": 769,
-          "impresiones": 12538
+          "impresiones": 12541
         },
         {
           "id": "2107841946152800302",
@@ -2276,7 +2659,7 @@
           "fecha": "2026-10-07T14:34:16.000Z",
           "texto": "Sería la primera vez que una candidata a la Presidencia representara a la España plurinacional(siempre se presentan por Madrid)🔥\n\nAnem amb tot!!! https://t.co/fLXvDjgLjZ",
           "interacciones": 692,
-          "impresiones": 37098
+          "impresiones": 37140
         },
         {
           "id": "2107826237481550033",
@@ -2286,7 +2669,7 @@
           "fecha": "2026-10-07T13:31:51.000Z",
           "texto": "Primera visita de Feijóo en precampaña: CEUTA 🇪🇸\n\n💥 El PP es el único partido que puede y ha demostrado defender nuestra soberanía.\n\nEl 29N: España o Sánchez. https://t.co/mSWiX4ZVBt",
           "interacciones": 200,
-          "impresiones": 5156
+          "impresiones": 5162
         },
         {
           "id": "2107502686803468337",
@@ -2439,17 +2822,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 1,
-        "impresiones": 29900,
-        "interacciones": 1352,
-        "likes": 1092,
+        "impresiones": 29901,
+        "interacciones": 1351,
+        "likes": 1091,
         "reposts": 153,
         "respuestas": 98,
         "citas": 9,
         "bookmarks": 16,
         "autores": 1,
-        "interacciones_por_tweet": 1352,
-        "impresiones_por_tweet": 29900,
-        "engagement": 4.521739130434783
+        "interacciones_por_tweet": 1351,
+        "impresiones_por_tweet": 29901,
+        "engagement": 4.518243537005452
       },
       "organizaciones": {
         "tweets": 0,
@@ -2467,17 +2850,17 @@
       },
       "personas": {
         "tweets": 1,
-        "impresiones": 29900,
-        "interacciones": 1352,
-        "likes": 1092,
+        "impresiones": 29901,
+        "interacciones": 1351,
+        "likes": 1091,
         "reposts": 153,
         "respuestas": 98,
         "citas": 9,
         "bookmarks": 16,
         "autores": 1,
-        "interacciones_por_tweet": 1352,
-        "impresiones_por_tweet": 29900,
-        "engagement": 4.521739130434783
+        "interacciones_por_tweet": 1351,
+        "impresiones_por_tweet": 29901,
+        "engagement": 4.518243537005452
       },
       "autores": [
         {
@@ -2485,8 +2868,8 @@
           "username": "teshsidi",
           "tipo": "personas",
           "tweets": 1,
-          "interacciones": 1352,
-          "impresiones": 29900
+          "interacciones": 1351,
+          "impresiones": 29901
         }
       ],
       "ejemplos": [
@@ -2497,8 +2880,8 @@
           "tipo": "personas",
           "fecha": "2026-10-06T09:59:31.000Z",
           "texto": "Habéis votado con PP y VOX toda la legislatura. Lleváis gobernado juntos 3 años. https://t.co/5eIANPcoFG",
-          "interacciones": 1352,
-          "impresiones": 29900
+          "interacciones": 1351,
+          "impresiones": 29901
         }
       ]
     },
@@ -2508,7 +2891,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 5,
-        "impresiones": 13609,
+        "impresiones": 13618,
         "interacciones": 1042,
         "likes": 736,
         "reposts": 222,
@@ -2517,12 +2900,12 @@
         "bookmarks": 11,
         "autores": 4,
         "interacciones_por_tweet": 208.4,
-        "impresiones_por_tweet": 2721.8,
-        "engagement": 7.656697773532222
+        "impresiones_por_tweet": 2723.6,
+        "engagement": 7.651637538551917
       },
       "organizaciones": {
         "tweets": 3,
-        "impresiones": 7844,
+        "impresiones": 7851,
         "interacciones": 399,
         "likes": 282,
         "reposts": 71,
@@ -2531,12 +2914,12 @@
         "bookmarks": 2,
         "autores": 2,
         "interacciones_por_tweet": 133,
-        "impresiones_por_tweet": 2614.6666666666665,
-        "engagement": 5.086690464048955
+        "impresiones_por_tweet": 2617,
+        "engagement": 5.082155139472679
       },
       "personas": {
         "tweets": 2,
-        "impresiones": 5765,
+        "impresiones": 5767,
         "interacciones": 643,
         "likes": 454,
         "reposts": 151,
@@ -2545,8 +2928,8 @@
         "bookmarks": 9,
         "autores": 2,
         "interacciones_por_tweet": 321.5,
-        "impresiones_por_tweet": 2882.5,
-        "engagement": 11.153512575888985
+        "impresiones_por_tweet": 2883.5,
+        "engagement": 11.149644529217964
       },
       "autores": [
         {
@@ -2563,7 +2946,7 @@
           "tipo": "organizaciones",
           "tweets": 2,
           "interacciones": 215,
-          "impresiones": 5632
+          "impresiones": 5638
         },
         {
           "nombre": "Revuelta",
@@ -2571,7 +2954,7 @@
           "tipo": "organizaciones",
           "tweets": 1,
           "interacciones": 184,
-          "impresiones": 2212
+          "impresiones": 2213
         },
         {
           "nombre": "Andrea Llopart",
@@ -2579,7 +2962,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 76,
-          "impresiones": 1183
+          "impresiones": 1185
         }
       ],
       "ejemplos": [
@@ -2601,7 +2984,7 @@
           "fecha": "2026-10-07T13:31:51.000Z",
           "texto": "Primera visita de Feijóo en precampaña: CEUTA 🇪🇸\n\n💥 El PP es el único partido que puede y ha demostrado defender nuestra soberanía.\n\nEl 29N: España o Sánchez. https://t.co/mSWiX4ZVBt",
           "interacciones": 200,
-          "impresiones": 5156
+          "impresiones": 5162
         },
         {
           "id": "2107735681057300961",
@@ -2611,7 +2994,7 @@
           "fecha": "2026-10-07T07:32:00.000Z",
           "texto": "🇪🇸 Así se encuentra ahora mismo la playa del Trampolín, en Ceuta: completamente desalojada.\n\nSi podía hacerse, ¿por qué permitieron que los ceutíes sufrieran más de lo necesario? ¿Para preparar las elecciones? https://t.co/bIP0sPUC5b",
           "interacciones": 184,
-          "impresiones": 2212
+          "impresiones": 2213
         },
         {
           "id": "2107865641118240910",
@@ -2621,7 +3004,7 @@
           "fecha": "2026-10-07T16:08:25.000Z",
           "texto": "Bien, muy bien. \n\nVolver la normalidad a Ceuta debe ser la prioridad del próximo Gobierno, y Feijóo se compromete a ello.\n\nEsto es ser un Presidente. https://t.co/XM6NI5e1bP",
           "interacciones": 76,
-          "impresiones": 1183
+          "impresiones": 1185
         },
         {
           "id": "2107046428329775253",
@@ -2741,109 +3124,12 @@
       ]
     },
     {
-      "id": "actor_feijoo",
-      "nombre": "Feijóo",
-      "tipo": "estable",
-      "total": {
-        "tweets": 3,
-        "impresiones": 95368,
-        "interacciones": 840,
-        "likes": 727,
-        "reposts": 70,
-        "respuestas": 40,
-        "citas": 3,
-        "bookmarks": 63,
-        "autores": 2,
-        "interacciones_por_tweet": 280,
-        "impresiones_por_tweet": 31789.333333333332,
-        "engagement": 0.8807985907222547
-      },
-      "organizaciones": {
-        "tweets": 1,
-        "impresiones": 5156,
-        "interacciones": 200,
-        "likes": 137,
-        "reposts": 28,
-        "respuestas": 32,
-        "citas": 3,
-        "bookmarks": 0,
-        "autores": 1,
-        "interacciones_por_tweet": 200,
-        "impresiones_por_tweet": 5156,
-        "engagement": 3.8789759503491075
-      },
-      "personas": {
-        "tweets": 2,
-        "impresiones": 90212,
-        "interacciones": 640,
-        "likes": 590,
-        "reposts": 42,
-        "respuestas": 8,
-        "citas": 0,
-        "bookmarks": 63,
-        "autores": 1,
-        "interacciones_por_tweet": 320,
-        "impresiones_por_tweet": 45106,
-        "engagement": 0.7094399858112003
-      },
-      "autores": [
-        {
-          "nombre": "Andrea Llopart",
-          "username": "andreallopart",
-          "tipo": "personas",
-          "tweets": 2,
-          "interacciones": 640,
-          "impresiones": 90212
-        },
-        {
-          "nombre": "Nuevas Generaciones de España",
-          "username": "NNGG_Es",
-          "tipo": "organizaciones",
-          "tweets": 1,
-          "interacciones": 200,
-          "impresiones": 5156
-        }
-      ],
-      "ejemplos": [
-        {
-          "id": "2107029161248268631",
-          "autor": "Andrea Llopart",
-          "username": "andreallopart",
-          "tipo": "personas",
-          "fecha": "2026-10-05T08:44:33.000Z",
-          "texto": "El discurso de Feijóo de hoy ha sido impecable. https://t.co/yeGGTFGWjm",
-          "interacciones": 564,
-          "impresiones": 89029
-        },
-        {
-          "id": "2107826237481550033",
-          "autor": "Nuevas Generaciones de España",
-          "username": "NNGG_Es",
-          "tipo": "organizaciones",
-          "fecha": "2026-10-07T13:31:51.000Z",
-          "texto": "Primera visita de Feijóo en precampaña: CEUTA 🇪🇸\n\n💥 El PP es el único partido que puede y ha demostrado defender nuestra soberanía.\n\nEl 29N: España o Sánchez. https://t.co/mSWiX4ZVBt",
-          "interacciones": 200,
-          "impresiones": 5156
-        },
-        {
-          "id": "2107865641118240910",
-          "autor": "Andrea Llopart",
-          "username": "andreallopart",
-          "tipo": "personas",
-          "fecha": "2026-10-07T16:08:25.000Z",
-          "texto": "Bien, muy bien. \n\nVolver la normalidad a Ceuta debe ser la prioridad del próximo Gobierno, y Feijóo se compromete a ello.\n\nEsto es ser un Presidente. https://t.co/XM6NI5e1bP",
-          "interacciones": 76,
-          "impresiones": 1183
-        }
-      ]
-    },
-    {
       "id": "actor_mjmontero",
       "nombre": "María Jesús Montero",
       "tipo": "estable",
       "total": {
         "tweets": 1,
-        "impresiones": 12538,
+        "impresiones": 12541,
         "interacciones": 769,
         "likes": 590,
         "reposts": 128,
@@ -2852,8 +3138,8 @@
         "bookmarks": 14,
         "autores": 1,
         "interacciones_por_tweet": 769,
-        "impresiones_por_tweet": 12538,
-        "engagement": 6.13335460200989
+        "impresiones_por_tweet": 12541,
+        "engagement": 6.131887409297504
       },
       "organizaciones": {
         "tweets": 0,
@@ -2871,7 +3157,7 @@
       },
       "personas": {
         "tweets": 1,
-        "impresiones": 12538,
+        "impresiones": 12541,
         "interacciones": 769,
         "likes": 590,
         "reposts": 128,
@@ -2880,8 +3166,8 @@
         "bookmarks": 14,
         "autores": 1,
         "interacciones_por_tweet": 769,
-        "impresiones_por_tweet": 12538,
-        "engagement": 6.13335460200989
+        "impresiones_por_tweet": 12541,
+        "engagement": 6.131887409297504
       },
       "autores": [
         {
@@ -2890,7 +3176,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 769,
-          "impresiones": 12538
+          "impresiones": 12541
         }
       ],
       "ejemplos": [
@@ -2902,7 +3188,7 @@
           "fecha": "2026-10-06T16:35:52.000Z",
           "texto": "María Jesús Montero ha decidido vengarse de Sánchez autosaboteando la campaña electoral. https://t.co/SuOMg8IW8P",
           "interacciones": 769,
-          "impresiones": 12538
+          "impresiones": 12541
         }
       ]
     },
@@ -2912,17 +3198,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 1,
-        "impresiones": 11435,
-        "interacciones": 766,
-        "likes": 562,
+        "impresiones": 11456,
+        "interacciones": 767,
+        "likes": 563,
         "reposts": 92,
         "respuestas": 101,
         "citas": 11,
         "bookmarks": 4,
         "autores": 1,
-        "interacciones_por_tweet": 766,
-        "impresiones_por_tweet": 11435,
-        "engagement": 6.69873196327066
+        "interacciones_por_tweet": 767,
+        "impresiones_por_tweet": 11456,
+        "engagement": 6.69518156424581
       },
       "organizaciones": {
         "tweets": 0,
@@ -2940,17 +3226,17 @@
       },
       "personas": {
         "tweets": 1,
-        "impresiones": 11435,
-        "interacciones": 766,
-        "likes": 562,
+        "impresiones": 11456,
+        "interacciones": 767,
+        "likes": 563,
         "reposts": 92,
         "respuestas": 101,
         "citas": 11,
         "bookmarks": 4,
         "autores": 1,
-        "interacciones_por_tweet": 766,
-        "impresiones_por_tweet": 11435,
-        "engagement": 6.69873196327066
+        "interacciones_por_tweet": 767,
+        "impresiones_por_tweet": 11456,
+        "engagement": 6.69518156424581
       },
       "autores": [
         {
@@ -2958,8 +3244,8 @@
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 1,
-          "interacciones": 766,
-          "impresiones": 11435
+          "interacciones": 767,
+          "impresiones": 11456
         }
       ],
       "ejemplos": [
@@ -2970,8 +3256,131 @@
           "tipo": "personas",
           "fecha": "2026-10-07T12:54:38.000Z",
           "texto": "1.200 asesinados y 251 secuestrados por Hamás en el peor pogromo desde el Holocausto. \n\nHoy se cumplen tres años del 7 de octubre de 2023.\n\nNUNCA MÁS 🇮🇱",
-          "interacciones": 766,
-          "impresiones": 11435
+          "interacciones": 767,
+          "impresiones": 11456
+        }
+      ]
+    },
+    {
+      "id": "democracia",
+      "nombre": "Democracia y calidad institucional",
+      "tipo": "estable",
+      "total": {
+        "tweets": 4,
+        "impresiones": 11407,
+        "interacciones": 722,
+        "likes": 611,
+        "reposts": 92,
+        "respuestas": 17,
+        "citas": 2,
+        "bookmarks": 4,
+        "autores": 4,
+        "interacciones_por_tweet": 180.5,
+        "impresiones_por_tweet": 2851.75,
+        "engagement": 6.3294468308933105
+      },
+      "organizaciones": {
+        "tweets": 0,
+        "impresiones": 0,
+        "interacciones": 0,
+        "likes": 0,
+        "reposts": 0,
+        "respuestas": 0,
+        "citas": 0,
+        "bookmarks": 0,
+        "autores": 0,
+        "interacciones_por_tweet": 0,
+        "impresiones_por_tweet": 0,
+        "engagement": 0
+      },
+      "personas": {
+        "tweets": 4,
+        "impresiones": 11407,
+        "interacciones": 722,
+        "likes": 611,
+        "reposts": 92,
+        "respuestas": 17,
+        "citas": 2,
+        "bookmarks": 4,
+        "autores": 4,
+        "interacciones_por_tweet": 180.5,
+        "impresiones_por_tweet": 2851.75,
+        "engagement": 6.3294468308933105
+      },
+      "autores": [
+        {
+          "nombre": "Noelia Núñez",
+          "username": "noelia_n",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 406,
+          "impresiones": 6780
+        },
+        {
+          "nombre": "Jon Echeverría",
+          "username": "Jon_Echeverria_",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 260,
+          "impresiones": 3923
+        },
+        {
+          "nombre": "Álvaro Picazo",
+          "username": "picazzo_15",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 33,
+          "impresiones": 575
+        },
+        {
+          "nombre": "Joan Grané",
+          "username": "JoanGrane_",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 23,
+          "impresiones": 129
+        }
+      ],
+      "ejemplos": [
+        {
+          "id": "2107032330678239368",
+          "autor": "Noelia Núñez",
+          "username": "noelia_n",
+          "tipo": "personas",
+          "fecha": "2026-10-05T08:57:09.000Z",
+          "texto": "Gran estrategia electoral la de remarcar que eres un aspirante a totalitario que desprecia los resultados de las votaciones.\n\nVamos a ganarle en lo que más detesta: en las urnas. https://t.co/s3aTnFumCs",
+          "interacciones": 406,
+          "impresiones": 6780
+        },
+        {
+          "id": "2107127289595249121",
+          "autor": "Jon Echeverría",
+          "username": "Jon_Echeverria_",
+          "tipo": "personas",
+          "fecha": "2026-10-05T15:14:29.000Z",
+          "texto": "\"Democracia o cuento de la criada\" 😂\n\nLa desesperación en la izquierda es más palpable que nunca. https://t.co/ugTDj51DGQ",
+          "interacciones": 260,
+          "impresiones": 3923
+        },
+        {
+          "id": "2107865176552665422",
+          "autor": "Álvaro Picazo",
+          "username": "picazzo_15",
+          "tipo": "personas",
+          "fecha": "2026-10-07T16:06:34.000Z",
+          "texto": "Lo que quiere decir es que la huelga se convoca para que no haya alternancia política.\n\nUn paso más en la degradación democrática de España. https://t.co/wxAPbRPebC",
+          "interacciones": 33,
+          "impresiones": 575
+        },
+        {
+          "id": "2107731081038381419",
+          "autor": "Joan Grané",
+          "username": "JoanGrane_",
+          "tipo": "personas",
+          "fecha": "2026-10-07T07:13:44.000Z",
+          "texto": "Una gran notícia, per l’independentisme, per la democràcia i per la causa de la catalanaitat. Els anys de lluita a l’exili, tenien i tenen un sentit.\n\nEsperem el seu retorn, President! https://t.co/xAPMNkIROX",
+          "interacciones": 23,
+          "impresiones": 129
         }
       ]
     },
@@ -2980,18 +3389,18 @@
       "nombre": "Nacionalismo catalán (favorable)",
       "tipo": "estable",
       "total": {
-        "tweets": 4,
-        "impresiones": 8620,
-        "interacciones": 618,
-        "likes": 460,
-        "reposts": 107,
+        "tweets": 5,
+        "impresiones": 8790,
+        "interacciones": 628,
+        "likes": 469,
+        "reposts": 108,
         "respuestas": 45,
         "citas": 6,
         "bookmarks": 3,
         "autores": 2,
-        "interacciones_por_tweet": 154.5,
-        "impresiones_por_tweet": 2155,
-        "engagement": 7.169373549883991
+        "interacciones_por_tweet": 125.6,
+        "impresiones_por_tweet": 1758,
+        "engagement": 7.144482366325369
       },
       "organizaciones": {
         "tweets": 3,
@@ -3008,18 +3417,18 @@
         "engagement": 7.007419620774938
       },
       "personas": {
-        "tweets": 1,
-        "impresiones": 129,
-        "interacciones": 23,
-        "likes": 14,
-        "reposts": 8,
+        "tweets": 2,
+        "impresiones": 299,
+        "interacciones": 33,
+        "likes": 23,
+        "reposts": 9,
         "respuestas": 1,
         "citas": 0,
         "bookmarks": 0,
         "autores": 1,
-        "interacciones_por_tweet": 23,
-        "impresiones_por_tweet": 129,
-        "engagement": 17.829457364341085
+        "interacciones_por_tweet": 16.5,
+        "impresiones_por_tweet": 149.5,
+        "engagement": 11.036789297658862
       },
       "autores": [
         {
@@ -3034,9 +3443,9 @@
           "nombre": "Joan Grané",
           "username": "JoanGrane_",
           "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 23,
-          "impresiones": 129
+          "tweets": 2,
+          "interacciones": 33,
+          "impresiones": 299
         }
       ],
       "ejemplos": [
@@ -3079,6 +3488,16 @@
           "texto": "Una gran notícia, per l’independentisme, per la democràcia i per la causa de la catalanaitat. Els anys de lluita a l’exili, tenien i tenen un sentit.\n\nEsperem el seu retorn, President! https://t.co/xAPMNkIROX",
           "interacciones": 23,
           "impresiones": 129
+        },
+        {
+          "id": "2107025744496890169",
+          "autor": "Joan Grané",
+          "username": "JoanGrane_",
+          "tipo": "personas",
+          "fecha": "2026-10-05T08:30:58.000Z",
+          "texto": "President, per respecte al país al que representes; en català, si us plau.\n\nÉs de mínims! https://t.co/AlEUxFm50y",
+          "interacciones": 10,
+          "impresiones": 170
         }
       ]
     },
@@ -3177,7 +3596,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 3,
-        "impresiones": 7794,
+        "impresiones": 7797,
         "interacciones": 539,
         "likes": 338,
         "reposts": 94,
@@ -3186,8 +3605,8 @@
         "bookmarks": 6,
         "autores": 3,
         "interacciones_por_tweet": 179.66666666666666,
-        "impresiones_por_tweet": 2598,
-        "engagement": 6.9155760841673075
+        "impresiones_por_tweet": 2599,
+        "engagement": 6.912915223804027
       },
       "organizaciones": {
         "tweets": 2,
@@ -3205,7 +3624,7 @@
       },
       "personas": {
         "tweets": 1,
-        "impresiones": 4658,
+        "impresiones": 4661,
         "interacciones": 383,
         "likes": 250,
         "reposts": 60,
@@ -3214,8 +3633,8 @@
         "bookmarks": 4,
         "autores": 1,
         "interacciones_por_tweet": 383,
-        "impresiones_por_tweet": 4658,
-        "engagement": 8.222413052812366
+        "impresiones_por_tweet": 4661,
+        "engagement": 8.217120789530144
       },
       "autores": [
         {
@@ -3224,7 +3643,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 383,
-          "impresiones": 4658
+          "impresiones": 4661
         },
         {
           "nombre": "Juventudes Socialistas de España",
@@ -3252,7 +3671,7 @@
           "fecha": "2026-10-06T11:00:01.000Z",
           "texto": "El miedo a no ganar les lleva a poner en duda el sistema electoral. El 29N hay que votar en masa. https://t.co/qwWDVBjbFG",
           "interacciones": 383,
-          "impresiones": 4658
+          "impresiones": 4661
         },
         {
           "id": "2107748385885245576",
@@ -3282,17 +3701,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 3,
-        "impresiones": 13844,
-        "interacciones": 537,
-        "likes": 371,
+        "impresiones": 13845,
+        "interacciones": 538,
+        "likes": 372,
         "reposts": 117,
         "respuestas": 38,
         "citas": 11,
         "bookmarks": 4,
         "autores": 2,
-        "interacciones_por_tweet": 179,
-        "impresiones_por_tweet": 4614.666666666667,
-        "engagement": 3.8789367234903205
+        "interacciones_por_tweet": 179.33333333333334,
+        "impresiones_por_tweet": 4615,
+        "engagement": 3.8858793788371253
       },
       "organizaciones": {
         "tweets": 2,
@@ -3310,17 +3729,17 @@
       },
       "personas": {
         "tweets": 1,
-        "impresiones": 1202,
-        "interacciones": 88,
-        "likes": 54,
+        "impresiones": 1203,
+        "interacciones": 89,
+        "likes": 55,
         "reposts": 24,
         "respuestas": 9,
         "citas": 1,
         "bookmarks": 1,
         "autores": 1,
-        "interacciones_por_tweet": 88,
-        "impresiones_por_tweet": 1202,
-        "engagement": 7.321131447587355
+        "interacciones_por_tweet": 89,
+        "impresiones_por_tweet": 1203,
+        "engagement": 7.3981712385702405
       },
       "autores": [
         {
@@ -3336,8 +3755,8 @@
           "username": "VictorCaminoVlc",
           "tipo": "personas",
           "tweets": 1,
-          "interacciones": 88,
-          "impresiones": 1202
+          "interacciones": 89,
+          "impresiones": 1203
         }
       ],
       "ejemplos": [
@@ -3368,8 +3787,192 @@
           "tipo": "personas",
           "fecha": "2026-10-07T07:39:31.000Z",
           "texto": "Ayer el PP valenciano fue a reirle las gracias a quienes insultan a miles de acampados por una vivienda digna. \n\nDicen que si ganan se acaban los insultos y durante estos años no han parado de amenazar e insultar. https://t.co/P5fbAziryj",
-          "interacciones": 88,
-          "impresiones": 1202
+          "interacciones": 89,
+          "impresiones": 1203
+        }
+      ]
+    },
+    {
+      "id": "pactos_mayorias",
+      "nombre": "Pactos y mayorías parlamentarias",
+      "tipo": "estable",
+      "total": {
+        "tweets": 3,
+        "impresiones": 49619,
+        "interacciones": 517,
+        "likes": 319,
+        "reposts": 62,
+        "respuestas": 131,
+        "citas": 5,
+        "bookmarks": 0,
+        "autores": 3,
+        "interacciones_por_tweet": 172.33333333333334,
+        "impresiones_por_tweet": 16539.666666666668,
+        "engagement": 1.0419395795965256
+      },
+      "organizaciones": {
+        "tweets": 0,
+        "impresiones": 0,
+        "interacciones": 0,
+        "likes": 0,
+        "reposts": 0,
+        "respuestas": 0,
+        "citas": 0,
+        "bookmarks": 0,
+        "autores": 0,
+        "interacciones_por_tweet": 0,
+        "impresiones_por_tweet": 0,
+        "engagement": 0
+      },
+      "personas": {
+        "tweets": 3,
+        "impresiones": 49619,
+        "interacciones": 517,
+        "likes": 319,
+        "reposts": 62,
+        "respuestas": 131,
+        "citas": 5,
+        "bookmarks": 0,
+        "autores": 3,
+        "interacciones_por_tweet": 172.33333333333334,
+        "impresiones_por_tweet": 16539.666666666668,
+        "engagement": 1.0419395795965256
+      },
+      "autores": [
+        {
+          "nombre": "Víctor Camino",
+          "username": "VictorCaminoVlc",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 397,
+          "impresiones": 45201
+        },
+        {
+          "nombre": "Tesh Sidi",
+          "username": "teshsidi",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 87,
+          "impresiones": 3289
+        },
+        {
+          "nombre": "Jon Echeverría",
+          "username": "Jon_Echeverria_",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 33,
+          "impresiones": 1129
+        }
+      ],
+      "ejemplos": [
+        {
+          "id": "2107006010275557393",
+          "autor": "Víctor Camino",
+          "username": "VictorCaminoVlc",
+          "tipo": "personas",
+          "fecha": "2026-10-05T07:12:33.000Z",
+          "texto": "Nos vamos a votar. \n\nPedro Sánchez anuncia un adelanto electoral para el 29 de noviembre para ampliar la mayoría parlamentaria de la izquierda.\n\nQueda aún mucho por avanzar. https://t.co/iqFUX0UXSl",
+          "interacciones": 397,
+          "impresiones": 45201
+        },
+        {
+          "id": "2107066116874842607",
+          "autor": "Tesh Sidi",
+          "username": "teshsidi",
+          "tipo": "personas",
+          "fecha": "2026-10-05T11:11:24.000Z",
+          "texto": "@jmvillarroya No era otra, siempre fue la misma. La mayoría parlamentaria ha sido destructiva y lacaya durante todos estos años.\n\nSabes perfectamente de lo que hablo.",
+          "interacciones": 87,
+          "impresiones": 3289
+        },
+        {
+          "id": "2107544506795274635",
+          "autor": "Jon Echeverría",
+          "username": "Jon_Echeverria_",
+          "tipo": "personas",
+          "fecha": "2026-10-06T18:52:21.000Z",
+          "texto": "@Idiazaquso En las tres gobierna el PSOE. \nGobernar en coalición es gobernar.",
+          "interacciones": 33,
+          "impresiones": 1129
+        }
+      ]
+    },
+    {
+      "id": "orden_publico",
+      "nombre": "Detenciones y orden público",
+      "tipo": "estable",
+      "total": {
+        "tweets": 2,
+        "impresiones": 14110,
+        "interacciones": 473,
+        "likes": 321,
+        "reposts": 111,
+        "respuestas": 28,
+        "citas": 13,
+        "bookmarks": 3,
+        "autores": 1,
+        "interacciones_por_tweet": 236.5,
+        "impresiones_por_tweet": 7055,
+        "engagement": 3.35223245924876
+      },
+      "organizaciones": {
+        "tweets": 2,
+        "impresiones": 14110,
+        "interacciones": 473,
+        "likes": 321,
+        "reposts": 111,
+        "respuestas": 28,
+        "citas": 13,
+        "bookmarks": 3,
+        "autores": 1,
+        "interacciones_por_tweet": 236.5,
+        "impresiones_por_tweet": 7055,
+        "engagement": 3.35223245924876
+      },
+      "personas": {
+        "tweets": 0,
+        "impresiones": 0,
+        "interacciones": 0,
+        "likes": 0,
+        "reposts": 0,
+        "respuestas": 0,
+        "citas": 0,
+        "bookmarks": 0,
+        "autores": 0,
+        "interacciones_por_tweet": 0,
+        "impresiones_por_tweet": 0,
+        "engagement": 0
+      },
+      "autores": [
+        {
+          "nombre": "Arran",
+          "username": "Arran_jovent",
+          "tipo": "organizaciones",
+          "tweets": 2,
+          "interacciones": 473,
+          "impresiones": 14110
+        }
+      ],
+      "ejemplos": [
+        {
+          "id": "2107378561342382460",
+          "autor": "Arran",
+          "username": "Arran_jovent",
+          "tipo": "organizaciones",
+          "fecha": "2026-10-06T07:52:56.000Z",
+          "texto": "🔴 13 detingudes a la mobilització del moviment per l'habitatge d'ahir a Barcelona, 2 de les quals militants d'@arran_jovent.\n\n⚠️ Tothom atent a les convocatòries antirepressives.\n\nLa solidaritat, la nostra millor arma! https://t.co/SNzrEyHjdf",
+          "interacciones": 343,
+          "impresiones": 10993
+        },
+        {
+          "id": "2107389839800705035",
+          "autor": "Arran",
+          "username": "Arran_jovent",
+          "tipo": "organizaciones",
+          "fecha": "2026-10-06T08:37:45.000Z",
+          "texto": "🔴 ACTUALITZACIÓ!\n\nUna militant ja està en llibertat, però l'altra continua detinguda.\n\nConvoquem a tothom a les 11h a la Comissaria de Les Corts (Barcelona).\n\nLa repressió no ens aturarà! https://t.co/uYSNzV5sul https://t.co/QnaNhhGDXo",
+          "interacciones": 130,
+          "impresiones": 3117
         }
       ]
     },
@@ -3379,7 +3982,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 4,
-        "impresiones": 4350,
+        "impresiones": 4370,
         "interacciones": 380,
         "likes": 271,
         "reposts": 90,
@@ -3388,12 +3991,12 @@
         "bookmarks": 2,
         "autores": 3,
         "interacciones_por_tweet": 95,
-        "impresiones_por_tweet": 1087.5,
-        "engagement": 8.735632183908045
+        "impresiones_por_tweet": 1092.5,
+        "engagement": 8.695652173913043
       },
       "organizaciones": {
         "tweets": 2,
-        "impresiones": 978,
+        "impresiones": 979,
         "interacciones": 59,
         "likes": 44,
         "reposts": 12,
@@ -3402,12 +4005,12 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 29.5,
-        "impresiones_por_tweet": 489,
-        "engagement": 6.032719836400818
+        "impresiones_por_tweet": 489.5,
+        "engagement": 6.026557711950971
       },
       "personas": {
         "tweets": 2,
-        "impresiones": 3372,
+        "impresiones": 3391,
         "interacciones": 321,
         "likes": 227,
         "reposts": 78,
@@ -3416,8 +4019,8 @@
         "bookmarks": 2,
         "autores": 2,
         "interacciones_por_tweet": 160.5,
-        "impresiones_por_tweet": 1686,
-        "engagement": 9.519572953736654
+        "impresiones_por_tweet": 1695.5,
+        "engagement": 9.466234149218518
       },
       "autores": [
         {
@@ -3426,7 +4029,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 288,
-          "impresiones": 2798
+          "impresiones": 2816
         },
         {
           "nombre": "Noves Generacions de Catalunya",
@@ -3434,7 +4037,7 @@
           "tipo": "organizaciones",
           "tweets": 2,
           "interacciones": 59,
-          "impresiones": 978
+          "impresiones": 979
         },
         {
           "nombre": "Álvaro Picazo",
@@ -3442,7 +4045,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 33,
-          "impresiones": 574
+          "impresiones": 575
         }
       ],
       "ejemplos": [
@@ -3454,7 +4057,7 @@
           "fecha": "2026-10-07T19:32:06.000Z",
           "texto": "Per la Núria, el Javier, l'Olga, l'Àlex, la Maricarmen i tantes altres.\n\nPel dolor de mandíbula al serrar les dents davant de cada desnonament, cada pujada de lloguer, cada abús.\n\nQue ho paguin tot i que ho paguin car.\n11 de novembre, vaga general. https://t.co/zsmV4h9sro",
           "interacciones": 288,
-          "impresiones": 2798
+          "impresiones": 2816
         },
         {
           "id": "2107877849927426140",
@@ -3464,7 +4067,7 @@
           "fecha": "2026-10-07T16:56:56.000Z",
           "texto": "No habrá sindicato de inquilinas que nos pare para desahuciarla.\n\n#DesokupADA https://t.co/SJJX5aSIbz",
           "interacciones": 39,
-          "impresiones": 568
+          "impresiones": 569
         },
         {
           "id": "2107865176552665422",
@@ -3474,7 +4077,7 @@
           "fecha": "2026-10-07T16:06:34.000Z",
           "texto": "Lo que quiere decir es que la huelga se convoca para que no haya alternancia política.\n\nUn paso más en la degradación democrática de España. https://t.co/wxAPbRPebC",
           "interacciones": 33,
-          "impresiones": 574
+          "impresiones": 575
         },
         {
           "id": "2107443672744866186",
@@ -3947,7 +4550,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 2,
-        "impresiones": 1157,
+        "impresiones": 1158,
         "interacciones": 131,
         "likes": 110,
         "reposts": 21,
@@ -3956,12 +4559,12 @@
         "bookmarks": 0,
         "autores": 2,
         "interacciones_por_tweet": 65.5,
-        "impresiones_por_tweet": 578.5,
-        "engagement": 11.32238547968885
+        "impresiones_por_tweet": 579,
+        "engagement": 11.312607944732298
       },
       "organizaciones": {
         "tweets": 1,
-        "impresiones": 568,
+        "impresiones": 569,
         "interacciones": 39,
         "likes": 31,
         "reposts": 8,
@@ -3970,8 +4573,8 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 39,
-        "impresiones_por_tweet": 568,
-        "engagement": 6.866197183098592
+        "impresiones_por_tweet": 569,
+        "engagement": 6.854130052724078
       },
       "personas": {
         "tweets": 1,
@@ -4002,7 +4605,7 @@
           "tipo": "organizaciones",
           "tweets": 1,
           "interacciones": 39,
-          "impresiones": 568
+          "impresiones": 569
         }
       ],
       "ejemplos": [
@@ -4024,7 +4627,7 @@
           "fecha": "2026-10-07T16:56:56.000Z",
           "texto": "No habrá sindicato de inquilinas que nos pare para desahuciarla.\n\n#DesokupADA https://t.co/SJJX5aSIbz",
           "interacciones": 39,
-          "impresiones": 568
+          "impresiones": 569
         }
       ]
     },
@@ -4034,7 +4637,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 2,
-        "impresiones": 4427,
+        "impresiones": 4436,
         "interacciones": 110,
         "likes": 72,
         "reposts": 13,
@@ -4043,8 +4646,8 @@
         "bookmarks": 4,
         "autores": 2,
         "interacciones_por_tweet": 55,
-        "impresiones_por_tweet": 2213.5,
-        "engagement": 2.484752654167608
+        "impresiones_por_tweet": 2218,
+        "engagement": 2.479711451758341
       },
       "organizaciones": {
         "tweets": 1,
@@ -4062,7 +4665,7 @@
       },
       "personas": {
         "tweets": 1,
-        "impresiones": 2778,
+        "impresiones": 2787,
         "interacciones": 42,
         "likes": 18,
         "reposts": 1,
@@ -4071,8 +4674,8 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 42,
-        "impresiones_por_tweet": 2778,
-        "engagement": 1.511879049676026
+        "impresiones_por_tweet": 2787,
+        "engagement": 1.5069967707212055
       },
       "autores": [
         {
@@ -4089,7 +4692,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 42,
-          "impresiones": 2778
+          "impresiones": 2787
         }
       ],
       "ejemplos": [
@@ -4111,7 +4714,7 @@
           "fecha": "2026-10-07T15:04:32.000Z",
           "texto": "@Macca15Paul Te entiendo, y si fuera realista, me explico: por ejemplo, Más Madrid o Comuns son partidos territoriales; su censo es el de su territorio, lo mismo que ERC o Bildu.\n\nLa otra cuestión es la concepción del censo. La militancia en cada partido se entiende según sus estatutos. Por",
           "interacciones": 42,
-          "impresiones": 2778
+          "impresiones": 2787
         }
       ]
     },
@@ -4259,7 +4862,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 3,
-        "impresiones": 5038,
+        "impresiones": 5052,
         "interacciones": 67,
         "likes": 31,
         "reposts": 2,
@@ -4268,8 +4871,8 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 22.333333333333332,
-        "impresiones_por_tweet": 1679.3333333333333,
-        "engagement": 1.329892814608972
+        "impresiones_por_tweet": 1684,
+        "engagement": 1.3262074425969912
       },
       "organizaciones": {
         "tweets": 0,
@@ -4287,7 +4890,7 @@
       },
       "personas": {
         "tweets": 3,
-        "impresiones": 5038,
+        "impresiones": 5052,
         "interacciones": 67,
         "likes": 31,
         "reposts": 2,
@@ -4296,8 +4899,8 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 22.333333333333332,
-        "impresiones_por_tweet": 1679.3333333333333,
-        "engagement": 1.329892814608972
+        "impresiones_por_tweet": 1684,
+        "engagement": 1.3262074425969912
       },
       "autores": [
         {
@@ -4306,7 +4909,7 @@
           "tipo": "personas",
           "tweets": 3,
           "interacciones": 67,
-          "impresiones": 5038
+          "impresiones": 5052
         }
       ],
       "ejemplos": [
@@ -4318,7 +4921,7 @@
           "fecha": "2026-10-07T15:04:32.000Z",
           "texto": "@Macca15Paul Te entiendo, y si fuera realista, me explico: por ejemplo, Más Madrid o Comuns son partidos territoriales; su censo es el de su territorio, lo mismo que ERC o Bildu.\n\nLa otra cuestión es la concepción del censo. La militancia en cada partido se entiende según sus estatutos. Por",
           "interacciones": 42,
-          "impresiones": 2778
+          "impresiones": 2787
         },
         {
           "id": "2107852740840001984",
@@ -4328,7 +4931,7 @@
           "fecha": "2026-10-07T15:17:10.000Z",
           "texto": "@Macca15Paul Dime cómo? Con qué censo? Porque no me queda claro!\n\nPorque Comunes ha decidido Ada, Podemos(Irene), Más Madrid(Mónica)…\n\nÓsea no entiendo la verdad eso de primarias abiertas, cuando la irresponsabilidad del espacio es no haber trabajado en esto desde 2023.",
           "interacciones": 17,
-          "impresiones": 1218
+          "impresiones": 1222
         },
         {
           "id": "2107855027314287043",
@@ -4338,7 +4941,7 @@
           "fecha": "2026-10-07T15:26:15.000Z",
           "texto": "@Macca15Paul @PODEMOS Y porque no se ha trabajado en los últimos años en acercar posturas y construir. \n\nDicho esto, yo creo que la unidad es crucial para empezar a volver a construir, lejos de los dramas del 15M que entiendo que muchos no hemos vivido.",
           "interacciones": 8,
-          "impresiones": 1042
+          "impresiones": 1043
         }
       ]
     },
@@ -4348,7 +4951,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 1,
-        "impresiones": 1092,
+        "impresiones": 1094,
         "interacciones": 67,
         "likes": 51,
         "reposts": 16,
@@ -4357,12 +4960,12 @@
         "bookmarks": 2,
         "autores": 1,
         "interacciones_por_tweet": 67,
-        "impresiones_por_tweet": 1092,
-        "engagement": 6.135531135531135
+        "impresiones_por_tweet": 1094,
+        "engagement": 6.124314442413162
       },
       "organizaciones": {
         "tweets": 1,
-        "impresiones": 1092,
+        "impresiones": 1094,
         "interacciones": 67,
         "likes": 51,
         "reposts": 16,
@@ -4371,8 +4974,8 @@
         "bookmarks": 2,
         "autores": 1,
         "interacciones_por_tweet": 67,
-        "impresiones_por_tweet": 1092,
-        "engagement": 6.135531135531135
+        "impresiones_por_tweet": 1094,
+        "engagement": 6.124314442413162
       },
       "personas": {
         "tweets": 0,
@@ -4395,7 +4998,7 @@
           "tipo": "organizaciones",
           "tweets": 1,
           "interacciones": 67,
-          "impresiones": 1092
+          "impresiones": 1094
         }
       ],
       "ejemplos": [
@@ -4407,7 +5010,7 @@
           "fecha": "2026-10-07T09:38:37.000Z",
           "texto": "🇪🇸 Revuelta ha estado presente ante todas las injusticias cometidas por Pedro Sánchez, siempre con la intención de denunciarlas e impedirlas.\n\nRecordatorio del día n.º 2 hasta conseguir su caída el 29-N:\n\nSÁNCHEZ DEJÓ A LA GUARDIA CIVIL SIN MEDIOS FRENTE AL NARCOTRÁFICO. \nDOS https://t.co/VRj9Vg30DI",
           "interacciones": 67,
-          "impresiones": 1092
+          "impresiones": 1094
         }
       ]
     },
@@ -4486,7 +5089,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 2,
-        "impresiones": 2829,
+        "impresiones": 2841,
         "interacciones": 42,
         "likes": 18,
         "reposts": 1,
@@ -4495,8 +5098,8 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 21,
-        "impresiones_por_tweet": 1414.5,
-        "engagement": 1.4846235418875928
+        "impresiones_por_tweet": 1420.5,
+        "engagement": 1.478352692713833
       },
       "organizaciones": {
         "tweets": 0,
@@ -4514,7 +5117,7 @@
       },
       "personas": {
         "tweets": 2,
-        "impresiones": 2829,
+        "impresiones": 2841,
         "interacciones": 42,
         "likes": 18,
         "reposts": 1,
@@ -4523,8 +5126,8 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 21,
-        "impresiones_por_tweet": 1414.5,
-        "engagement": 1.4846235418875928
+        "impresiones_por_tweet": 1420.5,
+        "engagement": 1.478352692713833
       },
       "autores": [
         {
@@ -4533,7 +5136,7 @@
           "tipo": "personas",
           "tweets": 2,
           "interacciones": 42,
-          "impresiones": 2829
+          "impresiones": 2841
         }
       ],
       "ejemplos": [
@@ -4545,7 +5148,7 @@
           "fecha": "2026-10-07T15:04:32.000Z",
           "texto": "@Macca15Paul Te entiendo, y si fuera realista, me explico: por ejemplo, Más Madrid o Comuns son partidos territoriales; su censo es el de su territorio, lo mismo que ERC o Bildu.\n\nLa otra cuestión es la concepción del censo. La militancia en cada partido se entiende según sus estatutos. Por",
           "interacciones": 42,
-          "impresiones": 2778
+          "impresiones": 2787
         },
         {
           "id": "2107950094880518373",
@@ -4555,7 +5158,7 @@
           "fecha": "2026-10-07T21:44:01.000Z",
           "texto": "@guipoto ERC no ha volgut el projecte de Rufián.",
           "interacciones": 0,
-          "impresiones": 51
+          "impresiones": 54
         }
       ]
     },
@@ -4634,7 +5237,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 1,
-        "impresiones": 568,
+        "impresiones": 569,
         "interacciones": 39,
         "likes": 31,
         "reposts": 8,
@@ -4643,12 +5246,12 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 39,
-        "impresiones_por_tweet": 568,
-        "engagement": 6.866197183098592
+        "impresiones_por_tweet": 569,
+        "engagement": 6.854130052724078
       },
       "organizaciones": {
         "tweets": 1,
-        "impresiones": 568,
+        "impresiones": 569,
         "interacciones": 39,
         "likes": 31,
         "reposts": 8,
@@ -4657,8 +5260,8 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 39,
-        "impresiones_por_tweet": 568,
-        "engagement": 6.866197183098592
+        "impresiones_por_tweet": 569,
+        "engagement": 6.854130052724078
       },
       "personas": {
         "tweets": 0,
@@ -4681,7 +5284,7 @@
           "tipo": "organizaciones",
           "tweets": 1,
           "interacciones": 39,
-          "impresiones": 568
+          "impresiones": 569
         }
       ],
       "ejemplos": [
@@ -4693,7 +5296,96 @@
           "fecha": "2026-10-07T16:56:56.000Z",
           "texto": "No habrá sindicato de inquilinas que nos pare para desahuciarla.\n\n#DesokupADA https://t.co/SJJX5aSIbz",
           "interacciones": 39,
-          "impresiones": 568
+          "impresiones": 569
+        }
+      ]
+    },
+    {
+      "id": "partido_sumar_podemos",
+      "nombre": "Sumar / Podemos",
+      "tipo": "estable",
+      "total": {
+        "tweets": 3,
+        "impresiones": 3173,
+        "interacciones": 36,
+        "likes": 20,
+        "reposts": 1,
+        "respuestas": 14,
+        "citas": 1,
+        "bookmarks": 0,
+        "autores": 1,
+        "interacciones_por_tweet": 12,
+        "impresiones_por_tweet": 1057.6666666666667,
+        "engagement": 1.134572959344469
+      },
+      "organizaciones": {
+        "tweets": 0,
+        "impresiones": 0,
+        "interacciones": 0,
+        "likes": 0,
+        "reposts": 0,
+        "respuestas": 0,
+        "citas": 0,
+        "bookmarks": 0,
+        "autores": 0,
+        "interacciones_por_tweet": 0,
+        "impresiones_por_tweet": 0,
+        "engagement": 0
+      },
+      "personas": {
+        "tweets": 3,
+        "impresiones": 3173,
+        "interacciones": 36,
+        "likes": 20,
+        "reposts": 1,
+        "respuestas": 14,
+        "citas": 1,
+        "bookmarks": 0,
+        "autores": 1,
+        "interacciones_por_tweet": 12,
+        "impresiones_por_tweet": 1057.6666666666667,
+        "engagement": 1.134572959344469
+      },
+      "autores": [
+        {
+          "nombre": "Tesh Sidi",
+          "username": "teshsidi",
+          "tipo": "personas",
+          "tweets": 3,
+          "interacciones": 36,
+          "impresiones": 3173
+        }
+      ],
+      "ejemplos": [
+        {
+          "id": "2107852740840001984",
+          "autor": "Tesh Sidi",
+          "username": "teshsidi",
+          "tipo": "personas",
+          "fecha": "2026-10-07T15:17:10.000Z",
+          "texto": "@Macca15Paul Dime cómo? Con qué censo? Porque no me queda claro!\n\nPorque Comunes ha decidido Ada, Podemos(Irene), Más Madrid(Mónica)…\n\nÓsea no entiendo la verdad eso de primarias abiertas, cuando la irresponsabilidad del espacio es no haber trabajado en esto desde 2023.",
+          "interacciones": 17,
+          "impresiones": 1222
+        },
+        {
+          "id": "2107855183032316234",
+          "autor": "Tesh Sidi",
+          "username": "teshsidi",
+          "tipo": "personas",
+          "fecha": "2026-10-07T15:26:52.000Z",
+          "texto": "@Macca15Paul @PODEMOS Por qué * que me corrige Cayetana 🤣🫶🏽",
+          "interacciones": 11,
+          "impresiones": 908
+        },
+        {
+          "id": "2107855027314287043",
+          "autor": "Tesh Sidi",
+          "username": "teshsidi",
+          "tipo": "personas",
+          "fecha": "2026-10-07T15:26:15.000Z",
+          "texto": "@Macca15Paul @PODEMOS Y porque no se ha trabajado en los últimos años en acercar posturas y construir. \n\nDicho esto, yo creo que la unidad es crucial para empezar a volver a construir, lejos de los dramas del 15M que entiendo que muchos no hemos vivido.",
+          "interacciones": 8,
+          "impresiones": 1043
         }
       ]
     },
@@ -4703,7 +5395,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 2,
-        "impresiones": 826,
+        "impresiones": 829,
         "interacciones": 36,
         "likes": 28,
         "reposts": 4,
@@ -4712,8 +5404,8 @@
         "bookmarks": 0,
         "autores": 2,
         "interacciones_por_tweet": 18,
-        "impresiones_por_tweet": 413,
-        "engagement": 4.358353510895883
+        "impresiones_por_tweet": 414.5,
+        "engagement": 4.342581423401689
       },
       "organizaciones": {
         "tweets": 0,
@@ -4731,7 +5423,7 @@
       },
       "personas": {
         "tweets": 2,
-        "impresiones": 826,
+        "impresiones": 829,
         "interacciones": 36,
         "likes": 28,
         "reposts": 4,
@@ -4740,8 +5432,8 @@
         "bookmarks": 0,
         "autores": 2,
         "interacciones_por_tweet": 18,
-        "impresiones_por_tweet": 413,
-        "engagement": 4.358353510895883
+        "impresiones_por_tweet": 414.5,
+        "engagement": 4.342581423401689
       },
       "autores": [
         {
@@ -4750,7 +5442,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 23,
-          "impresiones": 700
+          "impresiones": 702
         },
         {
           "nombre": "Laure Vega",
@@ -4758,7 +5450,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 13,
-          "impresiones": 126
+          "impresiones": 127
         }
       ],
       "ejemplos": [
@@ -4770,7 +5462,7 @@
           "fecha": "2026-10-07T16:11:11.000Z",
           "texto": "La izquierda “feminista” es la única que usa a las mujeres para tener réditos políticos, y les sale mal.\n\nMaricarmen ha causado el adelanto de las elecciones, y esta mujer ha dado una imagen muy contraria a la que quería el PSOE. https://t.co/iaU1pPpzhX",
           "interacciones": 23,
-          "impresiones": 700
+          "impresiones": 702
         },
         {
           "id": "2107924507314802944",
@@ -4780,7 +5472,7 @@
           "fecha": "2026-10-07T20:02:20.000Z",
           "texto": "@EnCornetGalera Mira, a mi el diastema a les dents em fa vergonya, però més vergonya em faria contestar això quan algú parla de que hi ha catalans que es lleven la vida perquè un fons voltor sumi zeros al seu compte i que hagi mort una dona gran després d'un desnonament.",
           "interacciones": 13,
-          "impresiones": 126
+          "impresiones": 127
         }
       ]
     },
@@ -4850,75 +5542,6 @@
           "texto": "Se ve que todavía no se ha recuperado del cariño que le mostraron los andaluces en las elecciones que se presentó como candidata.\n\nEstamos deseando ver otro mitin de ella mano a mano con Zapatero. https://t.co/IOjtuF4FWE",
           "interacciones": 20,
           "impresiones": 421
-        }
-      ]
-    },
-    {
-      "id": "partido_sumar_podemos",
-      "nombre": "Sumar / Podemos",
-      "tipo": "estable",
-      "total": {
-        "tweets": 1,
-        "impresiones": 1218,
-        "interacciones": 17,
-        "likes": 10,
-        "reposts": 1,
-        "respuestas": 6,
-        "citas": 0,
-        "bookmarks": 0,
-        "autores": 1,
-        "interacciones_por_tweet": 17,
-        "impresiones_por_tweet": 1218,
-        "engagement": 1.3957307060755337
-      },
-      "organizaciones": {
-        "tweets": 0,
-        "impresiones": 0,
-        "interacciones": 0,
-        "likes": 0,
-        "reposts": 0,
-        "respuestas": 0,
-        "citas": 0,
-        "bookmarks": 0,
-        "autores": 0,
-        "interacciones_por_tweet": 0,
-        "impresiones_por_tweet": 0,
-        "engagement": 0
-      },
-      "personas": {
-        "tweets": 1,
-        "impresiones": 1218,
-        "interacciones": 17,
-        "likes": 10,
-        "reposts": 1,
-        "respuestas": 6,
-        "citas": 0,
-        "bookmarks": 0,
-        "autores": 1,
-        "interacciones_por_tweet": 17,
-        "impresiones_por_tweet": 1218,
-        "engagement": 1.3957307060755337
-      },
-      "autores": [
-        {
-          "nombre": "Tesh Sidi",
-          "username": "teshsidi",
-          "tipo": "personas",
-          "tweets": 1,
-          "interacciones": 17,
-          "impresiones": 1218
-        }
-      ],
-      "ejemplos": [
-        {
-          "id": "2107852740840001984",
-          "autor": "Tesh Sidi",
-          "username": "teshsidi",
-          "tipo": "personas",
-          "fecha": "2026-10-07T15:17:10.000Z",
-          "texto": "@Macca15Paul Dime cómo? Con qué censo? Porque no me queda claro!\n\nPorque Comunes ha decidido Ada, Podemos(Irene), Más Madrid(Mónica)…\n\nÓsea no entiendo la verdad eso de primarias abiertas, cuando la irresponsabilidad del espacio es no haber trabajado en esto desde 2023.",
-          "interacciones": 17,
-          "impresiones": 1218
         }
       ]
     },
@@ -5061,12 +5684,81 @@
       ]
     },
     {
+      "id": "lengua_catalana",
+      "nombre": "Lengua catalana",
+      "tipo": "estable",
+      "total": {
+        "tweets": 1,
+        "impresiones": 170,
+        "interacciones": 10,
+        "likes": 9,
+        "reposts": 1,
+        "respuestas": 0,
+        "citas": 0,
+        "bookmarks": 0,
+        "autores": 1,
+        "interacciones_por_tweet": 10,
+        "impresiones_por_tweet": 170,
+        "engagement": 5.88235294117647
+      },
+      "organizaciones": {
+        "tweets": 0,
+        "impresiones": 0,
+        "interacciones": 0,
+        "likes": 0,
+        "reposts": 0,
+        "respuestas": 0,
+        "citas": 0,
+        "bookmarks": 0,
+        "autores": 0,
+        "interacciones_por_tweet": 0,
+        "impresiones_por_tweet": 0,
+        "engagement": 0
+      },
+      "personas": {
+        "tweets": 1,
+        "impresiones": 170,
+        "interacciones": 10,
+        "likes": 9,
+        "reposts": 1,
+        "respuestas": 0,
+        "citas": 0,
+        "bookmarks": 0,
+        "autores": 1,
+        "interacciones_por_tweet": 10,
+        "impresiones_por_tweet": 170,
+        "engagement": 5.88235294117647
+      },
+      "autores": [
+        {
+          "nombre": "Joan Grané",
+          "username": "JoanGrane_",
+          "tipo": "personas",
+          "tweets": 1,
+          "interacciones": 10,
+          "impresiones": 170
+        }
+      ],
+      "ejemplos": [
+        {
+          "id": "2107025744496890169",
+          "autor": "Joan Grané",
+          "username": "JoanGrane_",
+          "tipo": "personas",
+          "fecha": "2026-10-05T08:30:58.000Z",
+          "texto": "President, per respecte al país al que representes; en català, si us plau.\n\nÉs de mínims! https://t.co/AlEUxFm50y",
+          "interacciones": 10,
+          "impresiones": 170
+        }
+      ]
+    },
+    {
       "id": "actor_rufian",
       "nombre": "Gabriel Rufián",
       "tipo": "estable",
       "total": {
         "tweets": 1,
-        "impresiones": 51,
+        "impresiones": 54,
         "interacciones": 0,
         "likes": 0,
         "reposts": 0,
@@ -5075,7 +5767,7 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 0,
-        "impresiones_por_tweet": 51,
+        "impresiones_por_tweet": 54,
         "engagement": 0
       },
       "organizaciones": {
@@ -5094,7 +5786,7 @@
       },
       "personas": {
         "tweets": 1,
-        "impresiones": 51,
+        "impresiones": 54,
         "interacciones": 0,
         "likes": 0,
         "reposts": 0,
@@ -5103,7 +5795,7 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 0,
-        "impresiones_por_tweet": 51,
+        "impresiones_por_tweet": 54,
         "engagement": 0
       },
       "autores": [
@@ -5113,7 +5805,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 0,
-          "impresiones": 51
+          "impresiones": 54
         }
       ],
       "ejemplos": [
@@ -5125,7 +5817,7 @@
           "fecha": "2026-10-07T21:44:01.000Z",
           "texto": "@guipoto ERC no ha volgut el projecte de Rufián.",
           "interacciones": 0,
-          "impresiones": 51
+          "impresiones": 54
         }
       ]
     }
