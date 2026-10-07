@@ -88,6 +88,10 @@ const entidades = (configuracion.entidades || []).map(tema => ({
 }));
 
 function coincideTema(post, tema) {
+  if (tema.id === "marruecos" && (post.texto || "").includes("🇲🇦")) {
+    return true;
+  }
+
   const porKeyword = (tema.keywords || []).some(keyword =>
     contiene(post.normalizado, keyword)
   );
@@ -120,7 +124,8 @@ const catalanNeutral = [
 const catalanFavor = [
   "independencia","independentisme","independentista","independentistas","sobiranisme","paisos catalans","països catalans",
   "catalans lliures","catalunya lliure","retorn president","retorno president",
-  "causa de la catalanitat","causa de la catalanidad"
+  "causa de la catalanitat","causa de la catalanidad",
+  "en catala","en català","llengua catalana","lengua catalana"
 ];
 
 const catalanContra = [
@@ -203,9 +208,9 @@ function agitacionFallback(post, temasSustantivos) {
 
   if (temasSustantivos > 0) return false;
   if (!texto || texto.startsWith("@")) return false;
-  if (normalizar(texto).length < 8) return false;
+  if (normalizar(texto).length < 4) return false;
 
-  return contieneAlguno(post, reglas.agitacion_fallback || []);
+  return true;
 }
 
 const especiales = [
