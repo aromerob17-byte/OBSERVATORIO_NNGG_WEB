@@ -14,7 +14,8 @@ function normalizar(texto = "") {
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .replace(/https?:\/\/\S+/g, " ")
-    .replace(/[^a-z0-9ñç#@_\s]/g, " ")
+    .replace(/[#@_]/g, " ")
+    .replace(/[^a-z0-9ñç\s]/g, " ")
     .replace(/\s+/g, " ")
     .trim();
 }
