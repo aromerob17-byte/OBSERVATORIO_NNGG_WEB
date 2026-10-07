@@ -1,5 +1,34 @@
 {
+  "version": 2,
   "temas": [
+    {
+      "id": "elecciones_29n",
+      "nombre": "Elecciones 29N",
+      "keywords": [
+        "29n",
+        "29 de noviembre",
+        "29 noviembre",
+        "29.11.2026",
+        "adelanto electoral",
+        "elecciones anticipadas"
+      ]
+    },
+    {
+      "id": "campana",
+      "nombre": "Campaña electoral",
+      "keywords": [
+        "campaña electoral",
+        "campana electoral",
+        "precampaña",
+        "precampana",
+        "mitin",
+        "míting",
+        "candidato",
+        "candidata",
+        "encuesta",
+        "sondeo"
+      ]
+    },
     {
       "id": "vivienda",
       "nombre": "Vivienda y alquiler",
@@ -9,14 +38,54 @@
         "alquiler",
         "lloguer",
         "hipoteca",
-        "desahucio",
-        "desnonament",
-        "okupacion",
-        "ocupacion ilegal",
         "piso",
         "pisos",
         "emancipacion",
-        "emancipacio"
+        "emancipación",
+        "emancipacio",
+        "emancipació"
+      ]
+    },
+    {
+      "id": "fondos_buitre",
+      "nombre": "Fondos buitre y especulación",
+      "keywords": [
+        "fondo buitre",
+        "fondos buitre",
+        "fons voltor",
+        "blackrock",
+        "especulacion",
+        "especulación",
+        "especulació"
+      ]
+    },
+    {
+      "id": "desahucios",
+      "nombre": "Desahucios",
+      "keywords": [
+        "desahucio",
+        "desahucios",
+        "desahuciar",
+        "desahuciado",
+        "desahuciada",
+        "desnonament",
+        "desnonaments",
+        "desnonar"
+      ]
+    },
+    {
+      "id": "okupacion",
+      "nombre": "Okupación",
+      "keywords": [
+        "okupa",
+        "okupas",
+        "okupacion",
+        "okupación",
+        "ocupacion ilegal",
+        "ocupación ilegal"
+      ],
+      "substrings": [
+        "desokup"
       ]
     },
     {
@@ -24,41 +93,125 @@
       "nombre": "Caso Maricarmen",
       "keywords": [
         "maricarmen",
-        "mari carmen",
-        "maricarmen abascal",
-        "decreto maricarmen",
-        "maricarmen se queda"
+        "mari carmen"
       ]
     },
     {
-      "id": "economia_empleo",
-      "nombre": "Economía y empleo",
+      "id": "ceuta",
+      "nombre": "Ceuta",
       "keywords": [
-        "economia",
-        "economía",
-        "empleo",
-        "trabajo",
-        "paro",
-        "desempleo",
-        "salario",
-        "sueldo",
-        "nomina",
-        "nómina",
-        "autonomo",
-        "autónomo",
-        "autonomos",
-        "autónomos",
-        "empresa",
-        "empresas",
-        "inflacion",
-        "inflación",
-        "precariedad",
-        "feina",
-        "atur",
-        "ocupacio",
-        "ocupació",
-        "productividad",
-        "pib"
+        "ceuta",
+        "ceutí",
+        "ceuti",
+        "ceutíes",
+        "ceuties"
+      ]
+    },
+    {
+      "id": "apagon",
+      "nombre": "Apagón",
+      "keywords": [
+        "apagon",
+        "apagón",
+        "gran apagón",
+        "gran apagon"
+      ]
+    },
+    {
+      "id": "huelga_sindicatos",
+      "nombre": "Huelga general y sindicatos",
+      "keywords": [
+        "huelga general",
+        "vaga general",
+        "huelga",
+        "vaga",
+        "ccoo",
+        "cc.oo",
+        "ugt",
+        "sindicato",
+        "sindicatos",
+        "sindicat",
+        "sindicats"
+      ]
+    },
+    {
+      "id": "voto_correo",
+      "nombre": "Voto por correo y sistema electoral",
+      "keywords": [
+        "voto por correo",
+        "votar por correo",
+        "correo electoral",
+        "pucherazo",
+        "fraude electoral",
+        "sistema electoral",
+        "junta electoral"
+      ]
+    },
+    {
+      "id": "corrupcion_justicia",
+      "nombre": "Corrupción y justicia",
+      "keywords": [
+        "corrupcion",
+        "corrupción",
+        "corrupció",
+        "cohecho",
+        "trafico de influencias",
+        "tráfico de influencias",
+        "blanqueo",
+        "financiacion ilegal",
+        "financiación ilegal",
+        "malversacion",
+        "malversación",
+        "juez",
+        "jueza",
+        "fiscalia",
+        "fiscalía",
+        "tribunal",
+        "audiencia nacional",
+        "investigado",
+        "investigada",
+        "imputado",
+        "imputada"
+      ]
+    },
+    {
+      "id": "amnistia",
+      "nombre": "Amnistía y Puigdemont",
+      "keywords": [
+        "amnistia",
+        "amnistía",
+        "amnistiar",
+        "puigdemont",
+        "carles puigdemont",
+        "krls",
+        "exilio",
+        "exili"
+      ]
+    },
+    {
+      "id": "seguridad",
+      "nombre": "Seguridad y delincuencia",
+      "keywords": [
+        "seguridad",
+        "seguretat",
+        "delincuencia",
+        "delinqüencia",
+        "delito",
+        "delitos",
+        "policia",
+        "policía",
+        "guardia civil",
+        "mossos",
+        "violencia",
+        "violència",
+        "robo",
+        "robos",
+        "agresion",
+        "agresión",
+        "crimen",
+        "criminalidad",
+        "narcotrafico",
+        "narcotráfico"
       ]
     },
     {
@@ -82,152 +235,68 @@
         "menas",
         "extranjeria",
         "extranjería",
-        "estrangeria"
+        "papeles para todos"
       ]
     },
     {
-      "id": "seguridad",
-      "nombre": "Seguridad y delincuencia",
+      "id": "economia_empleo",
+      "nombre": "Economía y empleo",
       "keywords": [
-        "seguridad",
-        "seguretat",
-        "delincuencia",
-        "delinqüencia",
-        "delito",
-        "delitos",
-        "delicte",
-        "policia",
-        "policía",
-        "guardia civil",
-        "mossos",
-        "violencia",
-        "violència",
-        "robo",
-        "robos",
-        "agresion",
-        "agresión",
-        "agressio",
-        "agressió",
-        "crimen",
-        "criminalidad"
+        "economia",
+        "economía",
+        "empleo",
+        "trabajo",
+        "paro",
+        "desempleo",
+        "salario",
+        "salarios",
+        "sueldo",
+        "sueldos",
+        "nomina",
+        "nómina",
+        "autonomo",
+        "autónomo",
+        "autonomos",
+        "autónomos",
+        "empresa",
+        "empresas",
+        "precariedad",
+        "feina",
+        "atur",
+        "productividad",
+        "pib"
       ]
     },
     {
-      "id": "corrupcion_justicia",
-      "nombre": "Corrupción y justicia",
+      "id": "coste_vida",
+      "nombre": "Coste de vida",
       "keywords": [
-        "corrupcion",
-        "corrupción",
-        "corrupció",
-        "juez",
-        "jueza",
-        "judicial",
-        "justicia",
-        "fiscalia",
-        "fiscalía",
-        "tribunal",
-        "imputado",
-        "imputada",
-        "investigado",
-        "investigada",
-        "soborno",
-        "malversacion",
-        "malversación",
-        "malversació",
-        "amnistia",
-        "amnistía",
-        "caso judicial"
+        "inflacion",
+        "inflación",
+        "cesta de la compra",
+        "precio de los alimentos",
+        "precios disparados",
+        "poder adquisitivo",
+        "coste de vida",
+        "costo de vida"
       ]
     },
     {
-      "id": "campana_elecciones",
-      "nombre": "Campaña y elecciones",
+      "id": "fiscalidad",
+      "nombre": "Impuestos y fiscalidad",
       "keywords": [
-        "elecciones",
-        "eleccions",
-        "campana",
-        "campaña",
-        "campanya",
-        "votar",
-        "voto",
-        "votos",
-        "vot",
-        "urna",
-        "urnas",
-        "electoral",
-        "candidato",
-        "candidata",
-        "mitin",
-        "míting",
-        "debate",
-        "escaño",
-        "escano",
-        "encuesta",
-        "sondeo",
-        "sondeig"
-      ]
-    },
-    {
-      "id": "gobierno_instituciones",
-      "nombre": "Gobierno e instituciones",
-      "keywords": [
-        "gobierno",
-        "govern",
-        "moncloa",
-        "congreso",
-        "senado",
-        "parlament",
-        "generalitat",
-        "ayuntamiento",
-        "ajuntament",
-        "ministerio",
-        "ministeri",
-        "presidente",
-        "presidenta",
-        "alcalde",
-        "alcaldesa",
-        "diputado",
-        "diputada"
-      ]
-    },
-    {
-      "id": "catalunya",
-      "nombre": "Catalunya y soberanismo",
-      "keywords": [
-        "catalunya",
-        "cataluna",
-        "cataluña",
-        "independentismo",
-        "independencia",
-        "sobiranisme",
-        "soberanismo",
-        "proces",
-        "procés",
-        "secesion",
-        "secesión",
-        "separatismo",
-        "separatisme"
-      ]
-    },
-    {
-      "id": "juventud",
-      "nombre": "Juventud y emancipación",
-      "keywords": [
-        "joven",
-        "jovenes",
-        "jóvenes",
-        "juventud",
-        "jove",
-        "joves",
-        "joventut",
-        "generacion",
-        "generación",
-        "generacio",
-        "generació",
-        "emancipacion",
-        "emancipación",
-        "emancipacio",
-        "emancipació"
+        "impuestos",
+        "impuesto",
+        "irpf",
+        "iva",
+        "fiscalidad",
+        "tributos",
+        "tribut",
+        "tributs",
+        "tasas",
+        "tasa",
+        "taxa",
+        "taxes"
       ]
     },
     {
@@ -245,8 +314,6 @@
         "universitat",
         "estudiante",
         "estudiantes",
-        "estudiant",
-        "estudiants",
         "selectividad",
         "selectivitat",
         "beca",
@@ -274,27 +341,7 @@
         "infermeria",
         "atencion primaria",
         "atención primaria",
-        "lista de espera",
-        "llista espera"
-      ]
-    },
-    {
-      "id": "fiscalidad",
-      "nombre": "Impuestos y fiscalidad",
-      "keywords": [
-        "impuestos",
-        "impuesto",
-        "irpf",
-        "iva",
-        "fiscalidad",
-        "fiscal",
-        "tributos",
-        "tribut",
-        "tributs",
-        "tasas",
-        "tasa",
-        "taxa",
-        "taxes"
+        "lista de espera"
       ]
     },
     {
@@ -346,15 +393,12 @@
     },
     {
       "id": "energia_clima",
-      "nombre": "Energía y medio ambiente",
+      "nombre": "Energía y clima",
       "keywords": [
         "energia",
         "energía",
         "electricidad",
         "electricitat",
-        "luz",
-        "apagon",
-        "apagón",
         "renovables",
         "clima",
         "cambio climatico",
@@ -370,44 +414,170 @@
       ]
     },
     {
+      "id": "lgtbi_minorias",
+      "nombre": "LGTBI y minorías étnicas",
+      "keywords": [
+        "lgtbi",
+        "lgbti",
+        "lgbt",
+        "trans",
+        "homofobia",
+        "homófobo",
+        "homofobo",
+        "terapias de conversion",
+        "terapias de conversión",
+        "racismo",
+        "racista",
+        "xenofobia",
+        "xenófobo",
+        "xenofobo",
+        "discriminacion racial",
+        "discriminación racial",
+        "etnia",
+        "etnias",
+        "gitano",
+        "gitana",
+        "gitanos",
+        "gitanas"
+      ]
+    },
+    {
       "id": "igualdad",
-      "nombre": "Igualdad y feminismo",
+      "nombre": "Feminismo e igualdad",
       "keywords": [
         "igualdad",
         "igualtat",
         "feminismo",
         "feminisme",
+        "feminista",
         "mujer",
         "mujeres",
         "dona",
         "dones",
         "violencia machista",
-        "violència masclista",
-        "lgtbi",
-        "lgbti",
-        "trans"
+        "violència masclista"
       ]
     },
     {
-      "id": "internacional",
-      "nombre": "Europa e internacional",
+      "id": "covid",
+      "nombre": "COVID",
       "keywords": [
-        "europa",
-        "europeo",
-        "europea",
-        "union europea",
-        "unión europea",
-        "bruselas",
-        "ucrania",
+        "covid",
+        "covid19",
+        "covid-19",
+        "coronavirus",
+        "pandemia",
+        "mascarilla",
+        "mascarillas",
+        "confinamiento"
+      ]
+    },
+    {
+      "id": "israel_palestina",
+      "nombre": "Israel y Palestina",
+      "keywords": [
         "israel",
+        "israelí",
+        "israeli",
         "gaza",
         "palestina",
-        "marruecos",
-        "marroc",
-        "ceuta",
-        "melilla",
-        "otan",
-        "nato"
+        "palestino",
+        "palestina",
+        "hamas",
+        "hamás",
+        "7 de octubre",
+        "pogromo"
+      ]
+    },
+    {
+      "id": "sahara",
+      "nombre": "Sáhara Occidental",
+      "keywords": [
+        "sahara",
+        "sáhara",
+        "saharaui",
+        "saharauis",
+        "sáhara occidental",
+        "sahara occidental"
+      ]
+    },
+    {
+      "id": "juventud",
+      "nombre": "Juventud y emancipación",
+      "keywords": [
+        "joven",
+        "jovenes",
+        "jóvenes",
+        "juventud",
+        "jove",
+        "joves",
+        "joventut",
+        "generacion",
+        "generación",
+        "generacio",
+        "generació",
+        "emancipacion",
+        "emancipación",
+        "emancipacio",
+        "emancipació"
+      ]
+    },
+    {
+      "id": "unidad_izquierda",
+      "nombre": "Unidad de la izquierda",
+      "keywords": [
+        "unidad de la izquierda",
+        "unidad es crucial",
+        "primarias abiertas",
+        "primarias de la izquierda",
+        "espacio de la izquierda",
+        "sumar podemos",
+        "podemos sumar",
+        "mas madrid",
+        "más madrid",
+        "comuns",
+        "comunes"
+      ]
+    },
+    {
+      "id": "fascismo",
+      "nombre": "Fascismo y antifascismo",
+      "keywords": [
+        "antifascista",
+        "antifascismo",
+        "fascismo",
+        "feixisme",
+        "fascista",
+        "neonazi",
+        "fuerza nueva"
+      ]
+    },
+    {
+      "id": "protestas",
+      "nombre": "Protestas y movilización social",
+      "keywords": [
+        "manifestacion",
+        "manifestación",
+        "manifestacions",
+        "mobilitzacio",
+        "mobilització",
+        "movilizacion",
+        "movilización",
+        "acampada",
+        "acampados",
+        "acampades",
+        "convocatoria antirepresiva",
+        "convocatòries antirepressives"
+      ]
+    },
+    {
+      "id": "nacionalidad",
+      "nombre": "Nacionalidad y ciudadanía",
+      "keywords": [
+        "nacionalidad",
+        "carta de naturaleza",
+        "ciudadania",
+        "ciudadanía"
       ]
     },
     {
@@ -428,6 +598,354 @@
         "rural",
         "pac"
       ]
+    },
+    {
+      "id": "ue",
+      "nombre": "Unión Europea",
+      "keywords": [
+        "union europea",
+        "unión europea",
+        "bruselas",
+        "comision europea",
+        "comisión europea",
+        "parlamento europeo",
+        "parlament europeu"
+      ]
+    },
+    {
+      "id": "monarquia",
+      "nombre": "Monarquía",
+      "keywords": [
+        "monarquia",
+        "monarquía",
+        "rey felipe",
+        "felipe vi",
+        "casa real",
+        "corona española"
+      ]
     }
-  ]
+  ],
+  "entidades": [
+    {
+      "id": "actor_sanchez",
+      "nombre": "Sánchez",
+      "keywords": [
+        "pedro sanchez",
+        "pedro sánchez",
+        "sanchez",
+        "sánchez",
+        "sanchezcastejon",
+        "sanchismo"
+      ]
+    },
+    {
+      "id": "actor_feijoo",
+      "nombre": "Feijóo",
+      "keywords": [
+        "feijoo",
+        "feijóo",
+        "nunez feijoo",
+        "núñez feijóo",
+        "nunezfeijoo"
+      ]
+    },
+    {
+      "id": "actor_ayuso",
+      "nombre": "Ayuso",
+      "keywords": [
+        "ayuso",
+        "isabel diaz ayuso",
+        "isabel díaz ayuso",
+        "idiazayuso"
+      ]
+    },
+    {
+      "id": "actor_abascal",
+      "nombre": "Abascal",
+      "keywords": [
+        "abascal",
+        "santiago abascal",
+        "santi abascal",
+        "santi_abascal"
+      ]
+    },
+    {
+      "id": "actor_yolanda",
+      "nombre": "Yolanda Díaz",
+      "keywords": [
+        "yolanda diaz",
+        "yolanda díaz",
+        "yolandadiaz",
+        "yolanda"
+      ]
+    },
+    {
+      "id": "actor_irene",
+      "nombre": "Irene Montero",
+      "keywords": [
+        "irene montero",
+        "irenemontero"
+      ]
+    },
+    {
+      "id": "actor_ione",
+      "nombre": "Ione Belarra",
+      "keywords": [
+        "ione belarra",
+        "ionebelarra"
+      ]
+    },
+    {
+      "id": "actor_rufian",
+      "nombre": "Gabriel Rufián",
+      "keywords": [
+        "gabriel rufian",
+        "gabriel rufián",
+        "gabrielrufian",
+        "rufian",
+        "rufián"
+      ]
+    },
+    {
+      "id": "actor_puigdemont",
+      "nombre": "Puigdemont",
+      "keywords": [
+        "puigdemont",
+        "carles puigdemont",
+        "krls"
+      ]
+    },
+    {
+      "id": "actor_colau",
+      "nombre": "Ada Colau",
+      "keywords": [
+        "ada colau",
+        "colau"
+      ],
+      "substrings": [
+        "desokupada"
+      ]
+    },
+    {
+      "id": "actor_mjmontero",
+      "nombre": "María Jesús Montero",
+      "keywords": [
+        "maria jesus montero",
+        "maría jesús montero",
+        "mjmontero"
+      ]
+    },
+    {
+      "id": "actor_puente",
+      "nombre": "Óscar Puente",
+      "keywords": [
+        "oscar puente",
+        "óscar puente",
+        "oscar_puente_",
+        "puente"
+      ]
+    },
+    {
+      "id": "actor_illa",
+      "nombre": "Salvador Illa",
+      "keywords": [
+        "salvador illa",
+        "illa"
+      ]
+    },
+    {
+      "id": "actor_monica",
+      "nombre": "Mónica García",
+      "keywords": [
+        "monica garcia",
+        "mónica garcía",
+        "monica_garcia_g"
+      ]
+    },
+    {
+      "id": "actor_zapatero",
+      "nombre": "Zapatero",
+      "keywords": [
+        "zapatero",
+        "jose luis rodriguez zapatero",
+        "josé luis rodríguez zapatero"
+      ]
+    },
+    {
+      "id": "partido_psoe",
+      "nombre": "PSOE",
+      "keywords": [
+        "psoe"
+      ]
+    },
+    {
+      "id": "partido_pp",
+      "nombre": "PP",
+      "keywords": [
+        "partido popular",
+        "ppopular",
+        "pp"
+      ]
+    },
+    {
+      "id": "partido_vox",
+      "nombre": "VOX",
+      "keywords": [
+        "vox"
+      ]
+    },
+    {
+      "id": "partido_sumar_podemos",
+      "nombre": "Sumar / Podemos",
+      "keywords": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "id": "partido_erc",
+      "nombre": "ERC",
+      "keywords": [
+        "erc",
+        "esquerra republicana",
+        "esquerra_erc"
+      ]
+    },
+    {
+      "id": "partido_junts",
+      "nombre": "Junts",
+      "keywords": [
+        "junts",
+        "juntsxcat"
+      ]
+    },
+    {
+      "id": "partido_bildu",
+      "nombre": "Bildu",
+      "keywords": [
+        "bildu",
+        "eh bildu"
+      ]
+    },
+    {
+      "id": "partido_pnv",
+      "nombre": "PNV",
+      "keywords": [
+        "pnv"
+      ]
+    }
+  ],
+  "bloques": {
+    "derecha": [
+      "nngg_es",
+      "nnggcat",
+      "nnggmadrid",
+      "revuelta_es",
+      "idancausa",
+      "andreallopart",
+      "jon_echeverria_",
+      "migsasuya",
+      "noelia_n",
+      "bea_fanjul",
+      "picazzo_15",
+      "hugomanchon",
+      "pepa_millan",
+      "jcpuig_"
+    ],
+    "izquierda": [
+      "jse_org",
+      "jsccatalunya",
+      "arran_jovent",
+      "joventrepublica",
+      "aranza8_8",
+      "victorcaminoVlc",
+      "santilicer",
+      "lauragmanota",
+      "teshsidi",
+      "eduardofrub",
+      "anabalseramarin",
+      "martarosiq",
+      "marbesses",
+      "marc_martinez6",
+      "laurevega"
+    ],
+    "catalanista": [
+      "arran_jovent",
+      "joventrepublica",
+      "jncatalunya",
+      "anabalseramarin",
+      "martarosiq",
+      "marbesses",
+      "marc_martinez6",
+      "laurevega",
+      "agusti_aleix",
+      "arnau_llambrich",
+      "joangrane_"
+    ]
+  },
+  "reglas": {
+    "agitacion": [
+      "a votar",
+      "todos a votar",
+      "tots a votar",
+      "vota",
+      "votem",
+      "vamos con todo",
+      "vamos a por",
+      "a por todas",
+      "endavant",
+      "adelante",
+      "som hi",
+      "som-hi",
+      "movilizarnos",
+      "movilitzar-nos",
+      "mobilitzar-nos",
+      "organitzem-nos",
+      "eixim als carrers",
+      "salimos a la calle",
+      "nos jugamos",
+      "tú decides",
+      "tu decides",
+      "ellos o nosotros",
+      "estamos preparados",
+      "estem preparats",
+      "ni un paso atras",
+      "ni un paso atrás",
+      "plantaremos cara",
+      "plantarem cara",
+      "a ganar",
+      "a guanyar",
+      "reconstruccion nacional",
+      "reconstrucción nacional"
+    ],
+    "agitacion_fallback": [
+      "ganar",
+      "ganarle",
+      "creer",
+      "contigo",
+      "libertad",
+      "socialismo",
+      "comunismo",
+      "izquierda",
+      "derecha",
+      "fascismo",
+      "antifascista",
+      "traicion",
+      "traición",
+      "reconstruccion",
+      "reconstrucción"
+    ],
+    "hashtags_ignorados": [
+      "29n",
+      "huelgageneral",
+      "vivienda",
+      "habitatge",
+      "maricarmen",
+      "ceuta",
+      "psoe",
+      "pp",
+      "vox",
+      "nngg"
+    ]
+  }
 }
