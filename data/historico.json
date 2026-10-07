@@ -2,7 +2,7 @@
   "schema_version": 1,
   "timezone": "Europe/Madrid",
   "iniciado_en": "2026-10-06",
-  "actualizado_en": "2026-10-07T22:40:18.788Z",
+  "actualizado_en": "2026-10-07T22:42:28.098Z",
   "snapshots": [
     {
       "fecha": "2026-10-06",
@@ -2924,24 +2924,24 @@
     },
     {
       "fecha": "2026-10-08",
-      "generado_en": "2026-10-07T22:40:18.788Z",
+      "generado_en": "2026-10-07T22:42:28.098Z",
       "global": {
         "organizaciones_monitorizadas": 9,
-        "personas_monitorizadas": 33,
-        "personas_activas": 20,
+        "personas_monitorizadas": 34,
+        "personas_activas": 21,
         "temas_activos": 62,
-        "seguidores": 1250586,
-        "publicaciones": 233,
-        "actividad_total": 650,
-        "retweets": 417,
-        "impresiones": 9855255,
-        "interacciones": 386173,
-        "likes": 285185,
-        "reposts": 59839,
-        "respuestas": 37123,
-        "citas": 4026,
-        "bookmarks": 5421,
-        "engagement": 3.9184475693424474
+        "seguidores": 1316900,
+        "publicaciones": 239,
+        "actividad_total": 666,
+        "retweets": 427,
+        "impresiones": 9912697,
+        "interacciones": 387149,
+        "likes": 285853,
+        "reposts": 59925,
+        "respuestas": 37310,
+        "citas": 4061,
+        "bookmarks": 5440,
+        "engagement": 3.905586945712151
       },
       "organizaciones": [
         {
@@ -2952,7 +2952,7 @@
           "publicaciones": 9,
           "actividad_total": 10,
           "retweets": 1,
-          "impresiones": 824164,
+          "impresiones": 824348,
           "interacciones": 14692,
           "likes": 11035,
           "reposts": 1172,
@@ -2960,8 +2960,8 @@
           "citas": 604,
           "bookmarks": 239,
           "interacciones_por_publicacion": 1632.4444444444443,
-          "impresiones_por_publicacion": 91573.77777777778,
-          "engagement": 1.7826549084890873
+          "impresiones_por_publicacion": 91594.22222222222,
+          "engagement": 1.7822570079626565
         },
         {
           "nombre": "Juventudes Socialistas de España",
@@ -2971,7 +2971,7 @@
           "publicaciones": 10,
           "actividad_total": 13,
           "retweets": 3,
-          "impresiones": 66411,
+          "impresiones": 66414,
           "interacciones": 9918,
           "likes": 7022,
           "reposts": 1890,
@@ -2979,8 +2979,8 @@
           "citas": 46,
           "bookmarks": 62,
           "interacciones_por_publicacion": 991.8,
-          "impresiones_por_publicacion": 6641.1,
-          "engagement": 14.934272936712292
+          "impresiones_por_publicacion": 6641.4,
+          "engagement": 14.933598337699882
         },
         {
           "nombre": "Revuelta",
@@ -2990,16 +2990,16 @@
           "publicaciones": 5,
           "actividad_total": 5,
           "retweets": 0,
-          "impresiones": 8023,
+          "impresiones": 8034,
           "interacciones": 425,
-          "likes": 329,
+          "likes": 330,
           "reposts": 85,
           "respuestas": 8,
-          "citas": 3,
+          "citas": 2,
           "bookmarks": 10,
           "interacciones_por_publicacion": 85,
-          "impresiones_por_publicacion": 1604.6,
-          "engagement": 5.297270347750218
+          "impresiones_por_publicacion": 1606.8,
+          "engagement": 5.290017425939756
         },
         {
           "nombre": "Jovent Republicà",
@@ -3099,21 +3099,21 @@
         {
           "nombre": "Nuevas Generaciones de Madrid",
           "username": "nnggmadrid",
-          "seguidores": 17837,
+          "seguidores": 17839,
           "siguiendo": 2851,
           "publicaciones": 8,
           "actividad_total": 37,
           "retweets": 29,
-          "impresiones": 987824,
-          "interacciones": 18695,
-          "likes": 15229,
-          "reposts": 1479,
+          "impresiones": 988583,
+          "interacciones": 18699,
+          "likes": 15232,
+          "reposts": 1480,
           "respuestas": 1529,
           "citas": 458,
           "bookmarks": 640,
-          "interacciones_por_publicacion": 2336.875,
-          "impresiones_por_publicacion": 123478,
-          "engagement": 1.8925436110076288
+          "interacciones_por_publicacion": 2337.375,
+          "impresiones_por_publicacion": 123572.875,
+          "engagement": 1.8914952007064656
         }
       ],
       "personas": [
@@ -3144,7 +3144,7 @@
           "publicaciones": 8,
           "actividad_total": 29,
           "retweets": 21,
-          "impresiones": 98190,
+          "impresiones": 98196,
           "interacciones": 896,
           "likes": 805,
           "reposts": 78,
@@ -3152,8 +3152,8 @@
           "citas": 0,
           "bookmarks": 65,
           "interacciones_por_publicacion": 112,
-          "impresiones_por_publicacion": 12273.75,
-          "engagement": 0.912516549546797
+          "impresiones_por_publicacion": 12274.5,
+          "engagement": 0.9124607927003138
         },
         {
           "nombre": "Jon Echeverría",
@@ -3163,16 +3163,16 @@
           "publicaciones": 13,
           "actividad_total": 23,
           "retweets": 10,
-          "impresiones": 476507,
-          "interacciones": 31655,
-          "likes": 23007,
-          "reposts": 6116,
+          "impresiones": 476555,
+          "interacciones": 31657,
+          "likes": 23008,
+          "reposts": 6117,
           "respuestas": 2269,
           "citas": 263,
           "bookmarks": 697,
-          "interacciones_por_publicacion": 2435,
-          "impresiones_por_publicacion": 36654.38461538462,
-          "engagement": 6.643134308625057
+          "interacciones_por_publicacion": 2435.153846153846,
+          "impresiones_por_publicacion": 36658.07692307692,
+          "engagement": 6.642884871630766
         },
         {
           "nombre": "Miguel Sastre Uyá",
@@ -3258,7 +3258,7 @@
           "publicaciones": 4,
           "actividad_total": 5,
           "retweets": 1,
-          "impresiones": 200754,
+          "impresiones": 200793,
           "interacciones": 10868,
           "likes": 7611,
           "reposts": 3035,
@@ -3266,8 +3266,8 @@
           "citas": 43,
           "bookmarks": 307,
           "interacciones_por_publicacion": 2717,
-          "impresiones_por_publicacion": 50188.5,
-          "engagement": 5.413590762824153
+          "impresiones_por_publicacion": 50198.25,
+          "engagement": 5.41253928174787
         },
         {
           "nombre": "Aránzazu Figueroa",
@@ -3296,16 +3296,16 @@
           "publicaciones": 7,
           "actividad_total": 32,
           "retweets": 25,
-          "impresiones": 53426,
-          "interacciones": 1021,
+          "impresiones": 53445,
+          "interacciones": 1022,
           "likes": 603,
           "reposts": 217,
-          "respuestas": 192,
+          "respuestas": 193,
           "citas": 9,
           "bookmarks": 3,
-          "interacciones_por_publicacion": 145.85714285714286,
-          "impresiones_por_publicacion": 7632.285714285715,
-          "engagement": 1.9110545427320034
+          "interacciones_por_publicacion": 146,
+          "impresiones_por_publicacion": 7635,
+          "engagement": 1.9122462344466276
         },
         {
           "nombre": "Santiago Limón",
@@ -3391,16 +3391,16 @@
           "publicaciones": 2,
           "actividad_total": 9,
           "retweets": 7,
-          "impresiones": 123469,
-          "interacciones": 13536,
-          "likes": 10345,
+          "impresiones": 123481,
+          "interacciones": 13538,
+          "likes": 10347,
           "reposts": 2249,
           "respuestas": 831,
           "citas": 111,
           "bookmarks": 47,
-          "interacciones_por_publicacion": 6768,
-          "impresiones_por_publicacion": 61734.5,
-          "engagement": 10.963075751808146
+          "interacciones_por_publicacion": 6769,
+          "impresiones_por_publicacion": 61740.5,
+          "engagement": 10.963630032150695
         },
         {
           "nombre": "Júlia Calvet",
@@ -3427,18 +3427,18 @@
           "seguidores": 48976,
           "siguiendo": 2861,
           "publicaciones": 24,
-          "actividad_total": 40,
-          "retweets": 16,
-          "impresiones": 509760,
-          "interacciones": 13836,
-          "likes": 10390,
+          "actividad_total": 41,
+          "retweets": 17,
+          "impresiones": 509899,
+          "interacciones": 13840,
+          "likes": 10394,
           "reposts": 1520,
           "respuestas": 1771,
           "citas": 155,
-          "bookmarks": 268,
-          "interacciones_por_publicacion": 576.5,
-          "impresiones_por_publicacion": 21240,
-          "engagement": 2.7142184557438798
+          "bookmarks": 269,
+          "interacciones_por_publicacion": 576.6666666666666,
+          "impresiones_por_publicacion": 21245.791666666668,
+          "engagement": 2.714263020715867
         },
         {
           "nombre": "Eduardo Fernández Rubiño",
@@ -3448,7 +3448,7 @@
           "publicaciones": 1,
           "actividad_total": 2,
           "retweets": 1,
-          "impresiones": 4569,
+          "impresiones": 4577,
           "interacciones": 581,
           "likes": 386,
           "reposts": 129,
@@ -3456,8 +3456,8 @@
           "citas": 2,
           "bookmarks": 5,
           "interacciones_por_publicacion": 581,
-          "impresiones_por_publicacion": 4569,
-          "engagement": 12.716130444298535
+          "impresiones_por_publicacion": 4577,
+          "engagement": 12.693904304129342
         },
         {
           "nombre": "Ana Balsera",
@@ -3543,16 +3543,16 @@
           "publicaciones": 5,
           "actividad_total": 15,
           "retweets": 10,
-          "impresiones": 4452,
-          "interacciones": 324,
-          "likes": 228,
+          "impresiones": 4463,
+          "interacciones": 326,
+          "likes": 230,
           "reposts": 76,
           "respuestas": 19,
           "citas": 1,
           "bookmarks": 2,
-          "interacciones_por_publicacion": 64.8,
-          "impresiones_por_publicacion": 890.4,
-          "engagement": 7.277628032345014
+          "interacciones_por_publicacion": 65.2,
+          "impresiones_por_publicacion": 892.6,
+          "engagement": 7.304503697064754
         },
         {
           "nombre": "Aleix Agustí",
@@ -3614,40 +3614,40 @@
         {
           "nombre": "Alán Barroso",
           "username": "AlanBarrosoA",
-          "seguidores": 257536,
+          "seguidores": 257537,
           "siguiendo": 934,
           "publicaciones": 24,
           "actividad_total": 29,
           "retweets": 5,
-          "impresiones": 1612837,
-          "interacciones": 123104,
-          "likes": 97567,
-          "reposts": 20125,
-          "respuestas": 5021,
-          "citas": 391,
-          "bookmarks": 1354,
-          "interacciones_por_publicacion": 5129.333333333333,
-          "impresiones_por_publicacion": 67201.54166666667,
-          "engagement": 7.632761401183133
+          "impresiones": 1614002,
+          "interacciones": 123218,
+          "likes": 97656,
+          "reposts": 20141,
+          "respuestas": 5029,
+          "citas": 392,
+          "bookmarks": 1355,
+          "interacciones_por_publicacion": 5134.083333333333,
+          "impresiones_por_publicacion": 67250.08333333333,
+          "engagement": 7.634315199113756
         },
         {
           "nombre": "Sarah Santaolalla",
           "username": "SarahPerezSanta",
-          "seguidores": 102828,
+          "seguidores": 102829,
           "siguiendo": 2926,
           "publicaciones": 44,
           "actividad_total": 84,
           "retweets": 40,
-          "impresiones": 3695353,
-          "interacciones": 112521,
-          "likes": 75465,
-          "reposts": 15132,
-          "respuestas": 20605,
-          "citas": 1319,
+          "impresiones": 3699166,
+          "interacciones": 112667,
+          "likes": 75558,
+          "reposts": 15159,
+          "respuestas": 20630,
+          "citas": 1320,
           "bookmarks": 962,
-          "interacciones_por_publicacion": 2557.2954545454545,
-          "impresiones_por_publicacion": 83985.29545454546,
-          "engagement": 3.044932378584671
+          "interacciones_por_publicacion": 2560.6136363636365,
+          "impresiones_por_publicacion": 84071.95454545454,
+          "engagement": 3.045740580444349
         },
         {
           "nombre": "María Teresa Pérez",
@@ -3657,16 +3657,16 @@
           "publicaciones": 5,
           "actividad_total": 5,
           "retweets": 0,
-          "impresiones": 9195,
-          "interacciones": 954,
-          "likes": 552,
-          "reposts": 291,
+          "impresiones": 9202,
+          "interacciones": 958,
+          "likes": 555,
+          "reposts": 292,
           "respuestas": 101,
           "citas": 10,
           "bookmarks": 7,
-          "interacciones_por_publicacion": 190.8,
-          "impresiones_por_publicacion": 1839,
-          "engagement": 10.375203915171289
+          "interacciones_por_publicacion": 191.6,
+          "impresiones_por_publicacion": 1840.4,
+          "engagement": 10.41078026515975
         },
         {
           "nombre": "Jorge Pueyo",
@@ -3676,16 +3676,16 @@
           "publicaciones": 4,
           "actividad_total": 10,
           "retweets": 6,
-          "impresiones": 118417,
-          "interacciones": 3980,
-          "likes": 3199,
+          "impresiones": 118452,
+          "interacciones": 3984,
+          "likes": 3203,
           "reposts": 549,
           "respuestas": 155,
           "citas": 77,
           "bookmarks": 51,
-          "interacciones_por_publicacion": 995,
-          "impresiones_por_publicacion": 29604.25,
-          "engagement": 3.3610039099115836
+          "interacciones_por_publicacion": 996,
+          "impresiones_por_publicacion": 29613,
+          "engagement": 3.3633877013473814
         },
         {
           "nombre": "Lucía Muñoz Dalda",
@@ -3714,16 +3714,16 @@
           "publicaciones": 13,
           "actividad_total": 15,
           "retweets": 2,
-          "impresiones": 951609,
-          "interacciones": 21443,
-          "likes": 15606,
+          "impresiones": 951639,
+          "interacciones": 21444,
+          "likes": 15607,
           "reposts": 4332,
           "respuestas": 1022,
           "citas": 483,
-          "bookmarks": 646,
-          "interacciones_por_publicacion": 1649.4615384615386,
-          "impresiones_por_publicacion": 73200.69230769231,
-          "engagement": 2.2533414459089816
+          "bookmarks": 647,
+          "interacciones_por_publicacion": 1649.5384615384614,
+          "impresiones_por_publicacion": 73203,
+          "engagement": 2.253375492177181
         },
         {
           "nombre": "Andrea Fernández",
@@ -3743,6 +3743,25 @@
           "interacciones_por_publicacion": 0,
           "impresiones_por_publicacion": 0,
           "engagement": 0
+        },
+        {
+          "nombre": "Elizabeth Duval",
+          "username": "_elizabethduval",
+          "seguidores": 66310,
+          "siguiendo": 2991,
+          "publicaciones": 6,
+          "actividad_total": 15,
+          "retweets": 9,
+          "impresiones": 51153,
+          "interacciones": 692,
+          "likes": 465,
+          "reposts": 40,
+          "respuestas": 153,
+          "citas": 34,
+          "bookmarks": 16,
+          "interacciones_por_publicacion": 115.33333333333333,
+          "impresiones_por_publicacion": 8525.5,
+          "engagement": 1.352804332101734
         }
       ],
       "temas": [
@@ -3751,22 +3770,22 @@
           "nombre": "Agitación de Izquierda",
           "tipo": "estable",
           "total": {
-            "tweets": 59,
-            "impresiones": 3526934,
-            "interacciones": 137959,
-            "likes": 105049,
-            "reposts": 21339,
-            "respuestas": 10530,
-            "citas": 1041,
-            "bookmarks": 1832,
-            "autores": 11,
-            "interacciones_por_tweet": 2338.2881355932204,
-            "impresiones_por_tweet": 59778.542372881355,
-            "engagement": 3.911584395965448
+            "tweets": 61,
+            "impresiones": 3564781,
+            "interacciones": 138382,
+            "likes": 105327,
+            "reposts": 21355,
+            "respuestas": 10631,
+            "citas": 1069,
+            "bookmarks": 1839,
+            "autores": 12,
+            "interacciones_por_tweet": 2268.55737704918,
+            "impresiones_por_tweet": 58439.03278688525,
+            "engagement": 3.881921498122886
           },
           "organizaciones": {
             "tweets": 11,
-            "impresiones": 69349,
+            "impresiones": 69350,
             "interacciones": 9771,
             "likes": 6971,
             "reposts": 1817,
@@ -3775,22 +3794,22 @@
             "bookmarks": 62,
             "autores": 4,
             "interacciones_por_tweet": 888.2727272727273,
-            "impresiones_por_tweet": 6304.454545454545,
-            "engagement": 14.08960475277221
+            "impresiones_por_tweet": 6304.545454545455,
+            "engagement": 14.089401586157175
           },
           "personas": {
-            "tweets": 48,
-            "impresiones": 3457585,
-            "interacciones": 128188,
-            "likes": 98078,
-            "reposts": 19522,
-            "respuestas": 9596,
-            "citas": 992,
-            "bookmarks": 1770,
-            "autores": 7,
-            "interacciones_por_tweet": 2670.5833333333335,
-            "impresiones_por_tweet": 72033.02083333333,
-            "engagement": 3.7074432009625213
+            "tweets": 50,
+            "impresiones": 3495431,
+            "interacciones": 128611,
+            "likes": 98356,
+            "reposts": 19538,
+            "respuestas": 9697,
+            "citas": 1020,
+            "bookmarks": 1777,
+            "autores": 8,
+            "interacciones_por_tweet": 2572.22,
+            "impresiones_por_tweet": 69908.62,
+            "engagement": 3.679403198060554
           }
         },
         {
@@ -3798,22 +3817,22 @@
           "nombre": "Vivienda y alquiler",
           "tipo": "estable",
           "total": {
-            "tweets": 49,
-            "impresiones": 1720701,
-            "interacciones": 77872,
-            "likes": 54951,
-            "reposts": 13185,
-            "respuestas": 8796,
-            "citas": 940,
-            "bookmarks": 906,
-            "autores": 19,
-            "interacciones_por_tweet": 1589.2244897959183,
-            "impresiones_por_tweet": 35116.34693877551,
-            "engagement": 4.525597416401804
+            "tweets": 50,
+            "impresiones": 1732331,
+            "interacciones": 78342,
+            "likes": 55283,
+            "reposts": 13245,
+            "respuestas": 8868,
+            "citas": 946,
+            "bookmarks": 912,
+            "autores": 20,
+            "interacciones_por_tweet": 1566.84,
+            "impresiones_por_tweet": 34646.62,
+            "engagement": 4.5223459027172055
           },
           "organizaciones": {
             "tweets": 10,
-            "impresiones": 26087,
+            "impresiones": 26089,
             "interacciones": 1587,
             "likes": 1080,
             "reposts": 348,
@@ -3822,22 +3841,22 @@
             "bookmarks": 9,
             "autores": 5,
             "interacciones_por_tweet": 158.7,
-            "impresiones_por_tweet": 2608.7,
-            "engagement": 6.083489860850231
+            "impresiones_por_tweet": 2608.9,
+            "engagement": 6.083023496492775
           },
           "personas": {
-            "tweets": 39,
-            "impresiones": 1694614,
-            "interacciones": 76285,
-            "likes": 53871,
-            "reposts": 12837,
-            "respuestas": 8658,
-            "citas": 919,
-            "bookmarks": 897,
-            "autores": 14,
-            "interacciones_por_tweet": 1956.025641025641,
-            "impresiones_por_tweet": 43451.64102564102,
-            "engagement": 4.501615117070909
+            "tweets": 40,
+            "impresiones": 1706242,
+            "interacciones": 76755,
+            "likes": 54203,
+            "reposts": 12897,
+            "respuestas": 8730,
+            "citas": 925,
+            "bookmarks": 903,
+            "autores": 15,
+            "interacciones_por_tweet": 1918.875,
+            "impresiones_por_tweet": 42656.05,
+            "engagement": 4.49848263024823
           }
         },
         {
@@ -3846,17 +3865,17 @@
           "tipo": "estable",
           "total": {
             "tweets": 8,
-            "impresiones": 1162324,
-            "interacciones": 60588,
-            "likes": 42613,
-            "reposts": 9240,
+            "impresiones": 1162518,
+            "interacciones": 60597,
+            "likes": 42619,
+            "reposts": 9243,
             "respuestas": 8316,
             "citas": 419,
             "bookmarks": 488,
             "autores": 6,
-            "interacciones_por_tweet": 7573.5,
-            "impresiones_por_tweet": 145290.5,
-            "engagement": 5.212660153279121
+            "interacciones_por_tweet": 7574.625,
+            "impresiones_por_tweet": 145314.75,
+            "engagement": 5.212564450614958
           },
           "organizaciones": {
             "tweets": 2,
@@ -3874,17 +3893,17 @@
           },
           "personas": {
             "tweets": 6,
-            "impresiones": 1159185,
-            "interacciones": 60432,
-            "likes": 42525,
-            "reposts": 9206,
+            "impresiones": 1159379,
+            "interacciones": 60441,
+            "likes": 42531,
+            "reposts": 9209,
             "respuestas": 8288,
             "citas": 413,
             "bookmarks": 486,
             "autores": 4,
-            "interacciones_por_tweet": 10072,
-            "impresiones_por_tweet": 193197.5,
-            "engagement": 5.213317977717103
+            "interacciones_por_tweet": 10073.5,
+            "impresiones_por_tweet": 193229.83333333334,
+            "engagement": 5.213221905865122
           }
         },
         {
@@ -3893,21 +3912,21 @@
           "tipo": "estable",
           "total": {
             "tweets": 35,
-            "impresiones": 1577944,
-            "interacciones": 55181,
-            "likes": 40200,
-            "reposts": 9044,
+            "impresiones": 1578232,
+            "interacciones": 55183,
+            "likes": 40201,
+            "reposts": 9045,
             "respuestas": 4922,
             "citas": 1015,
             "bookmarks": 1177,
             "autores": 11,
-            "interacciones_por_tweet": 1576.6,
-            "impresiones_por_tweet": 45084.114285714284,
-            "engagement": 3.4970189056138876
+            "interacciones_por_tweet": 1576.6571428571428,
+            "impresiones_por_tweet": 45092.34285714286,
+            "engagement": 3.4965074843242316
           },
           "organizaciones": {
             "tweets": 9,
-            "impresiones": 985643,
+            "impresiones": 985885,
             "interacciones": 18696,
             "likes": 13992,
             "reposts": 1442,
@@ -3916,22 +3935,22 @@
             "bookmarks": 327,
             "autores": 3,
             "interacciones_por_tweet": 2077.3333333333335,
-            "impresiones_por_tweet": 109515.88888888889,
-            "engagement": 1.8968328289248744
+            "impresiones_por_tweet": 109542.77777777778,
+            "engagement": 1.896367223357694
           },
           "personas": {
             "tweets": 26,
-            "impresiones": 592301,
-            "interacciones": 36485,
-            "likes": 26208,
-            "reposts": 7602,
+            "impresiones": 592347,
+            "interacciones": 36487,
+            "likes": 26209,
+            "reposts": 7603,
             "respuestas": 2404,
             "citas": 271,
             "bookmarks": 850,
             "autores": 8,
-            "interacciones_por_tweet": 1403.2692307692307,
-            "impresiones_por_tweet": 22780.80769230769,
-            "engagement": 6.1598747933905225
+            "interacciones_por_tweet": 1403.3461538461538,
+            "impresiones_por_tweet": 22782.576923076922,
+            "engagement": 6.159734074790621
           }
         },
         {
@@ -3940,21 +3959,21 @@
           "tipo": "estable",
           "total": {
             "tweets": 19,
-            "impresiones": 1074205,
-            "interacciones": 46518,
-            "likes": 31166,
-            "reposts": 7887,
-            "respuestas": 6759,
-            "citas": 706,
-            "bookmarks": 480,
+            "impresiones": 1077247,
+            "interacciones": 46682,
+            "likes": 31281,
+            "reposts": 7913,
+            "respuestas": 6780,
+            "citas": 708,
+            "bookmarks": 481,
             "autores": 12,
-            "interacciones_por_tweet": 2448.315789473684,
-            "impresiones_por_tweet": 56537.10526315789,
-            "engagement": 4.330458338957648
+            "interacciones_por_tweet": 2456.9473684210525,
+            "impresiones_por_tweet": 56697.21052631579,
+            "engagement": 4.333453701890096
           },
           "organizaciones": {
             "tweets": 1,
-            "impresiones": 1510,
+            "impresiones": 1512,
             "interacciones": 255,
             "likes": 159,
             "reposts": 65,
@@ -3963,22 +3982,22 @@
             "bookmarks": 1,
             "autores": 1,
             "interacciones_por_tweet": 255,
-            "impresiones_por_tweet": 1510,
-            "engagement": 16.887417218543046
+            "impresiones_por_tweet": 1512,
+            "engagement": 16.865079365079367
           },
           "personas": {
             "tweets": 18,
-            "impresiones": 1072695,
-            "interacciones": 46263,
-            "likes": 31007,
-            "reposts": 7822,
-            "respuestas": 6728,
-            "citas": 706,
-            "bookmarks": 479,
+            "impresiones": 1075735,
+            "interacciones": 46427,
+            "likes": 31122,
+            "reposts": 7848,
+            "respuestas": 6749,
+            "citas": 708,
+            "bookmarks": 480,
             "autores": 11,
-            "interacciones_por_tweet": 2570.1666666666665,
-            "impresiones_por_tweet": 59594.166666666664,
-            "engagement": 4.312782291331646
+            "interacciones_por_tweet": 2579.277777777778,
+            "impresiones_por_tweet": 59763.055555555555,
+            "engagement": 4.315839867625391
           }
         },
         {
@@ -3986,18 +4005,18 @@
           "nombre": "Desahucios",
           "tipo": "estable",
           "total": {
-            "tweets": 10,
-            "impresiones": 375828,
-            "interacciones": 30907,
-            "likes": 22818,
-            "reposts": 6314,
-            "respuestas": 1575,
-            "citas": 200,
-            "bookmarks": 368,
-            "autores": 4,
-            "interacciones_por_tweet": 3090.7,
-            "impresiones_por_tweet": 37582.8,
-            "engagement": 8.223708717817725
+            "tweets": 11,
+            "impresiones": 385340,
+            "interacciones": 31313,
+            "likes": 23115,
+            "reposts": 6362,
+            "respuestas": 1631,
+            "citas": 205,
+            "bookmarks": 374,
+            "autores": 5,
+            "interacciones_por_tweet": 2846.6363636363635,
+            "impresiones_por_tweet": 35030.90909090909,
+            "engagement": 8.126070483209633
           },
           "organizaciones": {
             "tweets": 0,
@@ -4014,18 +4033,18 @@
             "engagement": 0
           },
           "personas": {
-            "tweets": 10,
-            "impresiones": 375828,
-            "interacciones": 30907,
-            "likes": 22818,
-            "reposts": 6314,
-            "respuestas": 1575,
-            "citas": 200,
-            "bookmarks": 368,
-            "autores": 4,
-            "interacciones_por_tweet": 3090.7,
-            "impresiones_por_tweet": 37582.8,
-            "engagement": 8.223708717817725
+            "tweets": 11,
+            "impresiones": 385340,
+            "interacciones": 31313,
+            "likes": 23115,
+            "reposts": 6362,
+            "respuestas": 1631,
+            "citas": 205,
+            "bookmarks": 374,
+            "autores": 5,
+            "interacciones_por_tweet": 2846.6363636363635,
+            "impresiones_por_tweet": 35030.90909090909,
+            "engagement": 8.126070483209633
           }
         },
         {
@@ -4034,21 +4053,21 @@
           "tipo": "estable",
           "total": {
             "tweets": 26,
-            "impresiones": 914074,
-            "interacciones": 30597,
-            "likes": 21405,
+            "impresiones": 914133,
+            "interacciones": 30599,
+            "likes": 21407,
             "reposts": 5819,
             "respuestas": 3122,
             "citas": 251,
             "bookmarks": 593,
             "autores": 13,
-            "interacciones_por_tweet": 1176.8076923076924,
-            "impresiones_por_tweet": 35156.692307692305,
-            "engagement": 3.347321989248135
+            "interacciones_por_tweet": 1176.8846153846155,
+            "impresiones_por_tweet": 35158.96153846154,
+            "engagement": 3.347324732834281
           },
           "organizaciones": {
             "tweets": 7,
-            "impresiones": 133686,
+            "impresiones": 133692,
             "interacciones": 4747,
             "likes": 3468,
             "reposts": 628,
@@ -4057,22 +4076,22 @@
             "bookmarks": 47,
             "autores": 4,
             "interacciones_por_tweet": 678.1428571428571,
-            "impresiones_por_tweet": 19098,
-            "engagement": 3.550857980641204
+            "impresiones_por_tweet": 19098.85714285714,
+            "engagement": 3.5506986207102895
           },
           "personas": {
             "tweets": 19,
-            "impresiones": 780388,
-            "interacciones": 25850,
-            "likes": 17937,
+            "impresiones": 780441,
+            "interacciones": 25852,
+            "likes": 17939,
             "reposts": 5191,
             "respuestas": 2541,
             "citas": 181,
             "bookmarks": 546,
             "autores": 9,
-            "interacciones_por_tweet": 1360.5263157894738,
-            "impresiones_por_tweet": 41073.05263157895,
-            "engagement": 3.312454830161407
+            "interacciones_por_tweet": 1360.6315789473683,
+            "impresiones_por_tweet": 41075.84210526316,
+            "engagement": 3.3124861456535473
           }
         },
         {
@@ -4081,17 +4100,17 @@
           "tipo": "estable",
           "total": {
             "tweets": 4,
-            "impresiones": 376278,
-            "interacciones": 27915,
-            "likes": 22106,
+            "impresiones": 376312,
+            "interacciones": 27917,
+            "likes": 22107,
             "reposts": 4785,
-            "respuestas": 949,
+            "respuestas": 950,
             "citas": 75,
             "bookmarks": 345,
             "autores": 3,
-            "interacciones_por_tweet": 6978.75,
-            "impresiones_por_tweet": 94069.5,
-            "engagement": 7.418717012421667
+            "interacciones_por_tweet": 6979.25,
+            "impresiones_por_tweet": 94078,
+            "engagement": 7.4185782010671995
           },
           "organizaciones": {
             "tweets": 0,
@@ -4109,17 +4128,17 @@
           },
           "personas": {
             "tweets": 4,
-            "impresiones": 376278,
-            "interacciones": 27915,
-            "likes": 22106,
+            "impresiones": 376312,
+            "interacciones": 27917,
+            "likes": 22107,
             "reposts": 4785,
-            "respuestas": 949,
+            "respuestas": 950,
             "citas": 75,
             "bookmarks": 345,
             "autores": 3,
-            "interacciones_por_tweet": 6978.75,
-            "impresiones_por_tweet": 94069.5,
-            "engagement": 7.418717012421667
+            "interacciones_por_tweet": 6979.25,
+            "impresiones_por_tweet": 94078,
+            "engagement": 7.4185782010671995
           }
         },
         {
@@ -4128,21 +4147,21 @@
           "tipo": "estable",
           "total": {
             "tweets": 21,
-            "impresiones": 540482,
+            "impresiones": 540498,
             "interacciones": 27278,
             "likes": 20589,
             "reposts": 3892,
             "respuestas": 2601,
             "citas": 196,
-            "bookmarks": 250,
+            "bookmarks": 251,
             "autores": 14,
             "interacciones_por_tweet": 1298.952380952381,
-            "impresiones_por_tweet": 25737.238095238095,
-            "engagement": 5.0469765875644335
+            "impresiones_por_tweet": 25738,
+            "engagement": 5.046827185299483
           },
           "organizaciones": {
             "tweets": 6,
-            "impresiones": 14827,
+            "impresiones": 14834,
             "interacciones": 568,
             "likes": 383,
             "reposts": 105,
@@ -4151,22 +4170,22 @@
             "bookmarks": 7,
             "autores": 3,
             "interacciones_por_tweet": 94.66666666666667,
-            "impresiones_por_tweet": 2471.1666666666665,
-            "engagement": 3.830849126593377
+            "impresiones_por_tweet": 2472.3333333333335,
+            "engagement": 3.8290413913981394
           },
           "personas": {
             "tweets": 15,
-            "impresiones": 525655,
+            "impresiones": 525664,
             "interacciones": 26710,
             "likes": 20206,
             "reposts": 3787,
             "respuestas": 2526,
             "citas": 191,
-            "bookmarks": 243,
+            "bookmarks": 244,
             "autores": 11,
             "interacciones_por_tweet": 1780.6666666666667,
-            "impresiones_por_tweet": 35043.666666666664,
-            "engagement": 5.081279546470594
+            "impresiones_por_tweet": 35044.26666666667,
+            "engagement": 5.081192548852499
           }
         },
         {
@@ -4175,17 +4194,17 @@
           "tipo": "estable",
           "total": {
             "tweets": 4,
-            "impresiones": 371581,
-            "interacciones": 19511,
-            "likes": 14722,
+            "impresiones": 371694,
+            "interacciones": 19514,
+            "likes": 14723,
             "reposts": 3443,
-            "respuestas": 1161,
+            "respuestas": 1163,
             "citas": 185,
             "bookmarks": 200,
             "autores": 3,
-            "interacciones_por_tweet": 4877.75,
-            "impresiones_por_tweet": 92895.25,
-            "engagement": 5.2508066881783515
+            "interacciones_por_tweet": 4878.5,
+            "impresiones_por_tweet": 92923.5,
+            "engagement": 5.250017487503161
           },
           "organizaciones": {
             "tweets": 0,
@@ -4203,17 +4222,17 @@
           },
           "personas": {
             "tweets": 4,
-            "impresiones": 371581,
-            "interacciones": 19511,
-            "likes": 14722,
+            "impresiones": 371694,
+            "interacciones": 19514,
+            "likes": 14723,
             "reposts": 3443,
-            "respuestas": 1161,
+            "respuestas": 1163,
             "citas": 185,
             "bookmarks": 200,
             "autores": 3,
-            "interacciones_por_tweet": 4877.75,
-            "impresiones_por_tweet": 92895.25,
-            "engagement": 5.2508066881783515
+            "interacciones_por_tweet": 4878.5,
+            "impresiones_por_tweet": 92923.5,
+            "engagement": 5.250017487503161
           }
         },
         {
@@ -4221,18 +4240,18 @@
           "nombre": "PSOE",
           "tipo": "estable",
           "total": {
-            "tweets": 12,
-            "impresiones": 299687,
-            "interacciones": 19036,
-            "likes": 14614,
-            "reposts": 3456,
-            "respuestas": 830,
-            "citas": 136,
-            "bookmarks": 250,
-            "autores": 7,
-            "interacciones_por_tweet": 1586.3333333333333,
-            "impresiones_por_tweet": 24973.916666666668,
-            "engagement": 6.351960545502474
+            "tweets": 13,
+            "impresiones": 335548,
+            "interacciones": 19372,
+            "likes": 14824,
+            "reposts": 3460,
+            "respuestas": 924,
+            "citas": 164,
+            "bookmarks": 255,
+            "autores": 8,
+            "interacciones_por_tweet": 1490.1538461538462,
+            "impresiones_por_tweet": 25811.384615384617,
+            "engagement": 5.773242576322911
           },
           "organizaciones": {
             "tweets": 0,
@@ -4249,18 +4268,18 @@
             "engagement": 0
           },
           "personas": {
-            "tweets": 12,
-            "impresiones": 299687,
-            "interacciones": 19036,
-            "likes": 14614,
-            "reposts": 3456,
-            "respuestas": 830,
-            "citas": 136,
-            "bookmarks": 250,
-            "autores": 7,
-            "interacciones_por_tweet": 1586.3333333333333,
-            "impresiones_por_tweet": 24973.916666666668,
-            "engagement": 6.351960545502474
+            "tweets": 13,
+            "impresiones": 335548,
+            "interacciones": 19372,
+            "likes": 14824,
+            "reposts": 3460,
+            "respuestas": 924,
+            "citas": 164,
+            "bookmarks": 255,
+            "autores": 8,
+            "interacciones_por_tweet": 1490.1538461538462,
+            "impresiones_por_tweet": 25811.384615384617,
+            "engagement": 5.773242576322911
           }
         },
         {
@@ -4269,7 +4288,7 @@
           "tipo": "estable",
           "total": {
             "tweets": 11,
-            "impresiones": 959959,
+            "impresiones": 959990,
             "interacciones": 16376,
             "likes": 11525,
             "reposts": 2635,
@@ -4278,12 +4297,12 @@
             "bookmarks": 325,
             "autores": 7,
             "interacciones_por_tweet": 1488.7272727272727,
-            "impresiones_por_tweet": 87269,
-            "engagement": 1.7059061897435204
+            "impresiones_por_tweet": 87271.81818181818,
+            "engagement": 1.7058511026156524
           },
           "organizaciones": {
             "tweets": 1,
-            "impresiones": 5212,
+            "impresiones": 5217,
             "interacciones": 201,
             "likes": 137,
             "reposts": 28,
@@ -4292,12 +4311,12 @@
             "bookmarks": 0,
             "autores": 1,
             "interacciones_por_tweet": 201,
-            "impresiones_por_tweet": 5212,
-            "engagement": 3.8564850345356865
+            "impresiones_por_tweet": 5217,
+            "engagement": 3.8527889591719378
           },
           "personas": {
             "tweets": 10,
-            "impresiones": 954747,
+            "impresiones": 954773,
             "interacciones": 16175,
             "likes": 11388,
             "reposts": 2607,
@@ -4306,8 +4325,8 @@
             "bookmarks": 325,
             "autores": 6,
             "interacciones_por_tweet": 1617.5,
-            "impresiones_por_tweet": 95474.7,
-            "engagement": 1.6941660984533073
+            "impresiones_por_tweet": 95477.3,
+            "engagement": 1.6941199635934407
           }
         },
         {
@@ -4316,21 +4335,21 @@
           "tipo": "estable",
           "total": {
             "tweets": 11,
-            "impresiones": 339453,
-            "interacciones": 16221,
-            "likes": 13022,
-            "reposts": 1893,
+            "impresiones": 339859,
+            "interacciones": 16255,
+            "likes": 13055,
+            "reposts": 1894,
             "respuestas": 1220,
             "citas": 86,
-            "bookmarks": 256,
+            "bookmarks": 257,
             "autores": 7,
-            "interacciones_por_tweet": 1474.6363636363637,
-            "impresiones_por_tweet": 30859.363636363636,
-            "engagement": 4.7785702291628
+            "interacciones_por_tweet": 1477.7272727272727,
+            "impresiones_por_tweet": 30896.272727272728,
+            "engagement": 4.782865835537678
           },
           "organizaciones": {
             "tweets": 1,
-            "impresiones": 5212,
+            "impresiones": 5217,
             "interacciones": 201,
             "likes": 137,
             "reposts": 28,
@@ -4339,22 +4358,22 @@
             "bookmarks": 0,
             "autores": 1,
             "interacciones_por_tweet": 201,
-            "impresiones_por_tweet": 5212,
-            "engagement": 3.8564850345356865
+            "impresiones_por_tweet": 5217,
+            "engagement": 3.8527889591719378
           },
           "personas": {
             "tweets": 10,
-            "impresiones": 334241,
-            "interacciones": 16020,
-            "likes": 12885,
-            "reposts": 1865,
+            "impresiones": 334642,
+            "interacciones": 16054,
+            "likes": 12918,
+            "reposts": 1866,
             "respuestas": 1187,
             "citas": 83,
-            "bookmarks": 256,
+            "bookmarks": 257,
             "autores": 6,
-            "interacciones_por_tweet": 1602,
-            "impresiones_por_tweet": 33424.1,
-            "engagement": 4.792948800416466
+            "interacciones_por_tweet": 1605.4,
+            "impresiones_por_tweet": 33464.2,
+            "engagement": 4.797365542878659
           }
         },
         {
@@ -4363,17 +4382,17 @@
           "tipo": "estable",
           "total": {
             "tweets": 7,
-            "impresiones": 248241,
-            "interacciones": 10478,
-            "likes": 7974,
-            "reposts": 1616,
-            "respuestas": 810,
+            "impresiones": 249056,
+            "interacciones": 10530,
+            "likes": 8021,
+            "reposts": 1619,
+            "respuestas": 812,
             "citas": 78,
-            "bookmarks": 229,
+            "bookmarks": 230,
             "autores": 4,
-            "interacciones_por_tweet": 1496.857142857143,
-            "impresiones_por_tweet": 35463,
-            "engagement": 4.220898240016758
+            "interacciones_por_tweet": 1504.2857142857142,
+            "impresiones_por_tweet": 35579.42857142857,
+            "engagement": 4.22796479506617
           },
           "organizaciones": {
             "tweets": 1,
@@ -4391,17 +4410,17 @@
           },
           "personas": {
             "tweets": 6,
-            "impresiones": 247832,
-            "interacciones": 10445,
-            "likes": 7951,
-            "reposts": 1609,
-            "respuestas": 807,
+            "impresiones": 248647,
+            "interacciones": 10497,
+            "likes": 7998,
+            "reposts": 1612,
+            "respuestas": 809,
             "citas": 78,
-            "bookmarks": 229,
+            "bookmarks": 230,
             "autores": 3,
-            "interacciones_por_tweet": 1740.8333333333333,
-            "impresiones_por_tweet": 41305.333333333336,
-            "engagement": 4.214548565157042
+            "interacciones_por_tweet": 1749.5,
+            "impresiones_por_tweet": 41441.166666666664,
+            "engagement": 4.22164755657619
           }
         },
         {
@@ -4410,7 +4429,7 @@
           "tipo": "estable",
           "total": {
             "tweets": 2,
-            "impresiones": 102557,
+            "impresiones": 102559,
             "interacciones": 9748,
             "likes": 7512,
             "reposts": 2030,
@@ -4419,8 +4438,8 @@
             "bookmarks": 65,
             "autores": 2,
             "interacciones_por_tweet": 4874,
-            "impresiones_por_tweet": 51278.5,
-            "engagement": 9.504958218356622
+            "impresiones_por_tweet": 51279.5,
+            "engagement": 9.504772862449908
           },
           "organizaciones": {
             "tweets": 0,
@@ -4438,7 +4457,7 @@
           },
           "personas": {
             "tweets": 2,
-            "impresiones": 102557,
+            "impresiones": 102559,
             "interacciones": 9748,
             "likes": 7512,
             "reposts": 2030,
@@ -4447,8 +4466,8 @@
             "bookmarks": 65,
             "autores": 2,
             "interacciones_por_tweet": 4874,
-            "impresiones_por_tweet": 51278.5,
-            "engagement": 9.504958218356622
+            "impresiones_por_tweet": 51279.5,
+            "engagement": 9.504772862449908
           }
         },
         {
@@ -4457,17 +4476,17 @@
           "tipo": "estable",
           "total": {
             "tweets": 2,
-            "impresiones": 76940,
-            "interacciones": 9326,
-            "likes": 6585,
-            "reposts": 2278,
+            "impresiones": 77051,
+            "interacciones": 9346,
+            "likes": 6598,
+            "reposts": 2285,
             "respuestas": 406,
             "citas": 57,
             "bookmarks": 92,
             "autores": 2,
-            "interacciones_por_tweet": 4663,
-            "impresiones_por_tweet": 38470,
-            "engagement": 12.121133350662854
+            "interacciones_por_tweet": 4673,
+            "impresiones_por_tweet": 38525.5,
+            "engagement": 12.129628427924361
           },
           "organizaciones": {
             "tweets": 0,
@@ -4485,17 +4504,17 @@
           },
           "personas": {
             "tweets": 2,
-            "impresiones": 76940,
-            "interacciones": 9326,
-            "likes": 6585,
-            "reposts": 2278,
+            "impresiones": 77051,
+            "interacciones": 9346,
+            "likes": 6598,
+            "reposts": 2285,
             "respuestas": 406,
             "citas": 57,
             "bookmarks": 92,
             "autores": 2,
-            "interacciones_por_tweet": 4663,
-            "impresiones_por_tweet": 38470,
-            "engagement": 12.121133350662854
+            "interacciones_por_tweet": 4673,
+            "impresiones_por_tweet": 38525.5,
+            "engagement": 12.129628427924361
           }
         },
         {
@@ -4504,31 +4523,31 @@
           "tipo": "estable",
           "total": {
             "tweets": 1,
-            "impresiones": 545278,
-            "interacciones": 8300,
-            "likes": 7100,
-            "reposts": 724,
+            "impresiones": 545740,
+            "interacciones": 8303,
+            "likes": 7102,
+            "reposts": 725,
             "respuestas": 282,
             "citas": 194,
             "bookmarks": 448,
             "autores": 1,
-            "interacciones_por_tweet": 8300,
-            "impresiones_por_tweet": 545278,
-            "engagement": 1.522159338906026
+            "interacciones_por_tweet": 8303,
+            "impresiones_por_tweet": 545740,
+            "engagement": 1.5214204566276983
           },
           "organizaciones": {
             "tweets": 1,
-            "impresiones": 545278,
-            "interacciones": 8300,
-            "likes": 7100,
-            "reposts": 724,
+            "impresiones": 545740,
+            "interacciones": 8303,
+            "likes": 7102,
+            "reposts": 725,
             "respuestas": 282,
             "citas": 194,
             "bookmarks": 448,
             "autores": 1,
-            "interacciones_por_tweet": 8300,
-            "impresiones_por_tweet": 545278,
-            "engagement": 1.522159338906026
+            "interacciones_por_tweet": 8303,
+            "impresiones_por_tweet": 545740,
+            "engagement": 1.5214204566276983
           },
           "personas": {
             "tweets": 0,
@@ -4551,17 +4570,17 @@
           "tipo": "estable",
           "total": {
             "tweets": 7,
-            "impresiones": 164725,
-            "interacciones": 8131,
-            "likes": 6608,
+            "impresiones": 164749,
+            "interacciones": 8134,
+            "likes": 6611,
             "reposts": 1069,
             "respuestas": 427,
             "citas": 27,
             "bookmarks": 111,
             "autores": 6,
-            "interacciones_por_tweet": 1161.5714285714287,
-            "impresiones_por_tweet": 23532.14285714286,
-            "engagement": 4.936105630596448
+            "interacciones_por_tweet": 1162,
+            "impresiones_por_tweet": 23535.571428571428,
+            "engagement": 4.937207509605521
           },
           "organizaciones": {
             "tweets": 1,
@@ -4579,17 +4598,17 @@
           },
           "personas": {
             "tweets": 6,
-            "impresiones": 164157,
-            "interacciones": 8086,
-            "likes": 6575,
+            "impresiones": 164181,
+            "interacciones": 8089,
+            "likes": 6578,
             "reposts": 1058,
             "respuestas": 426,
             "citas": 27,
             "bookmarks": 111,
             "autores": 5,
-            "interacciones_por_tweet": 1347.6666666666667,
-            "impresiones_por_tweet": 27359.5,
-            "engagement": 4.925772278976833
+            "interacciones_por_tweet": 1348.1666666666667,
+            "impresiones_por_tweet": 27363.5,
+            "engagement": 4.92687948057327
           }
         },
         {
@@ -4598,7 +4617,7 @@
           "tipo": "estable",
           "total": {
             "tweets": 13,
-            "impresiones": 78530,
+            "impresiones": 78541,
             "interacciones": 6996,
             "likes": 4570,
             "reposts": 1211,
@@ -4607,12 +4626,12 @@
             "bookmarks": 52,
             "autores": 7,
             "interacciones_por_tweet": 538.1538461538462,
-            "impresiones_por_tweet": 6040.7692307692305,
-            "engagement": 8.90869731312874
+            "impresiones_por_tweet": 6041.615384615385,
+            "engagement": 8.9074496123044
           },
           "organizaciones": {
             "tweets": 9,
-            "impresiones": 66785,
+            "impresiones": 66796,
             "interacciones": 6126,
             "likes": 4086,
             "reposts": 1084,
@@ -4621,8 +4640,8 @@
             "bookmarks": 49,
             "autores": 4,
             "interacciones_por_tweet": 680.6666666666666,
-            "impresiones_por_tweet": 7420.555555555556,
-            "engagement": 9.172718424795988
+            "impresiones_por_tweet": 7421.777777777777,
+            "engagement": 9.17120785675789
           },
           "personas": {
             "tweets": 4,
@@ -4645,17 +4664,17 @@
           "tipo": "estable",
           "total": {
             "tweets": 5,
-            "impresiones": 42675,
-            "interacciones": 5010,
-            "likes": 3939,
-            "reposts": 905,
-            "respuestas": 164,
-            "citas": 2,
+            "impresiones": 42961,
+            "interacciones": 5045,
+            "likes": 3966,
+            "reposts": 908,
+            "respuestas": 168,
+            "citas": 3,
             "bookmarks": 53,
             "autores": 4,
-            "interacciones_por_tweet": 1002,
-            "impresiones_por_tweet": 8535,
-            "engagement": 11.739894551845342
+            "interacciones_por_tweet": 1009,
+            "impresiones_por_tweet": 8592.2,
+            "engagement": 11.743208956960965
           },
           "organizaciones": {
             "tweets": 2,
@@ -4673,17 +4692,17 @@
           },
           "personas": {
             "tweets": 3,
-            "impresiones": 41686,
-            "interacciones": 4949,
-            "likes": 3894,
-            "reposts": 892,
-            "respuestas": 161,
-            "citas": 2,
+            "impresiones": 41972,
+            "interacciones": 4984,
+            "likes": 3921,
+            "reposts": 895,
+            "respuestas": 165,
+            "citas": 3,
             "bookmarks": 53,
             "autores": 3,
-            "interacciones_por_tweet": 1649.6666666666667,
-            "impresiones_por_tweet": 13895.333333333334,
-            "engagement": 11.872091349613779
+            "interacciones_por_tweet": 1661.3333333333333,
+            "impresiones_por_tweet": 13990.666666666666,
+            "engagement": 11.874583055370246
           }
         },
         {
@@ -4739,17 +4758,17 @@
           "tipo": "estable",
           "total": {
             "tweets": 1,
-            "impresiones": 38170,
-            "interacciones": 4616,
-            "likes": 3660,
-            "reposts": 809,
-            "respuestas": 146,
-            "citas": 1,
+            "impresiones": 38446,
+            "interacciones": 4649,
+            "likes": 3685,
+            "reposts": 812,
+            "respuestas": 150,
+            "citas": 2,
             "bookmarks": 51,
             "autores": 1,
-            "interacciones_por_tweet": 4616,
-            "impresiones_por_tweet": 38170,
-            "engagement": 12.093266963583966
+            "interacciones_por_tweet": 4649,
+            "impresiones_por_tweet": 38446,
+            "engagement": 12.092285283254435
           },
           "organizaciones": {
             "tweets": 0,
@@ -4767,17 +4786,17 @@
           },
           "personas": {
             "tweets": 1,
-            "impresiones": 38170,
-            "interacciones": 4616,
-            "likes": 3660,
-            "reposts": 809,
-            "respuestas": 146,
-            "citas": 1,
+            "impresiones": 38446,
+            "interacciones": 4649,
+            "likes": 3685,
+            "reposts": 812,
+            "respuestas": 150,
+            "citas": 2,
             "bookmarks": 51,
             "autores": 1,
-            "interacciones_por_tweet": 4616,
-            "impresiones_por_tweet": 38170,
-            "engagement": 12.093266963583966
+            "interacciones_por_tweet": 4649,
+            "impresiones_por_tweet": 38446,
+            "engagement": 12.092285283254435
           }
         },
         {
@@ -4786,17 +4805,17 @@
           "tipo": "estable",
           "total": {
             "tweets": 1,
-            "impresiones": 143988,
-            "interacciones": 4177,
+            "impresiones": 144065,
+            "interacciones": 4179,
             "likes": 3065,
             "reposts": 635,
-            "respuestas": 423,
+            "respuestas": 425,
             "citas": 54,
             "bookmarks": 33,
             "autores": 1,
-            "interacciones_por_tweet": 4177,
-            "impresiones_por_tweet": 143988,
-            "engagement": 2.9009361891268717
+            "interacciones_por_tweet": 4179,
+            "impresiones_por_tweet": 144065,
+            "engagement": 2.900773956200326
           },
           "organizaciones": {
             "tweets": 0,
@@ -4814,17 +4833,17 @@
           },
           "personas": {
             "tweets": 1,
-            "impresiones": 143988,
-            "interacciones": 4177,
+            "impresiones": 144065,
+            "interacciones": 4179,
             "likes": 3065,
             "reposts": 635,
-            "respuestas": 423,
+            "respuestas": 425,
             "citas": 54,
             "bookmarks": 33,
             "autores": 1,
-            "interacciones_por_tweet": 4177,
-            "impresiones_por_tweet": 143988,
-            "engagement": 2.9009361891268717
+            "interacciones_por_tweet": 4179,
+            "impresiones_por_tweet": 144065,
+            "engagement": 2.900773956200326
           }
         },
         {
@@ -4833,7 +4852,7 @@
           "tipo": "estable",
           "total": {
             "tweets": 1,
-            "impresiones": 38157,
+            "impresiones": 38180,
             "interacciones": 2395,
             "likes": 1667,
             "reposts": 248,
@@ -4842,8 +4861,8 @@
             "bookmarks": 11,
             "autores": 1,
             "interacciones_por_tweet": 2395,
-            "impresiones_por_tweet": 38157,
-            "engagement": 6.276698901905286
+            "impresiones_por_tweet": 38180,
+            "engagement": 6.272917757988476
           },
           "organizaciones": {
             "tweets": 0,
@@ -4861,7 +4880,7 @@
           },
           "personas": {
             "tweets": 1,
-            "impresiones": 38157,
+            "impresiones": 38180,
             "interacciones": 2395,
             "likes": 1667,
             "reposts": 248,
@@ -4870,8 +4889,8 @@
             "bookmarks": 11,
             "autores": 1,
             "interacciones_por_tweet": 2395,
-            "impresiones_por_tweet": 38157,
-            "engagement": 6.276698901905286
+            "impresiones_por_tweet": 38180,
+            "engagement": 6.272917757988476
           }
         },
         {
@@ -4880,7 +4899,7 @@
           "tipo": "estable",
           "total": {
             "tweets": 2,
-            "impresiones": 73446,
+            "impresiones": 73448,
             "interacciones": 2245,
             "likes": 1810,
             "reposts": 306,
@@ -4889,8 +4908,8 @@
             "bookmarks": 114,
             "autores": 2,
             "interacciones_por_tweet": 1122.5,
-            "impresiones_por_tweet": 36723,
-            "engagement": 3.0566674835933885
+            "impresiones_por_tweet": 36724,
+            "engagement": 3.0565842500816904
           },
           "organizaciones": {
             "tweets": 0,
@@ -4908,7 +4927,7 @@
           },
           "personas": {
             "tweets": 2,
-            "impresiones": 73446,
+            "impresiones": 73448,
             "interacciones": 2245,
             "likes": 1810,
             "reposts": 306,
@@ -4917,8 +4936,8 @@
             "bookmarks": 114,
             "autores": 2,
             "interacciones_por_tweet": 1122.5,
-            "impresiones_por_tweet": 36723,
-            "engagement": 3.0566674835933885
+            "impresiones_por_tweet": 36724,
+            "engagement": 3.0565842500816904
           }
         },
         {
@@ -5021,7 +5040,7 @@
           "tipo": "estable",
           "total": {
             "tweets": 4,
-            "impresiones": 99016,
+            "impresiones": 99022,
             "interacciones": 1846,
             "likes": 1388,
             "reposts": 257,
@@ -5030,8 +5049,8 @@
             "bookmarks": 28,
             "autores": 2,
             "interacciones_por_tweet": 461.5,
-            "impresiones_por_tweet": 24754,
-            "engagement": 1.8643451563383695
+            "impresiones_por_tweet": 24755.5,
+            "engagement": 1.8642321908262809
           },
           "organizaciones": {
             "tweets": 0,
@@ -5049,7 +5068,7 @@
           },
           "personas": {
             "tweets": 4,
-            "impresiones": 99016,
+            "impresiones": 99022,
             "interacciones": 1846,
             "likes": 1388,
             "reposts": 257,
@@ -5058,8 +5077,8 @@
             "bookmarks": 28,
             "autores": 2,
             "interacciones_por_tweet": 461.5,
-            "impresiones_por_tweet": 24754,
-            "engagement": 1.8643451563383695
+            "impresiones_por_tweet": 24755.5,
+            "engagement": 1.8642321908262809
           }
         },
         {
@@ -5068,7 +5087,7 @@
           "tipo": "estable",
           "total": {
             "tweets": 5,
-            "impresiones": 63389,
+            "impresiones": 63446,
             "interacciones": 1730,
             "likes": 1269,
             "reposts": 191,
@@ -5077,12 +5096,12 @@
             "bookmarks": 31,
             "autores": 5,
             "interacciones_por_tweet": 346,
-            "impresiones_por_tweet": 12677.8,
-            "engagement": 2.7291801416649575
+            "impresiones_por_tweet": 12689.2,
+            "engagement": 2.7267282413390914
           },
           "organizaciones": {
             "tweets": 1,
-            "impresiones": 5212,
+            "impresiones": 5217,
             "interacciones": 201,
             "likes": 137,
             "reposts": 28,
@@ -5091,12 +5110,12 @@
             "bookmarks": 0,
             "autores": 1,
             "interacciones_por_tweet": 201,
-            "impresiones_por_tweet": 5212,
-            "engagement": 3.8564850345356865
+            "impresiones_por_tweet": 5217,
+            "engagement": 3.8527889591719378
           },
           "personas": {
             "tweets": 4,
-            "impresiones": 58177,
+            "impresiones": 58229,
             "interacciones": 1529,
             "likes": 1132,
             "reposts": 163,
@@ -5105,8 +5124,55 @@
             "bookmarks": 31,
             "autores": 4,
             "interacciones_por_tweet": 382.25,
-            "impresiones_por_tweet": 14544.25,
-            "engagement": 2.6281863966859755
+            "impresiones_por_tweet": 14557.25,
+            "engagement": 2.625839358395301
+          }
+        },
+        {
+          "id": "juventud",
+          "nombre": "Juventud y emancipación",
+          "tipo": "estable",
+          "total": {
+            "tweets": 6,
+            "impresiones": 19002,
+            "interacciones": 1439,
+            "likes": 1075,
+            "reposts": 250,
+            "respuestas": 102,
+            "citas": 12,
+            "bookmarks": 9,
+            "autores": 5,
+            "interacciones_por_tweet": 239.83333333333334,
+            "impresiones_por_tweet": 3167,
+            "engagement": 7.5728870645195245
+          },
+          "organizaciones": {
+            "tweets": 3,
+            "impresiones": 4468,
+            "interacciones": 372,
+            "likes": 282,
+            "reposts": 70,
+            "respuestas": 17,
+            "citas": 3,
+            "bookmarks": 1,
+            "autores": 2,
+            "interacciones_por_tweet": 124,
+            "impresiones_por_tweet": 1489.3333333333333,
+            "engagement": 8.325872873769026
+          },
+          "personas": {
+            "tweets": 3,
+            "impresiones": 14534,
+            "interacciones": 1067,
+            "likes": 793,
+            "reposts": 180,
+            "respuestas": 85,
+            "citas": 9,
+            "bookmarks": 8,
+            "autores": 3,
+            "interacciones_por_tweet": 355.6666666666667,
+            "impresiones_por_tweet": 4844.666666666667,
+            "engagement": 7.341406357506536
           }
         },
         {
@@ -5157,59 +5223,12 @@
           }
         },
         {
-          "id": "juventud",
-          "nombre": "Juventud y emancipación",
-          "tipo": "estable",
-          "total": {
-            "tweets": 5,
-            "impresiones": 15129,
-            "interacciones": 1389,
-            "likes": 1039,
-            "reposts": 246,
-            "respuestas": 94,
-            "citas": 10,
-            "bookmarks": 4,
-            "autores": 4,
-            "interacciones_por_tweet": 277.8,
-            "impresiones_por_tweet": 3025.8,
-            "engagement": 9.181043029942494
-          },
-          "organizaciones": {
-            "tweets": 3,
-            "impresiones": 4468,
-            "interacciones": 372,
-            "likes": 282,
-            "reposts": 70,
-            "respuestas": 17,
-            "citas": 3,
-            "bookmarks": 1,
-            "autores": 2,
-            "interacciones_por_tweet": 124,
-            "impresiones_por_tweet": 1489.3333333333333,
-            "engagement": 8.325872873769026
-          },
-          "personas": {
-            "tweets": 2,
-            "impresiones": 10661,
-            "interacciones": 1017,
-            "likes": 757,
-            "reposts": 176,
-            "respuestas": 77,
-            "citas": 7,
-            "bookmarks": 3,
-            "autores": 2,
-            "interacciones_por_tweet": 508.5,
-            "impresiones_por_tweet": 5330.5,
-            "engagement": 9.539442829002907
-          }
-        },
-        {
           "id": "ceuta",
           "nombre": "Ceuta",
           "tipo": "estable",
           "total": {
             "tweets": 5,
-            "impresiones": 13688,
+            "impresiones": 13696,
             "interacciones": 1043,
             "likes": 736,
             "reposts": 222,
@@ -5218,12 +5237,12 @@
             "bookmarks": 11,
             "autores": 4,
             "interacciones_por_tweet": 208.6,
-            "impresiones_por_tweet": 2737.6,
-            "engagement": 7.6198129748684975
+            "impresiones_por_tweet": 2739.2,
+            "engagement": 7.61536214953271
           },
           "organizaciones": {
             "tweets": 3,
-            "impresiones": 7907,
+            "impresiones": 7913,
             "interacciones": 400,
             "likes": 282,
             "reposts": 71,
@@ -5232,12 +5251,12 @@
             "bookmarks": 2,
             "autores": 2,
             "interacciones_por_tweet": 133.33333333333334,
-            "impresiones_por_tweet": 2635.6666666666665,
-            "engagement": 5.058808650562793
+            "impresiones_por_tweet": 2637.6666666666665,
+            "engagement": 5.054972829521041
           },
           "personas": {
             "tweets": 2,
-            "impresiones": 5781,
+            "impresiones": 5783,
             "interacciones": 643,
             "likes": 454,
             "reposts": 151,
@@ -5246,8 +5265,8 @@
             "bookmarks": 9,
             "autores": 2,
             "interacciones_por_tweet": 321.5,
-            "impresiones_por_tweet": 2890.5,
-            "engagement": 11.122643141325032
+            "impresiones_por_tweet": 2891.5,
+            "engagement": 11.11879647241916
           }
         },
         {
@@ -5256,17 +5275,17 @@
           "tipo": "estable",
           "total": {
             "tweets": 2,
-            "impresiones": 16736,
-            "interacciones": 1004,
-            "likes": 789,
+            "impresiones": 16757,
+            "interacciones": 1005,
+            "likes": 790,
             "reposts": 98,
             "respuestas": 106,
             "citas": 11,
             "bookmarks": 6,
             "autores": 2,
-            "interacciones_por_tweet": 502,
-            "impresiones_por_tweet": 8368,
-            "engagement": 5.999043977055449
+            "interacciones_por_tweet": 502.5,
+            "impresiones_por_tweet": 8378.5,
+            "engagement": 5.9974935847705435
           },
           "organizaciones": {
             "tweets": 0,
@@ -5284,17 +5303,17 @@
           },
           "personas": {
             "tweets": 2,
-            "impresiones": 16736,
-            "interacciones": 1004,
-            "likes": 789,
+            "impresiones": 16757,
+            "interacciones": 1005,
+            "likes": 790,
             "reposts": 98,
             "respuestas": 106,
             "citas": 11,
             "bookmarks": 6,
             "autores": 2,
-            "interacciones_por_tweet": 502,
-            "impresiones_por_tweet": 8368,
-            "engagement": 5.999043977055449
+            "interacciones_por_tweet": 502.5,
+            "impresiones_por_tweet": 8378.5,
+            "engagement": 5.9974935847705435
           }
         },
         {
@@ -5533,6 +5552,53 @@
           }
         },
         {
+          "id": "protestas",
+          "nombre": "Protestas y movilización social",
+          "tipo": "estable",
+          "total": {
+            "tweets": 5,
+            "impresiones": 17839,
+            "interacciones": 592,
+            "likes": 411,
+            "reposts": 121,
+            "respuestas": 47,
+            "citas": 13,
+            "bookmarks": 9,
+            "autores": 4,
+            "interacciones_por_tweet": 118.4,
+            "impresiones_por_tweet": 3567.8,
+            "engagement": 3.3185716688155167
+          },
+          "organizaciones": {
+            "tweets": 2,
+            "impresiones": 12644,
+            "interacciones": 449,
+            "likes": 317,
+            "reposts": 93,
+            "respuestas": 29,
+            "citas": 10,
+            "bookmarks": 3,
+            "autores": 1,
+            "interacciones_por_tweet": 224.5,
+            "impresiones_por_tweet": 6322,
+            "engagement": 3.5510914267636826
+          },
+          "personas": {
+            "tweets": 3,
+            "impresiones": 5195,
+            "interacciones": 143,
+            "likes": 94,
+            "reposts": 28,
+            "respuestas": 18,
+            "citas": 3,
+            "bookmarks": 6,
+            "autores": 3,
+            "interacciones_por_tweet": 47.666666666666664,
+            "impresiones_por_tweet": 1731.6666666666667,
+            "engagement": 2.7526467757459097
+          }
+        },
+        {
           "id": "nac_esp_contra",
           "nombre": "Nacionalismo Español (en contra)",
           "tipo": "estable",
@@ -5580,53 +5646,6 @@
           }
         },
         {
-          "id": "protestas",
-          "nombre": "Protestas y movilización social",
-          "tipo": "estable",
-          "total": {
-            "tweets": 4,
-            "impresiones": 13965,
-            "interacciones": 542,
-            "likes": 375,
-            "reposts": 117,
-            "respuestas": 39,
-            "citas": 11,
-            "bookmarks": 4,
-            "autores": 3,
-            "interacciones_por_tweet": 135.5,
-            "impresiones_por_tweet": 3491.25,
-            "engagement": 3.8811313999283925
-          },
-          "organizaciones": {
-            "tweets": 2,
-            "impresiones": 12644,
-            "interacciones": 449,
-            "likes": 317,
-            "reposts": 93,
-            "respuestas": 29,
-            "citas": 10,
-            "bookmarks": 3,
-            "autores": 1,
-            "interacciones_por_tweet": 224.5,
-            "impresiones_por_tweet": 6322,
-            "engagement": 3.5510914267636826
-          },
-          "personas": {
-            "tweets": 2,
-            "impresiones": 1321,
-            "interacciones": 93,
-            "likes": 58,
-            "reposts": 24,
-            "respuestas": 10,
-            "citas": 1,
-            "bookmarks": 1,
-            "autores": 2,
-            "interacciones_por_tweet": 46.5,
-            "impresiones_por_tweet": 660.5,
-            "engagement": 7.040121120363361
-          }
-        },
-        {
           "id": "orden_publico",
           "nombre": "Detenciones y orden público",
           "tipo": "estable",
@@ -5671,6 +5690,53 @@
             "interacciones_por_tweet": 0,
             "impresiones_por_tweet": 0,
             "engagement": 0
+          }
+        },
+        {
+          "id": "igualdad",
+          "nombre": "Feminismo e igualdad",
+          "tipo": "estable",
+          "total": {
+            "tweets": 3,
+            "impresiones": 9031,
+            "interacciones": 322,
+            "likes": 229,
+            "reposts": 36,
+            "respuestas": 53,
+            "citas": 4,
+            "bookmarks": 5,
+            "autores": 3,
+            "interacciones_por_tweet": 107.33333333333333,
+            "impresiones_por_tweet": 3010.3333333333335,
+            "engagement": 3.5654966227438822
+          },
+          "organizaciones": {
+            "tweets": 0,
+            "impresiones": 0,
+            "interacciones": 0,
+            "likes": 0,
+            "reposts": 0,
+            "respuestas": 0,
+            "citas": 0,
+            "bookmarks": 0,
+            "autores": 0,
+            "interacciones_por_tweet": 0,
+            "impresiones_por_tweet": 0,
+            "engagement": 0
+          },
+          "personas": {
+            "tweets": 3,
+            "impresiones": 9031,
+            "interacciones": 322,
+            "likes": 229,
+            "reposts": 36,
+            "respuestas": 53,
+            "citas": 4,
+            "bookmarks": 5,
+            "autores": 3,
+            "interacciones_por_tweet": 107.33333333333333,
+            "impresiones_por_tweet": 3010.3333333333335,
+            "engagement": 3.5654966227438822
           }
         },
         {
@@ -5773,7 +5839,7 @@
           "tipo": "estable",
           "total": {
             "tweets": 2,
-            "impresiones": 2036,
+            "impresiones": 2037,
             "interacciones": 239,
             "likes": 142,
             "reposts": 75,
@@ -5782,8 +5848,8 @@
             "bookmarks": 1,
             "autores": 2,
             "interacciones_por_tweet": 119.5,
-            "impresiones_por_tweet": 1018,
-            "engagement": 11.738703339882122
+            "impresiones_por_tweet": 1018.5,
+            "engagement": 11.73294059891998
           },
           "organizaciones": {
             "tweets": 0,
@@ -5801,7 +5867,7 @@
           },
           "personas": {
             "tweets": 2,
-            "impresiones": 2036,
+            "impresiones": 2037,
             "interacciones": 239,
             "likes": 142,
             "reposts": 75,
@@ -5810,8 +5876,8 @@
             "bookmarks": 1,
             "autores": 2,
             "interacciones_por_tweet": 119.5,
-            "impresiones_por_tweet": 1018,
-            "engagement": 11.738703339882122
+            "impresiones_por_tweet": 1018.5,
+            "engagement": 11.73294059891998
           }
         },
         {
@@ -5961,7 +6027,7 @@
           "tipo": "estable",
           "total": {
             "tweets": 2,
-            "impresiones": 2151,
+            "impresiones": 2152,
             "interacciones": 217,
             "likes": 136,
             "reposts": 78,
@@ -5970,12 +6036,12 @@
             "bookmarks": 3,
             "autores": 2,
             "interacciones_por_tweet": 108.5,
-            "impresiones_por_tweet": 1075.5,
-            "engagement": 10.088331008833102
+            "impresiones_por_tweet": 1076,
+            "engagement": 10.08364312267658
           },
           "organizaciones": {
             "tweets": 1,
-            "impresiones": 1100,
+            "impresiones": 1101,
             "interacciones": 67,
             "likes": 51,
             "reposts": 16,
@@ -5984,8 +6050,8 @@
             "bookmarks": 2,
             "autores": 1,
             "interacciones_por_tweet": 67,
-            "impresiones_por_tweet": 1100,
-            "engagement": 6.090909090909091
+            "impresiones_por_tweet": 1101,
+            "engagement": 6.085376930063579
           },
           "personas": {
             "tweets": 1,
@@ -6055,7 +6121,7 @@
           "tipo": "estable",
           "total": {
             "tweets": 2,
-            "impresiones": 4475,
+            "impresiones": 4481,
             "interacciones": 110,
             "likes": 72,
             "reposts": 13,
@@ -6064,12 +6130,12 @@
             "bookmarks": 4,
             "autores": 2,
             "interacciones_por_tweet": 55,
-            "impresiones_por_tweet": 2237.5,
-            "engagement": 2.4581005586592175
+            "impresiones_por_tweet": 2240.5,
+            "engagement": 2.454809194376255
           },
           "organizaciones": {
             "tweets": 1,
-            "impresiones": 1653,
+            "impresiones": 1654,
             "interacciones": 68,
             "likes": 54,
             "reposts": 12,
@@ -6078,12 +6144,12 @@
             "bookmarks": 4,
             "autores": 1,
             "interacciones_por_tweet": 68,
-            "impresiones_por_tweet": 1653,
-            "engagement": 4.11373260738052
+            "impresiones_por_tweet": 1654,
+            "engagement": 4.111245465538089
           },
           "personas": {
             "tweets": 1,
-            "impresiones": 2822,
+            "impresiones": 2827,
             "interacciones": 42,
             "likes": 18,
             "reposts": 1,
@@ -6092,8 +6158,8 @@
             "bookmarks": 0,
             "autores": 1,
             "interacciones_por_tweet": 42,
-            "impresiones_por_tweet": 2822,
-            "engagement": 1.48830616583983
+            "impresiones_por_tweet": 2827,
+            "engagement": 1.4856738592147152
           }
         },
         {
@@ -6196,7 +6262,7 @@
           "tipo": "estable",
           "total": {
             "tweets": 3,
-            "impresiones": 5123,
+            "impresiones": 5133,
             "interacciones": 67,
             "likes": 31,
             "reposts": 2,
@@ -6205,8 +6271,8 @@
             "bookmarks": 0,
             "autores": 1,
             "interacciones_por_tweet": 22.333333333333332,
-            "impresiones_por_tweet": 1707.6666666666667,
-            "engagement": 1.3078274448565292
+            "impresiones_por_tweet": 1711,
+            "engagement": 1.3052795636080265
           },
           "organizaciones": {
             "tweets": 0,
@@ -6224,7 +6290,7 @@
           },
           "personas": {
             "tweets": 3,
-            "impresiones": 5123,
+            "impresiones": 5133,
             "interacciones": 67,
             "likes": 31,
             "reposts": 2,
@@ -6233,8 +6299,8 @@
             "bookmarks": 0,
             "autores": 1,
             "interacciones_por_tweet": 22.333333333333332,
-            "impresiones_por_tweet": 1707.6666666666667,
-            "engagement": 1.3078274448565292
+            "impresiones_por_tweet": 1711,
+            "engagement": 1.3052795636080265
           }
         },
         {
@@ -6243,7 +6309,7 @@
           "tipo": "estable",
           "total": {
             "tweets": 2,
-            "impresiones": 2892,
+            "impresiones": 2900,
             "interacciones": 42,
             "likes": 18,
             "reposts": 1,
@@ -6252,8 +6318,8 @@
             "bookmarks": 0,
             "autores": 1,
             "interacciones_por_tweet": 21,
-            "impresiones_por_tweet": 1446,
-            "engagement": 1.4522821576763485
+            "impresiones_por_tweet": 1450,
+            "engagement": 1.4482758620689655
           },
           "organizaciones": {
             "tweets": 0,
@@ -6271,7 +6337,7 @@
           },
           "personas": {
             "tweets": 2,
-            "impresiones": 2892,
+            "impresiones": 2900,
             "interacciones": 42,
             "likes": 18,
             "reposts": 1,
@@ -6280,8 +6346,8 @@
             "bookmarks": 0,
             "autores": 1,
             "interacciones_por_tweet": 21,
-            "impresiones_por_tweet": 1446,
-            "engagement": 1.4522821576763485
+            "impresiones_por_tweet": 1450,
+            "engagement": 1.4482758620689655
           }
         },
         {
@@ -6376,53 +6442,6 @@
             "interacciones_por_tweet": 0,
             "impresiones_por_tweet": 0,
             "engagement": 0
-          }
-        },
-        {
-          "id": "igualdad",
-          "nombre": "Feminismo e igualdad",
-          "tipo": "estable",
-          "total": {
-            "tweets": 2,
-            "impresiones": 837,
-            "interacciones": 36,
-            "likes": 28,
-            "reposts": 4,
-            "respuestas": 4,
-            "citas": 0,
-            "bookmarks": 0,
-            "autores": 2,
-            "interacciones_por_tweet": 18,
-            "impresiones_por_tweet": 418.5,
-            "engagement": 4.301075268817205
-          },
-          "organizaciones": {
-            "tweets": 0,
-            "impresiones": 0,
-            "interacciones": 0,
-            "likes": 0,
-            "reposts": 0,
-            "respuestas": 0,
-            "citas": 0,
-            "bookmarks": 0,
-            "autores": 0,
-            "interacciones_por_tweet": 0,
-            "impresiones_por_tweet": 0,
-            "engagement": 0
-          },
-          "personas": {
-            "tweets": 2,
-            "impresiones": 837,
-            "interacciones": 36,
-            "likes": 28,
-            "reposts": 4,
-            "respuestas": 4,
-            "citas": 0,
-            "bookmarks": 0,
-            "autores": 2,
-            "interacciones_por_tweet": 18,
-            "impresiones_por_tweet": 418.5,
-            "engagement": 4.301075268817205
           }
         },
         {
@@ -6619,7 +6638,7 @@
           "tipo": "estable",
           "total": {
             "tweets": 1,
-            "impresiones": 70,
+            "impresiones": 73,
             "interacciones": 0,
             "likes": 0,
             "reposts": 0,
@@ -6628,7 +6647,7 @@
             "bookmarks": 0,
             "autores": 1,
             "interacciones_por_tweet": 0,
-            "impresiones_por_tweet": 70,
+            "impresiones_por_tweet": 73,
             "engagement": 0
           },
           "organizaciones": {
@@ -6647,7 +6666,7 @@
           },
           "personas": {
             "tweets": 1,
-            "impresiones": 70,
+            "impresiones": 73,
             "interacciones": 0,
             "likes": 0,
             "reposts": 0,
@@ -6656,7 +6675,7 @@
             "bookmarks": 0,
             "autores": 1,
             "interacciones_por_tweet": 0,
-            "impresiones_por_tweet": 70,
+            "impresiones_por_tweet": 73,
             "engagement": 0
           }
         }
