@@ -128,7 +128,7 @@ function renderTopics(){
     topicState.selected=null;
   }
 
-  root.innerHTML=sorted.slice(0,22).map((topic,i)=>{
+  root.innerHTML=sorted.slice(0,30).map((topic,i)=>{
     const value=topicValue(topic);
     const color=topicPalette[i%topicPalette.length];
     const active=topicState.selected===topic.id?" active":"";
