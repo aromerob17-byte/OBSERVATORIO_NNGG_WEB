@@ -347,6 +347,14 @@ for (const post of posts) {
     ids.add("agitacion_derecha");
   }
 
+  if (
+    ids.size === 0 &&
+    post.tipo === "organizaciones" &&
+    String(post.username || "").toLowerCase() === "nnggmadrid"
+  ) {
+    ids.add("agitacion_derecha");
+  }
+
   const hashtags = new Set(hashtagsDe(post));
 
   for (const emergente of emergentes) {
