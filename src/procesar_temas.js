@@ -363,6 +363,19 @@ for (const post of posts) {
     }
   }
 
+  const excluidoManual = (configuracion.manual_exclusions || [])
+    .map(String)
+    .includes(String(post.id));
+
+  const overrideManual = configuracion.manual_overrides?.[String(post.id)];
+
+  if (excluidoManual) {
+    ids.clear();
+  } else if (Array.isArray(overrideManual)) {
+    ids.clear();
+    for (const temaId of overrideManual) ids.add(temaId);
+  }
+
   clasificaciones.set(clavePost(post), ids);
 }
 
