@@ -81,8 +81,12 @@ function metricTitle(metric,view){
   return base;
 }
 
+function visibleOrganizations(){
+  return (state.summary?.organizaciones||[]).filter(o=>n(o.total_publicaciones)>0);
+}
+
 function renderKpis(){
-  const orgs=state.summary.organizaciones||[];
+  const orgs=visibleOrganizations();
   const people=(state.peopleSummary?.personas||[]).filter(p=>n(p.total_publicaciones)>0);
 
   const orgTotals=orgs.reduce((a,o)=>{
@@ -121,7 +125,7 @@ function renderKpis(){
 }
 
 function sortedOrganizations(){
-  return [...(state.summary.organizaciones||[])].sort(
+  return [...visibleOrganizations()].sort(
     (a,b)=>metricValue(b,state.metric,state.rankingView)-metricValue(a,state.metric,state.rankingView)
   );
 }
@@ -163,7 +167,7 @@ function renderRanking(){
 
 function renderOrgs(filter=""){
   const profiles=profileMap();
-  const orgs=(state.summary.organizaciones||[]).filter(
+  const orgs=visibleOrganizations().filter(
     o=>(o.nombre+" "+o.username).toLowerCase().includes(filter.toLowerCase())
   );
 
@@ -300,7 +304,7 @@ function renderPosts(){
 }
 
 function renderTable(){
-  const rows=[...(state.summary.organizaciones||[])].sort((a,b)=>b.impresiones-a.impresiones);
+  const rows=[...visibleOrganizations()].sort((a,b)=>b.impresiones-a.impresiones);
   $("#data-table").innerHTML=rows.map(o=>`
     <tr>
       <td>${esc(o.nombre)}<br><span style="color:#6f7e96;font-weight:500">@${esc(o.username)}</span></td>
