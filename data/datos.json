@@ -10,20 +10,68 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2107805303601274881/L_l0ZKWN_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 41494,
+        "followers_count": 41530,
         "following_count": 2040,
-        "like_count": 9752,
+        "like_count": 9754,
         "listed_count": 360,
-        "media_count": 6277,
-        "tweet_count": 39655
+        "media_count": 6278,
+        "tweet_count": 39658
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:31.473Z"
+      "recopilado_en": "2026-10-19T06:33:31.586Z"
     },
-    "total_tweets": 64,
+    "total_tweets": 67,
     "tweets": [
+      {
+        "created_at": "2026-10-18T17:52:26.000Z",
+        "edit_history_tweet_ids": [
+          "2111878081447387318"
+        ],
+        "id": "2111878081447387318",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 577
+        },
+        "text": "RT @ppopular: Si ya les tiene bailando en las televisiones imaginad lo que podría hacer con ellos si consigue un acta en el Congreso.\n\n¡Vam…"
+      },
+      {
+        "created_at": "2026-10-18T17:52:13.000Z",
+        "edit_history_tweet_ids": [
+          "2111878029622260017"
+        ],
+        "id": "2111878029622260017",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "text": "RT @PP_LLEIDA: 💙 A PEL CONGRÉS!\n\nAvui hem participat a Barcelona en l'acte de presentació dels candidats del @PPCatalunya al Congrés dels D…"
+      },
+      {
+        "created_at": "2026-10-18T10:47:53.000Z",
+        "edit_history_tweet_ids": [
+          "2111771240226828451"
+        ],
+        "id": "2111771240226828451",
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 30611,
+          "like_count": 1500,
+          "quote_count": 29,
+          "reply_count": 133,
+          "retweet_count": 276
+        },
+        "text": "La #ReconstrucciónNacional es no acabar como Francia https://t.co/IqYtWJTgzm"
+      },
       {
         "created_at": "2026-10-17T19:39:56.000Z",
         "edit_history_tweet_ids": [
@@ -32,11 +80,11 @@
         "id": "2111542748171935914",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1324,
-          "like_count": 97,
-          "quote_count": 0,
-          "reply_count": 9,
-          "retweet_count": 19
+          "impression_count": 2713,
+          "like_count": 180,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 41
         },
         "text": "Estas elecciones generales son EXISTENCIALES para España y nuestra generación.\n\n🗣️ @Idancausa https://t.co/txb9sCxE1R"
       },
@@ -48,11 +96,11 @@
         "id": "2111541279654031750",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 65,
+          "impression_count": 81,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 32
+          "retweet_count": 53
         },
         "text": "RT @Idancausa: CONSTRUIR CASAS PARA LOS JÓVENES ESPAÑOLES 🏠🇪🇸\n\nEn eso consiste la Reconstrucción Nacional de @NunezFeijoo https://t.co/CjJo…"
       },
@@ -63,12 +111,12 @@
         ],
         "id": "2111499638222074049",
         "public_metrics": {
-          "bookmark_count": 28,
-          "impression_count": 62604,
-          "like_count": 489,
-          "quote_count": 77,
-          "reply_count": 266,
-          "retweet_count": 86
+          "bookmark_count": 62,
+          "impression_count": 344092,
+          "like_count": 791,
+          "quote_count": 202,
+          "reply_count": 625,
+          "retweet_count": 135
         },
         "text": "Todo el que venga a trabajar e integrarse, bienvenido a España.\n\nSi no, te vas en el primer vuelo ✈️ \n\n🗣️ @Idancausa https://t.co/ZfrFHhb41T"
       },
@@ -79,12 +127,12 @@
         ],
         "id": "2111485666936721915",
         "public_metrics": {
-          "bookmark_count": 15,
-          "impression_count": 57321,
-          "like_count": 2095,
-          "quote_count": 6,
-          "reply_count": 104,
-          "retweet_count": 276
+          "bookmark_count": 16,
+          "impression_count": 119409,
+          "like_count": 2489,
+          "quote_count": 9,
+          "reply_count": 172,
+          "retweet_count": 331
         },
         "text": "Por amor llenáis Soto Del Real / ❤️‍🩹 https://t.co/GblBo1Y9ME https://t.co/5w53tmnN9h"
       },
@@ -95,12 +143,12 @@
         ],
         "id": "2111430711223685301",
         "public_metrics": {
-          "bookmark_count": 6,
-          "impression_count": 7246,
-          "like_count": 218,
-          "quote_count": 15,
-          "reply_count": 209,
-          "retweet_count": 44
+          "bookmark_count": 11,
+          "impression_count": 25990,
+          "like_count": 279,
+          "quote_count": 36,
+          "reply_count": 347,
+          "retweet_count": 57
         },
         "text": "🗣️ @Idancausa \n\nCon el PP España se llenará de grúas, creando casas para los jóvenes y la clase media 🏗️🇪🇸 https://t.co/fKaJKlXPXf"
       },
@@ -112,11 +160,11 @@
         "id": "2111392458454315047",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 2292,
-          "like_count": 35,
+          "impression_count": 2742,
+          "like_count": 38,
           "quote_count": 0,
           "reply_count": 2,
-          "retweet_count": 9
+          "retweet_count": 10
         },
         "text": "🚀 ¡Hoy toca hablar de futuro y de Reconstrucción Nacional! 🇪🇸\n\nA las 12:30 h, sigue en directo el acto de @Idancausa,  @JuanMa_Moreno y @_mariajosecmoya . ¡Conéctate y no te lo pierdas! 🔥👇\n\n🔴 https://t.co/wZsyzR89AN"
       },
@@ -128,11 +176,11 @@
         "id": "2111203727474377206",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 90,
+          "impression_count": 91,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 106
+          "retweet_count": 107
         },
         "text": "RT @Idancausa: A tu casa, que tienes 30 para elegir."
       },
@@ -160,10 +208,10 @@
         "id": "2111161751353843889",
         "public_metrics": {
           "bookmark_count": 5,
-          "impression_count": 23256,
-          "like_count": 1904,
+          "impression_count": 23772,
+          "like_count": 1906,
           "quote_count": 21,
-          "reply_count": 157,
+          "reply_count": 159,
           "retweet_count": 135
         },
         "text": "Sarah, nadie de la derecha es un hipócrita con 30 viviendas en propiedad. https://t.co/squZwcA2kx"
@@ -176,11 +224,11 @@
         "id": "2111128912562450920",
         "public_metrics": {
           "bookmark_count": 22,
-          "impression_count": 34424,
-          "like_count": 2805,
+          "impression_count": 34682,
+          "like_count": 2807,
           "quote_count": 3,
           "reply_count": 77,
-          "retweet_count": 462
+          "retweet_count": 464
         },
         "text": "Os lo traduzco:\n\nSánchez le ha dicho a Montse que se aparte o la aparta.\n\nElla, que conoce bien cómo funcionan las cloacas, se ha apartado.\n\nY ahora: a vivir del fondo buitre de su novio.\n\nQue no os dé pena. https://t.co/wGlzBwz8In"
       },
@@ -196,7 +244,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 2483
+          "retweet_count": 2495
         },
         "text": "RT @nnggmadrid: Vamos a ser claros, Óscar.\n\nEres un delincuente que tiene las manos manchadas de sangre. Hay 46 familias llorando la muerte…"
       },
@@ -228,7 +276,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 464
+          "retweet_count": 467
         },
         "text": "RT @ALMA_EZCURRA: La primera ministra socialista de Dinamarca pide a Bruselas que examine la política migratoria de Sánchez \n\nHasta sus pro…"
       },
@@ -240,8 +288,8 @@
         "id": "2111035275703149049",
         "public_metrics": {
           "bookmark_count": 3,
-          "impression_count": 7751,
-          "like_count": 879,
+          "impression_count": 7884,
+          "like_count": 880,
           "quote_count": 0,
           "reply_count": 24,
           "retweet_count": 141
@@ -1061,7 +1109,7 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2074429343716061185/nsDt_1yz_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 27428,
+        "followers_count": 27458,
         "following_count": 2657,
         "like_count": 6142,
         "listed_count": 291,
@@ -1071,7 +1119,7 @@
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:31.684Z"
+      "recopilado_en": "2026-10-19T06:33:31.778Z"
     },
     "total_tweets": 31,
     "tweets": [
@@ -1082,12 +1130,12 @@
         ],
         "id": "2111548612698370156",
         "public_metrics": {
-          "bookmark_count": 18,
-          "impression_count": 10174,
-          "like_count": 915,
-          "quote_count": 14,
-          "reply_count": 139,
-          "retweet_count": 133
+          "bookmark_count": 31,
+          "impression_count": 26454,
+          "like_count": 1869,
+          "quote_count": 38,
+          "reply_count": 313,
+          "retweet_count": 274
         },
         "text": "LA BOLA ROJA ❤️‍🔥 https://t.co/pU2uuMO4rn"
       },
@@ -1098,12 +1146,12 @@
         ],
         "id": "2111521466160455934",
         "public_metrics": {
-          "bookmark_count": 139,
-          "impression_count": 125069,
-          "like_count": 1216,
-          "quote_count": 112,
-          "reply_count": 799,
-          "retweet_count": 242
+          "bookmark_count": 206,
+          "impression_count": 2178602,
+          "like_count": 1667,
+          "quote_count": 186,
+          "reply_count": 1236,
+          "retweet_count": 346
         },
         "text": "Los prohibidoooss 🕺🏼🪩🎶🌹 https://t.co/cnlcOl4DbJ"
       },
@@ -1115,11 +1163,11 @@
         "id": "2111521304947949583",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 37,
+          "impression_count": 44,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 1120
+          "retweet_count": 1444
         },
         "text": "RT @PSOE: La fuerza que puede con todo. 🌹❤️ https://t.co/YSe6wBapmt"
       },
@@ -1131,11 +1179,11 @@
         "id": "2111429848308543717",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 52,
+          "impression_count": 58,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 300
+          "retweet_count": 415
         },
         "text": "RT @eldiarioes: DIRECTO | Aránzazu Figueroa, de las Juventudes del PSOE: \"Lo tengo que decir porque sino reviento, cómo me alegro, Pedro, d…"
       },
@@ -1146,12 +1194,12 @@
         ],
         "id": "2111398779811213737",
         "public_metrics": {
-          "bookmark_count": 41,
-          "impression_count": 85094,
-          "like_count": 2674,
-          "quote_count": 99,
-          "reply_count": 1028,
-          "retweet_count": 584
+          "bookmark_count": 44,
+          "impression_count": 102479,
+          "like_count": 2911,
+          "quote_count": 111,
+          "reply_count": 1208,
+          "retweet_count": 643
         },
         "text": "El beso de España 🇪🇸♥️\n\nLa fuerza de la gente está con vosotros ✨ https://t.co/b4Fr8iZLvJ"
       },
@@ -1584,20 +1632,36 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2059390403686658048/REQ4xO3J_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 63851,
+        "followers_count": 63859,
         "following_count": 172,
-        "like_count": 2836,
-        "listed_count": 155,
-        "media_count": 1401,
-        "tweet_count": 3549
+        "like_count": 2841,
+        "listed_count": 154,
+        "media_count": 1402,
+        "tweet_count": 3550
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:31.880Z"
+      "recopilado_en": "2026-10-19T06:33:31.977Z"
     },
-    "total_tweets": 38,
+    "total_tweets": 39,
     "tweets": [
+      {
+        "created_at": "2026-10-18T12:10:11.000Z",
+        "edit_history_tweet_ids": [
+          "2111791953851339165"
+        ],
+        "id": "2111791953851339165",
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8444,
+          "like_count": 680,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 219
+        },
+        "text": "🇫🇷 Esta es, posiblemente, la imagen más aterradora de lo ocurrido en Francia.\n\nUna pareja de octogenarios, despojada de sus pertenencias y abandonada semidesnuda en plena calle.\n\nNo son escaparates de lujo ni grandes multinacionales. Son dos ancianos indefensos.\n\nUna imagen que https://t.co/SZEFa2VLjE"
+      },
       {
         "created_at": "2026-10-17T23:26:32.000Z",
         "edit_history_tweet_ids": [
@@ -1605,12 +1669,12 @@
         ],
         "id": "2111599774243987838",
         "public_metrics": {
-          "bookmark_count": 0,
-          "impression_count": 859,
-          "like_count": 28,
-          "quote_count": 0,
-          "reply_count": 0,
-          "retweet_count": 5
+          "bookmark_count": 2,
+          "impression_count": 2002,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 16
         },
         "text": "🇫🇷 FRANCIA DEBE RESISTIR. https://t.co/kB6epuWdaT"
       },
@@ -1621,12 +1685,12 @@
         ],
         "id": "2111597513614745880",
         "public_metrics": {
-          "bookmark_count": 4,
-          "impression_count": 1906,
-          "like_count": 99,
-          "quote_count": 0,
+          "bookmark_count": 6,
+          "impression_count": 3170,
+          "like_count": 206,
+          "quote_count": 1,
           "reply_count": 6,
-          "retweet_count": 23
+          "retweet_count": 48
         },
         "text": "🇫🇷 El antifascismo y los inmigrantes están destruyendo Francia.\n\nRevuelta acudirá próximamente junto a los que creen que hay una civilización que defender. https://t.co/vJm4qEt7R4"
       },
@@ -1638,11 +1702,11 @@
         "id": "2111508048833311081",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1328,
-          "like_count": 17,
+          "impression_count": 2066,
+          "like_count": 34,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 1
+          "retweet_count": 3
         },
         "text": "🇪🇸 Ellos juegan contra España.\nNosotros les ganamos. https://t.co/6KXTbbkVMF"
       },
@@ -1654,8 +1718,8 @@
         "id": "2111225631438487819",
         "public_metrics": {
           "bookmark_count": 5,
-          "impression_count": 2039,
-          "like_count": 53,
+          "impression_count": 2201,
+          "like_count": 60,
           "quote_count": 0,
           "reply_count": 3,
           "retweet_count": 6
@@ -1670,9 +1734,9 @@
         "id": "2111137846476022217",
         "public_metrics": {
           "bookmark_count": 3,
-          "impression_count": 2229,
-          "like_count": 189,
-          "quote_count": 0,
+          "impression_count": 2358,
+          "like_count": 191,
+          "quote_count": 1,
           "reply_count": 5,
           "retweet_count": 51
         },
@@ -1686,8 +1750,8 @@
         "id": "2111068474969641306",
         "public_metrics": {
           "bookmark_count": 3,
-          "impression_count": 1213,
-          "like_count": 21,
+          "impression_count": 1357,
+          "like_count": 22,
           "quote_count": 0,
           "reply_count": 0,
           "retweet_count": 4
@@ -2223,18 +2287,34 @@
       "metrics": {
         "followers_count": 13772,
         "following_count": 1904,
-        "like_count": 10571,
+        "like_count": 10572,
         "listed_count": 130,
         "media_count": 4327,
-        "tweet_count": 16681
+        "tweet_count": 16682
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:32.052Z"
+      "recopilado_en": "2026-10-19T06:33:32.176Z"
     },
-    "total_tweets": 9,
+    "total_tweets": 10,
     "tweets": [
+      {
+        "created_at": "2026-10-18T13:31:12.000Z",
+        "edit_history_tweet_ids": [
+          "2111812340824051937"
+        ],
+        "id": "2111812340824051937",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "text": "RT @naciodigital: 🔴 Àlex Ramon serà el cap de llista del Jovent Republicà dins de la candidatura d'ERC del 29-N https://t.co/7vWbbRauLT"
+      },
       {
         "created_at": "2026-10-17T06:07:28.000Z",
         "edit_history_tweet_ids": [
@@ -2243,11 +2323,11 @@
         "id": "2111338284060205318",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 4733,
-          "like_count": 85,
-          "quote_count": 10,
-          "reply_count": 57,
-          "retweet_count": 33
+          "impression_count": 6182,
+          "like_count": 90,
+          "quote_count": 11,
+          "reply_count": 68,
+          "retweet_count": 35
         },
         "text": "🔴 El Consell Nacional del @JoventRepublica ratifica Àlex Ramon com a cap de llista a les eleccions espanyoles del #29N 🗳️\n\n✊ Davant el context actual, ens conjurem per passar a l'acció, alliberar el nostre país i garantir una vida digna per a la classe treballadora dels PPCC! https://t.co/lIvhvYukuR"
       },
@@ -2275,7 +2355,7 @@
         "id": "2110843338484293971",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 2636,
+          "impression_count": 2661,
           "like_count": 55,
           "quote_count": 3,
           "reply_count": 52,
@@ -2392,20 +2472,68 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1939110336121958400/Qguwq-nK_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 10770,
+        "followers_count": 10774,
         "following_count": 522,
-        "like_count": 6171,
+        "like_count": 6179,
         "listed_count": 132,
-        "media_count": 3861,
-        "tweet_count": 14088
+        "media_count": 3862,
+        "tweet_count": 14091
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:32.264Z"
+      "recopilado_en": "2026-10-19T06:33:32.449Z"
     },
-    "total_tweets": 7,
+    "total_tweets": 10,
     "tweets": [
+      {
+        "created_at": "2026-10-18T19:59:12.000Z",
+        "edit_history_tweet_ids": [
+          "2111909983042617559"
+        ],
+        "id": "2111909983042617559",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "text": "RT @CarlotaMonfort: És un honor representar Lleida, el Pirineu i l’Aran i els joves de Catalunya el proper 29 de novembre. \n\nGràcies @Isidr…"
+      },
+      {
+        "created_at": "2026-10-18T18:28:43.000Z",
+        "edit_history_tweet_ids": [
+          "2111887212262592552"
+        ],
+        "id": "2111887212262592552",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "text": "RT @CamachoArnauCA: Yesterday, I had the privilege of stepping into the heart of Austrian democracy at the @OeParl. \n\nRepresenting @JNCatal…"
+      },
+      {
+        "created_at": "2026-10-18T17:57:15.000Z",
+        "edit_history_tweet_ids": [
+          "2111879296696602965"
+        ],
+        "id": "2111879296696602965",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 19375,
+          "like_count": 63,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 20
+        },
+        "text": "Coneix els quatre candidats de la JNC a les llistes de Junts per Catalunya de les eleccions generals! \n\nRepresentaran els quatre territoris amb un mateix compromís: defensar Catalunya, la seva gent i el present i futur dels joves.\n\nDefensem Catalunya i fem sentir la nostra veu! https://t.co/Snzd8r55GL"
+      },
       {
         "created_at": "2026-10-15T12:27:31.000Z",
         "edit_history_tweet_ids": [
@@ -2414,7 +2542,7 @@
         "id": "2110709149663449108",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 131,
+          "impression_count": 209,
           "like_count": 6,
           "quote_count": 0,
           "reply_count": 0,
@@ -2430,7 +2558,7 @@
         "id": "2110709131506032923",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 687,
+          "impression_count": 797,
           "like_count": 32,
           "quote_count": 0,
           "reply_count": 2,
@@ -2531,7 +2659,7 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2037279105872515072/CnT9OEbM_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 6705,
+        "followers_count": 6702,
         "following_count": 717,
         "like_count": 12664,
         "listed_count": 78,
@@ -2541,7 +2669,7 @@
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:32.426Z"
+      "recopilado_en": "2026-10-19T06:33:32.631Z"
     },
     "total_tweets": 3,
     "tweets": [
@@ -2553,7 +2681,7 @@
         "id": "2109932963207041216",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 575,
+          "impression_count": 577,
           "like_count": 15,
           "quote_count": 0,
           "reply_count": 0,
@@ -2606,20 +2734,52 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2026982571364499457/KcDYxTIy_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 5150,
+        "followers_count": 5159,
         "following_count": 1442,
-        "like_count": 13544,
+        "like_count": 13549,
         "listed_count": 53,
         "media_count": 2184,
-        "tweet_count": 17242
+        "tweet_count": 17244
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:32.695Z"
+      "recopilado_en": "2026-10-19T06:33:32.841Z"
     },
-    "total_tweets": 55,
+    "total_tweets": 57,
     "tweets": [
+      {
+        "created_at": "2026-10-18T19:23:13.000Z",
+        "edit_history_tweet_ids": [
+          "2111900929972986256"
+        ],
+        "id": "2111900929972986256",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14678,
+          "like_count": 474,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 52
+        },
+        "text": "Però quina barra, Miriam.\n\nVau fer president a Pedro Sánchez amb l’extrema esquerra.\n\nNo oblidem tampoc quan vau ser pioners a Catalunya en això de regular els preus del lloguer i apujar l’impost de successions en plena pandèmia.\n\nA vosaltres, també us desokuparem! 😉 https://t.co/powBPHCD1q"
+      },
+      {
+        "created_at": "2026-10-18T19:15:19.000Z",
+        "edit_history_tweet_ids": [
+          "2111898943479022070"
+        ],
+        "id": "2111898943479022070",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "text": "RT @PPCatalunya: Presentamos y aprobamos nuestra ley antiokupación en el Senado. Después, fue bloqueada en el Congreso por la Mesa.\n\nCuando…"
+      },
       {
         "created_at": "2026-10-17T18:05:28.000Z",
         "edit_history_tweet_ids": [
@@ -2627,12 +2787,12 @@
         ],
         "id": "2111518976664870942",
         "public_metrics": {
-          "bookmark_count": 12,
-          "impression_count": 9249,
-          "like_count": 1138,
-          "quote_count": 8,
-          "reply_count": 124,
-          "retweet_count": 192
+          "bookmark_count": 15,
+          "impression_count": 13020,
+          "like_count": 1502,
+          "quote_count": 19,
+          "reply_count": 195,
+          "retweet_count": 246
         },
         "text": "El beso final antes del naufragio de la PSOE. https://t.co/jzgnOT6OFU"
       },
@@ -2644,11 +2804,11 @@
         "id": "2111513235736371511",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 10,
+          "impression_count": 11,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 4
+          "retweet_count": 11
         },
         "text": "RT @Landaburu_Anto: .@Albiol_XG sabe lo que sufren los vecinos con la reincidencia y la okupación ilegal. Ahora toca llevar esa firmeza al…"
       },
@@ -2660,11 +2820,11 @@
         "id": "2111465521921347926",
         "public_metrics": {
           "bookmark_count": 2,
-          "impression_count": 4398,
-          "like_count": 654,
-          "quote_count": 0,
-          "reply_count": 3,
-          "retweet_count": 65
+          "impression_count": 5054,
+          "like_count": 753,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 74
         },
         "text": "El mejor desokupador para desokupar la Moncloa.\n\n¡A por ello, @Albiol_XG! 💪🇪🇸 https://t.co/o4bw9cbBNq"
       },
@@ -2680,7 +2840,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 904
+          "retweet_count": 1082
         },
         "text": "RT @ppopular: Esta no la viste venir, @FabrizioRomano. \n\nUn fichaje de altura para una España que necesita personas con ideas claras.\n\nNues…"
       },
@@ -2692,7 +2852,7 @@
         "id": "2111197726880739397",
         "public_metrics": {
           "bookmark_count": 5,
-          "impression_count": 2920,
+          "impression_count": 2974,
           "like_count": 238,
           "quote_count": 3,
           "reply_count": 16,
@@ -2712,7 +2872,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 788
+          "retweet_count": 805
         },
         "text": "RT @ppopular: #EXCLUSIVA: Primeras imágenes del comité de campaña del PSOE https://t.co/k50FEptzhg"
       },
@@ -2724,10 +2884,10 @@
         "id": "2111143868947206242",
         "public_metrics": {
           "bookmark_count": 19,
-          "impression_count": 18808,
-          "like_count": 2693,
+          "impression_count": 18901,
+          "like_count": 2695,
           "quote_count": 5,
-          "reply_count": 27,
+          "reply_count": 28,
           "retweet_count": 198
         },
         "text": "Pa’lante. https://t.co/zsUTEJyCIt https://t.co/9QPaTcv4X8"
@@ -2744,7 +2904,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 45
+          "retweet_count": 46
         },
         "text": "RT @PPCatalunya: 🚨 ALERTA ENCHUFISMO SOCIALISTA.\n\nEl Govern deja a Cataluña fuera de la comparativa PISA. La consellera no dimite. Cesan a…"
       },
@@ -2760,7 +2920,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 1080
+          "retweet_count": 1090
         },
         "text": "RT @ppopular: Tener amo 🇲🇦 o amar España 🇪🇸 https://t.co/nz2ZAd49t0"
       },
@@ -2772,8 +2932,8 @@
         "id": "2110982093673205907",
         "public_metrics": {
           "bookmark_count": 19,
-          "impression_count": 40944,
-          "like_count": 1763,
+          "impression_count": 41003,
+          "like_count": 1762,
           "quote_count": 1,
           "reply_count": 27,
           "retweet_count": 128
@@ -2792,7 +2952,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 403
+          "retweet_count": 406
         },
         "text": "RT @ppopular: El expediente puede derivar en sanción económica pero no en pena de prisión. \n\nNo os hagáis ilusiones.\n\nhttps://t.co/vWgGZsb6…"
       },
@@ -3513,20 +3673,84 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1945174863557120000/faWozyQx_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 55524,
+        "followers_count": 55521,
         "following_count": 2185,
         "like_count": 16505,
         "listed_count": 366,
-        "media_count": 11472,
-        "tweet_count": 50773
+        "media_count": 11473,
+        "tweet_count": 50777
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:32.864Z"
+      "recopilado_en": "2026-10-19T06:33:33.073Z"
     },
-    "total_tweets": 51,
+    "total_tweets": 55,
     "tweets": [
+      {
+        "created_at": "2026-10-18T20:19:08.000Z",
+        "edit_history_tweet_ids": [
+          "2111915003284746367"
+        ],
+        "id": "2111915003284746367",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 638,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "text": "✊ Arran i l’Esquerra Independentista hem participat de les brigades internacionalistes del II Acte de Carrièras Occitanas, a Montsegur, per compartir experiències de lluita.\n\nPer la llibertat i la dignitat dels nostres pobles: organització, ruptura i lluita! https://t.co/l73Dx7VHuL"
+      },
+      {
+        "created_at": "2026-10-18T07:44:32.000Z",
+        "edit_history_tweet_ids": [
+          "2111725101750145316"
+        ],
+        "id": "2111725101750145316",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "text": "RT @dbalears: 📣 Els col·lectius #antifeixistes obliguen els racistes de Núcleo Nacional a abandonar la seva paradeta: «Ni un espai al feixi…"
+      },
+      {
+        "created_at": "2026-10-18T07:36:55.000Z",
+        "edit_history_tweet_ids": [
+          "2111723181610291407"
+        ],
+        "id": "2111723181610291407",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "text": "RT @coshac_sindicat: 💪 Aquests dies estem demostrant col·lectivament que la lluita funciona: com més creix la nostra organització, més crei…"
+      },
+      {
+        "created_at": "2026-10-18T07:36:51.000Z",
+        "edit_history_tweet_ids": [
+          "2111723165533585547"
+        ],
+        "id": "2111723165533585547",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "text": "RT @COSnacional: ✊ Arreu dels #PaïsosCatalans caminem cap a la #VagaGeneral anticapitalista.\n\n🚩 Apropa’t al comitè més proper i lluitem ple…"
+      },
       {
         "created_at": "2026-10-17T13:30:29.000Z",
         "edit_history_tweet_ids": [
@@ -3535,11 +3759,11 @@
         "id": "2111449773450416431",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 47,
+          "impression_count": 53,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 34
+          "retweet_count": 35
         },
         "text": "RT @SEPC_nacional: PLANTEM CARA A VITO QUILES 🚩💥\n\nLes pròximes setmanes Vito Quiles pretén tornar a difondre el seu discurs feixista als Pa…"
       },
@@ -3551,11 +3775,11 @@
         "id": "2111449689723744411",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 1074,
-          "like_count": 63,
+          "impression_count": 1664,
+          "like_count": 92,
           "quote_count": 0,
-          "reply_count": 0,
-          "retweet_count": 13
+          "reply_count": 5,
+          "retweet_count": 25
         },
         "text": "🚩 11N VAGA GENERAL \n\nPerquè viure ens costa la vida i no volem més engrunes.\n\nArreu dels Països Catalans, construïm sindicalisme de classe i poder popular.\n\nAquest 11 de novembre: aturem-ho tot! https://t.co/YaPBxhhQfn"
       },
@@ -3567,8 +3791,8 @@
         "id": "2110814206576439629",
         "public_metrics": {
           "bookmark_count": 3,
-          "impression_count": 2990,
-          "like_count": 102,
+          "impression_count": 3065,
+          "like_count": 104,
           "quote_count": 2,
           "reply_count": 12,
           "retweet_count": 39
@@ -4356,20 +4580,52 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1896538482492792832/D3yGl7I9_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 18759,
+        "followers_count": 18771,
         "following_count": 2855,
-        "like_count": 12571,
+        "like_count": 12572,
         "listed_count": 160,
-        "media_count": 4680,
-        "tweet_count": 35825
+        "media_count": 4681,
+        "tweet_count": 35827
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:33.086Z"
+      "recopilado_en": "2026-10-19T06:33:33.350Z"
     },
-    "total_tweets": 147,
+    "total_tweets": 149,
     "tweets": [
+      {
+        "created_at": "2026-10-18T17:40:50.000Z",
+        "edit_history_tweet_ids": [
+          "2111875163742417077"
+        ],
+        "id": "2111875163742417077",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1403,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 26
+        },
+        "text": "El 29N nos jugamos ser civilización o barbarie. https://t.co/i4gLgeST1D"
+      },
+      {
+        "created_at": "2026-10-18T11:24:28.000Z",
+        "edit_history_tweet_ids": [
+          "2111780448615674202"
+        ],
+        "id": "2111780448615674202",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "text": "RT @jesus_m_cab: Los 4 guarros de siempre están muy nerviosos porque el 29N; y a partir de mayo en Rivas, se les acaba el chollo. \n\nBuena s…"
+      },
       {
         "created_at": "2026-10-17T13:34:41.000Z",
         "edit_history_tweet_ids": [
@@ -4377,12 +4633,12 @@
         ],
         "id": "2111450828816953526",
         "public_metrics": {
-          "bookmark_count": 21,
-          "impression_count": 16569,
-          "like_count": 2056,
-          "quote_count": 5,
-          "reply_count": 41,
-          "retweet_count": 288
+          "bookmark_count": 26,
+          "impression_count": 22494,
+          "like_count": 2713,
+          "quote_count": 6,
+          "reply_count": 54,
+          "retweet_count": 393
         },
         "text": "\"¿Quién va a defender la causa de las mujeres?\" https://t.co/W0gzyGhfZW https://t.co/8Usxzc2h0h"
       },
@@ -4393,12 +4649,12 @@
         ],
         "id": "2111412579017089029",
         "public_metrics": {
-          "bookmark_count": 23,
-          "impression_count": 27698,
-          "like_count": 2835,
-          "quote_count": 9,
-          "reply_count": 58,
-          "retweet_count": 312
+          "bookmark_count": 26,
+          "impression_count": 30736,
+          "like_count": 3086,
+          "quote_count": 10,
+          "reply_count": 77,
+          "retweet_count": 347
         },
         "text": "¿Cuántas viviendas tendrá la nueva portavoz? https://t.co/RNGS4WH9wu https://t.co/MfJKcdFsGo"
       },
@@ -4410,7 +4666,7 @@
         "id": "2111380237309051148",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 41,
+          "impression_count": 42,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
@@ -4430,7 +4686,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 788
+          "retweet_count": 805
         },
         "text": "RT @ppopular: #EXCLUSIVA: Primeras imágenes del comité de campaña del PSOE https://t.co/k50FEptzhg"
       },
@@ -4446,7 +4702,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 2087
+          "retweet_count": 2098
         },
         "text": "RT @ppmadrid: Cierra la puerta al salir… de uno de tus 30 pisos."
       },
@@ -4457,9 +4713,9 @@
         ],
         "id": "2111147759466426654",
         "public_metrics": {
-          "bookmark_count": 38,
-          "impression_count": 43655,
-          "like_count": 1760,
+          "bookmark_count": 39,
+          "impression_count": 44126,
+          "like_count": 1764,
           "quote_count": 7,
           "reply_count": 30,
           "retweet_count": 206
@@ -4478,7 +4734,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 149
+          "retweet_count": 150
         },
         "text": "RT @mariaduran: Lo que Óscar Puente se merece leer cada día durante el resto de su vida."
       },
@@ -4494,7 +4750,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 2569
+          "retweet_count": 2572
         },
         "text": "RT @IdiazAyuso: Quieren reventar Madrid porque no asumen dejar el poder de manera democrática. https://t.co/Rx8VQw4gZl"
       },
@@ -4506,11 +4762,11 @@
         "id": "2111107253336175088",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 1472,
-          "like_count": 41,
+          "impression_count": 1553,
+          "like_count": 42,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 10
+          "retweet_count": 11
         },
         "text": "🚨 SIN SEGURIDAD NO HAY LIBERTAD\n\n📢 ¡Te esperamos en Parla para hablar de lo que más importa: nuestros derechos, nuestras familias y nuestra libertad!\n\n📍 PARLA\n📅 Jueves 22 de octubre\n🕖 19:00 h\n📌Sala Ritual, Calle San José de Calasanz, 15\nInscríbete👇🏻\n\nhttps://t.co/AV9ElaKo6E https://t.co/TxXKLfocTB"
       },
@@ -4537,12 +4793,12 @@
         ],
         "id": "2111100066932961582",
         "public_metrics": {
-          "bookmark_count": 113,
-          "impression_count": 263319,
-          "like_count": 12668,
-          "quote_count": 111,
-          "reply_count": 717,
-          "retweet_count": 2483
+          "bookmark_count": 112,
+          "impression_count": 265688,
+          "like_count": 12713,
+          "quote_count": 113,
+          "reply_count": 722,
+          "retweet_count": 2495
         },
         "text": "Vamos a ser claros, Óscar.\n\nEres un delincuente que tiene las manos manchadas de sangre. Hay 46 familias llorando la muerte de sus familiares por tu culpa.\n\nEres responsable de mucho dolor y sigues sin dimitir. Si alguien tiene las entrañas negras en este país eres tú. Cállate. https://t.co/qwKsjqAUGT"
       },
@@ -4558,7 +4814,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 886
+          "retweet_count": 887
         },
         "text": "RT @IdiazAyuso: ¿Personal o puntual? https://t.co/uSahcpUj7d"
       },
@@ -4606,7 +4862,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 1685
+          "retweet_count": 1691
         },
         "text": "RT @NunezFeijoo: Varias invasiones marroquíes en aguas españolas no son un hecho puntual, sino una agresión reiterada que exige una respues…"
       },
@@ -4702,7 +4958,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 468
+          "retweet_count": 474
         },
         "text": "RT @ppopular: Votar con V de Vivienda, que diría la amiga Montse."
       },
@@ -4734,7 +4990,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 121
+          "retweet_count": 122
         },
         "text": "RT @Idancausa: El tercer mundo no es un lugar, es un modelo social.\n\nY es la decadencia donde la izquierda nos está llevando a pasos agigan…"
       },
@@ -4750,7 +5006,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 1365
+          "retweet_count": 1366
         },
         "text": "RT @AlmeidaPP_: ¡Viva la ducha obrera! https://t.co/soSHnQCqZk"
       },
@@ -4762,8 +5018,8 @@
         "id": "2110806520388604206",
         "public_metrics": {
           "bookmark_count": 7,
-          "impression_count": 10263,
-          "like_count": 987,
+          "impression_count": 10335,
+          "like_count": 988,
           "quote_count": 4,
           "reply_count": 56,
           "retweet_count": 147
@@ -4794,7 +5050,7 @@
         "id": "2110754545475502119",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 1792,
+          "impression_count": 1831,
           "like_count": 95,
           "quote_count": 0,
           "reply_count": 14,
@@ -6735,20 +6991,100 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2076607810318573569/2r4hIoTN_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 7366,
+        "followers_count": 7367,
         "following_count": 1483,
-        "like_count": 5683,
+        "like_count": 5688,
         "listed_count": 69,
-        "media_count": 3128,
-        "tweet_count": 21295
+        "media_count": 3129,
+        "tweet_count": 21300
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:33.278Z"
+      "recopilado_en": "2026-10-19T06:33:33.587Z"
     },
-    "total_tweets": 12,
+    "total_tweets": 17,
     "tweets": [
+      {
+        "created_at": "2026-10-18T15:21:54.000Z",
+        "edit_history_tweet_ids": [
+          "2111840199063835083"
+        ],
+        "id": "2111840199063835083",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "text": "Incorporamos a nuevos compañeros en el Comité de Dirección de @nngg_Andalucia.\n\nFortalecemos nuestro equipo de cara a las elecciones generales y a los nuevos retos que se nos presentan. \n\nBienvenidos!!💪🏼💚 https://t.co/w2xUEbzAsz"
+      },
+      {
+        "created_at": "2026-10-18T07:44:08.000Z",
+        "edit_history_tweet_ids": [
+          "2111724998683701601"
+        ],
+        "id": "2111724998683701601",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 331
+        },
+        "text": "RT @NNGG_Es: Por amor llenáis Soto Del Real / ❤️‍🩹 https://t.co/GblBo1Y9ME"
+      },
+      {
+        "created_at": "2026-10-18T07:44:00.000Z",
+        "edit_history_tweet_ids": [
+          "2111724967276728730"
+        ],
+        "id": "2111724967276728730",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 862
+        },
+        "text": "RT @ppandaluz: La fuerza de la imputación 🥀 https://t.co/VmtfAKLKc4"
+      },
+      {
+        "created_at": "2026-10-18T07:43:55.000Z",
+        "edit_history_tweet_ids": [
+          "2111724946825302102"
+        ],
+        "id": "2111724946825302102",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "text": "RT @Idancausa: CONSTRUIR CASAS PARA LOS JÓVENES ESPAÑOLES 🏠🇪🇸\n\nEn eso consiste la Reconstrucción Nacional de @NunezFeijoo https://t.co/CjJo…"
+      },
+      {
+        "created_at": "2026-10-18T07:43:46.000Z",
+        "edit_history_tweet_ids": [
+          "2111724907922952627"
+        ],
+        "id": "2111724907922952627",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "text": "RT @NNGG_Es: Estas elecciones generales son EXISTENCIALES para España y nuestra generación.\n\n🗣️ @Idancausa https://t.co/txb9sCxE1R"
+      },
       {
         "created_at": "2026-10-17T17:33:02.000Z",
         "edit_history_tweet_ids": [
@@ -6757,11 +7093,11 @@
         "id": "2111510811558707414",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 288,
-          "like_count": 13,
+          "impression_count": 353,
+          "like_count": 18,
           "quote_count": 0,
           "reply_count": 1,
-          "retweet_count": 3
+          "retweet_count": 6
         },
         "text": "Por fin ha llegado el momento de los jóvenes.\n\n🇪🇸 Hagamos realidad el cambio en España con @NunezFeijoo. https://t.co/gNlrHqBR9r"
       },
@@ -6773,11 +7109,11 @@
         "id": "2111510333869412740",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 3,
+          "impression_count": 5,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 86
+          "retweet_count": 135
         },
         "text": "RT @NNGG_Es: Todo el que venga a trabajar e integrarse, bienvenido a España.\n\nSi no, te vas en el primer vuelo ✈️ \n\n🗣️ @Idancausa https://t…"
       },
@@ -6789,11 +7125,11 @@
         "id": "2111476924811808979",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 2,
+          "impression_count": 3,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 71
+          "retweet_count": 96
         },
         "text": "RT @JuanMa_Moreno: Por fin ha llegado el momento. Animo a los jóvenes a pulsar el botón de cambio en España.\n\nRecuperemos la decencia y la…"
       },
@@ -6805,11 +7141,11 @@
         "id": "2111476910052040900",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1,
+          "impression_count": 3,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 44
+          "retweet_count": 57
         },
         "text": "RT @NNGG_Es: 🗣️ @Idancausa \n\nCon el PP España se llenará de grúas, creando casas para los jóvenes y la clase media 🏗️🇪🇸 https://t.co/fKaJKl…"
       },
@@ -6821,11 +7157,11 @@
         "id": "2111476886916190580",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1,
+          "impression_count": 2,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 143
+          "retweet_count": 202
         },
         "text": "RT @ppandaluz: Un secretario de organización del PSOE está en la cárcel, su mano derecha también.\n\nAhora nos hemos enterado de que el PSOE…"
       },
@@ -6837,11 +7173,11 @@
         "id": "2111476870403485736",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 2,
+          "impression_count": 3,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 163
+          "retweet_count": 231
         },
         "text": "RT @JuanMa_Moreno: Apelo a los votantes del PSOE que están decepcionados con todo lo que está pasando y no les gusta Sánchez. Este es el mo…"
       },
@@ -6853,11 +7189,11 @@
         "id": "2111476855869964613",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 2,
+          "impression_count": 3,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 173
+          "retweet_count": 226
         },
         "text": "RT @JuanMa_Moreno: Zapatero, Montse Mínguez, Sánchez…\n\nHemos llegado a un punto de cinismo insoportable. Basta ya. https://t.co/ytusBfMHD2"
       },
@@ -6869,11 +7205,11 @@
         "id": "2111408364806979657",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 2,
+          "impression_count": 3,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 43
+          "retweet_count": 52
         },
         "text": "RT @ppandaluz: 👏🏽 Llegada del presidente @JuanMa_Moreno al acto en el que participa con jóvenes de Nuevas Generaciones.\n\n¡Por fin le diremo…"
       },
@@ -6885,11 +7221,11 @@
         "id": "2111398084274196639",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 3,
+          "impression_count": 4,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 17
+          "retweet_count": 18
         },
         "text": "RT @ppandaluz: 📡 DIRECTO | Juanma Moreno participa en un acto con jóvenes de @nngg_Andalucia.\n\n🔗 Síguelo en directo a través de nuestro can…"
       },
@@ -6901,8 +7237,8 @@
         "id": "2111396195096776719",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 181,
-          "like_count": 6,
+          "impression_count": 207,
+          "like_count": 7,
           "quote_count": 0,
           "reply_count": 0,
           "retweet_count": 2
@@ -6917,7 +7253,7 @@
         "id": "2111137989565075803",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 121,
+          "impression_count": 129,
           "like_count": 2,
           "quote_count": 0,
           "reply_count": 0,
@@ -6956,18 +7292,82 @@
       "metrics": {
         "followers_count": 1612,
         "following_count": 708,
-        "like_count": 1358,
+        "like_count": 1363,
         "listed_count": 24,
         "media_count": 880,
-        "tweet_count": 7736
+        "tweet_count": 7740
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:33.461Z"
+      "recopilado_en": "2026-10-19T06:33:33.797Z"
     },
-    "total_tweets": 45,
+    "total_tweets": 49,
     "tweets": [
+      {
+        "created_at": "2026-10-18T10:49:08.000Z",
+        "edit_history_tweet_ids": [
+          "2111771556506730905"
+        ],
+        "id": "2111771556506730905",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "text": "RT @POPULARES_DPZ: Los abucheos a Sánchez Quero lo dicen todo: la afición está harta de la hipocresía del PSOE.\n\nSuprimen la feria de San J…"
+      },
+      {
+        "created_at": "2026-10-18T10:48:54.000Z",
+        "edit_history_tweet_ids": [
+          "2111771497677422910"
+        ],
+        "id": "2111771497677422910",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 261
+        },
+        "text": "RT @ppaytozaragoza: El futuro del patrimonio que nos desgobierna. https://t.co/YErdDYkDzn"
+      },
+      {
+        "created_at": "2026-10-18T10:48:51.000Z",
+        "edit_history_tweet_ids": [
+          "2111771483622260889"
+        ],
+        "id": "2111771483622260889",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "text": "RT @ppaytozaragoza: Está claro, la Kirchner es el modelo a seguir de Pedro Sánchez. https://t.co/HiOd970yXN"
+      },
+      {
+        "created_at": "2026-10-18T08:59:32.000Z",
+        "edit_history_tweet_ids": [
+          "2111743973223956958"
+        ],
+        "id": "2111743973223956958",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1029
+        },
+        "text": "RT @ppopular: No le mandamos fotos del nuevo CM a los de El Mundo porque después de lo de Los Rochos y las cloacas casi mejor no dar pistas…"
+      },
       {
         "created_at": "2026-10-17T15:15:29.000Z",
         "edit_history_tweet_ids": [
@@ -6996,7 +7396,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 625
+          "retweet_count": 712
         },
         "text": "RT @NunezFeijoo: El esfuerzo tiene que merecer la pena.\n\nVivir y trabajar en el medio rural, también.\n\nEs mi compromiso y yo SÍ cumplo mi p…"
       },
@@ -7028,7 +7428,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 3025
+          "retweet_count": 3030
         },
         "text": "RT @ppopular: ¡Feliz 130 imputados @PSOE! 🎂\n\nhttps://t.co/YFwUSRaf4y https://t.co/7lLsduvrhj"
       },
@@ -7044,7 +7444,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 785
+          "retweet_count": 797
         },
         "text": "RT @NunezFeijoo: Ceuta se defiende. España se defiende.\n\nAsí lo he exigido en la Unión Europea. Y así lo haré como presidente.\n\nEllos prefi…"
       },
@@ -7706,15 +8106,31 @@
         "like_count": 22935,
         "listed_count": 53,
         "media_count": 2024,
-        "tweet_count": 25298
+        "tweet_count": 25299
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:33.623Z"
+      "recopilado_en": "2026-10-19T06:33:34.045Z"
     },
-    "total_tweets": 17,
+    "total_tweets": 18,
     "tweets": [
+      {
+        "created_at": "2026-10-18T10:08:48.000Z",
+        "edit_history_tweet_ids": [
+          "2111761407138242887"
+        ],
+        "id": "2111761407138242887",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "text": "Claro que sí, presidente, hay que saber qué vamos a votar. \n\nVotar PSOE significa un Gobierno con independentistas y etarras, por ejemplo. https://t.co/3wgj6wLGsV"
+      },
       {
         "created_at": "2026-10-14T10:46:33.000Z",
         "edit_history_tweet_ids": [
@@ -7727,7 +8143,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 2456
+          "retweet_count": 2459
         },
         "text": "RT @ppopular: ¿Hoy el PSOE ya no habla de vivienda? 🤷‍♂️ https://t.co/T7D1Ja5JUe"
       },
@@ -7743,7 +8159,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 3504
+          "retweet_count": 3508
         },
         "text": "RT @ppopular: El Gobierno ha robado a dos manos. \nMordidas, chistorras, joyas y oro. \nProstitución y sicarios. \nTodo con el dinero de la ge…"
       },
@@ -7775,7 +8191,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 439
+          "retweet_count": 440
         },
         "text": "RT @NunezFeijoo: Es curioso cómo el Gobierno agita la calle mientras no puede pisarla. https://t.co/NhFq2MHYdJ"
       },
@@ -7807,7 +8223,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 883
+          "retweet_count": 884
         },
         "text": "RT @NunezFeijoo: No voy a amnistiar al sanchismo. Todo se sabrá. https://t.co/Xv8zyODUa1"
       },
@@ -8000,7 +8416,7 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1857001730837213184/e-ciNkBk_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 3248,
+        "followers_count": 3247,
         "following_count": 987,
         "like_count": 13709,
         "listed_count": 31,
@@ -8010,7 +8426,7 @@
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:33.825Z"
+      "recopilado_en": "2026-10-19T06:33:34.266Z"
     },
     "total_tweets": 82,
     "tweets": [
@@ -8022,7 +8438,7 @@
         "id": "2111477570017567155",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 3,
+          "impression_count": 5,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
@@ -8038,11 +8454,11 @@
         "id": "2111477535762714938",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 3,
+          "impression_count": 5,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 19
+          "retweet_count": 21
         },
         "text": "RT @ppbalears: Nova reunió de coordinació de campanya a Palma amb les Juntes Locals per continuar reforçant la maquinària electoral del par…"
       },
@@ -8054,7 +8470,7 @@
         "id": "2111477517991428125",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1,
+          "impression_count": 2,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
@@ -8070,11 +8486,11 @@
         "id": "2111477508075880804",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 3,
+          "impression_count": 5,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 17
+          "retweet_count": 20
         },
         "text": "RT @ppbalears: Al final com van les esquerres a les eleccions del 29N? Al Congrés amb Ada Colau i al Senat amb Pedro Sánchez? \n\nEs lloguen…"
       },
@@ -8086,11 +8502,11 @@
         "id": "2111477494779961707",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 3,
+          "impression_count": 5,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 36
+          "retweet_count": 38
         },
         "text": "RT @ppbalears: 👀Encuentra las 3 diferencias:\n\nMínguez 👉 los pisos eran de su pareja. Ella dimite.\n\nArmengol 👉 reservó un ático en una promo…"
       },
@@ -8122,7 +8538,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 30
+          "retweet_count": 32
         },
         "text": "RT @MargaProhens: 🏘️ Continuam agilitzant habitatge públic per a la gent d’aquí.\n\nAvui, al Consell de Govern, hem autoritzat els projectes…"
       },
@@ -8198,7 +8614,7 @@
         "id": "2111079431997714892",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 152,
+          "impression_count": 157,
           "like_count": 8,
           "quote_count": 0,
           "reply_count": 0,
@@ -9349,7 +9765,7 @@
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:33.987Z"
+      "recopilado_en": "2026-10-19T06:33:34.476Z"
     },
     "total_tweets": 3,
     "tweets": [
@@ -9365,7 +9781,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 3025
+          "retweet_count": 3030
         },
         "text": "RT @ppopular: ¡Feliz 130 imputados @PSOE! 🎂\n\nhttps://t.co/YFwUSRaf4y https://t.co/7lLsduvrhj"
       },
@@ -9381,7 +9797,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 2456
+          "retweet_count": 2459
         },
         "text": "RT @ppopular: ¿Hoy el PSOE ya no habla de vivienda? 🤷‍♂️ https://t.co/T7D1Ja5JUe"
       },
@@ -9397,7 +9813,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 1062
+          "retweet_count": 1061
         },
         "text": "RT @NNGG_Es: El novio de Montse Mínguez después de desahuciar a 5 ancianas y subirle el alquiler a 10 estudiantes. https://t.co/wkpb77aJ5q"
       }
@@ -9424,7 +9840,7 @@
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:34.231Z"
+      "recopilado_en": "2026-10-19T06:33:34.654Z"
     },
     "total_tweets": 5,
     "tweets": [
@@ -9436,7 +9852,7 @@
         "id": "2109592882298470883",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 77,
+          "impression_count": 78,
           "like_count": 2,
           "quote_count": 0,
           "reply_count": 0,
@@ -9521,20 +9937,36 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2015721069340950528/K6wXJDog_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 3624,
+        "followers_count": 3625,
         "following_count": 597,
-        "like_count": 7267,
+        "like_count": 7268,
         "listed_count": 34,
         "media_count": 2579,
-        "tweet_count": 9295
+        "tweet_count": 9296
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:34.398Z"
+      "recopilado_en": "2026-10-19T06:33:34.864Z"
     },
-    "total_tweets": 21,
+    "total_tweets": 22,
     "tweets": [
+      {
+        "created_at": "2026-10-18T18:06:24.000Z",
+        "edit_history_tweet_ids": [
+          "2111881598325170687"
+        ],
+        "id": "2111881598325170687",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "text": "RT @santi_serrano: Como mentís sin pestañear, os pasan estas cosas. ¿Sabes quienes han sido letales para el agua en Talavera? Page y Sánche…"
+      },
       {
         "created_at": "2026-10-17T16:08:01.000Z",
         "edit_history_tweet_ids": [
@@ -9543,11 +9975,11 @@
         "id": "2111489418292871192",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 116,
+          "impression_count": 134,
           "like_count": 5,
           "quote_count": 0,
           "reply_count": 1,
-          "retweet_count": 3
+          "retweet_count": 4
         },
         "text": "Habrá que esperar al del vis a vis https://t.co/KkUaPiWET7"
       },
@@ -9579,7 +10011,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 36
+          "retweet_count": 40
         },
         "text": "RT @paconunez_: El PSOE de Page va a continuar trabajando para que Sánchez se mantenga en La Moncloa.\n\nTodos sus representantes tienen ese…"
       },
@@ -9595,7 +10027,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 625
+          "retweet_count": 712
         },
         "text": "RT @NunezFeijoo: El esfuerzo tiene que merecer la pena.\n\nVivir y trabajar en el medio rural, también.\n\nEs mi compromiso y yo SÍ cumplo mi p…"
       },
@@ -9623,7 +10055,7 @@
         "id": "2111026883806507202",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 8322,
+          "impression_count": 8365,
           "like_count": 37,
           "quote_count": 1,
           "reply_count": 2,
@@ -9894,7 +10326,7 @@
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:34.646Z"
+      "recopilado_en": "2026-10-19T06:33:35.126Z"
     },
     "total_tweets": 110,
     "tweets": [
@@ -9910,7 +10342,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 2857
+          "retweet_count": 3419
         },
         "text": "RT @ppopular: La foto de la campaña ❤️ https://t.co/KhQYB7Rtco"
       },
@@ -9926,7 +10358,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 86
+          "retweet_count": 135
         },
         "text": "RT @NNGG_Es: Todo el que venga a trabajar e integrarse, bienvenido a España.\n\nSi no, te vas en el primer vuelo ✈️ \n\n🗣️ @Idancausa https://t…"
       },
@@ -9942,7 +10374,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 488
+          "retweet_count": 943
         },
         "text": "RT @EsterMunoz85: Y la corrupción se juzgará."
       },
@@ -9958,7 +10390,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 1041
+          "retweet_count": 1345
         },
         "text": "RT @EsterMunoz85: Misma campaña de la peronista Cristina Kirchner en 2011.\n\nEs más falso que Judas. https://t.co/IhnEC2f4Kn"
       },
@@ -9974,7 +10406,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 10
+          "retweet_count": 11
         },
         "text": "RT @PPBurgosCiudad: Ley de nietos: ingeniería electoral made in PSOE. \n\nPorque el voto no se regala, no se fabrica, no se compra con un pap…"
       },
@@ -9990,7 +10422,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 9
+          "retweet_count": 12
         },
         "text": "RT @PPdeSalamanca: 🔵La fuerza del @ppopular se siente en toda #Salamanca y especialmente entre nuestros alcaldes de los municipios del alfo…"
       },
@@ -10002,11 +10434,11 @@
         "id": "2111545839273353365",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 0,
+          "impression_count": 1,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 595
+          "retweet_count": 1028
         },
         "text": "RT @cayetanaAT: Ojo con Sánchez.\n\nCada vez que proclama su amor por Begoña, monta una cloaca para destruir la Justicia.\n\n——\nHoy, en Palenci…"
       },
@@ -10022,7 +10454,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 34
+          "retweet_count": 38
         },
         "text": "RT @educarazo: Anormalidad democrática es que el presidente del Gobierno esté centrado en hablar de su entorno corrupto en vez de los probl…"
       },
@@ -10038,7 +10470,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 44
+          "retweet_count": 57
         },
         "text": "RT @NNGG_Es: 🗣️ @Idancausa \n\nCon el PP España se llenará de grúas, creando casas para los jóvenes y la clase media 🏗️🇪🇸 https://t.co/fKaJKl…"
       },
@@ -10054,7 +10486,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 10
+          "retweet_count": 11
         },
         "text": "RT @PPdePalencia: Hoy con @cayetanaAT hablando con los palentinos del proyecto de reconstrucción nacional que tiene el @ppopular y @NunezFe…"
       },
@@ -10086,7 +10518,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 814
+          "retweet_count": 853
         },
         "text": "RT @Mtelladof: Dimite Montse Mínguez por \"principios\", según dice. \n\nNo, dimite porque la han pillado.\n\nHoy cae ella y en 45 días lo hará S…"
       },
@@ -10134,7 +10566,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 51
+          "retweet_count": 54
         },
         "text": "RT @alferma1: Frente a las políticas de vivienda de Sánchez, el @ppopular defiende en #CastillayLeón medidas como más vivienda pública, más…"
       },
@@ -10166,7 +10598,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 39
+          "retweet_count": 41
         },
         "text": "RT @alferma1: La protección de nuestras fronteras y la seguridad de los españoles es una cuestión de Estado.\n\nNecesitamos un presidente que…"
       },
@@ -10198,7 +10630,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 52
+          "retweet_count": 54
         },
         "text": "RT @PPopularCyL: 🟦 La carta de presentación del @PPopularCyL es conocida: Impuestos bajos y ayudas y estímulos para el empleo, el crecimien…"
       },
@@ -10278,7 +10710,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 220
+          "retweet_count": 223
         },
         "text": "RT @ppopular: No a los recortes de la PAC. https://t.co/AdfTun0jKa"
       },
@@ -11671,7 +12103,7 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1871176000152682496/tNNnW3gz_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 7142,
+        "followers_count": 7141,
         "following_count": 1960,
         "like_count": 5571,
         "listed_count": 71,
@@ -11681,7 +12113,7 @@
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:34.987Z"
+      "recopilado_en": "2026-10-19T06:33:35.376Z"
     },
     "total_tweets": 47,
     "tweets": [
@@ -11693,11 +12125,11 @@
         "id": "2111135379990401412",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 8,
+          "impression_count": 9,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 106
+          "retweet_count": 107
         },
         "text": "RT @Idancausa: A tu casa, que tienes 30 para elegir."
       },
@@ -11713,7 +12145,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 121
+          "retweet_count": 122
         },
         "text": "RT @Idancausa: El tercer mundo no es un lugar, es un modelo social.\n\nY es la decadencia donde la izquierda nos está llevando a pasos agigan…"
       },
@@ -11825,7 +12257,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 2456
+          "retweet_count": 2459
         },
         "text": "RT @ppopular: ¿Hoy el PSOE ya no habla de vivienda? 🤷‍♂️ https://t.co/T7D1Ja5JUe"
       },
@@ -11857,7 +12289,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 643
+          "retweet_count": 646
         },
         "text": "RT @ppopular: Su cohete vs nuestro bolsillo. https://t.co/1Dlz0b39Hp"
       },
@@ -11873,7 +12305,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 1032
+          "retweet_count": 1033
         },
         "text": "RT @nnggmadrid: Les ha quedado guapísimo https://t.co/71gU4C2tzj"
       },
@@ -11889,7 +12321,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 1062
+          "retweet_count": 1061
         },
         "text": "RT @NNGG_Es: El novio de Montse Mínguez después de desahuciar a 5 ancianas y subirle el alquiler a 10 estudiantes. https://t.co/wkpb77aJ5q"
       },
@@ -12460,7 +12892,7 @@
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:35.153Z"
+      "recopilado_en": "2026-10-19T06:33:35.931Z"
     },
     "total_tweets": 21,
     "tweets": [
@@ -12476,7 +12908,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 86
+          "retweet_count": 135
         },
         "text": "RT @NNGG_Es: Todo el que venga a trabajar e integrarse, bienvenido a España.\n\nSi no, te vas en el primer vuelo ✈️ \n\n🗣️ @Idancausa https://t…"
       },
@@ -12813,7 +13245,7 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1855953540721602560/R9lzuAXk_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 3783,
+        "followers_count": 3782,
         "following_count": 819,
         "like_count": 12315,
         "listed_count": 36,
@@ -12823,7 +13255,7 @@
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:35.326Z"
+      "recopilado_en": "2026-10-19T06:33:36.127Z"
     },
     "total_tweets": 6,
     "tweets": [
@@ -12946,7 +13378,7 @@
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:35.484Z"
+      "recopilado_en": "2026-10-19T06:33:36.276Z"
     },
     "total_tweets": 0,
     "tweets": []
@@ -12962,20 +13394,276 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2107175398987501568/rTJwXfNB_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 4081,
+        "followers_count": 4084,
         "following_count": 1423,
-        "like_count": 15407,
+        "like_count": 15414,
         "listed_count": 53,
-        "media_count": 2699,
-        "tweet_count": 31651
+        "media_count": 2701,
+        "tweet_count": 31667
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:35.740Z"
+      "recopilado_en": "2026-10-19T06:33:36.511Z"
     },
-    "total_tweets": 113,
+    "total_tweets": 129,
     "tweets": [
+      {
+        "created_at": "2026-10-19T06:28:25.000Z",
+        "edit_history_tweet_ids": [
+          "2112068331658461323"
+        ],
+        "id": "2112068331658461323",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "text": "RT @Landaburu_Anto: La mafia no abandona a los suyos: los coloca.\n\nLes quedan 41 días."
+      },
+      {
+        "created_at": "2026-10-18T21:36:52.000Z",
+        "edit_history_tweet_ids": [
+          "2111934562867581144"
+        ],
+        "id": "2111934562867581144",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "text": "RT @Landaburu_Anto: @jsrmurcia El PSOE no puede venir a darme ni una lección de corrupción.\n\nFelices 130 imputados 🎂❤️‍🩹\n\nPara más info: ht…"
+      },
+      {
+        "created_at": "2026-10-18T18:05:24.000Z",
+        "edit_history_tweet_ids": [
+          "2111881346524082264"
+        ],
+        "id": "2111881346524082264",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 794,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "text": "@bernabepaco @ppopular @PPRMurcia @PPSenado @PPAsambleaRM @GPPopular @PPLAUNION @PP_cartagena @nnggcartagena @nngglaunion Él es más de mandar a los rochos. \n\nNi un paso atrás con esta gente"
+      },
+      {
+        "created_at": "2026-10-18T17:39:50.000Z",
+        "edit_history_tweet_ids": [
+          "2111874913569300679"
+        ],
+        "id": "2111874913569300679",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "text": "RT @Landaburu_Anto: Región de MÚSICA 💥🎸😎 https://t.co/RdPHeAzyLe"
+      },
+      {
+        "created_at": "2026-10-18T17:23:05.000Z",
+        "edit_history_tweet_ids": [
+          "2111870695701377074"
+        ],
+        "id": "2111870695701377074",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2251,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 17
+        },
+        "text": "🦅🏠 El verdadero buitre: el PSOE. https://t.co/Zrv2d0ItL9"
+      },
+      {
+        "created_at": "2026-10-18T13:48:54.000Z",
+        "edit_history_tweet_ids": [
+          "2111816796445782067"
+        ],
+        "id": "2111816796445782067",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "text": "RT @laverdad_es: El PP urge al PSOE a forzar la dimisión de Joaquín Martínez Salmerón https://t.co/2tXvD1mdzX"
+      },
+      {
+        "created_at": "2026-10-18T13:48:33.000Z",
+        "edit_history_tweet_ids": [
+          "2111816707170087177"
+        ],
+        "id": "2111816707170087177",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "text": "RT @LopezMirasF: 💪🏽🏍️🏆 Hay cantera de la #RegióndeMurcia en el motociclismo.\n\nCarlos Cano ya es campeón del mundo de #Moto3 Junior @motojun…"
+      },
+      {
+        "created_at": "2026-10-18T12:45:53.000Z",
+        "edit_history_tweet_ids": [
+          "2111800938046660815"
+        ],
+        "id": "2111800938046660815",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1099,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 18
+        },
+        "text": "💔🤑No es amor, es delito. https://t.co/vJIppDUy4h"
+      },
+      {
+        "created_at": "2026-10-18T12:38:11.000Z",
+        "edit_history_tweet_ids": [
+          "2111799000923832743"
+        ],
+        "id": "2111799000923832743",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "@PPRMurcia @aj_guillengil @Lucassayala @JomasaJoaquin Sigue de fiesta en Madrid"
+      },
+      {
+        "created_at": "2026-10-18T12:38:03.000Z",
+        "edit_history_tweet_ids": [
+          "2111798967990370447"
+        ],
+        "id": "2111798967990370447",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "text": "RT @PPRMurcia: ❌@Lucassayala, ¿a qué esperas para exigirle a @JomasaJoaquin que entregue el acta y dimita?\n\nTu silencio te hace cómplice. h…"
+      },
+      {
+        "created_at": "2026-10-18T12:37:50.000Z",
+        "edit_history_tweet_ids": [
+          "2111798910813716817"
+        ],
+        "id": "2111798910813716817",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 528
+        },
+        "text": "RT @ppopular: ¡Cuidado, que viene el PP! https://t.co/lUpzFRQL4s"
+      },
+      {
+        "created_at": "2026-10-18T11:35:57.000Z",
+        "edit_history_tweet_ids": [
+          "2111783336641487049"
+        ],
+        "id": "2111783336641487049",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 791
+        },
+        "text": "RT @NunezFeijoo: ¿Decencia? SÍ.\n¿Sánchez? NO. https://t.co/dcNNaOar9Z"
+      },
+      {
+        "created_at": "2026-10-18T10:50:18.000Z",
+        "edit_history_tweet_ids": [
+          "2111771851902873716"
+        ],
+        "id": "2111771851902873716",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "text": "RT @Landaburu_Anto: A por todas, amigo @RogerMele 🚀\n\nLleida merece una voz que la defienda con el orgullo y el compromiso con los que tú de…"
+      },
+      {
+        "created_at": "2026-10-18T10:16:49.000Z",
+        "edit_history_tweet_ids": [
+          "2111763424388780414"
+        ],
+        "id": "2111763424388780414",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "text": "RT @Landaburu_Anto: 💧🏠 𝗔𝗴𝘂𝗮 𝗽𝗮𝗿𝗮 𝗻𝘂𝗲𝘀𝘁𝗿𝗮 𝘁𝗶𝗲𝗿𝗿𝗮 𝘆 𝘃𝗶𝘃𝗶𝗲𝗻𝗱𝗮 𝗽𝗮𝗿𝗮 𝗾𝘂𝗲 𝗹𝗼𝘀 𝗷𝗼́𝘃𝗲𝗻𝗲𝘀 𝗽𝗼𝗱𝗮𝗺𝗼𝘀 𝗰𝗼𝗻𝘀𝘁𝗿𝘂𝗶𝗿 𝗻𝘂𝗲𝘀𝘁𝗿𝗼 𝗳𝘂𝘁𝘂𝗿𝗼.\n\n@NunezFeijoo: «El Pacto…"
+      },
+      {
+        "created_at": "2026-10-18T10:16:46.000Z",
+        "edit_history_tweet_ids": [
+          "2111763409683501501"
+        ],
+        "id": "2111763409683501501",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1029
+        },
+        "text": "RT @ppopular: No le mandamos fotos del nuevo CM a los de El Mundo porque después de lo de Los Rochos y las cloacas casi mejor no dar pistas…"
+      },
+      {
+        "created_at": "2026-10-18T09:51:39.000Z",
+        "edit_history_tweet_ids": [
+          "2111757092084392357"
+        ],
+        "id": "2111757092084392357",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "text": "RT @PPRMurcia: Lo que nos jugamos el #29N. \n\nLa #RegióndeMurcia siempre presente en las decisiones del Presidente @NunezFeijoo. https://t.c…"
+      },
       {
         "created_at": "2026-10-17T19:53:42.000Z",
         "edit_history_tweet_ids": [
@@ -12984,11 +13672,11 @@
         "id": "2111546213220716972",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 2,
+          "impression_count": 5,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 4
+          "retweet_count": 10
         },
         "text": "RT @Landaburu_Anto: Gracias por mantener la ilusión y dar la cara siempre, hasta cuando más costaba.\n\nEl #29N, ese esfuerzo abrirá una nuev…"
       },
@@ -13000,11 +13688,11 @@
         "id": "2111531205887729672",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 2,
+          "impression_count": 4,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 4
+          "retweet_count": 5
         },
         "text": "RT @Landaburu_Anto: La Fuerza del Amor /❤️‍🩹"
       },
@@ -13016,10 +13704,10 @@
         "id": "2111489732425417112",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 208,
+          "impression_count": 428,
           "like_count": 3,
           "quote_count": 0,
-          "reply_count": 1,
+          "reply_count": 2,
           "retweet_count": 0
         },
         "text": "@martasanchezzf @MiguelOP_ Para aplausos ya teneis a la chiqui \n https://t.co/s48LK7JfnB"
@@ -13032,10 +13720,10 @@
         "id": "2111481213823127988",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 427,
+          "impression_count": 1505,
           "like_count": 2,
-          "quote_count": 0,
-          "reply_count": 4,
+          "quote_count": 2,
+          "reply_count": 8,
           "retweet_count": 0
         },
         "text": "@MiguelOP_ Que hables tú de trabajar, da risa."
@@ -13048,7 +13736,7 @@
         "id": "2111474459773133013",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 7,
+          "impression_count": 8,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
@@ -13063,12 +13751,12 @@
         ],
         "id": "2111469649418416264",
         "public_metrics": {
-          "bookmark_count": 2,
-          "impression_count": 10276,
-          "like_count": 243,
-          "quote_count": 1,
-          "reply_count": 51,
-          "retweet_count": 57
+          "bookmark_count": 3,
+          "impression_count": 15429,
+          "like_count": 287,
+          "quote_count": 3,
+          "reply_count": 72,
+          "retweet_count": 68
         },
         "text": "Qué barbaridad, lo ha vuelto a hacer.\n\nPillaron al Delegado del Gobierno de copas en la Feria de Albacete mientras había alerta por lluvias.\n\nHoy, con alerta en la Región de Murcia, estaba en Madrid haciendo palmas y bailando con Sánchez.\n\nNunca están a la altura de esta tierra. https://t.co/2y6PhHQhMk"
       },
@@ -13080,7 +13768,7 @@
         "id": "2111464757299748882",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 8,
+          "impression_count": 9,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
@@ -13096,11 +13784,11 @@
         "id": "2111455364436672798",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 7,
+          "impression_count": 8,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 2857
+          "retweet_count": 3419
         },
         "text": "RT @ppopular: La foto de la campaña ❤️ https://t.co/KhQYB7Rtco"
       },
@@ -13112,11 +13800,11 @@
         "id": "2111454731566780635",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1603,
-          "like_count": 115,
+          "impression_count": 1844,
+          "like_count": 122,
           "quote_count": 1,
-          "reply_count": 21,
-          "retweet_count": 17
+          "reply_count": 22,
+          "retweet_count": 19
         },
         "text": "https://t.co/zJIJcQUrtT https://t.co/9ivpbqSG3v"
       },
@@ -13128,11 +13816,11 @@
         "id": "2111447857240973678",
         "public_metrics": {
           "bookmark_count": 6,
-          "impression_count": 15695,
-          "like_count": 803,
+          "impression_count": 17981,
+          "like_count": 874,
           "quote_count": 5,
-          "reply_count": 82,
-          "retweet_count": 179
+          "reply_count": 108,
+          "retweet_count": 198
         },
         "text": "Líderes en paro juvenil.\n\nSin poder tener una vivienda.\n\nDeuda pública histórica que pagaremos durante generaciones.\n\nLos precios por las nubes.\n\nLos trenes ya no funcionan.\n\nNo puedes pasear por tus calles con seguridad.\n\nSu partido, Gobierno y familia cercados por la corrupción https://t.co/6pddPOqckQ"
       },
@@ -13144,11 +13832,11 @@
         "id": "2111434060425728306",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1352,
-          "like_count": 88,
-          "quote_count": 1,
-          "reply_count": 38,
-          "retweet_count": 15
+          "impression_count": 1567,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 16
         },
         "text": "La última vez que Sánchez dijo que estaba enamorado se cogió 5 días para montar la cloaca con Leire para atacar a jueces, fiscales y guardias civiles. https://t.co/WH7fKteW1f"
       },
@@ -13160,11 +13848,11 @@
         "id": "2111430819826827440",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 7,
+          "impression_count": 8,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 44
+          "retweet_count": 57
         },
         "text": "RT @NNGG_Es: 🗣️ @Idancausa \n\nCon el PP España se llenará de grúas, creando casas para los jóvenes y la clase media 🏗️🇪🇸 https://t.co/fKaJKl…"
       },
@@ -13176,7 +13864,7 @@
         "id": "2111161742516469979",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 3,
+          "impression_count": 4,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
@@ -13208,7 +13896,7 @@
         "id": "2111154098783580292",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1185,
+          "impression_count": 1213,
           "like_count": 100,
           "quote_count": 0,
           "reply_count": 10,
@@ -13224,7 +13912,7 @@
         "id": "2111142125400359404",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 3,
+          "impression_count": 4,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
@@ -13240,11 +13928,11 @@
         "id": "2111137338105463247",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 6,
+          "impression_count": 7,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 462
+          "retweet_count": 464
         },
         "text": "RT @NNGG_Es: Os lo traduzco:\n\nSánchez le ha dicho a Montse que se aparte o la aparta.\n\nElla, que conoce bien cómo funcionan las cloacas, se…"
       },
@@ -13256,11 +13944,11 @@
         "id": "2111106130915004903",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 10,
+          "impression_count": 11,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 364
+          "retweet_count": 365
         },
         "text": "RT @TheObjective_es: Un diputado del PSOE fundó un bufete de abogados que representa a 'fondos buitre'.\n\nhttps://t.co/wHDbbLbLSH"
       },
@@ -13272,11 +13960,11 @@
         "id": "2111105298475987227",
         "public_metrics": {
           "bookmark_count": 2,
-          "impression_count": 3037,
-          "like_count": 450,
+          "impression_count": 3060,
+          "like_count": 451,
           "quote_count": 0,
           "reply_count": 6,
-          "retweet_count": 97
+          "retweet_count": 98
         },
         "text": "Es verdad. El PSOE también defiende a asesinos. A Bildu, por ejemplo. https://t.co/KtEsgqvYNb https://t.co/iBh6EGEHWT"
       },
@@ -13288,7 +13976,7 @@
         "id": "2111073993424003285",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 58,
+          "impression_count": 60,
           "like_count": 1,
           "quote_count": 0,
           "reply_count": 1,
@@ -13304,7 +13992,7 @@
         "id": "2111056970321117626",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 7,
+          "impression_count": 8,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
@@ -13320,7 +14008,7 @@
         "id": "2111045904073388477",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 4,
+          "impression_count": 5,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
@@ -13336,11 +14024,11 @@
         "id": "2111045613005754489",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 6,
+          "impression_count": 7,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 468
+          "retweet_count": 474
         },
         "text": "RT @ppopular: Votar con V de Vivienda, que diría la amiga Montse."
       },
@@ -13352,8 +14040,8 @@
         "id": "2111033384453775864",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1416,
-          "like_count": 57,
+          "impression_count": 1483,
+          "like_count": 58,
           "quote_count": 0,
           "reply_count": 3,
           "retweet_count": 9
@@ -13368,11 +14056,11 @@
         "id": "2111028064050372899",
         "public_metrics": {
           "bookmark_count": 10,
-          "impression_count": 7407,
-          "like_count": 961,
+          "impression_count": 7448,
+          "like_count": 962,
           "quote_count": 4,
           "reply_count": 17,
-          "retweet_count": 391
+          "retweet_count": 392
         },
         "text": "🔴 Brutal. Otra pillada al PSOE.\n\nEs socialista murciano. En el Congreso vota a favor de los decretos de vivienda y, cuando sale, defiende a los fondos buitre.\n\nQue se sepa quién desahucia en este país: Sánchez y los suyos. https://t.co/C9qPRBoBCs https://t.co/BrtNHXsb1r"
       },
@@ -13384,7 +14072,7 @@
         "id": "2110996955761369229",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 2,
+          "impression_count": 3,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
@@ -14799,18 +15487,130 @@
       "metrics": {
         "followers_count": 2096,
         "following_count": 2089,
-        "like_count": 7380,
+        "like_count": 7385,
         "listed_count": 38,
         "media_count": 1203,
-        "tweet_count": 13547
+        "tweet_count": 13554
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:35.995Z"
+      "recopilado_en": "2026-10-19T06:33:36.720Z"
     },
-    "total_tweets": 92,
+    "total_tweets": 99,
     "tweets": [
+      {
+        "created_at": "2026-10-18T20:55:23.000Z",
+        "edit_history_tweet_ids": [
+          "2111924123379339627"
+        ],
+        "id": "2111924123379339627",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "@Pamplonaactual Importar tercer mundo es lo que tiene."
+      },
+      {
+        "created_at": "2026-10-18T20:55:09.000Z",
+        "edit_history_tweet_ids": [
+          "2111924063463493999"
+        ],
+        "id": "2111924063463493999",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "@korellafeminist Tenéis una película en la cabeza guapa. Primero empezad por condenar la jauría amazónica que hicieron vuestros amigos en Pamplona el otro día."
+      },
+      {
+        "created_at": "2026-10-18T20:54:01.000Z",
+        "edit_history_tweet_ids": [
+          "2111923781048623604"
+        ],
+        "id": "2111923781048623604",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2040
+        },
+        "text": "RT @ppmadrid: Esto quieren los que dicen que “no habrá paz en las calles”.\n\nNo votes nunca a la izquierda.\nJAMÁS. https://t.co/gGOlapPdmy"
+      },
+      {
+        "created_at": "2026-10-18T14:19:09.000Z",
+        "edit_history_tweet_ids": [
+          "2111824409421898114"
+        ],
+        "id": "2111824409421898114",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "text": "RT @NNGG_Es: La #ReconstrucciónNacional es no acabar como Francia https://t.co/IqYtWJTgzm"
+      },
+      {
+        "created_at": "2026-10-18T14:19:04.000Z",
+        "edit_history_tweet_ids": [
+          "2111824389490786525"
+        ],
+        "id": "2111824389490786525",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 591
+        },
+        "text": "RT @ppopular: El que ha fichado bien es el Getafe, que se ha llevado a Carvajal sin pagar un euro.\n\nRespecto al \"CM del PP,\" se vienen cosi…"
+      },
+      {
+        "created_at": "2026-10-18T09:46:47.000Z",
+        "edit_history_tweet_ids": [
+          "2111755865821008313"
+        ],
+        "id": "2111755865821008313",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "Europa, ha caído. \n\nNosotros, volveremos a levantarla cueste lo que cueste. https://t.co/XLPqVoBDxw"
+      },
+      {
+        "created_at": "2026-10-18T09:44:58.000Z",
+        "edit_history_tweet_ids": [
+          "2111755409203617849"
+        ],
+        "id": "2111755409203617849",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4834
+        },
+        "text": "RT @realmuckraker: We followed the illegal immigration pipeline from Africa into and across Europe.\n\nREPLACING EUROPE - FULL DOCUMENTARY\n\nO…"
+      },
       {
         "created_at": "2026-10-17T15:20:06.000Z",
         "edit_history_tweet_ids": [
@@ -14823,7 +15623,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 904
+          "retweet_count": 1082
         },
         "text": "RT @ppopular: Esta no la viste venir, @FabrizioRomano. \n\nUn fichaje de altura para una España que necesita personas con ideas claras.\n\nNues…"
       },
@@ -14835,7 +15635,7 @@
         "id": "2111466435738583329",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 21,
+          "impression_count": 24,
           "like_count": 4,
           "quote_count": 0,
           "reply_count": 0,
@@ -14855,7 +15655,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 166
+          "retweet_count": 211
         },
         "text": "RT @sergiosayas: Agradezco de corazón al presidente @NunezFeijoo su confianza para permitirme ocupar el lugar del PP en la candidatura de l…"
       },
@@ -14867,7 +15667,7 @@
         "id": "2111465678372732966",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 125,
+          "impression_count": 143,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
@@ -14883,10 +15683,10 @@
         "id": "2111414637597995124",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 200,
+          "impression_count": 215,
           "like_count": 1,
           "quote_count": 0,
-          "reply_count": 0,
+          "reply_count": 2,
           "retweet_count": 0
         },
         "text": "@AnaMartnezf68n No, la verdad que es más de estos. https://t.co/7tcCdffnE6"
@@ -14899,7 +15699,7 @@
         "id": "2111414288896373014",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 86,
+          "impression_count": 88,
           "like_count": 1,
           "quote_count": 0,
           "reply_count": 2,
@@ -14915,11 +15715,11 @@
         "id": "2111409837565436366",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 1293,
-          "like_count": 51,
+          "impression_count": 1527,
+          "like_count": 59,
           "quote_count": 2,
-          "reply_count": 17,
-          "retweet_count": 8
+          "reply_count": 20,
+          "retweet_count": 9
         },
         "text": "Son proetarras, no había ningún tipo de duda. https://t.co/RebVEaYIDE"
       },
@@ -14931,7 +15731,7 @@
         "id": "2111357038622064702",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 189,
+          "impression_count": 197,
           "like_count": 6,
           "quote_count": 0,
           "reply_count": 0,
@@ -14947,7 +15747,7 @@
         "id": "2111175603650981969",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 935,
+          "impression_count": 947,
           "like_count": 36,
           "quote_count": 3,
           "reply_count": 8,
@@ -14963,7 +15763,7 @@
         "id": "2111174127583441188",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 1686,
+          "impression_count": 1759,
           "like_count": 23,
           "quote_count": 5,
           "reply_count": 33,
@@ -14983,7 +15783,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 1184
+          "retweet_count": 1203
         },
         "text": "RT @TheObjective_es: 🔴 Bildu incluye a tres antiguos miembros de ETA en sus listas del 29-N.\n\nInforma Antonio Rodríguez (@antonioRG9).\n\nhtt…"
       },
@@ -14995,7 +15795,7 @@
         "id": "2111168893494714814",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 454,
+          "impression_count": 457,
           "like_count": 29,
           "quote_count": 0,
           "reply_count": 5,
@@ -15027,10 +15827,10 @@
         "id": "2111091377538834689",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 2514,
+          "impression_count": 2536,
           "like_count": 31,
           "quote_count": 1,
-          "reply_count": 19,
+          "reply_count": 18,
           "retweet_count": 0
         },
         "text": "@jugon132884911 @NunezFeijoo @ppopular Te animo a buscar los valores fascistas aplicados en el régimen nazi. Me sé de uno que se va a sentir identificado…"
@@ -15043,10 +15843,10 @@
         "id": "2111009120807710873",
         "public_metrics": {
           "bookmark_count": 16,
-          "impression_count": 62853,
-          "like_count": 729,
+          "impression_count": 63388,
+          "like_count": 731,
           "quote_count": 24,
-          "reply_count": 179,
+          "reply_count": 180,
           "retweet_count": 133
         },
         "text": "Tiro un cóctel molotov pero no soy fascista. \nVoy encapuchado pero no soy fascista. \nVoy totalmente de negro pero no soy fascista.\nQuiero sembrar el terror pero no soy fascista.\nReviento mobiliario público pero no soy fascista. \n\nConclusión: soy fascista. https://t.co/iZBHlkXTYp"
@@ -15059,7 +15859,7 @@
         "id": "2110983985094414806",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 194,
+          "impression_count": 195,
           "like_count": 1,
           "quote_count": 0,
           "reply_count": 5,
@@ -15075,7 +15875,7 @@
         "id": "2110974679758360626",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1549,
+          "impression_count": 1560,
           "like_count": 22,
           "quote_count": 1,
           "reply_count": 27,
@@ -15091,7 +15891,7 @@
         "id": "2110971717262983364",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 86,
+          "impression_count": 87,
           "like_count": 2,
           "quote_count": 0,
           "reply_count": 0,
@@ -15107,7 +15907,7 @@
         "id": "2110970853018210437",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1023,
+          "impression_count": 1028,
           "like_count": 24,
           "quote_count": 0,
           "reply_count": 24,
@@ -15155,7 +15955,7 @@
         "id": "2110785220320583941",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 371,
+          "impression_count": 372,
           "like_count": 2,
           "quote_count": 0,
           "reply_count": 1,
@@ -15171,7 +15971,7 @@
         "id": "2110783749835169819",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 2094,
+          "impression_count": 2097,
           "like_count": 17,
           "quote_count": 2,
           "reply_count": 19,
@@ -15187,7 +15987,7 @@
         "id": "2110781944053313909",
         "public_metrics": {
           "bookmark_count": 2,
-          "impression_count": 6788,
+          "impression_count": 6823,
           "like_count": 88,
           "quote_count": 6,
           "reply_count": 102,
@@ -15219,7 +16019,7 @@
         "id": "2110781351276474416",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1181,
+          "impression_count": 1182,
           "like_count": 58,
           "quote_count": 2,
           "reply_count": 9,
@@ -16296,20 +17096,52 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1638193121757372419/RfcERNht_normal.jpg",
       "verified": false,
       "metrics": {
-        "followers_count": 4212,
+        "followers_count": 4214,
         "following_count": 418,
-        "like_count": 7212,
+        "like_count": 7213,
         "listed_count": 82,
         "media_count": 1030,
-        "tweet_count": 8681
+        "tweet_count": 8683
       }
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:36.200Z"
+      "recopilado_en": "2026-10-19T06:33:36.942Z"
     },
-    "total_tweets": 22,
+    "total_tweets": 24,
     "tweets": [
+      {
+        "created_at": "2026-10-18T19:52:18.000Z",
+        "edit_history_tweet_ids": [
+          "2111908247091184060"
+        ],
+        "id": "2111908247091184060",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 362
+        },
+        "text": "RT @Jon_Echeverria_: Guipúzcoa es la única provincia que apoya a Sánchez por unanimidad. \n\nLos 6 diputados votan permanentemente ultraizqui…"
+      },
+      {
+        "created_at": "2026-10-18T16:33:46.000Z",
+        "edit_history_tweet_ids": [
+          "2111858284579696682"
+        ],
+        "id": "2111858284579696682",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 877,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "text": "¡Orgullo de equipo! 💙\n\nLos jóvenes vascos no podríamos tener mejor representante en el Congreso que @Jon_Echeverria_ \n\n¡A por todas! 🚀 https://t.co/vRA5yYLHAT"
+      },
       {
         "created_at": "2026-10-16T18:17:34.000Z",
         "edit_history_tweet_ids": [
@@ -16322,7 +17154,7 @@
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 106
+          "retweet_count": 107
         },
         "text": "RT @Idancausa: A tu casa, que tienes 30 para elegir."
       },
@@ -16334,7 +17166,7 @@
         "id": "2111146715520680072",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 278,
+          "impression_count": 290,
           "like_count": 8,
           "quote_count": 0,
           "reply_count": 1,
@@ -16350,7 +17182,7 @@
         "id": "2111089085674868788",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 126,
+          "impression_count": 133,
           "like_count": 1,
           "quote_count": 0,
           "reply_count": 0,
@@ -16685,7 +17517,7 @@
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:36.340Z"
+      "recopilado_en": "2026-10-19T06:33:37.114Z"
     },
     "total_tweets": 0,
     "tweets": []
@@ -16711,7 +17543,7 @@
     },
     "periodo": {
       "desde": "2026-10-04T22:00:00.000Z",
-      "recopilado_en": "2026-10-18T06:23:36.549Z"
+      "recopilado_en": "2026-10-19T06:33:37.306Z"
     },
     "total_tweets": 5,
     "tweets": [
@@ -16723,7 +17555,7 @@
         "id": "2111102337284501625",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 8,
+          "impression_count": 9,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
@@ -16739,11 +17571,11 @@
         "id": "2111096388826050724",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 8,
+          "impression_count": 9,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 0,
-          "retweet_count": 579
+          "retweet_count": 620
         },
         "text": "RT @NunezFeijoo: Impuesto cero para el que quiera adquirir su primera vivienda en un pueblo de España. https://t.co/FJuXMwwX4d"
       },
@@ -16755,7 +17587,7 @@
         "id": "2111039221972738250",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 393,
+          "impression_count": 394,
           "like_count": 21,
           "quote_count": 0,
           "reply_count": 1,
