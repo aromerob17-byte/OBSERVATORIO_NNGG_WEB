@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "nombre": "Nuevas Generaciones de España",
+    "username": "NNGG_Es",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Juventudes Socialistas de España",
+    "username": "JSE_ORG",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Revuelta",
+    "username": "Revuelta_es",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Jovent Republicà",
+    "username": "JoventRepublica",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Joventut Nacionalista de Catalunya",
+    "username": "JNCatalunya",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Joventut Socialista de Catalunya",
+    "username": "jsccatalunya",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Noves Generacions de Catalunya",
+    "username": "NNGGcat",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Arran",
+    "username": "Arran_jovent",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Madrid",
+    "username": "nnggmadrid",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Andalucía",
+    "username": "nngg_Andalucia",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Aragón",
+    "username": "NNGGAragon",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Asturias",
+    "username": "NNGG_Asturias",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Illes Balears",
+    "username": "NNGGBalears",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Canarias",
+    "username": "NNGGCanarias",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Cantabria",
+    "username": "nnggcantabria",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Castilla-La Mancha",
+    "username": "nnggclm",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Castilla y León",
+    "username": "nnggcyl",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de la Comunitat Valenciana",
+    "username": "NNGG_CV",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Extremadura",
+    "username": "NNGGExtremadura",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Novas Xeracións de Galicia",
+    "username": "nnxxgalicia",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de La Rioja",
+    "username": "nngglarioja",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de la Región de Murcia",
+    "username": "NNGG_RM",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Navarra",
+    "username": "nngg_navarra",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones del País Vasco",
+    "username": "NNGGPaisVasco",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Ceuta",
+    "username": "NNGGCeuta",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Melilla",
+    "username": "NNGGMelilla",
+    "error": "402: {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+  }
+]
