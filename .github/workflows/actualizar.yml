@@ -1,18 +1,6 @@
 name: Actualizar observatorio
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "cuentas.json"
-      - "personas.json"
-      - "temas_config.json"
-      - "src/**"
-      - "package.json"
-      - "package-lock.json"
-      - ".github/workflows/actualizar.yml"
-
   workflow_dispatch:
 
 permissions:
