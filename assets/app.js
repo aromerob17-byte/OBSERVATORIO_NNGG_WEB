@@ -30,7 +30,9 @@ const metricLabels={
   seguidores:"Seguidores"
 };
 
-function localAvatar(username){ return `assets/avatars/${String(username||"").replace(/[^a-zA-Z0-9_.-]/g,"_").toLowerCase()}.jpg`; }\n\nfunction esc(s=""){
+function localAvatar(username){ return `assets/avatars/${String(username||"").replace(/[^a-zA-Z0-9_.-]/g,"_").toLowerCase()}.jpg`; }
+
+function esc(s=""){
   return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
 }
 
