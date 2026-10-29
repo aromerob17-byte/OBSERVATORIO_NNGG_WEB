@@ -66,7 +66,7 @@ jobs:
         run: |
           git config user.name "Observatorio Bot"
           git config user.email "actions@github.com"
-          git add data/
+          git add data/ assets/avatars/
           if ! git diff --cached --quiet; then
             git commit -m "Actualización automática"
             git pull --rebase origin main
