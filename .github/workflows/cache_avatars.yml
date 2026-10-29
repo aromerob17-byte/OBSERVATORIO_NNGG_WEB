@@ -1,0 +1,45 @@
+name: Cachear avatares
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/avatar-refresh-trigger.txt"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  cachear:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Guardar avatares
+        run: node src/cache_avatars.js
+      - name: Guardar cambios
+        run: |
+          git config user.name "Observatorio Bot"
+          git config user.email "actions@github.com"
+          git add assets/avatars/
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar avatares locales"
+            git pull --rebase origin main
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+      - name: Publicar dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4
