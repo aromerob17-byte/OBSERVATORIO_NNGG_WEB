@@ -38,7 +38,7 @@ function profileMap(){
   return new Map((state.raw||[]).map((c,i)=>[
     c.usuario.username.toLowerCase(),
     {
-      image:(c.usuario.profile_image_url||"").replace("_normal","_200x200"),
+      image:(c.usuario.profile_image_url||""),
       name:c.usuario.name,
       desc:c.usuario.description,
       color:palette[i%palette.length]
@@ -209,7 +209,7 @@ function renderPeople(){
   }
 
   const leader=[...data].sort((a,b)=>n(b.interacciones)-n(a.interacciones))[0];
-  const avatar=(leader.avatar||"").replace("_normal","_200x200");
+  const avatar=(leader.avatar||"");
 
   $("#person-leader").innerHTML=`
     <div class="leader-kicker">Líder joven de la conversación</div>
@@ -236,7 +236,7 @@ function renderPeople(){
       <div class="person-rank-row">
         <span class="rank-num">${String(i+1).padStart(2,"0")}</span>
         <div class="rank-org">
-          <img class="avatar" src="${esc((p.avatar||"").replace("_normal","_200x200"))}" alt="">
+          <img class="avatar" src="${esc((p.avatar||""))}" alt="">
           <div><strong>${esc(p.nombre)}</strong><small>@${esc(p.username)}</small></div>
         </div>
         <span class="rank-value">${formatMetric(value,state.personMetric,state.personView)}</span>
@@ -247,7 +247,7 @@ function renderPeople(){
   $("#people-grid").innerHTML=cards.map(p=>`
     <article class="person-card">
       <div class="person-card-head">
-        <img class="avatar" src="${esc((p.avatar||"").replace("_normal","_200x200"))}" alt="">
+        <img class="avatar" src="${esc((p.avatar||""))}" alt="">
         <div class="person-card-title"><strong>${esc(p.nombre)}</strong><small>@${esc(p.username)}</small></div>
       </div>
       <div class="person-card-metrics">
@@ -268,7 +268,7 @@ function bestPosts(){
       candidates.push({
         username:c.usuario.username,
         name:c.nombre_organizacion,
-        image:(c.usuario.profile_image_url||"").replace("_normal","_200x200"),
+        image:(c.usuario.profile_image_url||""),
         ...t,
         interacciones:n(m.like_count)+n(m.retweet_count)+n(m.reply_count)+n(m.quote_count),
         impresiones:n(m.impression_count),
