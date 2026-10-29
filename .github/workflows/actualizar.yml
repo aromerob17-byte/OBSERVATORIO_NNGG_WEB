@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 6 * * *"
 
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/manual-refresh-trigger.txt"
+
   workflow_dispatch:
 
 permissions:
