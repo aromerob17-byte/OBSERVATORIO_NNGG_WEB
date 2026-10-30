@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "nombre": "Nuevas Generaciones de España",
+    "username": "NNGG_Es",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Juventudes Socialistas de España",
+    "username": "JSE_ORG",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Revuelta",
+    "username": "Revuelta_es",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Jovent Republicà",
+    "username": "JoventRepublica",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Joventut Nacionalista de Catalunya",
+    "username": "JNCatalunya",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Joventut Socialista de Catalunya",
+    "username": "jsccatalunya",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Noves Generacions de Catalunya",
+    "username": "NNGGcat",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Arran",
+    "username": "Arran_jovent",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Madrid",
+    "username": "nnggmadrid",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Andalucía",
+    "username": "nngg_Andalucia",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Aragón",
+    "username": "NNGGAragon",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Asturias",
+    "username": "NNGG_Asturias",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Illes Balears",
+    "username": "NNGGBalears",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Canarias",
+    "username": "NNGGCanarias",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Cantabria",
+    "username": "nnggcantabria",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Castilla-La Mancha",
+    "username": "nnggclm",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Castilla y León",
+    "username": "nnggcyl",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de la Comunitat Valenciana",
+    "username": "NNGG_CV",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Extremadura",
+    "username": "NNGGExtremadura",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Novas Xeracións de Galicia",
+    "username": "nnxxgalicia",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de La Rioja",
+    "username": "nngglarioja",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de la Región de Murcia",
+    "username": "NNGG_RM",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Navarra",
+    "username": "nngg_navarra",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones del País Vasco",
+    "username": "NNGGPaisVasco",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Ceuta",
+    "username": "NNGGCeuta",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  },
+  {
+    "nombre": "Nuevas Generaciones de Melilla",
+    "username": "NNGGMelilla",
+    "error": "403: {\"detail\":\"Your monthly spend cap has been reached.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/spend-cap-reached\"}"
+  }
+]
