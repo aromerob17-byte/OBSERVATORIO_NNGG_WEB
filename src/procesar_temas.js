@@ -384,9 +384,12 @@ for (const post of posts) {
 
   for (const emergente of emergentes) {
     if (Array.isArray(emergente.claves)) {
-      const coincideForzado = [...hashtags].some(hashtag =>
-        emergente.claves.includes(claveCompactaHashtag(hashtag))
-      );
+      const coincideForzado = [...hashtags].some(hashtag => {
+        const compacta = claveCompactaHashtag(hashtag);
+        return emergente.claves.some(clave =>
+          compacta === clave || compacta.startsWith(clave)
+        );
+      });
 
       if (coincideForzado) {
         ids.add(emergente.id);
