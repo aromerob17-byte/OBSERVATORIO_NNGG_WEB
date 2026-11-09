@@ -1,13 +1,13 @@
 {
-  "generado_en": "2026-11-09T08:46:30.397Z",
+  "generado_en": "2026-11-09T08:48:10.208Z",
   "version_clasificador": 2,
   "metodologia": "Reglas temáticas estables + entidades + orientación explícita + agitación por fuente + hashtags emergentes validados.",
   "resumen": {
     "publicaciones_analizadas": 2440,
     "publicaciones_clasificadas": 1907,
     "cobertura": 78.15573770491804,
-    "temas_activos": 72,
-    "temas_emergentes": 2
+    "temas_activos": 73,
+    "temas_emergentes": 3
   },
   "temas": [
     {
@@ -16,45 +16,45 @@
       "tipo": "estable",
       "total": {
         "tweets": 626,
-        "impresiones": 40960641,
-        "interacciones": 1565892,
-        "likes": 1268912,
-        "reposts": 221729,
-        "respuestas": 64367,
-        "citas": 10884,
-        "bookmarks": 32216,
+        "impresiones": 40961316,
+        "interacciones": 1565933,
+        "likes": 1268938,
+        "reposts": 221736,
+        "respuestas": 64373,
+        "citas": 10886,
+        "bookmarks": 32217,
         "autores": 27,
-        "interacciones_por_tweet": 2501.4249201277953,
-        "impresiones_por_tweet": 65432.3338658147,
-        "engagement": 3.8229186891875058
+        "interacciones_por_tweet": 2501.4904153354632,
+        "impresiones_por_tweet": 65433.41214057508,
+        "engagement": 3.822955785893207
       },
       "organizaciones": {
         "tweets": 279,
-        "impresiones": 6740386,
-        "interacciones": 286855,
-        "likes": 235110,
-        "reposts": 33937,
-        "respuestas": 14861,
+        "impresiones": 6740619,
+        "interacciones": 286864,
+        "likes": 235116,
+        "reposts": 33938,
+        "respuestas": 14863,
         "citas": 2947,
         "bookmarks": 3348,
         "autores": 16,
-        "interacciones_por_tweet": 1028.1541218637992,
-        "impresiones_por_tweet": 24159.089605734767,
-        "engagement": 4.255765174279336
+        "interacciones_por_tweet": 1028.1863799283153,
+        "impresiones_por_tweet": 24159.924731182797,
+        "engagement": 4.255751586019029
       },
       "personas": {
         "tweets": 347,
-        "impresiones": 34220255,
-        "interacciones": 1279037,
-        "likes": 1033802,
-        "reposts": 187792,
-        "respuestas": 49506,
-        "citas": 7937,
-        "bookmarks": 28868,
+        "impresiones": 34220697,
+        "interacciones": 1279069,
+        "likes": 1033822,
+        "reposts": 187798,
+        "respuestas": 49510,
+        "citas": 7939,
+        "bookmarks": 28869,
         "autores": 11,
-        "interacciones_por_tweet": 3685.985590778098,
-        "impresiones_por_tweet": 98617.44956772335,
-        "engagement": 3.737660634030927
+        "interacciones_por_tweet": 3686.077809798271,
+        "impresiones_por_tweet": 98618.72334293948,
+        "engagement": 3.737705868469014
       },
       "autores": [
         {
@@ -62,16 +62,16 @@
           "username": "vitoquiles",
           "tipo": "personas",
           "tweets": 65,
-          "interacciones": 830159,
-          "impresiones": 24000740
+          "interacciones": 830166,
+          "impresiones": 24000800
         },
         {
           "nombre": "Jon Echeverría",
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 86,
-          "interacciones": 193340,
-          "impresiones": 5487846
+          "interacciones": 193359,
+          "impresiones": 5488195
         },
         {
           "nombre": "Hugo Manchón",
@@ -86,8 +86,8 @@
           "username": "Pepa_Millan",
           "tipo": "personas",
           "tweets": 26,
-          "interacciones": 110020,
-          "impresiones": 807406
+          "interacciones": 110026,
+          "impresiones": 807436
         },
         {
           "nombre": "Nuevas Generaciones de Madrid",
@@ -95,22 +95,22 @@
           "tipo": "organizaciones",
           "tweets": 44,
           "interacciones": 102483,
-          "impresiones": 2434154
+          "impresiones": 2434156
         },
         {
           "nombre": "Noves Generacions de Catalunya",
           "username": "NNGGcat",
           "tipo": "organizaciones",
           "tweets": 30,
-          "interacciones": 77402,
-          "impresiones": 1098642
+          "interacciones": 77406,
+          "impresiones": 1098673
         },
         {
           "nombre": "Nuevas Generaciones de España",
           "username": "NNGG_Es",
           "tipo": "organizaciones",
           "tweets": 46,
-          "interacciones": 70333,
+          "interacciones": 70332,
           "impresiones": 2451428
         },
         {
@@ -126,8 +126,8 @@
           "username": "revuelta_es",
           "tipo": "organizaciones",
           "tweets": 39,
-          "interacciones": 13550,
-          "impresiones": 306737
+          "interacciones": 13556,
+          "impresiones": 306925
         },
         {
           "nombre": "Nuevas Generaciones de Navarra",
@@ -159,7 +159,7 @@
           "tipo": "personas",
           "tweets": 54,
           "interacciones": 3968,
-          "impresiones": 181658
+          "impresiones": 181661
         },
         {
           "nombre": "Miguel Sastre Uyá",
@@ -215,7 +215,7 @@
           "tipo": "organizaciones",
           "tweets": 11,
           "interacciones": 370,
-          "impresiones": 25536
+          "impresiones": 25548
         },
         {
           "nombre": "Nuevas Generaciones de Castilla y León",
@@ -343,17 +343,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 450,
-        "impresiones": 44971404,
-        "interacciones": 1277060,
-        "likes": 918397,
-        "reposts": 208745,
-        "respuestas": 137117,
-        "citas": 12801,
+        "impresiones": 44972762,
+        "interacciones": 1277126,
+        "likes": 918441,
+        "reposts": 208760,
+        "respuestas": 137122,
+        "citas": 12803,
         "bookmarks": 27231,
         "autores": 19,
-        "interacciones_por_tweet": 2837.911111111111,
-        "impresiones_por_tweet": 99936.45333333334,
-        "engagement": 2.839715655753154
+        "interacciones_por_tweet": 2838.0577777777776,
+        "impresiones_por_tweet": 99939.47111111111,
+        "engagement": 2.8397766630388412
       },
       "organizaciones": {
         "tweets": 59,
@@ -371,17 +371,17 @@
       },
       "personas": {
         "tweets": 391,
-        "impresiones": 41360045,
-        "interacciones": 1233146,
-        "likes": 889576,
-        "reposts": 201011,
-        "respuestas": 130438,
-        "citas": 12121,
+        "impresiones": 41361403,
+        "interacciones": 1233212,
+        "likes": 889620,
+        "reposts": 201026,
+        "respuestas": 130443,
+        "citas": 12123,
         "bookmarks": 26582,
         "autores": 15,
-        "interacciones_por_tweet": 3153.8260869565215,
-        "impresiones_por_tweet": 105780.1662404092,
-        "engagement": 2.9814909534068446
+        "interacciones_por_tweet": 3153.994884910486,
+        "impresiones_por_tweet": 105783.63938618926,
+        "engagement": 2.9815526325352164
       },
       "autores": [
         {
@@ -389,24 +389,24 @@
           "username": "SarahPerezSanta",
           "tipo": "personas",
           "tweets": 127,
-          "interacciones": 525015,
-          "impresiones": 25985821
+          "interacciones": 525073,
+          "impresiones": 25986391
         },
         {
           "nombre": "Alán Barroso",
           "username": "AlanBarrosoA",
           "tipo": "personas",
           "tweets": 48,
-          "interacciones": 475476,
-          "impresiones": 6434587
+          "interacciones": 475478,
+          "impresiones": 6434591
         },
         {
           "nombre": "Ramón López",
           "username": "RamonLopez_G",
           "tipo": "personas",
           "tweets": 52,
-          "interacciones": 140420,
-          "impresiones": 5743069
+          "interacciones": 140425,
+          "impresiones": 5743777
         },
         {
           "nombre": "Juventudes Socialistas de España",
@@ -422,7 +422,7 @@
           "tipo": "personas",
           "tweets": 46,
           "interacciones": 24993,
-          "impresiones": 1010919
+          "impresiones": 1010937
         },
         {
           "nombre": "Elizabeth Duval",
@@ -430,15 +430,15 @@
           "tipo": "personas",
           "tweets": 37,
           "interacciones": 16531,
-          "impresiones": 649237
+          "impresiones": 649251
         },
         {
           "nombre": "Jorge Pueyo",
           "username": "jorge_pueyo95",
           "tipo": "personas",
           "tweets": 22,
-          "interacciones": 13557,
-          "impresiones": 459839
+          "interacciones": 13558,
+          "impresiones": 459878
         },
         {
           "nombre": "Víctor Camino",
@@ -446,7 +446,7 @@
           "tipo": "personas",
           "tweets": 16,
           "interacciones": 10993,
-          "impresiones": 594768
+          "impresiones": 594770
         },
         {
           "nombre": "María Teresa Pérez",
@@ -454,7 +454,7 @@
           "tipo": "personas",
           "tweets": 14,
           "interacciones": 7639,
-          "impresiones": 72353
+          "impresiones": 72356
         },
         {
           "nombre": "Eduardo Fernández Rubiño",
@@ -606,7 +606,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 93,
-        "impresiones": 13421095,
+        "impresiones": 13421096,
         "interacciones": 376064,
         "likes": 289798,
         "reposts": 59915,
@@ -615,12 +615,12 @@
         "bookmarks": 6799,
         "autores": 28,
         "interacciones_por_tweet": 4043.6989247311826,
-        "impresiones_por_tweet": 144312.8494623656,
-        "engagement": 2.802036644550985
+        "impresiones_por_tweet": 144312.86021505378,
+        "engagement": 2.8020364357724583
       },
       "organizaciones": {
         "tweets": 26,
-        "impresiones": 73246,
+        "impresiones": 73247,
         "interacciones": 5091,
         "likes": 3550,
         "reposts": 945,
@@ -629,8 +629,8 @@
         "bookmarks": 34,
         "autores": 9,
         "interacciones_por_tweet": 195.80769230769232,
-        "impresiones_por_tweet": 2817.153846153846,
-        "engagement": 6.950550200693553
+        "impresiones_por_tweet": 2817.1923076923076,
+        "engagement": 6.950455308749846
       },
       "personas": {
         "tweets": 67,
@@ -701,7 +701,7 @@
           "tipo": "organizaciones",
           "tweets": 4,
           "interacciones": 1277,
-          "impresiones": 17845
+          "impresiones": 17846
         },
         {
           "nombre": "Nuevas Generaciones de Madrid",
@@ -1212,45 +1212,45 @@
       "tipo": "estable",
       "total": {
         "tweets": 118,
-        "impresiones": 7190142,
-        "interacciones": 358210,
-        "likes": 284789,
-        "reposts": 60232,
-        "respuestas": 11536,
-        "citas": 1653,
+        "impresiones": 7190386,
+        "interacciones": 358235,
+        "likes": 284805,
+        "reposts": 60238,
+        "respuestas": 11537,
+        "citas": 1655,
         "bookmarks": 7129,
         "autores": 28,
-        "interacciones_por_tweet": 3035.677966101695,
-        "impresiones_por_tweet": 60933.40677966102,
-        "engagement": 4.981960022486343
+        "interacciones_por_tweet": 3035.8898305084745,
+        "impresiones_por_tweet": 60935.47457627119,
+        "engagement": 4.982138650136446
       },
       "organizaciones": {
         "tweets": 36,
-        "impresiones": 1547247,
-        "interacciones": 90164,
-        "likes": 76537,
-        "reposts": 10419,
+        "impresiones": 1547274,
+        "interacciones": 90168,
+        "likes": 76540,
+        "reposts": 10420,
         "respuestas": 2780,
         "citas": 428,
         "bookmarks": 1025,
         "autores": 10,
-        "interacciones_por_tweet": 2504.5555555555557,
-        "impresiones_por_tweet": 42979.083333333336,
-        "engagement": 5.827382441200403
+        "interacciones_por_tweet": 2504.6666666666665,
+        "impresiones_por_tweet": 42979.833333333336,
+        "engagement": 5.827539272294371
       },
       "personas": {
         "tweets": 82,
-        "impresiones": 5642895,
-        "interacciones": 268046,
-        "likes": 208252,
-        "reposts": 49813,
-        "respuestas": 8756,
-        "citas": 1225,
+        "impresiones": 5643112,
+        "interacciones": 268067,
+        "likes": 208265,
+        "reposts": 49818,
+        "respuestas": 8757,
+        "citas": 1227,
         "bookmarks": 6104,
         "autores": 18,
-        "interacciones_por_tweet": 3268.8536585365855,
-        "impresiones_por_tweet": 68815.79268292683,
-        "engagement": 4.7501504103833225
+        "interacciones_por_tweet": 3269.109756097561,
+        "impresiones_por_tweet": 68818.43902439025,
+        "engagement": 4.750339883383495
       },
       "autores": [
         {
@@ -1258,16 +1258,16 @@
           "username": "vitoquiles",
           "tipo": "personas",
           "tweets": 7,
-          "interacciones": 134118,
-          "impresiones": 3198338
+          "interacciones": 134125,
+          "impresiones": 3198398
         },
         {
           "nombre": "Jon Echeverría",
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 21,
-          "interacciones": 45111,
-          "impresiones": 1150753
+          "interacciones": 45125,
+          "impresiones": 1150904
         },
         {
           "nombre": "Nuevas Generaciones de España",
@@ -1291,7 +1291,7 @@
           "tipo": "personas",
           "tweets": 4,
           "interacciones": 32913,
-          "impresiones": 152485
+          "impresiones": 152486
         },
         {
           "nombre": "Hugo Manchón",
@@ -1299,7 +1299,7 @@
           "tipo": "personas",
           "tweets": 14,
           "interacciones": 30558,
-          "impresiones": 557607
+          "impresiones": 557609
         },
         {
           "nombre": "Alán Barroso",
@@ -1314,8 +1314,8 @@
           "username": "NNGGcat",
           "tipo": "organizaciones",
           "tweets": 9,
-          "interacciones": 12358,
-          "impresiones": 157901
+          "interacciones": 12362,
+          "impresiones": 157928
         },
         {
           "nombre": "Nuevas Generaciones de la Región de Murcia",
@@ -1371,7 +1371,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 712,
-          "impresiones": 2954
+          "impresiones": 2957
         },
         {
           "nombre": "Roger Melero Serra",
@@ -1547,7 +1547,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 160,
-        "impresiones": 7185164,
+        "impresiones": 7185167,
         "interacciones": 332035,
         "likes": 240361,
         "reposts": 55553,
@@ -1556,12 +1556,12 @@
         "bookmarks": 5409,
         "autores": 38,
         "interacciones_por_tweet": 2075.21875,
-        "impresiones_por_tweet": 44907.275,
-        "engagement": 4.6211192952589535
+        "impresiones_por_tweet": 44907.29375,
+        "engagement": 4.621117365817663
       },
       "organizaciones": {
         "tweets": 58,
-        "impresiones": 965925,
+        "impresiones": 965926,
         "interacciones": 55586,
         "likes": 46658,
         "reposts": 7422,
@@ -1570,12 +1570,12 @@
         "bookmarks": 1021,
         "autores": 15,
         "interacciones_por_tweet": 958.3793103448276,
-        "impresiones_por_tweet": 16653.879310344826,
-        "engagement": 5.754691099205425
+        "impresiones_por_tweet": 16653.896551724138,
+        "engagement": 5.754685141511875
       },
       "personas": {
         "tweets": 102,
-        "impresiones": 6219239,
+        "impresiones": 6219241,
         "interacciones": 276449,
         "likes": 193703,
         "reposts": 48131,
@@ -1584,8 +1584,8 @@
         "bookmarks": 4388,
         "autores": 23,
         "interacciones_por_tweet": 2710.2843137254904,
-        "impresiones_por_tweet": 60972.93137254902,
-        "engagement": 4.4450615260162865
+        "impresiones_por_tweet": 60972.950980392154,
+        "engagement": 4.4450600965616225
       },
       "autores": [
         {
@@ -1626,7 +1626,7 @@
           "tipo": "organizaciones",
           "tweets": 9,
           "interacciones": 20084,
-          "impresiones": 438828
+          "impresiones": 438829
         },
         {
           "nombre": "Nuevas Generaciones de España",
@@ -1642,7 +1642,7 @@
           "tipo": "personas",
           "tweets": 5,
           "interacciones": 18232,
-          "impresiones": 272559
+          "impresiones": 272560
         },
         {
           "nombre": "Ramón López",
@@ -1786,7 +1786,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 282,
-          "impresiones": 3048
+          "impresiones": 3049
         },
         {
           "nombre": "Lucía Muñoz Dalda",
@@ -1962,17 +1962,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 115,
-        "impresiones": 7597417,
-        "interacciones": 308781,
-        "likes": 238526,
-        "reposts": 48250,
+        "impresiones": 7597439,
+        "interacciones": 308784,
+        "likes": 238528,
+        "reposts": 48251,
         "respuestas": 18737,
         "citas": 3268,
         "bookmarks": 4313,
         "autores": 33,
-        "interacciones_por_tweet": 2685.0521739130436,
-        "impresiones_por_tweet": 66064.49565217391,
-        "engagement": 4.064289218296166
+        "interacciones_por_tweet": 2685.0782608695654,
+        "impresiones_por_tweet": 66064.68695652173,
+        "engagement": 4.064316936272868
       },
       "organizaciones": {
         "tweets": 35,
@@ -1990,17 +1990,17 @@
       },
       "personas": {
         "tweets": 80,
-        "impresiones": 7422147,
-        "interacciones": 300674,
-        "likes": 232888,
-        "reposts": 46896,
+        "impresiones": 7422169,
+        "interacciones": 300677,
+        "likes": 232890,
+        "reposts": 46897,
         "respuestas": 17728,
         "citas": 3162,
         "bookmarks": 4247,
         "autores": 19,
-        "interacciones_por_tweet": 3758.425,
-        "impresiones_por_tweet": 92776.8375,
-        "engagement": 4.051038062167187
+        "interacciones_por_tweet": 3758.4625,
+        "impresiones_por_tweet": 92777.1125,
+        "engagement": 4.051066473964686
       },
       "autores": [
         {
@@ -2048,8 +2048,8 @@
           "username": "teshsidi",
           "tipo": "personas",
           "tweets": 11,
-          "interacciones": 7030,
-          "impresiones": 329697
+          "interacciones": 7033,
+          "impresiones": 329719
         },
         {
           "nombre": "Víctor Camino",
@@ -2337,17 +2337,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 112,
-        "impresiones": 11231521,
-        "interacciones": 304493,
-        "likes": 231173,
-        "reposts": 47188,
+        "impresiones": 11231920,
+        "interacciones": 304511,
+        "likes": 231190,
+        "reposts": 47189,
         "respuestas": 23407,
         "citas": 2725,
-        "bookmarks": 7440,
+        "bookmarks": 7441,
         "autores": 28,
-        "interacciones_por_tweet": 2718.6875,
-        "impresiones_por_tweet": 100281.4375,
-        "engagement": 2.7110575673588646
+        "interacciones_por_tweet": 2718.848214285714,
+        "impresiones_por_tweet": 100285,
+        "engagement": 2.71112151795953
       },
       "organizaciones": {
         "tweets": 30,
@@ -2365,17 +2365,17 @@
       },
       "personas": {
         "tweets": 82,
-        "impresiones": 10309253,
-        "interacciones": 267044,
-        "likes": 200290,
-        "reposts": 42603,
+        "impresiones": 10309652,
+        "interacciones": 267062,
+        "likes": 200307,
+        "reposts": 42604,
         "respuestas": 21673,
         "citas": 2478,
-        "bookmarks": 6960,
+        "bookmarks": 6961,
         "autores": 18,
-        "interacciones_por_tweet": 3256.6341463414633,
-        "impresiones_por_tweet": 125722.59756097561,
-        "engagement": 2.590333169629264
+        "interacciones_por_tweet": 3256.8536585365855,
+        "impresiones_por_tweet": 125727.46341463414,
+        "engagement": 2.590407513270089
       },
       "autores": [
         {
@@ -2383,8 +2383,8 @@
           "username": "AlanBarrosoA",
           "tipo": "personas",
           "tweets": 16,
-          "interacciones": 112413,
-          "impresiones": 2530488
+          "interacciones": 112428,
+          "impresiones": 2530574
         },
         {
           "nombre": "Sarah Santaolalla",
@@ -2407,8 +2407,8 @@
           "username": "RamonLopez_G",
           "tipo": "personas",
           "tweets": 11,
-          "interacciones": 29308,
-          "impresiones": 1055328
+          "interacciones": 29310,
+          "impresiones": 1055627
         },
         {
           "nombre": "Vito Quiles",
@@ -2423,8 +2423,8 @@
           "username": "teshsidi",
           "tipo": "personas",
           "tweets": 6,
-          "interacciones": 5039,
-          "impresiones": 99694
+          "interacciones": 5040,
+          "impresiones": 99707
         },
         {
           "nombre": "Noelia Núñez",
@@ -2488,7 +2488,7 @@
           "tipo": "personas",
           "tweets": 3,
           "interacciones": 429,
-          "impresiones": 5505
+          "impresiones": 5506
         },
         {
           "nombre": "Jorge Pueyo",
@@ -2672,17 +2672,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 140,
-        "impresiones": 7742622,
-        "interacciones": 302216,
-        "likes": 225340,
+        "impresiones": 7742660,
+        "interacciones": 302218,
+        "likes": 225342,
         "reposts": 60405,
         "respuestas": 14484,
         "citas": 1987,
         "bookmarks": 6185,
         "autores": 27,
-        "interacciones_por_tweet": 2158.6857142857143,
-        "impresiones_por_tweet": 55304.44285714286,
-        "engagement": 3.9032772102267166
+        "interacciones_por_tweet": 2158.7,
+        "impresiones_por_tweet": 55304.71428571428,
+        "engagement": 3.9032838843498228
       },
       "organizaciones": {
         "tweets": 57,
@@ -2700,17 +2700,17 @@
       },
       "personas": {
         "tweets": 83,
-        "impresiones": 7035941,
-        "interacciones": 275377,
-        "likes": 203943,
+        "impresiones": 7035979,
+        "interacciones": 275379,
+        "likes": 203945,
         "reposts": 56440,
         "respuestas": 13207,
         "citas": 1787,
         "bookmarks": 5482,
         "autores": 15,
-        "interacciones_por_tweet": 3317.7951807228915,
-        "impresiones_por_tweet": 84770.3734939759,
-        "engagement": 3.9138616995224944
+        "interacciones_por_tweet": 3317.8192771084337,
+        "impresiones_por_tweet": 84770.8313253012,
+        "engagement": 3.9138689868176124
       },
       "autores": [
         {
@@ -2751,15 +2751,15 @@
           "tipo": "personas",
           "tweets": 15,
           "interacciones": 22174,
-          "impresiones": 351203
+          "impresiones": 351204
         },
         {
           "nombre": "Jon Echeverría",
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 11,
-          "interacciones": 18088,
-          "impresiones": 821373
+          "interacciones": 18089,
+          "impresiones": 821399
         },
         {
           "nombre": "Sarah Santaolalla",
@@ -2838,8 +2838,8 @@
           "username": "teshsidi",
           "tipo": "personas",
           "tweets": 1,
-          "interacciones": 646,
-          "impresiones": 13129
+          "interacciones": 647,
+          "impresiones": 13140
         },
         {
           "nombre": "Revuelta",
@@ -2999,21 +2999,21 @@
       "tipo": "estable",
       "total": {
         "tweets": 107,
-        "impresiones": 9033319,
-        "interacciones": 258181,
-        "likes": 178240,
-        "reposts": 50878,
-        "respuestas": 25518,
-        "citas": 3545,
+        "impresiones": 9033470,
+        "interacciones": 258191,
+        "likes": 178245,
+        "reposts": 50880,
+        "respuestas": 25519,
+        "citas": 3547,
         "bookmarks": 7311,
         "autores": 24,
-        "interacciones_por_tweet": 2412.9065420560746,
-        "impresiones_por_tweet": 84423.54205607477,
-        "engagement": 2.8580967859100292
+        "interacciones_por_tweet": 2413,
+        "impresiones_por_tweet": 84424.95327102803,
+        "engagement": 2.8581597104988448
       },
       "organizaciones": {
         "tweets": 20,
-        "impresiones": 837642,
+        "impresiones": 837643,
         "interacciones": 24902,
         "likes": 19664,
         "reposts": 2491,
@@ -3022,22 +3022,22 @@
         "bookmarks": 254,
         "autores": 8,
         "interacciones_por_tweet": 1245.1,
-        "impresiones_por_tweet": 41882.1,
-        "engagement": 2.9728690777205538
+        "impresiones_por_tweet": 41882.15,
+        "engagement": 2.972865528632126
       },
       "personas": {
         "tweets": 87,
-        "impresiones": 8195677,
-        "interacciones": 233279,
-        "likes": 158576,
-        "reposts": 48387,
-        "respuestas": 22982,
-        "citas": 3334,
+        "impresiones": 8195827,
+        "interacciones": 233289,
+        "likes": 158581,
+        "reposts": 48389,
+        "respuestas": 22983,
+        "citas": 3336,
         "bookmarks": 7057,
         "autores": 16,
-        "interacciones_por_tweet": 2681.367816091954,
-        "impresiones_por_tweet": 94203.18390804598,
-        "engagement": 2.846366444163185
+        "interacciones_por_tweet": 2681.4827586206898,
+        "impresiones_por_tweet": 94204.908045977,
+        "engagement": 2.8464363632858527
       },
       "autores": [
         {
@@ -3054,7 +3054,7 @@
           "tipo": "personas",
           "tweets": 13,
           "interacciones": 67610,
-          "impresiones": 2939226
+          "impresiones": 2939232
         },
         {
           "nombre": "Alán Barroso",
@@ -3069,8 +3069,8 @@
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 14,
-          "interacciones": 29802,
-          "impresiones": 937852
+          "interacciones": 29812,
+          "impresiones": 937993
         },
         {
           "nombre": "Nuevas Generaciones de Madrid",
@@ -3126,7 +3126,7 @@
           "tipo": "personas",
           "tweets": 3,
           "interacciones": 1653,
-          "impresiones": 8872
+          "impresiones": 8875
         },
         {
           "nombre": "Noelia Núñez",
@@ -3166,7 +3166,7 @@
           "tipo": "organizaciones",
           "tweets": 3,
           "interacciones": 221,
-          "impresiones": 2517
+          "impresiones": 2518
         },
         {
           "nombre": "Laure Vega",
@@ -3302,7 +3302,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 41,
-        "impresiones": 8240845,
+        "impresiones": 8240854,
         "interacciones": 235013,
         "likes": 181033,
         "reposts": 40496,
@@ -3311,8 +3311,8 @@
         "bookmarks": 4467,
         "autores": 16,
         "interacciones_por_tweet": 5732.024390243902,
-        "impresiones_por_tweet": 200996.21951219512,
-        "engagement": 2.8518070659016157
+        "impresiones_por_tweet": 200996.43902439025,
+        "engagement": 2.8518039513865916
       },
       "organizaciones": {
         "tweets": 10,
@@ -3330,7 +3330,7 @@
       },
       "personas": {
         "tweets": 31,
-        "impresiones": 8036768,
+        "impresiones": 8036777,
         "interacciones": 223508,
         "likes": 171034,
         "reposts": 39237,
@@ -3339,8 +3339,8 @@
         "bookmarks": 4174,
         "autores": 10,
         "interacciones_por_tweet": 7209.935483870968,
-        "impresiones_por_tweet": 259250.5806451613,
-        "engagement": 2.7810682105045212
+        "impresiones_por_tweet": 259250.87096774194,
+        "engagement": 2.7810650961199994
       },
       "autores": [
         {
@@ -3349,7 +3349,7 @@
           "tipo": "personas",
           "tweets": 16,
           "interacciones": 178869,
-          "impresiones": 7605201
+          "impresiones": 7605210
         },
         {
           "nombre": "Alán Barroso",
@@ -3541,45 +3541,45 @@
       "tipo": "estable",
       "total": {
         "tweets": 165,
-        "impresiones": 7064610,
+        "impresiones": 7064650,
         "interacciones": 198916,
-        "likes": 154121,
+        "likes": 154120,
         "reposts": 28881,
-        "respuestas": 13282,
+        "respuestas": 13283,
         "citas": 2632,
         "bookmarks": 3036,
         "autores": 24,
         "interacciones_por_tweet": 1205.551515151515,
-        "impresiones_por_tweet": 42815.818181818184,
-        "engagement": 2.815668522395433
+        "impresiones_por_tweet": 42816.06060606061,
+        "engagement": 2.8156525800995094
       },
       "organizaciones": {
         "tweets": 121,
-        "impresiones": 1853108,
-        "interacciones": 61786,
-        "likes": 45447,
+        "impresiones": 1853109,
+        "interacciones": 61785,
+        "likes": 45446,
         "reposts": 10069,
         "respuestas": 5565,
         "citas": 705,
         "bookmarks": 1477,
         "autores": 15,
-        "interacciones_por_tweet": 510.6280991735537,
-        "impresiones_por_tweet": 15314.94214876033,
-        "engagement": 3.3341823574233125
+        "interacciones_por_tweet": 510.6198347107438,
+        "impresiones_por_tweet": 15314.950413223141,
+        "engagement": 3.3341265948198404
       },
       "personas": {
         "tweets": 44,
-        "impresiones": 5211502,
-        "interacciones": 137130,
+        "impresiones": 5211541,
+        "interacciones": 137131,
         "likes": 108674,
         "reposts": 18812,
-        "respuestas": 7717,
+        "respuestas": 7718,
         "citas": 1927,
         "bookmarks": 1559,
         "autores": 9,
-        "interacciones_por_tweet": 3116.590909090909,
-        "impresiones_por_tweet": 118443.22727272728,
-        "engagement": 2.6312951621240863
+        "interacciones_por_tweet": 3116.6136363636365,
+        "impresiones_por_tweet": 118444.11363636363,
+        "engagement": 2.63129465929559
       },
       "autores": [
         {
@@ -3596,7 +3596,7 @@
           "tipo": "organizaciones",
           "tweets": 52,
           "interacciones": 32895,
-          "impresiones": 1252075
+          "impresiones": 1252076
         },
         {
           "nombre": "Pepa Millán",
@@ -3611,7 +3611,7 @@
           "username": "NNGG_Es",
           "tipo": "organizaciones",
           "tweets": 18,
-          "interacciones": 11362,
+          "interacciones": 11361,
           "impresiones": 251205
         },
         {
@@ -3627,8 +3627,8 @@
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 4,
-          "interacciones": 3590,
-          "impresiones": 93901
+          "interacciones": 3591,
+          "impresiones": 93940
         },
         {
           "nombre": "Nuevas Generaciones de Madrid",
@@ -3845,30 +3845,30 @@
       "total": {
         "tweets": 40,
         "impresiones": 6765000,
-        "interacciones": 183929,
+        "interacciones": 183930,
         "likes": 148029,
         "reposts": 26480,
-        "respuestas": 8230,
+        "respuestas": 8231,
         "citas": 1190,
         "bookmarks": 3731,
         "autores": 15,
-        "interacciones_por_tweet": 4598.225,
+        "interacciones_por_tweet": 4598.25,
         "impresiones_por_tweet": 169125,
-        "engagement": 2.718832224685883
+        "engagement": 2.7188470066518846
       },
       "organizaciones": {
         "tweets": 7,
         "impresiones": 87723,
-        "interacciones": 5343,
+        "interacciones": 5344,
         "likes": 4306,
         "reposts": 766,
-        "respuestas": 257,
+        "respuestas": 258,
         "citas": 14,
         "bookmarks": 41,
         "autores": 5,
-        "interacciones_por_tweet": 763.2857142857143,
+        "interacciones_por_tweet": 763.4285714285714,
         "impresiones_por_tweet": 12531.857142857143,
-        "engagement": 6.090762969802674
+        "engagement": 6.091902921696704
       },
       "personas": {
         "tweets": 33,
@@ -3938,7 +3938,7 @@
           "username": "NNGGcat",
           "tipo": "organizaciones",
           "tweets": 2,
-          "interacciones": 1988,
+          "interacciones": 1989,
           "impresiones": 41827
         },
         {
@@ -4259,30 +4259,30 @@
       "total": {
         "tweets": 106,
         "impresiones": 7096595,
-        "interacciones": 173371,
+        "interacciones": 173370,
         "likes": 132863,
         "reposts": 28754,
-        "respuestas": 9433,
+        "respuestas": 9432,
         "citas": 2321,
         "bookmarks": 2858,
         "autores": 27,
-        "interacciones_por_tweet": 1635.5754716981132,
+        "interacciones_por_tweet": 1635.566037735849,
         "impresiones_por_tweet": 66949.00943396226,
-        "engagement": 2.443016686171326
+        "engagement": 2.4430025949064302
       },
       "organizaciones": {
         "tweets": 68,
         "impresiones": 291020,
-        "interacciones": 12873,
+        "interacciones": 12872,
         "likes": 9561,
         "reposts": 2257,
-        "respuestas": 943,
+        "respuestas": 942,
         "citas": 112,
         "bookmarks": 179,
         "autores": 17,
-        "interacciones_por_tweet": 189.30882352941177,
+        "interacciones_por_tweet": 189.2941176470588,
         "impresiones_por_tweet": 4279.705882352941,
-        "engagement": 4.423407325956979
+        "engagement": 4.423063706961721
       },
       "personas": {
         "tweets": 38,
@@ -4360,7 +4360,7 @@
           "username": "nnggmadrid",
           "tipo": "organizaciones",
           "tweets": 4,
-          "interacciones": 959,
+          "interacciones": 958,
           "impresiones": 12151
         },
         {
@@ -4832,17 +4832,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 34,
-        "impresiones": 2265194,
-        "interacciones": 155689,
-        "likes": 124307,
+        "impresiones": 2265271,
+        "interacciones": 155702,
+        "likes": 124320,
         "reposts": 26350,
         "respuestas": 4432,
         "citas": 600,
-        "bookmarks": 1393,
+        "bookmarks": 1394,
         "autores": 17,
-        "interacciones_por_tweet": 4579.088235294118,
-        "impresiones_por_tweet": 66623.35294117648,
-        "engagement": 6.873097845041087
+        "interacciones_por_tweet": 4579.470588235294,
+        "impresiones_por_tweet": 66625.61764705883,
+        "engagement": 6.8734381007835275
       },
       "organizaciones": {
         "tweets": 10,
@@ -4860,17 +4860,17 @@
       },
       "personas": {
         "tweets": 24,
-        "impresiones": 1238093,
-        "interacciones": 106761,
-        "likes": 82118,
+        "impresiones": 1238170,
+        "interacciones": 106774,
+        "likes": 82131,
         "reposts": 20948,
         "respuestas": 3315,
         "citas": 380,
-        "bookmarks": 785,
+        "bookmarks": 786,
         "autores": 11,
-        "interacciones_por_tweet": 4448.375,
-        "impresiones_por_tweet": 51587.208333333336,
-        "engagement": 8.623019433919746
+        "interacciones_por_tweet": 4448.916666666667,
+        "impresiones_por_tweet": 51590.416666666664,
+        "engagement": 8.623533117423294
       },
       "autores": [
         {
@@ -4918,8 +4918,8 @@
           "username": "AlanBarrosoA",
           "tipo": "personas",
           "tweets": 2,
-          "interacciones": 6161,
-          "impresiones": 114513
+          "interacciones": 6174,
+          "impresiones": 114590
         },
         {
           "nombre": "Nuevas Generaciones de la Región de Murcia",
@@ -5079,17 +5079,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 55,
-        "impresiones": 4387877,
-        "interacciones": 133098,
-        "likes": 92645,
-        "reposts": 20789,
+        "impresiones": 4387955,
+        "interacciones": 133104,
+        "likes": 92649,
+        "reposts": 20791,
         "respuestas": 18102,
         "citas": 1562,
-        "bookmarks": 1963,
+        "bookmarks": 1964,
         "autores": 25,
-        "interacciones_por_tweet": 2419.9636363636364,
-        "impresiones_por_tweet": 79779.58181818182,
-        "engagement": 3.033312009429617
+        "interacciones_por_tweet": 2420.072727272727,
+        "impresiones_por_tweet": 79781,
+        "engagement": 3.0333948274310014
       },
       "organizaciones": {
         "tweets": 14,
@@ -5107,17 +5107,17 @@
       },
       "personas": {
         "tweets": 41,
-        "impresiones": 4341784,
-        "interacciones": 130515,
-        "likes": 90732,
-        "reposts": 20309,
+        "impresiones": 4341862,
+        "interacciones": 130521,
+        "likes": 90736,
+        "reposts": 20311,
         "respuestas": 17930,
         "citas": 1544,
-        "bookmarks": 1948,
+        "bookmarks": 1949,
         "autores": 18,
-        "interacciones_por_tweet": 3183.2926829268295,
-        "impresiones_por_tweet": 105897.17073170732,
-        "engagement": 3.006022409221647
+        "interacciones_por_tweet": 3183.439024390244,
+        "impresiones_por_tweet": 105899.0731707317,
+        "engagement": 3.006106596662906
       },
       "autores": [
         {
@@ -5133,8 +5133,8 @@
           "username": "AlanBarrosoA",
           "tipo": "personas",
           "tweets": 3,
-          "interacciones": 20055,
-          "impresiones": 311780
+          "interacciones": 20061,
+          "impresiones": 311858
         },
         {
           "nombre": "Ramón López",
@@ -6274,17 +6274,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 31,
-        "impresiones": 1999838,
-        "interacciones": 78989,
-        "likes": 56692,
+        "impresiones": 1999929,
+        "interacciones": 79002,
+        "likes": 56705,
         "reposts": 13240,
         "respuestas": 8366,
         "citas": 691,
-        "bookmarks": 891,
+        "bookmarks": 892,
         "autores": 14,
-        "interacciones_por_tweet": 2548.032258064516,
-        "impresiones_por_tweet": 64510.903225806454,
-        "engagement": 3.9497699313644405
+        "interacciones_por_tweet": 2548.451612903226,
+        "impresiones_por_tweet": 64513.83870967742,
+        "engagement": 3.9502402335282905
       },
       "organizaciones": {
         "tweets": 3,
@@ -6302,17 +6302,17 @@
       },
       "personas": {
         "tweets": 28,
-        "impresiones": 1897517,
-        "interacciones": 69840,
-        "likes": 48958,
+        "impresiones": 1897608,
+        "interacciones": 69853,
+        "likes": 48971,
         "reposts": 12320,
         "respuestas": 7922,
         "citas": 640,
-        "bookmarks": 835,
+        "bookmarks": 836,
         "autores": 12,
-        "interacciones_por_tweet": 2494.285714285714,
-        "impresiones_por_tweet": 67768.46428571429,
-        "engagement": 3.6805994359997833
+        "interacciones_por_tweet": 2494.75,
+        "impresiones_por_tweet": 67771.71428571429,
+        "engagement": 3.6811080054468572
       },
       "autores": [
         {
@@ -6344,8 +6344,8 @@
           "username": "AlanBarrosoA",
           "tipo": "personas",
           "tweets": 3,
-          "interacciones": 9024,
-          "impresiones": 232830
+          "interacciones": 9037,
+          "impresiones": 232912
         },
         {
           "nombre": "Nuevas Generaciones de Madrid",
@@ -6361,7 +6361,7 @@
           "tipo": "personas",
           "tweets": 4,
           "interacciones": 8378,
-          "impresiones": 660104
+          "impresiones": 660110
         },
         {
           "nombre": "Víctor Camino",
@@ -6369,7 +6369,7 @@
           "tipo": "personas",
           "tweets": 4,
           "interacciones": 1713,
-          "impresiones": 47011
+          "impresiones": 47013
         },
         {
           "nombre": "Eduardo Fernández Rubiño",
@@ -6417,7 +6417,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 30,
-          "impresiones": 681
+          "impresiones": 682
         },
         {
           "nombre": "Roger Melero Serra",
@@ -6467,7 +6467,7 @@
           "fecha": "2026-11-07T11:55:06.000Z",
           "texto": "‼️ Esto acaba de suceder en Valencia.\n\nAyuso se presenta en el mercado del Cabanyal y los vecinos le piden que se largue entre gritos.\n\nYa no puede pisar la calle y al PP se le abuchea en los barrios. La gente está despertando tras tanto odio y mentiras. https://t.co/qc6nm9Lj1q",
           "interacciones": 7847,
-          "impresiones": 647030
+          "impresiones": 647036
         },
         {
           "id": "2109721475033018751",
@@ -6497,17 +6497,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 30,
-        "impresiones": 1684825,
-        "interacciones": 70283,
-        "likes": 53856,
-        "reposts": 11826,
-        "respuestas": 4122,
-        "citas": 479,
+        "impresiones": 1684977,
+        "interacciones": 70295,
+        "likes": 53863,
+        "reposts": 11828,
+        "respuestas": 4124,
+        "citas": 480,
         "bookmarks": 812,
         "autores": 9,
-        "interacciones_por_tweet": 2342.766666666667,
-        "impresiones_por_tweet": 56160.833333333336,
-        "engagement": 4.171531167925452
+        "interacciones_por_tweet": 2343.1666666666665,
+        "impresiones_por_tweet": 56165.9,
+        "engagement": 4.171867034386819
       },
       "organizaciones": {
         "tweets": 8,
@@ -6525,17 +6525,17 @@
       },
       "personas": {
         "tweets": 22,
-        "impresiones": 1665584,
-        "interacciones": 68479,
-        "likes": 52555,
-        "reposts": 11549,
-        "respuestas": 3911,
-        "citas": 464,
+        "impresiones": 1665736,
+        "interacciones": 68491,
+        "likes": 52562,
+        "reposts": 11551,
+        "respuestas": 3913,
+        "citas": 465,
         "bookmarks": 800,
         "autores": 4,
-        "interacciones_por_tweet": 3112.681818181818,
-        "impresiones_por_tweet": 75708.36363636363,
-        "engagement": 4.111410772437775
+        "interacciones_por_tweet": 3113.2272727272725,
+        "impresiones_por_tweet": 75715.27272727272,
+        "engagement": 4.111756004552943
       },
       "autores": [
         {
@@ -6543,8 +6543,8 @@
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 19,
-          "interacciones": 49869,
-          "impresiones": 1276871
+          "interacciones": 49881,
+          "impresiones": 1277023
         },
         {
           "nombre": "Vito Quiles",
@@ -6680,17 +6680,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 35,
-        "impresiones": 2690109,
-        "interacciones": 67759,
-        "likes": 53630,
+        "impresiones": 2690127,
+        "interacciones": 67760,
+        "likes": 53631,
         "reposts": 10625,
         "respuestas": 2858,
         "citas": 646,
         "bookmarks": 2169,
         "autores": 14,
-        "interacciones_por_tweet": 1935.9714285714285,
-        "impresiones_por_tweet": 76860.25714285714,
-        "engagement": 2.5188198693807577
+        "interacciones_por_tweet": 1936,
+        "impresiones_por_tweet": 76860.77142857143,
+        "engagement": 2.518840188585892
       },
       "organizaciones": {
         "tweets": 16,
@@ -6708,17 +6708,17 @@
       },
       "personas": {
         "tweets": 19,
-        "impresiones": 1847464,
-        "interacciones": 48425,
-        "likes": 39474,
+        "impresiones": 1847482,
+        "interacciones": 48426,
+        "likes": 39475,
         "reposts": 6702,
         "respuestas": 1836,
         "citas": 413,
         "bookmarks": 1104,
         "autores": 9,
-        "interacciones_por_tweet": 2548.684210526316,
-        "impresiones_por_tweet": 97234.94736842105,
-        "engagement": 2.6211606829686533
+        "interacciones_por_tweet": 2548.7368421052633,
+        "impresiones_por_tweet": 97235.8947368421,
+        "engagement": 2.621189272750695
       },
       "autores": [
         {
@@ -6726,8 +6726,8 @@
           "username": "vitoquiles",
           "tipo": "personas",
           "tweets": 5,
-          "interacciones": 34558,
-          "impresiones": 1727101
+          "interacciones": 34559,
+          "impresiones": 1727118
         },
         {
           "nombre": "Revuelta",
@@ -6783,7 +6783,7 @@
           "tipo": "personas",
           "tweets": 3,
           "interacciones": 396,
-          "impresiones": 4127
+          "impresiones": 4128
         },
         {
           "nombre": "Nuevas Generaciones de Madrid",
@@ -6842,8 +6842,8 @@
           "tipo": "personas",
           "fecha": "2026-11-06T22:08:04.000Z",
           "texto": "Atravesando el estrecho en una lancha con mis escoltas.\n\nYa podéis dejar de buscarme en el ferry, invasores y marroquíes de Ceuta. https://t.co/gHmWNxA8gy",
-          "interacciones": 20450,
-          "impresiones": 1265209
+          "interacciones": 20451,
+          "impresiones": 1265226
         },
         {
           "id": "2113352382746890326",
@@ -7102,17 +7102,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 31,
-        "impresiones": 1787926,
-        "interacciones": 67528,
-        "likes": 43455,
+        "impresiones": 1787940,
+        "interacciones": 67529,
+        "likes": 43456,
         "reposts": 13217,
         "respuestas": 10014,
         "citas": 842,
         "bookmarks": 819,
         "autores": 13,
-        "interacciones_por_tweet": 2178.3225806451615,
-        "impresiones_por_tweet": 57675.032258064515,
-        "engagement": 3.7768900950039317
+        "interacciones_por_tweet": 2178.3548387096776,
+        "impresiones_por_tweet": 57675.48387096774,
+        "engagement": 3.776916451335056
       },
       "organizaciones": {
         "tweets": 1,
@@ -7130,17 +7130,17 @@
       },
       "personas": {
         "tweets": 30,
-        "impresiones": 1786478,
-        "interacciones": 67443,
-        "likes": 43397,
+        "impresiones": 1786492,
+        "interacciones": 67444,
+        "likes": 43398,
         "reposts": 13192,
         "respuestas": 10012,
         "citas": 842,
         "bookmarks": 818,
         "autores": 12,
-        "interacciones_por_tweet": 2248.1,
-        "impresiones_por_tweet": 59549.26666666667,
-        "engagement": 3.775193425275878
+        "interacciones_por_tweet": 2248.133333333333,
+        "impresiones_por_tweet": 59549.73333333333,
+        "engagement": 3.7752198162656203
       },
       "autores": [
         {
@@ -7180,8 +7180,8 @@
           "username": "teshsidi",
           "tipo": "personas",
           "tweets": 6,
-          "interacciones": 2747,
-          "impresiones": 62820
+          "interacciones": 2748,
+          "impresiones": 62831
         },
         {
           "nombre": "Jorge Pueyo",
@@ -7205,7 +7205,7 @@
           "tipo": "personas",
           "tweets": 3,
           "interacciones": 1967,
-          "impresiones": 56235
+          "impresiones": 56238
         },
         {
           "nombre": "Elizabeth Duval",
@@ -7318,30 +7318,30 @@
       "total": {
         "tweets": 35,
         "impresiones": 2236898,
-        "interacciones": 65598,
+        "interacciones": 65599,
         "likes": 50012,
         "reposts": 9716,
-        "respuestas": 5087,
+        "respuestas": 5088,
         "citas": 783,
         "bookmarks": 2070,
         "autores": 17,
-        "interacciones_por_tweet": 1874.2285714285715,
+        "interacciones_por_tweet": 1874.2571428571428,
         "impresiones_por_tweet": 63911.37142857143,
-        "engagement": 2.9325431915089557
+        "engagement": 2.932587896274215
       },
       "organizaciones": {
         "tweets": 6,
         "impresiones": 54694,
-        "interacciones": 2621,
+        "interacciones": 2622,
         "likes": 2192,
         "reposts": 258,
-        "respuestas": 162,
+        "respuestas": 163,
         "citas": 9,
         "bookmarks": 22,
         "autores": 4,
-        "interacciones_por_tweet": 436.8333333333333,
+        "interacciones_por_tweet": 437,
         "impresiones_por_tweet": 9115.666666666666,
-        "engagement": 4.792116137053425
+        "engagement": 4.79394449116905
       },
       "personas": {
         "tweets": 29,
@@ -7403,7 +7403,7 @@
           "username": "NNGGcat",
           "tipo": "organizaciones",
           "tweets": 2,
-          "interacciones": 1988,
+          "interacciones": 1989,
           "impresiones": 41827
         },
         {
@@ -7564,17 +7564,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 16,
-        "impresiones": 2610886,
-        "interacciones": 57351,
-        "likes": 46334,
-        "reposts": 7060,
+        "impresiones": 2610918,
+        "interacciones": 57356,
+        "likes": 46337,
+        "reposts": 7062,
         "respuestas": 3469,
         "citas": 488,
         "bookmarks": 1865,
         "autores": 10,
-        "interacciones_por_tweet": 3584.4375,
-        "impresiones_por_tweet": 163180.375,
-        "engagement": 2.1966106524758264
+        "interacciones_por_tweet": 3584.75,
+        "impresiones_por_tweet": 163182.375,
+        "engagement": 2.196775233844954
       },
       "organizaciones": {
         "tweets": 1,
@@ -7592,17 +7592,17 @@
       },
       "personas": {
         "tweets": 15,
-        "impresiones": 2568909,
-        "interacciones": 55878,
-        "likes": 45066,
-        "reposts": 6885,
+        "impresiones": 2568941,
+        "interacciones": 55883,
+        "likes": 45069,
+        "reposts": 6887,
         "respuestas": 3443,
         "citas": 484,
         "bookmarks": 1812,
         "autores": 9,
-        "interacciones_por_tweet": 3725.2,
-        "impresiones_por_tweet": 171260.6,
-        "engagement": 2.175164632145397
+        "interacciones_por_tweet": 3725.5333333333333,
+        "impresiones_por_tweet": 171262.73333333334,
+        "engagement": 2.1753321699486285
       },
       "autores": [
         {
@@ -7626,8 +7626,8 @@
           "username": "SarahPerezSanta",
           "tipo": "personas",
           "tweets": 4,
-          "interacciones": 8393,
-          "impresiones": 546820
+          "interacciones": 8398,
+          "impresiones": 546852
         },
         {
           "nombre": "Lucía Muñoz Dalda",
@@ -8034,17 +8034,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 12,
-        "impresiones": 623984,
-        "interacciones": 48669,
-        "likes": 37352,
-        "reposts": 9590,
-        "respuestas": 1465,
+        "impresiones": 624051,
+        "interacciones": 48672,
+        "likes": 37353,
+        "reposts": 9591,
+        "respuestas": 1466,
         "citas": 262,
         "bookmarks": 718,
         "autores": 6,
-        "interacciones_por_tweet": 4055.75,
-        "impresiones_por_tweet": 51998.666666666664,
-        "engagement": 7.799719223569836
+        "interacciones_por_tweet": 4056,
+        "impresiones_por_tweet": 52004.25,
+        "engagement": 7.799362552099106
       },
       "organizaciones": {
         "tweets": 0,
@@ -8062,17 +8062,17 @@
       },
       "personas": {
         "tweets": 12,
-        "impresiones": 623984,
-        "interacciones": 48669,
-        "likes": 37352,
-        "reposts": 9590,
-        "respuestas": 1465,
+        "impresiones": 624051,
+        "interacciones": 48672,
+        "likes": 37353,
+        "reposts": 9591,
+        "respuestas": 1466,
         "citas": 262,
         "bookmarks": 718,
         "autores": 6,
-        "interacciones_por_tweet": 4055.75,
-        "impresiones_por_tweet": 51998.666666666664,
-        "engagement": 7.799719223569836
+        "interacciones_por_tweet": 4056,
+        "impresiones_por_tweet": 52004.25,
+        "engagement": 7.799362552099106
       },
       "autores": [
         {
@@ -8096,16 +8096,16 @@
           "username": "RamonLopez_G",
           "tipo": "personas",
           "tweets": 4,
-          "interacciones": 3603,
-          "impresiones": 49943
+          "interacciones": 3605,
+          "impresiones": 49972
         },
         {
           "nombre": "Jorge Pueyo",
           "username": "jorge_pueyo95",
           "tipo": "personas",
           "tweets": 1,
-          "interacciones": 1273,
-          "impresiones": 31416
+          "interacciones": 1274,
+          "impresiones": 31454
         },
         {
           "nombre": "Júlia Calvet",
@@ -8172,8 +8172,8 @@
           "tipo": "personas",
           "fecha": "2026-11-08T14:46:49.000Z",
           "texto": "Abascal ya va de cara y exige el trasvase del Ebro. \n\nMuchos aragoneses y aragonesas votaremos en defensa propia contra quienes nos tratan como una tierra que sacrificar, como patio trasero, como su basurero, como su pila y como su pantano. https://t.co/745Ly9Tdvp",
-          "interacciones": 1273,
-          "impresiones": 31416
+          "interacciones": 1274,
+          "impresiones": 31454
         },
         {
           "id": "2112909827743641903",
@@ -8193,17 +8193,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 31,
-        "impresiones": 1723981,
-        "interacciones": 44354,
-        "likes": 30821,
+        "impresiones": 1724106,
+        "interacciones": 44357,
+        "likes": 30824,
         "reposts": 6259,
         "respuestas": 6524,
         "citas": 750,
         "bookmarks": 571,
         "autores": 15,
-        "interacciones_por_tweet": 1430.774193548387,
-        "impresiones_por_tweet": 55612.290322580644,
-        "engagement": 2.5727661731770826
+        "interacciones_por_tweet": 1430.8709677419354,
+        "impresiones_por_tweet": 55616.32258064516,
+        "engagement": 2.57275364739755
       },
       "organizaciones": {
         "tweets": 5,
@@ -8221,17 +8221,17 @@
       },
       "personas": {
         "tweets": 26,
-        "impresiones": 1716429,
-        "interacciones": 43819,
-        "likes": 30493,
+        "impresiones": 1716554,
+        "interacciones": 43822,
+        "likes": 30496,
         "reposts": 6141,
         "respuestas": 6439,
         "citas": 746,
         "bookmarks": 567,
         "autores": 11,
-        "interacciones_por_tweet": 1685.3461538461538,
-        "impresiones_por_tweet": 66016.5,
-        "engagement": 2.552916549417424
+        "interacciones_por_tweet": 1685.4615384615386,
+        "impresiones_por_tweet": 66021.30769230769,
+        "engagement": 2.5529054139863936
       },
       "autores": [
         {
@@ -8247,8 +8247,8 @@
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 4,
-          "interacciones": 8717,
-          "impresiones": 214812
+          "interacciones": 8720,
+          "impresiones": 214937
         },
         {
           "nombre": "Sarah Santaolalla",
@@ -8424,17 +8424,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 15,
-        "impresiones": 2122306,
-        "interacciones": 44272,
-        "likes": 36557,
+        "impresiones": 2122324,
+        "interacciones": 44273,
+        "likes": 36558,
         "reposts": 5865,
         "respuestas": 1294,
         "citas": 556,
         "bookmarks": 1618,
         "autores": 11,
-        "interacciones_por_tweet": 2951.4666666666667,
-        "impresiones_por_tweet": 141487.06666666668,
-        "engagement": 2.086032834096497
+        "interacciones_por_tweet": 2951.5333333333333,
+        "impresiones_por_tweet": 141488.26666666666,
+        "engagement": 2.0860622600507748
       },
       "organizaciones": {
         "tweets": 5,
@@ -8452,17 +8452,17 @@
       },
       "personas": {
         "tweets": 10,
-        "impresiones": 1413464,
-        "interacciones": 30569,
-        "likes": 24750,
+        "impresiones": 1413482,
+        "interacciones": 30570,
+        "likes": 24751,
         "reposts": 4571,
         "respuestas": 912,
         "citas": 336,
         "bookmarks": 1067,
         "autores": 7,
-        "interacciones_por_tweet": 3056.9,
-        "impresiones_por_tweet": 141346.4,
-        "engagement": 2.1627009955683345
+        "interacciones_por_tweet": 3057,
+        "impresiones_por_tweet": 141348.2,
+        "engagement": 2.1627442019070635
       },
       "autores": [
         {
@@ -8470,8 +8470,8 @@
           "username": "vitoquiles",
           "tipo": "personas",
           "tweets": 1,
-          "interacciones": 20450,
-          "impresiones": 1265209
+          "interacciones": 20451,
+          "impresiones": 1265226
         },
         {
           "nombre": "Nuevas Generaciones de Madrid",
@@ -8535,7 +8535,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 81,
-          "impresiones": 854
+          "impresiones": 855
         },
         {
           "nombre": "Nuevas Generaciones de la Región de Murcia",
@@ -8562,8 +8562,8 @@
           "tipo": "personas",
           "fecha": "2026-11-06T22:08:04.000Z",
           "texto": "Atravesando el estrecho en una lancha con mis escoltas.\n\nYa podéis dejar de buscarme en el ferry, invasores y marroquíes de Ceuta. https://t.co/gHmWNxA8gy",
-          "interacciones": 20450,
-          "impresiones": 1265209
+          "interacciones": 20451,
+          "impresiones": 1265226
         },
         {
           "id": "2107782588098080840",
@@ -9021,7 +9021,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 12,
-        "impresiones": 1142910,
+        "impresiones": 1142911,
         "interacciones": 29511,
         "likes": 22424,
         "reposts": 4583,
@@ -9030,12 +9030,12 @@
         "bookmarks": 898,
         "autores": 6,
         "interacciones_por_tweet": 2459.25,
-        "impresiones_por_tweet": 95242.5,
-        "engagement": 2.5820930781951335
+        "impresiones_por_tweet": 95242.58333333333,
+        "engagement": 2.582090818970156
       },
       "organizaciones": {
         "tweets": 5,
-        "impresiones": 64960,
+        "impresiones": 64961,
         "interacciones": 3093,
         "likes": 2628,
         "reposts": 368,
@@ -9044,8 +9044,8 @@
         "bookmarks": 9,
         "autores": 1,
         "interacciones_por_tweet": 618.6,
-        "impresiones_por_tweet": 12992,
-        "engagement": 4.761391625615763
+        "impresiones_por_tweet": 12992.2,
+        "engagement": 4.761318329459214
       },
       "personas": {
         "tweets": 7,
@@ -9084,7 +9084,7 @@
           "tipo": "organizaciones",
           "tweets": 5,
           "interacciones": 3093,
-          "impresiones": 64960
+          "impresiones": 64961
         },
         {
           "nombre": "Sarah Santaolalla",
@@ -9180,7 +9180,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 26,
-        "impresiones": 298996,
+        "impresiones": 298997,
         "interacciones": 29107,
         "likes": 22336,
         "reposts": 4824,
@@ -9189,12 +9189,12 @@
         "bookmarks": 222,
         "autores": 13,
         "interacciones_por_tweet": 1119.5,
-        "impresiones_por_tweet": 11499.846153846154,
-        "engagement": 9.734912841643366
+        "impresiones_por_tweet": 11499.884615384615,
+        "engagement": 9.734880283079764
       },
       "organizaciones": {
         "tweets": 9,
-        "impresiones": 17778,
+        "impresiones": 17779,
         "interacciones": 947,
         "likes": 657,
         "reposts": 213,
@@ -9203,8 +9203,8 @@
         "bookmarks": 18,
         "autores": 3,
         "interacciones_por_tweet": 105.22222222222223,
-        "impresiones_por_tweet": 1975.3333333333333,
-        "engagement": 5.326808414894814
+        "impresiones_por_tweet": 1975.4444444444443,
+        "engagement": 5.326508802519827
       },
       "personas": {
         "tweets": 17,
@@ -9283,7 +9283,7 @@
           "tipo": "organizaciones",
           "tweets": 3,
           "interacciones": 194,
-          "impresiones": 2653
+          "impresiones": 2654
         },
         {
           "nombre": "Jovent Republicà",
@@ -9395,7 +9395,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 20,
-        "impresiones": 698861,
+        "impresiones": 698902,
         "interacciones": 27161,
         "likes": 19347,
         "reposts": 4457,
@@ -9404,8 +9404,8 @@
         "bookmarks": 248,
         "autores": 11,
         "interacciones_por_tweet": 1358.05,
-        "impresiones_por_tweet": 34943.05,
-        "engagement": 3.8864666936629746
+        "impresiones_por_tweet": 34945.1,
+        "engagement": 3.886238700132494
       },
       "organizaciones": {
         "tweets": 4,
@@ -9423,7 +9423,7 @@
       },
       "personas": {
         "tweets": 16,
-        "impresiones": 688752,
+        "impresiones": 688793,
         "interacciones": 26626,
         "likes": 19009,
         "reposts": 4342,
@@ -9432,8 +9432,8 @@
         "bookmarks": 241,
         "autores": 8,
         "interacciones_por_tweet": 1664.125,
-        "impresiones_por_tweet": 43047,
-        "engagement": 3.865832694496713
+        "impresiones_por_tweet": 43049.5625,
+        "engagement": 3.865602583069224
       },
       "autores": [
         {
@@ -9450,7 +9450,7 @@
           "tipo": "personas",
           "tweets": 6,
           "interacciones": 4943,
-          "impresiones": 151692
+          "impresiones": 151733
         },
         {
           "nombre": "Víctor Camino",
@@ -9594,17 +9594,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 6,
-        "impresiones": 399597,
-        "interacciones": 23455,
-        "likes": 18293,
+        "impresiones": 399674,
+        "interacciones": 23468,
+        "likes": 18306,
         "reposts": 4364,
         "respuestas": 703,
         "citas": 95,
-        "bookmarks": 232,
+        "bookmarks": 233,
         "autores": 5,
-        "interacciones_por_tweet": 3909.1666666666665,
-        "impresiones_por_tweet": 66599.5,
-        "engagement": 5.869663686163809
+        "interacciones_por_tweet": 3911.3333333333335,
+        "impresiones_por_tweet": 66612.33333333333,
+        "engagement": 5.871785505186727
       },
       "organizaciones": {
         "tweets": 2,
@@ -9622,17 +9622,17 @@
       },
       "personas": {
         "tweets": 4,
-        "impresiones": 354435,
-        "interacciones": 22687,
-        "likes": 17642,
+        "impresiones": 354512,
+        "interacciones": 22700,
+        "likes": 17655,
         "reposts": 4277,
         "respuestas": 681,
         "citas": 87,
-        "bookmarks": 229,
+        "bookmarks": 230,
         "autores": 3,
-        "interacciones_por_tweet": 5671.75,
-        "impresiones_por_tweet": 88608.75,
-        "engagement": 6.400891559806452
+        "interacciones_por_tweet": 5675,
+        "impresiones_por_tweet": 88628,
+        "engagement": 6.40316829895744
       },
       "autores": [
         {
@@ -9648,8 +9648,8 @@
           "username": "AlanBarrosoA",
           "tipo": "personas",
           "tweets": 2,
-          "interacciones": 5037,
-          "impresiones": 163507
+          "interacciones": 5050,
+          "impresiones": 163584
         },
         {
           "nombre": "Noves Generacions de Catalunya",
@@ -9714,8 +9714,8 @@
           "tipo": "personas",
           "fecha": "2026-11-09T07:56:48.000Z",
           "texto": "@NunezFeijoo ¡Buen tour al principio por la sede pagada con dinero en B!  ¿No dijo Pablo Casado que os ibais a ir para que nos os relacionasen con la corrupción? Supongo que la idea se acabó después de que Ayuso se lo cargase y te pusiera a ti por el tema de las mascarillas.",
-          "interacciones": 281,
-          "impresiones": 2541
+          "interacciones": 294,
+          "impresiones": 2618
         },
         {
           "id": "2109978462308172091",
@@ -10135,17 +10135,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 20,
-        "impresiones": 563483,
-        "interacciones": 18663,
-        "likes": 14314,
-        "reposts": 2772,
+        "impresiones": 563688,
+        "interacciones": 18674,
+        "likes": 14322,
+        "reposts": 2774,
         "respuestas": 1408,
-        "citas": 169,
+        "citas": 170,
         "bookmarks": 322,
         "autores": 4,
-        "interacciones_por_tweet": 933.15,
-        "impresiones_por_tweet": 28174.15,
-        "engagement": 3.3120786252646486
+        "interacciones_por_tweet": 933.7,
+        "impresiones_por_tweet": 28184.4,
+        "engagement": 3.312825534692951
       },
       "organizaciones": {
         "tweets": 3,
@@ -10163,17 +10163,17 @@
       },
       "personas": {
         "tweets": 17,
-        "impresiones": 557847,
-        "interacciones": 18604,
-        "likes": 14278,
-        "reposts": 2754,
+        "impresiones": 558052,
+        "interacciones": 18615,
+        "likes": 14286,
+        "reposts": 2756,
         "respuestas": 1407,
-        "citas": 165,
+        "citas": 166,
         "bookmarks": 322,
         "autores": 3,
-        "interacciones_por_tweet": 1094.3529411764705,
-        "impresiones_por_tweet": 32814.529411764706,
-        "engagement": 3.3349646049902573
+        "interacciones_por_tweet": 1095,
+        "impresiones_por_tweet": 32826.58823529412,
+        "engagement": 3.3357106506203724
       },
       "autores": [
         {
@@ -10181,8 +10181,8 @@
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 15,
-          "interacciones": 18495,
-          "impresiones": 555916
+          "interacciones": 18506,
+          "impresiones": 556121
         },
         {
           "nombre": "Hugo Manchón",
@@ -10247,8 +10247,8 @@
           "tipo": "personas",
           "fecha": "2026-11-08T17:46:17.000Z",
           "texto": "‼️‼️‼️ El PNV vota más con PODEMOS que con JUNTS.\n\nSe han convertido a la extrema izquierda.\n\n😂 Si Sabino Arana levantara la cabeza… https://t.co/GdnbEQW26u",
-          "interacciones": 1220,
-          "impresiones": 44850
+          "interacciones": 1222,
+          "impresiones": 44961
         },
         {
           "id": "2110843519220986119",
@@ -10636,21 +10636,21 @@
       "tipo": "estable",
       "total": {
         "tweets": 22,
-        "impresiones": 1094209,
-        "interacciones": 13898,
-        "likes": 8404,
-        "reposts": 1862,
+        "impresiones": 1094224,
+        "interacciones": 13902,
+        "likes": 8407,
+        "reposts": 1863,
         "respuestas": 3187,
         "citas": 445,
         "bookmarks": 499,
         "autores": 11,
-        "interacciones_por_tweet": 631.7272727272727,
-        "impresiones_por_tweet": 49736.77272727273,
-        "engagement": 1.270141261861308
+        "interacciones_por_tweet": 631.9090909090909,
+        "impresiones_por_tweet": 49737.454545454544,
+        "engagement": 1.270489406191054
       },
       "organizaciones": {
         "tweets": 8,
-        "impresiones": 79811,
+        "impresiones": 79812,
         "interacciones": 2283,
         "likes": 1707,
         "reposts": 424,
@@ -10659,22 +10659,22 @@
         "bookmarks": 176,
         "autores": 5,
         "interacciones_por_tweet": 285.375,
-        "impresiones_por_tweet": 9976.375,
-        "engagement": 2.86050795003195
+        "impresiones_por_tweet": 9976.5,
+        "engagement": 2.8604721094572247
       },
       "personas": {
         "tweets": 14,
-        "impresiones": 1014398,
-        "interacciones": 11615,
-        "likes": 6697,
-        "reposts": 1438,
+        "impresiones": 1014412,
+        "interacciones": 11619,
+        "likes": 6700,
+        "reposts": 1439,
         "respuestas": 3056,
         "citas": 424,
         "bookmarks": 323,
         "autores": 6,
-        "interacciones_por_tweet": 829.6428571428571,
-        "impresiones_por_tweet": 72457,
-        "engagement": 1.1450140871728849
+        "interacciones_por_tweet": 829.9285714285714,
+        "impresiones_por_tweet": 72458,
+        "engagement": 1.1453926018225336
       },
       "autores": [
         {
@@ -10682,8 +10682,8 @@
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 4,
-          "interacciones": 3973,
-          "impresiones": 448708
+          "interacciones": 3977,
+          "impresiones": 448722
         },
         {
           "nombre": "Sarah Santaolalla",
@@ -10731,7 +10731,7 @@
           "tipo": "organizaciones",
           "tweets": 2,
           "interacciones": 243,
-          "impresiones": 3688
+          "impresiones": 3689
         },
         {
           "nombre": "Andrea Llopart",
@@ -11113,17 +11113,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 11,
-        "impresiones": 446567,
-        "interacciones": 6206,
-        "likes": 4340,
+        "impresiones": 446581,
+        "interacciones": 6207,
+        "likes": 4341,
         "reposts": 923,
         "respuestas": 806,
         "citas": 137,
         "bookmarks": 81,
         "autores": 6,
-        "interacciones_por_tweet": 564.1818181818181,
-        "impresiones_por_tweet": 40597,
-        "engagement": 1.3897130777688453
+        "interacciones_por_tweet": 564.2727272727273,
+        "impresiones_por_tweet": 40598.27272727273,
+        "engagement": 1.3898934347856269
       },
       "organizaciones": {
         "tweets": 0,
@@ -11141,17 +11141,17 @@
       },
       "personas": {
         "tweets": 11,
-        "impresiones": 446567,
-        "interacciones": 6206,
-        "likes": 4340,
+        "impresiones": 446581,
+        "interacciones": 6207,
+        "likes": 4341,
         "reposts": 923,
         "respuestas": 806,
         "citas": 137,
         "bookmarks": 81,
         "autores": 6,
-        "interacciones_por_tweet": 564.1818181818181,
-        "impresiones_por_tweet": 40597,
-        "engagement": 1.3897130777688453
+        "interacciones_por_tweet": 564.2727272727273,
+        "impresiones_por_tweet": 40598.27272727273,
+        "engagement": 1.3898934347856269
       },
       "autores": [
         {
@@ -11175,8 +11175,8 @@
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 1,
-          "interacciones": 366,
-          "impresiones": 6673
+          "interacciones": 367,
+          "impresiones": 6687
         },
         {
           "nombre": "Roger Melero Serra",
@@ -11231,8 +11231,8 @@
           "tipo": "personas",
           "fecha": "2026-11-08T20:19:12.000Z",
           "texto": "🟢 Partidos con los que más coincide el PNV:\n\n1º PSOE - 88% de las votaciones \n2º Sumar - 86% \n3º Esquerra Republicana - 85%\n4º Bildu - 84%\n\nVotan más con la ultraizquierda que con Junts.\n\nPara esto ha quedado la “derecha vasca”. https://t.co/OuKEs37Yl0",
-          "interacciones": 366,
-          "impresiones": 6673
+          "interacciones": 367,
+          "impresiones": 6687
         },
         {
           "id": "2113957904294580318",
@@ -11622,17 +11622,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 10,
-        "impresiones": 164025,
-        "interacciones": 3949,
-        "likes": 3131,
+        "impresiones": 164150,
+        "interacciones": 3952,
+        "likes": 3134,
         "reposts": 649,
         "respuestas": 141,
         "citas": 28,
         "bookmarks": 175,
         "autores": 7,
-        "interacciones_por_tweet": 394.9,
-        "impresiones_por_tweet": 16402.5,
-        "engagement": 2.4075598231976834
+        "interacciones_por_tweet": 395.2,
+        "impresiones_por_tweet": 16415,
+        "engagement": 2.4075540664026804
       },
       "organizaciones": {
         "tweets": 1,
@@ -11650,17 +11650,17 @@
       },
       "personas": {
         "tweets": 9,
-        "impresiones": 124703,
-        "interacciones": 3830,
-        "likes": 3053,
+        "impresiones": 124828,
+        "interacciones": 3833,
+        "likes": 3056,
         "reposts": 625,
         "respuestas": 134,
         "citas": 18,
         "bookmarks": 170,
         "autores": 6,
-        "interacciones_por_tweet": 425.55555555555554,
-        "impresiones_por_tweet": 13855.888888888889,
-        "engagement": 3.0712974026286455
+        "interacciones_por_tweet": 425.8888888888889,
+        "impresiones_por_tweet": 13869.777777777777,
+        "engagement": 3.070625180248021
       },
       "autores": [
         {
@@ -11668,8 +11668,8 @@
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 2,
-          "interacciones": 1586,
-          "impresiones": 51523
+          "interacciones": 1589,
+          "impresiones": 51648
         },
         {
           "nombre": "Alán Barroso",
@@ -11728,8 +11728,8 @@
           "tipo": "personas",
           "fecha": "2026-11-08T17:46:17.000Z",
           "texto": "‼️‼️‼️ El PNV vota más con PODEMOS que con JUNTS.\n\nSe han convertido a la extrema izquierda.\n\n😂 Si Sabino Arana levantara la cabeza… https://t.co/GdnbEQW26u",
-          "interacciones": 1220,
-          "impresiones": 44850
+          "interacciones": 1222,
+          "impresiones": 44961
         },
         {
           "id": "2107042648087306340",
@@ -11768,8 +11768,8 @@
           "tipo": "personas",
           "fecha": "2026-11-08T20:19:12.000Z",
           "texto": "🟢 Partidos con los que más coincide el PNV:\n\n1º PSOE - 88% de las votaciones \n2º Sumar - 86% \n3º Esquerra Republicana - 85%\n4º Bildu - 84%\n\nVotan más con la ultraizquierda que con Junts.\n\nPara esto ha quedado la “derecha vasca”. https://t.co/OuKEs37Yl0",
-          "interacciones": 366,
-          "impresiones": 6673
+          "interacciones": 367,
+          "impresiones": 6687
         },
         {
           "id": "2115113032447631650",
@@ -12305,7 +12305,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 12,
-        "impresiones": 31196,
+        "impresiones": 31207,
         "interacciones": 1819,
         "likes": 1515,
         "reposts": 246,
@@ -12314,12 +12314,12 @@
         "bookmarks": 9,
         "autores": 3,
         "interacciones_por_tweet": 151.58333333333334,
-        "impresiones_por_tweet": 2599.6666666666665,
-        "engagement": 5.830875753301705
+        "impresiones_por_tweet": 2600.5833333333335,
+        "engagement": 5.828820456948761
       },
       "organizaciones": {
         "tweets": 7,
-        "impresiones": 21436,
+        "impresiones": 21447,
         "interacciones": 1324,
         "likes": 1120,
         "reposts": 176,
@@ -12328,8 +12328,8 @@
         "bookmarks": 6,
         "autores": 1,
         "interacciones_por_tweet": 189.14285714285714,
-        "impresiones_por_tweet": 3062.285714285714,
-        "engagement": 6.176525471169994
+        "impresiones_por_tweet": 3063.8571428571427,
+        "engagement": 6.173357579148599
       },
       "personas": {
         "tweets": 5,
@@ -12352,7 +12352,7 @@
           "tipo": "organizaciones",
           "tweets": 7,
           "interacciones": 1324,
-          "impresiones": 21436
+          "impresiones": 21447
         },
         {
           "nombre": "Andrea Llopart",
@@ -12400,7 +12400,7 @@
           "fecha": "2026-11-08T21:04:53.000Z",
           "texto": "Empieza el debate. #DebatRTVE29N\n\n@Albiol_XG https://t.co/HEZu905Ojn",
           "interacciones": 138,
-          "impresiones": 3237
+          "impresiones": 3241
         },
         {
           "id": "2119550300294148374",
@@ -12420,7 +12420,7 @@
           "fecha": "2026-11-08T23:04:45.000Z",
           "texto": "👉 @Albiol_XG te explica lo que hará el futuro gobierno del PP contra okupas y delincuentes:\n\n- Desalojo de okupas en 24h.\n- Multirreincidente a prisión si es español, de vuelta a su país si es extranjero.\n- Control de nuestras fronteras.\n\n#DebatRTVE29N https://t.co/fGeJeEJ1n4",
           "interacciones": 119,
-          "impresiones": 1580
+          "impresiones": 1581
         },
         {
           "id": "2111459718426497171",
@@ -12545,17 +12545,17 @@
       "tipo": "estable",
       "total": {
         "tweets": 2,
-        "impresiones": 30833,
-        "interacciones": 1698,
-        "likes": 1118,
+        "impresiones": 30859,
+        "interacciones": 1699,
+        "likes": 1119,
         "reposts": 303,
         "respuestas": 260,
         "citas": 17,
         "bookmarks": 24,
         "autores": 2,
-        "interacciones_por_tweet": 849,
-        "impresiones_por_tweet": 15416.5,
-        "engagement": 5.507086563097979
+        "interacciones_por_tweet": 849.5,
+        "impresiones_por_tweet": 15429.5,
+        "engagement": 5.505687157717359
       },
       "organizaciones": {
         "tweets": 0,
@@ -12573,17 +12573,17 @@
       },
       "personas": {
         "tweets": 2,
-        "impresiones": 30833,
-        "interacciones": 1698,
-        "likes": 1118,
+        "impresiones": 30859,
+        "interacciones": 1699,
+        "likes": 1119,
         "reposts": 303,
         "respuestas": 260,
         "citas": 17,
         "bookmarks": 24,
         "autores": 2,
-        "interacciones_por_tweet": 849,
-        "impresiones_por_tweet": 15416.5,
-        "engagement": 5.507086563097979
+        "interacciones_por_tweet": 849.5,
+        "impresiones_por_tweet": 15429.5,
+        "engagement": 5.505687157717359
       },
       "autores": [
         {
@@ -12591,8 +12591,8 @@
           "username": "Jon_Echeverria_",
           "tipo": "personas",
           "tweets": 1,
-          "interacciones": 1609,
-          "impresiones": 29343
+          "interacciones": 1610,
+          "impresiones": 29369
         },
         {
           "nombre": "Hugo Manchón",
@@ -12611,8 +12611,8 @@
           "tipo": "personas",
           "fecha": "2026-11-08T14:30:04.000Z",
           "texto": "En EEUU no ha habido ningún castigo a la derecha.\n\nEn EEUU ha habido un castigo a la inflación.\n\nY en España somos 2º de la UE en inflación.\n\nToma nota, Pedro Sánchez.\n\n@laSextaXplica https://t.co/XxD16oQz2a",
-          "interacciones": 1609,
-          "impresiones": 29343
+          "interacciones": 1610,
+          "impresiones": 29369
         },
         {
           "id": "2107376750728814785",
@@ -12714,40 +12714,40 @@
       ]
     },
     {
-      "id": "emergente_1",
-      "nombre": "Debatrtve29n",
+      "id": "emergente_debatrtve",
+      "nombre": "#DEBATRTVE",
       "tipo": "emergente",
       "total": {
         "tweets": 11,
-        "impresiones": 19508,
-        "interacciones": 1170,
-        "likes": 870,
-        "reposts": 259,
-        "respuestas": 38,
+        "impresiones": 19551,
+        "interacciones": 1175,
+        "likes": 873,
+        "reposts": 260,
+        "respuestas": 39,
         "citas": 3,
         "bookmarks": 5,
         "autores": 3,
-        "interacciones_por_tweet": 106.36363636363636,
-        "impresiones_por_tweet": 1773.4545454545455,
-        "engagement": 5.997539470986262
+        "interacciones_por_tweet": 106.81818181818181,
+        "impresiones_por_tweet": 1777.3636363636363,
+        "engagement": 6.009922766098921
       },
       "organizaciones": {
         "tweets": 8,
-        "impresiones": 15656,
-        "interacciones": 944,
-        "likes": 701,
-        "reposts": 219,
-        "respuestas": 23,
+        "impresiones": 15696,
+        "interacciones": 949,
+        "likes": 704,
+        "reposts": 220,
+        "respuestas": 24,
         "citas": 1,
         "bookmarks": 5,
         "autores": 2,
-        "interacciones_por_tweet": 118,
-        "impresiones_por_tweet": 1957,
-        "engagement": 6.029637199795605
+        "interacciones_por_tweet": 118.625,
+        "impresiones_por_tweet": 1962,
+        "engagement": 6.046126401630988
       },
       "personas": {
         "tweets": 3,
-        "impresiones": 3852,
+        "impresiones": 3855,
         "interacciones": 226,
         "likes": 169,
         "reposts": 40,
@@ -12756,8 +12756,8 @@
         "bookmarks": 0,
         "autores": 1,
         "interacciones_por_tweet": 75.33333333333333,
-        "impresiones_por_tweet": 1284,
-        "engagement": 5.867082035306334
+        "impresiones_por_tweet": 1285,
+        "engagement": 5.862516212710765
       },
       "autores": [
         {
@@ -12765,8 +12765,8 @@
           "username": "NNGGcat",
           "tipo": "organizaciones",
           "tweets": 7,
-          "interacciones": 861,
-          "impresiones": 14444
+          "interacciones": 866,
+          "impresiones": 14476
         },
         {
           "nombre": "Andrea Llopart",
@@ -12774,7 +12774,7 @@
           "tipo": "personas",
           "tweets": 3,
           "interacciones": 226,
-          "impresiones": 3852
+          "impresiones": 3855
         },
         {
           "nombre": "Joventut Nacionalista de Catalunya",
@@ -12782,7 +12782,7 @@
           "tipo": "organizaciones",
           "tweets": 1,
           "interacciones": 83,
-          "impresiones": 1212
+          "impresiones": 1220
         }
       ],
       "ejemplos": [
@@ -12793,8 +12793,8 @@
           "tipo": "organizaciones",
           "fecha": "2026-11-08T22:38:42.000Z",
           "texto": "🚨*ÚLTIMA HORA*🚨\n\nSe filtra en directo la tendencia de voto del PSOE en Cataluña tras el #DebatRTVE29N\n\n👏LA FUERZA DEL AMOR👏 https://t.co/40Y74O74Ex",
-          "interacciones": 203,
-          "impresiones": 4803
+          "interacciones": 207,
+          "impresiones": 4830
         },
         {
           "id": "2119539390057734423",
@@ -12814,7 +12814,7 @@
           "fecha": "2026-11-08T21:04:53.000Z",
           "texto": "Empieza el debate. #DebatRTVE29N\n\n@Albiol_XG https://t.co/HEZu905Ojn",
           "interacciones": 138,
-          "impresiones": 3237
+          "impresiones": 3241
         },
         {
           "id": "2119550300294148374",
@@ -12834,7 +12834,142 @@
           "fecha": "2026-11-08T23:04:45.000Z",
           "texto": "👉 @Albiol_XG te explica lo que hará el futuro gobierno del PP contra okupas y delincuentes:\n\n- Desalojo de okupas en 24h.\n- Multirreincidente a prisión si es español, de vuelta a su país si es extranjero.\n- Control de nuestras fronteras.\n\n#DebatRTVE29N https://t.co/fGeJeEJ1n4",
           "interacciones": 119,
-          "impresiones": 1580
+          "impresiones": 1581
+        },
+        {
+          "id": "2119558165973049754",
+          "autor": "Noves Generacions de Catalunya",
+          "username": "NNGGcat",
+          "tipo": "organizaciones",
+          "fecha": "2026-11-08T22:30:20.000Z",
+          "texto": "Pues eso. \n\n#DebatRTVE29N https://t.co/GkatIfycj2",
+          "interacciones": 112,
+          "impresiones": 1030
+        }
+      ]
+    },
+    {
+      "id": "emergente_1",
+      "nombre": "Debatrtve29n",
+      "tipo": "emergente",
+      "total": {
+        "tweets": 11,
+        "impresiones": 19551,
+        "interacciones": 1175,
+        "likes": 873,
+        "reposts": 260,
+        "respuestas": 39,
+        "citas": 3,
+        "bookmarks": 5,
+        "autores": 3,
+        "interacciones_por_tweet": 106.81818181818181,
+        "impresiones_por_tweet": 1777.3636363636363,
+        "engagement": 6.009922766098921
+      },
+      "organizaciones": {
+        "tweets": 8,
+        "impresiones": 15696,
+        "interacciones": 949,
+        "likes": 704,
+        "reposts": 220,
+        "respuestas": 24,
+        "citas": 1,
+        "bookmarks": 5,
+        "autores": 2,
+        "interacciones_por_tweet": 118.625,
+        "impresiones_por_tweet": 1962,
+        "engagement": 6.046126401630988
+      },
+      "personas": {
+        "tweets": 3,
+        "impresiones": 3855,
+        "interacciones": 226,
+        "likes": 169,
+        "reposts": 40,
+        "respuestas": 15,
+        "citas": 2,
+        "bookmarks": 0,
+        "autores": 1,
+        "interacciones_por_tweet": 75.33333333333333,
+        "impresiones_por_tweet": 1285,
+        "engagement": 5.862516212710765
+      },
+      "autores": [
+        {
+          "nombre": "Noves Generacions de Catalunya",
+          "username": "NNGGcat",
+          "tipo": "organizaciones",
+          "tweets": 7,
+          "interacciones": 866,
+          "impresiones": 14476
+        },
+        {
+          "nombre": "Andrea Llopart",
+          "username": "andreallopart",
+          "tipo": "personas",
+          "tweets": 3,
+          "interacciones": 226,
+          "impresiones": 3855
+        },
+        {
+          "nombre": "Joventut Nacionalista de Catalunya",
+          "username": "JNCatalunya",
+          "tipo": "organizaciones",
+          "tweets": 1,
+          "interacciones": 83,
+          "impresiones": 1220
+        }
+      ],
+      "ejemplos": [
+        {
+          "id": "2119560268116263029",
+          "autor": "Noves Generacions de Catalunya",
+          "username": "NNGGcat",
+          "tipo": "organizaciones",
+          "fecha": "2026-11-08T22:38:42.000Z",
+          "texto": "🚨*ÚLTIMA HORA*🚨\n\nSe filtra en directo la tendencia de voto del PSOE en Cataluña tras el #DebatRTVE29N\n\n👏LA FUERZA DEL AMOR👏 https://t.co/40Y74O74Ex",
+          "interacciones": 207,
+          "impresiones": 4830
+        },
+        {
+          "id": "2119539390057734423",
+          "autor": "Andrea Llopart",
+          "username": "andreallopart",
+          "tipo": "personas",
+          "fecha": "2026-11-08T21:15:44.000Z",
+          "texto": "Se dice pronto pero 750 millones de nuestro dinero han ido al sistema ferroviario marroquí.\n\nSí, marroquí.\n\nEs una vergüenza, bien @Albiol_XG por decirlo alto y claro en #DebatRTVE29N",
+          "interacciones": 148,
+          "impresiones": 1505
+        },
+        {
+          "id": "2119536661222871184",
+          "autor": "Noves Generacions de Catalunya",
+          "username": "NNGGcat",
+          "tipo": "organizaciones",
+          "fecha": "2026-11-08T21:04:53.000Z",
+          "texto": "Empieza el debate. #DebatRTVE29N\n\n@Albiol_XG https://t.co/HEZu905Ojn",
+          "interacciones": 138,
+          "impresiones": 3241
+        },
+        {
+          "id": "2119550300294148374",
+          "autor": "Noves Generacions de Catalunya",
+          "username": "NNGGcat",
+          "tipo": "organizaciones",
+          "fecha": "2026-11-08T21:59:05.000Z",
+          "texto": "👉 @Albiol_XG parla clar sobre immigració.\n\n#DebatRTVE29N https://t.co/e1AWEZ3xzS",
+          "interacciones": 124,
+          "impresiones": 2108
+        },
+        {
+          "id": "2119566826191630646",
+          "autor": "Noves Generacions de Catalunya",
+          "username": "NNGGcat",
+          "tipo": "organizaciones",
+          "fecha": "2026-11-08T23:04:45.000Z",
+          "texto": "👉 @Albiol_XG te explica lo que hará el futuro gobierno del PP contra okupas y delincuentes:\n\n- Desalojo de okupas en 24h.\n- Multirreincidente a prisión si es español, de vuelta a su país si es extranjero.\n- Control de nuestras fronteras.\n\n#DebatRTVE29N https://t.co/fGeJeEJ1n4",
+          "interacciones": 119,
+          "impresiones": 1581
         },
         {
           "id": "2119558165973049754",
@@ -13330,7 +13465,7 @@
       "tipo": "estable",
       "total": {
         "tweets": 7,
-        "impresiones": 6732,
+        "impresiones": 6733,
         "interacciones": 534,
         "likes": 360,
         "reposts": 167,
@@ -13339,8 +13474,8 @@
         "bookmarks": 6,
         "autores": 7,
         "interacciones_por_tweet": 76.28571428571429,
-        "impresiones_por_tweet": 961.7142857142857,
-        "engagement": 7.932263814616755
+        "impresiones_por_tweet": 961.8571428571429,
+        "engagement": 7.931085697311747
       },
       "organizaciones": {
         "tweets": 3,
@@ -13358,7 +13493,7 @@
       },
       "personas": {
         "tweets": 4,
-        "impresiones": 6019,
+        "impresiones": 6020,
         "interacciones": 507,
         "likes": 344,
         "reposts": 156,
@@ -13367,8 +13502,8 @@
         "bookmarks": 6,
         "autores": 4,
         "interacciones_por_tweet": 126.75,
-        "impresiones_por_tweet": 1504.75,
-        "engagement": 8.423326133909287
+        "impresiones_por_tweet": 1505,
+        "engagement": 8.421926910299003
       },
       "autores": [
         {
@@ -13377,7 +13512,7 @@
           "tipo": "personas",
           "tweets": 1,
           "interacciones": 282,
-          "impresiones": 3048
+          "impresiones": 3049
         },
         {
           "nombre": "Hugo Manchón",
@@ -13437,7 +13572,7 @@
           "fecha": "2026-11-07T20:41:59.000Z",
           "texto": "“Un pagès NO és un terrorista ambiental.\nUna persona que tira el seu negoci endavant cada dia NO és un explotador.\nUna àvia que té el seu pis en lloguer NO és una especuladora.\nI els autònoms NO s’estan forrant.\n\nAquesta gent tiren endavant el nostre país.”\n\n👏🏻 @miriamnoguerasM! https://t.co/AGPIYf2wuT",
           "interacciones": 282,
-          "impresiones": 3048
+          "impresiones": 3049
         },
         {
           "id": "2114296893278912841",
