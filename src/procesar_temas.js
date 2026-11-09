@@ -292,7 +292,32 @@ function candidatosEmergentes() {
     }));
 }
 
-const emergentes = candidatosEmergentes();
+const emergentesForzados = [
+  {
+    id: "emergente_debatrtve",
+    nombre: "#DEBATRTVE",
+    claves: ["debatrtve", "debatertve"],
+    tipo: "emergente"
+  }
+];
+
+function claveCompactaHashtag(hashtag = "") {
+  return normalizar(hashtag).replace(/\s+/g, "");
+}
+
+const clavesForzadas = new Set(
+  emergentesForzados.flatMap(item => item.claves || [])
+);
+
+const emergentesAutomaticos = candidatosEmergentes().filter(
+  item => !clavesForzadas.has(claveCompactaHashtag(item.clave))
+);
+
+const emergentes = [
+  ...emergentesForzados,
+  ...emergentesAutomaticos
+];
+
 const temas = [...especiales, ...temasBase, ...entidades, ...emergentes];
 const clasificaciones = new Map();
 
@@ -358,6 +383,18 @@ for (const post of posts) {
   const hashtags = new Set(hashtagsDe(post));
 
   for (const emergente of emergentes) {
+    if (Array.isArray(emergente.claves)) {
+      const coincideForzado = [...hashtags].some(hashtag =>
+        emergente.claves.includes(claveCompactaHashtag(hashtag))
+      );
+
+      if (coincideForzado) {
+        ids.add(emergente.id);
+      }
+
+      continue;
+    }
+
     if (hashtags.has(emergente.clave)) {
       ids.add(emergente.id);
     }
