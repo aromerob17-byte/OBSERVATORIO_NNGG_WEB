@@ -143,7 +143,12 @@ async function main() {
       }
 
       const usuario = respuestaUsuario.data;
-      await actualizarAvatar(usuario);
+      try {
+        await actualizarAvatar(usuario);
+        console.log("✓ Avatar actualizado");
+      } catch (avatarError) {
+        console.log(`⚠ No se pudo actualizar el avatar: ${avatarError.message}`);
+      }
       const desde = calcularFechaConsulta(anterior);
       const tweetsNuevos = await obtenerTweets(usuario.id, desde);
       const tweets = combinarTweets(anterior?.tweets || [], tweetsNuevos);
