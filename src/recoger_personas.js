@@ -1,6 +1,7 @@
 require("dotenv").config();
 
 const fs = require("fs");
+const path = require("path");
 
 const TOKEN = process.env.X_BEARER_TOKEN;
 const personas = JSON.parse(fs.readFileSync("personas.json", "utf8"));
@@ -19,6 +20,32 @@ async function pedir(url) {
   }
 
   return respuesta.json();
+}
+
+function rutaAvatar(username) {
+  const seguro = String(username || "")
+    .replace(/[^a-zA-Z0-9_.-]/g, "_")
+    .toLowerCase();
+
+  return path.join("assets", "avatars", `${seguro}.jpg`);
+}
+
+async function actualizarAvatar(usuario) {
+  const urlBase = usuario?.profile_image_url || "";
+  if (!urlBase) return false;
+
+  const url = urlBase.replace("_normal.", "_400x400.");
+
+  const respuesta = await fetch(url, { cache: "no-store" });
+  if (!respuesta.ok) {
+    throw new Error(`Avatar ${respuesta.status}: ${await respuesta.text()}`);
+  }
+
+  fs.mkdirSync(path.join("assets", "avatars"), { recursive: true });
+  const buffer = Buffer.from(await respuesta.arrayBuffer());
+  fs.writeFileSync(rutaAvatar(usuario.username), buffer);
+
+  return true;
 }
 
 async function obtenerUsuario(username) {
@@ -116,6 +143,7 @@ async function main() {
       }
 
       const usuario = respuestaUsuario.data;
+      await actualizarAvatar(usuario);
       const desde = calcularFechaConsulta(anterior);
       const tweetsNuevos = await obtenerTweets(usuario.id, desde);
       const tweets = combinarTweets(anterior?.tweets || [], tweetsNuevos);
