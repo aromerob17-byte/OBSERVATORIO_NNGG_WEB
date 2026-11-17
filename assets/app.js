@@ -6,7 +6,8 @@ const state={
   personMetric:"interacciones",
   postMetric:"interacciones",
   rankingView:"total",
-  personView:"total"
+  personView:"total",
+  avatarVersion:null
 };
 
 const $=s=>document.querySelector(s);
@@ -30,7 +31,10 @@ const metricLabels={
   seguidores:"Seguidores"
 };
 
-function localAvatar(username){ return `assets/avatars/${String(username||"").replace(/[^a-zA-Z0-9_.-]/g,"_").toLowerCase()}.jpg`; }
+function localAvatar(username){
+  const base=`assets/avatars/${String(username||"").replace(/[^a-zA-Z0-9_.-]/g,"_").toLowerCase()}.jpg`;
+  return state.avatarVersion ? `${base}?v=${encodeURIComponent(state.avatarVersion)}` : base;
+}
 
 function esc(s=""){
   return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
@@ -341,7 +345,9 @@ async function init(){
       .map(v=>new Date(v).getTime())
       .filter(Number.isFinite);
 
-    const updated=new Date(fechas.length?Math.max(...fechas):Date.now());
+    const latestMs=fechas.length?Math.max(...fechas):Date.now();
+    state.avatarVersion=String(latestMs);
+    const updated=new Date(latestMs);
     $("#updated").textContent=`Actualizado ${updated.toLocaleDateString("es-ES",{day:"2-digit",month:"2-digit",year:"numeric"})} · ${updated.toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"})}`;
 
     renderKpis();
