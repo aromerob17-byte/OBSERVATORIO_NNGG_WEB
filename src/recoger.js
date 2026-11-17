@@ -183,7 +183,12 @@ async function main() {
       }
 
       const usuario = respuestaUsuario.data;
-      await actualizarAvatar(usuario);
+      try {
+        await actualizarAvatar(usuario);
+        console.log("✓ Avatar actualizado");
+      } catch (avatarError) {
+        console.log(`⚠ No se pudo actualizar el avatar: ${avatarError.message}`);
+      }
 
       console.log(
         `✓ ${usuario.name} — ${usuario.public_metrics?.followers_count ?? "?"} seguidores`
