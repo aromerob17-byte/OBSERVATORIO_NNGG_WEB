@@ -155,7 +155,14 @@ function procesarCuenta(cuenta) {
   };
 }
 
-const resumen = datos.map(procesarCuenta);
+const resumenCompleto = datos.map(cuenta => ({
+  ...procesarCuenta(cuenta),
+  tipo_fuente: cuenta.tipo_fuente || "organizacion_juvenil",
+  incluir_en_visor: cuenta.incluir_en_visor !== false
+}));
+
+const resumen = resumenCompleto.filter(cuenta => cuenta.incluir_en_visor !== false);
+const auxiliares = resumenCompleto.filter(cuenta => cuenta.incluir_en_visor === false);
 
 const rankings = {
   por_impresiones: [...resumen].sort(
@@ -186,6 +193,7 @@ const rankings = {
 const salida = {
   generado_en: new Date().toISOString(),
   organizaciones: resumen,
+  auxiliares,
   rankings
 };
 
@@ -208,6 +216,10 @@ for (const cuenta of resumen) {
     `  Engagement: ${cuenta.engagement_sobre_impresiones.toFixed(2)}%`
   );
   console.log("");
+}
+
+if (auxiliares.length) {
+  console.log("Fuentes auxiliares fuera del visor general: " + auxiliares.map(c => "@" + c.username).join(", "));
 }
 
 console.log("Resultado guardado en data\\resumen.json");
