@@ -124,6 +124,7 @@ const fecha = fechaLocal();
 const generadoEn = new Date().toISOString();
 
 const orgs = resumen.organizaciones || [];
+const auxiliares = resumen.auxiliares || [];
 const personas = personasResumen.personas || [];
 
 const orgTotal = sumar(orgs);
@@ -144,12 +145,14 @@ const snapshot = {
   generado_en: generadoEn,
   global: {
     organizaciones_monitorizadas: orgs.length,
+    fuentes_auxiliares: auxiliares.length,
     personas_monitorizadas: personas.length,
     personas_activas: personas.filter(p => n(p.total_publicaciones) > 0).length,
     temas_activos: (temas.temas || []).length,
     ...total
   },
   organizaciones: orgs.map(snapshotCuenta),
+  auxiliares: auxiliares.map(snapshotCuenta),
   personas: personas.map(snapshotCuenta),
   temas: (temas.temas || []).map(snapshotTema)
 };
@@ -193,6 +196,7 @@ console.log("==============================");
 console.log("Fecha local: " + fecha);
 console.log("Snapshots guardados: " + historico.snapshots.length);
 console.log("Organizaciones: " + snapshot.global.organizaciones_monitorizadas);
+console.log("Fuentes auxiliares: " + snapshot.global.fuentes_auxiliares);
 console.log("Personas: " + snapshot.global.personas_monitorizadas);
 console.log("Temas: " + snapshot.global.temas_activos);
 console.log("Resultado guardado en " + HISTORICO);
