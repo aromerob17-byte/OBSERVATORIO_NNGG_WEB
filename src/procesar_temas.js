@@ -71,8 +71,12 @@ function publicacionesPropias(cuenta, tipo) {
     }));
 }
 
+const organizacionesVisibles = organizaciones.filter(
+  cuenta => cuenta.incluir_en_visor !== false
+);
+
 const posts = [
-  ...organizaciones.flatMap(cuenta => publicacionesPropias(cuenta, "organizaciones")),
+  ...organizacionesVisibles.flatMap(cuenta => publicacionesPropias(cuenta, "organizaciones")),
   ...personas.flatMap(cuenta => publicacionesPropias(cuenta, "personas"))
 ];
 
