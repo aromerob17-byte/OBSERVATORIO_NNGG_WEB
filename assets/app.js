@@ -40,8 +40,12 @@ function esc(s=""){
   return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
 }
 
+function rawVisibleOrganizations(){
+  return (state.raw||[]).filter(c=>c.incluir_en_visor!==false);
+}
+
 function profileMap(){
-  return new Map((state.raw||[]).map((c,i)=>[
+  return new Map(rawVisibleOrganizations().map((c,i)=>[
     c.usuario.username.toLowerCase(),
     {
       image:localAvatar(c.usuario.username),
@@ -267,7 +271,7 @@ function renderPeople(){
 function bestPosts(){
   const candidates=[];
 
-  for(const c of state.raw||[]){
+  for(const c of rawVisibleOrganizations()){
     for(const t of c.tweets||[]){
       if((t.text||"").startsWith("RT @")) continue;
       const m=t.public_metrics||{};
