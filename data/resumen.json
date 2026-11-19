@@ -1,25 +1,25 @@
 {
-  "generado_en": "2026-11-18T23:34:21.838Z",
+  "generado_en": "2026-11-19T08:52:02.327Z",
   "organizaciones": [
     {
       "nombre": "Nuevas Generaciones de España",
       "username": "NNGG_Es",
-      "seguidores": 41986,
+      "seguidores": 41985,
       "siguiendo": 2036,
       "total_publicaciones": 92,
-      "actividad_total": 147,
+      "actividad_total": 148,
       "publicaciones_propias": 92,
-      "retweets": 55,
-      "impresiones": 4616511,
-      "likes": 137149,
-      "reposts": 19167,
-      "respuestas": 9346,
-      "citas": 1959,
-      "bookmarks": 2547,
-      "interacciones": 167621,
-      "interacciones_por_publicacion": 1821.9673913043478,
-      "impresiones_por_publicacion": 50179.467391304344,
-      "engagement_sobre_impresiones": 3.6309022116485803,
+      "retweets": 56,
+      "impresiones": 4619224,
+      "likes": 137321,
+      "reposts": 19194,
+      "respuestas": 9361,
+      "citas": 1961,
+      "bookmarks": 2553,
+      "interacciones": 167837,
+      "interacciones_por_publicacion": 1824.3152173913043,
+      "impresiones_por_publicacion": 50208.95652173913,
+      "engagement_sobre_impresiones": 3.633445790894748,
       "mejor_publicacion_interacciones": {
         "id": "2109240249746649122",
         "fecha": "2026-10-11T11:10:37.000Z",
@@ -47,27 +47,29 @@
           "reply_count": 646,
           "retweet_count": 3430
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Juventudes Socialistas de España",
       "username": "JSE_ORG",
-      "seguidores": 28049,
+      "seguidores": 28057,
       "siguiendo": 2658,
       "total_publicaciones": 91,
       "actividad_total": 116,
       "publicaciones_propias": 91,
       "retweets": 25,
-      "impresiones": 4686296,
-      "likes": 53110,
-      "reposts": 15665,
-      "respuestas": 8952,
-      "citas": 1175,
-      "bookmarks": 1428,
-      "interacciones": 78902,
-      "interacciones_por_publicacion": 867.054945054945,
-      "impresiones_por_publicacion": 51497.758241758245,
-      "engagement_sobre_impresiones": 1.6836751242345769,
+      "impresiones": 4687770,
+      "likes": 53223,
+      "reposts": 15712,
+      "respuestas": 8972,
+      "citas": 1177,
+      "bookmarks": 1433,
+      "interacciones": 79084,
+      "interacciones_por_publicacion": 869.054945054945,
+      "impresiones_por_publicacion": 51513.956043956045,
+      "engagement_sobre_impresiones": 1.6870281605112878,
       "mejor_publicacion_interacciones": {
         "id": "2122326388799951098",
         "fecha": "2026-11-16T13:50:16.000Z",
@@ -95,27 +97,29 @@
           "reply_count": 1366,
           "retweet_count": 362
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Revuelta",
       "username": "revuelta_es",
-      "seguidores": 64454,
+      "seguidores": 64447,
       "siguiendo": 173,
-      "total_publicaciones": 90,
-      "actividad_total": 107,
-      "publicaciones_propias": 90,
+      "total_publicaciones": 91,
+      "actividad_total": 108,
+      "publicaciones_propias": 91,
       "retweets": 17,
-      "impresiones": 2387498,
-      "likes": 44364,
-      "reposts": 9798,
-      "respuestas": 2166,
+      "impresiones": 2389030,
+      "likes": 44387,
+      "reposts": 9803,
+      "respuestas": 2170,
       "citas": 505,
-      "bookmarks": 2777,
-      "interacciones": 56833,
-      "interacciones_por_publicacion": 631.4777777777778,
-      "impresiones_por_publicacion": 26527.755555555555,
-      "engagement_sobre_impresiones": 2.380441784663275,
+      "bookmarks": 2778,
+      "interacciones": 56865,
+      "interacciones_por_publicacion": 624.8901098901099,
+      "impresiones_por_publicacion": 26253.076923076922,
+      "engagement_sobre_impresiones": 2.3802547477428075,
       "mejor_publicacion_interacciones": {
         "id": "2113352382746890326",
         "fecha": "2026-10-22T19:30:46.000Z",
@@ -143,27 +147,29 @@
           "reply_count": 351,
           "retweet_count": 1226
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Jovent Republicà",
       "username": "JoventRepublica",
-      "seguidores": 13781,
+      "seguidores": 13782,
       "siguiendo": 1901,
       "total_publicaciones": 26,
       "actividad_total": 32,
       "publicaciones_propias": 26,
       "retweets": 6,
-      "impresiones": 29916,
-      "likes": 1043,
-      "reposts": 473,
+      "impresiones": 29986,
+      "likes": 1049,
+      "reposts": 474,
       "respuestas": 297,
       "citas": 36,
       "bookmarks": 5,
-      "interacciones": 1849,
-      "interacciones_por_publicacion": 71.11538461538461,
-      "impresiones_por_publicacion": 1150.6153846153845,
-      "engagement_sobre_impresiones": 6.180639122877389,
+      "interacciones": 1856,
+      "interacciones_por_publicacion": 71.38461538461539,
+      "impresiones_por_publicacion": 1153.3076923076924,
+      "engagement_sobre_impresiones": 6.189555125725339,
       "mejor_publicacion_interacciones": {
         "id": "2111338284060205318",
         "fecha": "2026-10-17T06:07:28.000Z",
@@ -191,27 +197,29 @@
           "reply_count": 68,
           "retweet_count": 35
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Joventut Nacionalista de Catalunya",
       "username": "JNCatalunya",
-      "seguidores": 10791,
+      "seguidores": 10792,
       "siguiendo": 522,
       "total_publicaciones": 34,
       "actividad_total": 66,
       "publicaciones_propias": 34,
       "retweets": 32,
-      "impresiones": 119864,
-      "likes": 3075,
-      "reposts": 987,
+      "impresiones": 120070,
+      "likes": 3088,
+      "reposts": 991,
       "respuestas": 98,
       "citas": 45,
       "bookmarks": 50,
-      "interacciones": 4205,
-      "interacciones_por_publicacion": 123.67647058823529,
-      "impresiones_por_publicacion": 3525.4117647058824,
-      "engagement_sobre_impresiones": 3.508142561569779,
+      "interacciones": 4222,
+      "interacciones_por_publicacion": 124.17647058823529,
+      "impresiones_por_publicacion": 3531.470588235294,
+      "engagement_sobre_impresiones": 3.516282168734905,
       "mejor_publicacion_interacciones": {
         "id": "2122069401826632159",
         "fecha": "2026-11-15T20:49:06.000Z",
@@ -239,7 +247,9 @@
           "reply_count": 7,
           "retweet_count": 24
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Joventut Socialista de Catalunya",
@@ -250,16 +260,16 @@
       "actividad_total": 12,
       "publicaciones_propias": 4,
       "retweets": 8,
-      "impresiones": 2195,
-      "likes": 87,
-      "reposts": 34,
+      "impresiones": 2285,
+      "likes": 93,
+      "reposts": 35,
       "respuestas": 2,
       "citas": 0,
       "bookmarks": 1,
-      "interacciones": 123,
-      "interacciones_por_publicacion": 30.75,
-      "impresiones_por_publicacion": 548.75,
-      "engagement_sobre_impresiones": 5.603644646924829,
+      "interacciones": 130,
+      "interacciones_por_publicacion": 32.5,
+      "impresiones_por_publicacion": 571.25,
+      "engagement_sobre_impresiones": 5.689277899343545,
       "mejor_publicacion_interacciones": {
         "id": "2107012935122124812",
         "fecha": "2026-10-05T07:40:04.000Z",
@@ -287,7 +297,9 @@
           "reply_count": 0,
           "retweet_count": 4
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Noves Generacions de Catalunya",
@@ -298,16 +310,16 @@
       "actividad_total": 163,
       "publicaciones_propias": 72,
       "retweets": 91,
-      "impresiones": 1799138,
-      "likes": 90596,
-      "reposts": 11740,
+      "impresiones": 1802611,
+      "likes": 90661,
+      "reposts": 11758,
       "respuestas": 3195,
       "citas": 488,
-      "bookmarks": 1387,
-      "interacciones": 106019,
-      "interacciones_por_publicacion": 1472.486111111111,
-      "impresiones_por_publicacion": 24988.027777777777,
-      "engagement_sobre_impresiones": 5.8927664248101035,
+      "bookmarks": 1392,
+      "interacciones": 106102,
+      "interacciones_por_publicacion": 1473.638888888889,
+      "impresiones_por_publicacion": 25036.26388888889,
+      "engagement_sobre_impresiones": 5.886017560083678,
       "mejor_publicacion_interacciones": {
         "id": "2110043935854747899",
         "fecha": "2026-10-13T16:24:11.000Z",
@@ -335,7 +347,9 @@
           "reply_count": 94,
           "retweet_count": 1109
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Arran",
@@ -346,16 +360,16 @@
       "actividad_total": 105,
       "publicaciones_propias": 37,
       "retweets": 68,
-      "impresiones": 180542,
-      "likes": 5131,
-      "reposts": 1400,
+      "impresiones": 180854,
+      "likes": 5146,
+      "reposts": 1411,
       "respuestas": 348,
       "citas": 142,
       "bookmarks": 91,
-      "interacciones": 7021,
-      "interacciones_por_publicacion": 189.75675675675674,
-      "impresiones_por_publicacion": 4879.513513513513,
-      "engagement_sobre_impresiones": 3.8888458087314866,
+      "interacciones": 7047,
+      "interacciones_por_publicacion": 190.45945945945945,
+      "impresiones_por_publicacion": 4887.945945945946,
+      "engagement_sobre_impresiones": 3.8965132095502453,
       "mejor_publicacion_interacciones": {
         "id": "2119833487754580053",
         "fecha": "2026-11-09T16:44:22.000Z",
@@ -383,27 +397,29 @@
           "reply_count": 117,
           "retweet_count": 356
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Madrid",
       "username": "nnggmadrid",
-      "seguidores": 19422,
+      "seguidores": 19424,
       "siguiendo": 2852,
-      "total_publicaciones": 89,
-      "actividad_total": 345,
-      "publicaciones_propias": 89,
+      "total_publicaciones": 90,
+      "actividad_total": 346,
+      "publicaciones_propias": 90,
       "retweets": 256,
-      "impresiones": 4822269,
-      "likes": 155674,
-      "reposts": 22429,
-      "respuestas": 9021,
-      "citas": 1978,
-      "bookmarks": 3526,
-      "interacciones": 189102,
-      "interacciones_por_publicacion": 2124.741573033708,
-      "impresiones_por_publicacion": 54182.79775280899,
-      "engagement_sobre_impresiones": 3.921432006385376,
+      "impresiones": 4831838,
+      "likes": 156316,
+      "reposts": 22497,
+      "respuestas": 9045,
+      "citas": 1983,
+      "bookmarks": 3554,
+      "interacciones": 189841,
+      "interacciones_por_publicacion": 2109.3444444444444,
+      "impresiones_por_publicacion": 53687.08888888889,
+      "engagement_sobre_impresiones": 3.9289603666348087,
       "mejor_publicacion_interacciones": {
         "id": "2110082808735539278",
         "fecha": "2026-10-13T18:58:39.000Z",
@@ -431,7 +447,9 @@
           "reply_count": 307,
           "retweet_count": 806
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Andalucía",
@@ -442,7 +460,7 @@
       "actividad_total": 40,
       "publicaciones_propias": 16,
       "retweets": 24,
-      "impresiones": 3589,
+      "impresiones": 3591,
       "likes": 115,
       "reposts": 48,
       "respuestas": 6,
@@ -450,8 +468,8 @@
       "bookmarks": 1,
       "interacciones": 169,
       "interacciones_por_publicacion": 10.5625,
-      "impresiones_por_publicacion": 224.3125,
-      "engagement_sobre_impresiones": 4.70883254388409,
+      "impresiones_por_publicacion": 224.4375,
+      "engagement_sobre_impresiones": 4.706209969367864,
       "mejor_publicacion_interacciones": {
         "id": "2111510811558707414",
         "fecha": "2026-10-17T17:33:02.000Z",
@@ -479,7 +497,9 @@
           "reply_count": 1,
           "retweet_count": 3
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Aragón",
@@ -501,7 +521,9 @@
       "impresiones_por_publicacion": 0,
       "engagement_sobre_impresiones": 0,
       "mejor_publicacion_interacciones": null,
-      "mejor_publicacion_impresiones": null
+      "mejor_publicacion_impresiones": null,
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Asturias",
@@ -512,16 +534,16 @@
       "actividad_total": 66,
       "publicaciones_propias": 11,
       "retweets": 55,
-      "impresiones": 21857,
-      "likes": 446,
-      "reposts": 77,
+      "impresiones": 22016,
+      "likes": 455,
+      "reposts": 78,
       "respuestas": 22,
-      "citas": 0,
+      "citas": 1,
       "bookmarks": 7,
-      "interacciones": 545,
-      "interacciones_por_publicacion": 49.54545454545455,
-      "impresiones_por_publicacion": 1987,
-      "engagement_sobre_impresiones": 2.493480349544768,
+      "interacciones": 556,
+      "interacciones_por_publicacion": 50.54545454545455,
+      "impresiones_por_publicacion": 2001.4545454545455,
+      "engagement_sobre_impresiones": 2.525436046511628,
       "mejor_publicacion_interacciones": {
         "id": "2119136197557760350",
         "fecha": "2026-11-07T18:33:35.000Z",
@@ -549,27 +571,29 @@
           "reply_count": 14,
           "retweet_count": 19
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Illes Balears",
       "username": "NNGGBalears",
-      "seguidores": 3256,
+      "seguidores": 3257,
       "siguiendo": 985,
       "total_publicaciones": 53,
       "actividad_total": 291,
       "publicaciones_propias": 53,
       "retweets": 238,
-      "impresiones": 74758,
-      "likes": 1105,
-      "reposts": 711,
-      "respuestas": 51,
+      "impresiones": 75075,
+      "likes": 1111,
+      "reposts": 712,
+      "respuestas": 53,
       "citas": 33,
       "bookmarks": 9,
-      "interacciones": 1900,
-      "interacciones_por_publicacion": 35.84905660377358,
-      "impresiones_por_publicacion": 1410.5283018867924,
-      "engagement_sobre_impresiones": 2.541534016426336,
+      "interacciones": 1909,
+      "interacciones_por_publicacion": 36.0188679245283,
+      "impresiones_por_publicacion": 1416.5094339622642,
+      "engagement_sobre_impresiones": 2.542790542790543,
       "mejor_publicacion_interacciones": {
         "id": "2118396177385439430",
         "fecha": "2026-11-05T17:33:01.000Z",
@@ -597,7 +621,9 @@
           "reply_count": 2,
           "retweet_count": 12
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Canarias",
@@ -619,7 +645,9 @@
       "impresiones_por_publicacion": 0,
       "engagement_sobre_impresiones": 0,
       "mejor_publicacion_interacciones": null,
-      "mejor_publicacion_impresiones": null
+      "mejor_publicacion_impresiones": null,
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Cantabria",
@@ -627,9 +655,9 @@
       "seguidores": 3312,
       "siguiendo": 1553,
       "total_publicaciones": 4,
-      "actividad_total": 14,
+      "actividad_total": 15,
       "publicaciones_propias": 4,
-      "retweets": 10,
+      "retweets": 11,
       "impresiones": 603,
       "likes": 20,
       "reposts": 16,
@@ -667,7 +695,9 @@
           "reply_count": 1,
           "retweet_count": 6
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Castilla-La Mancha",
@@ -678,7 +708,7 @@
       "actividad_total": 52,
       "publicaciones_propias": 16,
       "retweets": 36,
-      "impresiones": 11872,
+      "impresiones": 11873,
       "likes": 118,
       "reposts": 57,
       "respuestas": 16,
@@ -686,8 +716,8 @@
       "bookmarks": 1,
       "interacciones": 194,
       "interacciones_por_publicacion": 12.125,
-      "impresiones_por_publicacion": 742,
-      "engagement_sobre_impresiones": 1.6340970350404314,
+      "impresiones_por_publicacion": 742.0625,
+      "engagement_sobre_impresiones": 1.6339594036890424,
       "mejor_publicacion_interacciones": {
         "id": "2111026883806507202",
         "fecha": "2026-10-16T09:30:04.000Z",
@@ -715,7 +745,9 @@
           "reply_count": 2,
           "retweet_count": 20
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Castilla y León",
@@ -763,7 +795,9 @@
           "reply_count": 8,
           "retweet_count": 18
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de la Comunitat Valenciana",
@@ -811,27 +845,29 @@
           "reply_count": 0,
           "retweet_count": 2
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Valencia",
       "username": "nngg_vlc",
-      "seguidores": 307,
+      "seguidores": 306,
       "siguiendo": 253,
-      "total_publicaciones": 92,
-      "actividad_total": 382,
-      "publicaciones_propias": 92,
-      "retweets": 290,
-      "impresiones": 372133,
-      "likes": 9815,
-      "reposts": 1481,
-      "respuestas": 1060,
-      "citas": 116,
-      "bookmarks": 272,
-      "interacciones": 12472,
-      "interacciones_por_publicacion": 135.56521739130434,
-      "impresiones_por_publicacion": 4044.9239130434785,
-      "engagement_sobre_impresiones": 3.3514899243012577,
+      "total_publicaciones": 94,
+      "actividad_total": 385,
+      "publicaciones_propias": 94,
+      "retweets": 291,
+      "impresiones": 378575,
+      "likes": 9966,
+      "reposts": 1529,
+      "respuestas": 1084,
+      "citas": 119,
+      "bookmarks": 275,
+      "interacciones": 12698,
+      "interacciones_por_publicacion": 135.08510638297872,
+      "impresiones_por_publicacion": 4027.3936170212764,
+      "engagement_sobre_impresiones": 3.3541570362543753,
       "mejor_publicacion_interacciones": {
         "id": "2120619374415323197",
         "fecha": "2026-11-11T20:47:12.000Z",
@@ -859,7 +895,9 @@
           "reply_count": 40,
           "retweet_count": 136
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Extremadura",
@@ -907,7 +945,9 @@
           "reply_count": 0,
           "retweet_count": 5
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Novas Xeracións de Galicia",
@@ -955,7 +995,9 @@
           "reply_count": 7,
           "retweet_count": 4
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de La Rioja",
@@ -977,7 +1019,9 @@
       "impresiones_por_publicacion": 0,
       "engagement_sobre_impresiones": 0,
       "mejor_publicacion_interacciones": null,
-      "mejor_publicacion_impresiones": null
+      "mejor_publicacion_impresiones": null,
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de la Región de Murcia",
@@ -985,9 +1029,9 @@
       "seguidores": 4106,
       "siguiendo": 1421,
       "total_publicaciones": 56,
-      "actividad_total": 329,
+      "actividad_total": 330,
       "publicaciones_propias": 56,
-      "retweets": 273,
+      "retweets": 274,
       "impresiones": 209815,
       "likes": 9165,
       "reposts": 1861,
@@ -1025,27 +1069,29 @@
           "reply_count": 200,
           "retweet_count": 275
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Navarra",
       "username": "nngg_navarra",
-      "seguidores": 2153,
+      "seguidores": 2154,
       "siguiendo": 2086,
       "total_publicaciones": 176,
       "actividad_total": 341,
       "publicaciones_propias": 176,
       "retweets": 165,
-      "impresiones": 487209,
-      "likes": 14699,
+      "impresiones": 489063,
+      "likes": 14702,
       "reposts": 1926,
-      "respuestas": 1473,
+      "respuestas": 1480,
       "citas": 135,
       "bookmarks": 137,
-      "interacciones": 18233,
-      "interacciones_por_publicacion": 103.5965909090909,
-      "impresiones_por_publicacion": 2768.2329545454545,
-      "engagement_sobre_impresiones": 3.7423364510918313,
+      "interacciones": 18243,
+      "interacciones_por_publicacion": 103.6534090909091,
+      "impresiones_por_publicacion": 2778.7670454545455,
+      "engagement_sobre_impresiones": 3.730194269449948,
       "mejor_publicacion_interacciones": {
         "id": "2112490175813087440",
         "fecha": "2026-10-20T10:24:40.000Z",
@@ -1073,7 +1119,9 @@
           "reply_count": 83,
           "retweet_count": 468
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones del País Vasco",
@@ -1121,7 +1169,9 @@
           "reply_count": 14,
           "retweet_count": 51
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Ceuta",
@@ -1143,7 +1193,9 @@
       "impresiones_por_publicacion": 0,
       "engagement_sobre_impresiones": 0,
       "mejor_publicacion_interacciones": null,
-      "mejor_publicacion_impresiones": null
+      "mejor_publicacion_impresiones": null,
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
     },
     {
       "nombre": "Nuevas Generaciones de Melilla",
@@ -1191,7 +1243,61 @@
           "reply_count": 1,
           "retweet_count": 13
         }
-      }
+      },
+      "tipo_fuente": "organizacion_juvenil",
+      "incluir_en_visor": true
+    }
+  ],
+  "auxiliares": [
+    {
+      "nombre": "Partit Popular de Catalunya",
+      "username": "PPCatalunya",
+      "seguidores": 66659,
+      "siguiendo": 1147,
+      "total_publicaciones": 67,
+      "actividad_total": 118,
+      "publicaciones_propias": 67,
+      "retweets": 51,
+      "impresiones": 1058338,
+      "likes": 24312,
+      "reposts": 5894,
+      "respuestas": 1415,
+      "citas": 145,
+      "bookmarks": 313,
+      "interacciones": 31766,
+      "interacciones_por_publicacion": 474.1194029850746,
+      "impresiones_por_publicacion": 15796.089552238805,
+      "engagement_sobre_impresiones": 3.0014985760692707,
+      "mejor_publicacion_interacciones": {
+        "id": "2111371808612176214",
+        "fecha": "2026-10-17T08:20:41.000Z",
+        "texto": "A ver, inaugurador de eclipses, que mientes como tu amo Pedro.\n\n1. Feijóo no perdió las elecciones, las ganó. Y el PSOE, para gobernar tras perder, pactó con filoetarras y golpistas.\n\n2. Quien congeló las pensiones fue el joyero Zapatero y Sánchez votó a favor como diputado. https://t.co/0maf9dOfUC",
+        "interacciones": 3056,
+        "metricas": {
+          "bookmark_count": 15,
+          "impression_count": 39516,
+          "like_count": 2371,
+          "quote_count": 14,
+          "reply_count": 123,
+          "retweet_count": 548
+        }
+      },
+      "mejor_publicacion_impresiones": {
+        "id": "2119558834520023217",
+        "fecha": "2026-11-08T22:33:00.000Z",
+        "texto": "El multirreincidente español, a la cárcel. El multirreincidente extranjero, avión y de vuelta a casa.\n\n@Albiol_XG xg #DebatRTVE29N https://t.co/o6Um93gzKX",
+        "impresiones": 487060,
+        "metricas": {
+          "bookmark_count": 43,
+          "impression_count": 487060,
+          "like_count": 1200,
+          "quote_count": 9,
+          "reply_count": 34,
+          "retweet_count": 221
+        }
+      },
+      "tipo_fuente": "auxiliar",
+      "incluir_en_visor": false
     }
   ],
   "rankings": {
@@ -1199,22 +1305,22 @@
       {
         "nombre": "Nuevas Generaciones de Madrid",
         "username": "nnggmadrid",
-        "seguidores": 19422,
+        "seguidores": 19424,
         "siguiendo": 2852,
-        "total_publicaciones": 89,
-        "actividad_total": 345,
-        "publicaciones_propias": 89,
+        "total_publicaciones": 90,
+        "actividad_total": 346,
+        "publicaciones_propias": 90,
         "retweets": 256,
-        "impresiones": 4822269,
-        "likes": 155674,
-        "reposts": 22429,
-        "respuestas": 9021,
-        "citas": 1978,
-        "bookmarks": 3526,
-        "interacciones": 189102,
-        "interacciones_por_publicacion": 2124.741573033708,
-        "impresiones_por_publicacion": 54182.79775280899,
-        "engagement_sobre_impresiones": 3.921432006385376,
+        "impresiones": 4831838,
+        "likes": 156316,
+        "reposts": 22497,
+        "respuestas": 9045,
+        "citas": 1983,
+        "bookmarks": 3554,
+        "interacciones": 189841,
+        "interacciones_por_publicacion": 2109.3444444444444,
+        "impresiones_por_publicacion": 53687.08888888889,
+        "engagement_sobre_impresiones": 3.9289603666348087,
         "mejor_publicacion_interacciones": {
           "id": "2110082808735539278",
           "fecha": "2026-10-13T18:58:39.000Z",
@@ -1242,27 +1348,29 @@
             "reply_count": 307,
             "retweet_count": 806
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Juventudes Socialistas de España",
         "username": "JSE_ORG",
-        "seguidores": 28049,
+        "seguidores": 28057,
         "siguiendo": 2658,
         "total_publicaciones": 91,
         "actividad_total": 116,
         "publicaciones_propias": 91,
         "retweets": 25,
-        "impresiones": 4686296,
-        "likes": 53110,
-        "reposts": 15665,
-        "respuestas": 8952,
-        "citas": 1175,
-        "bookmarks": 1428,
-        "interacciones": 78902,
-        "interacciones_por_publicacion": 867.054945054945,
-        "impresiones_por_publicacion": 51497.758241758245,
-        "engagement_sobre_impresiones": 1.6836751242345769,
+        "impresiones": 4687770,
+        "likes": 53223,
+        "reposts": 15712,
+        "respuestas": 8972,
+        "citas": 1177,
+        "bookmarks": 1433,
+        "interacciones": 79084,
+        "interacciones_por_publicacion": 869.054945054945,
+        "impresiones_por_publicacion": 51513.956043956045,
+        "engagement_sobre_impresiones": 1.6870281605112878,
         "mejor_publicacion_interacciones": {
           "id": "2122326388799951098",
           "fecha": "2026-11-16T13:50:16.000Z",
@@ -1290,27 +1398,29 @@
             "reply_count": 1366,
             "retweet_count": 362
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de España",
         "username": "NNGG_Es",
-        "seguidores": 41986,
+        "seguidores": 41985,
         "siguiendo": 2036,
         "total_publicaciones": 92,
-        "actividad_total": 147,
+        "actividad_total": 148,
         "publicaciones_propias": 92,
-        "retweets": 55,
-        "impresiones": 4616511,
-        "likes": 137149,
-        "reposts": 19167,
-        "respuestas": 9346,
-        "citas": 1959,
-        "bookmarks": 2547,
-        "interacciones": 167621,
-        "interacciones_por_publicacion": 1821.9673913043478,
-        "impresiones_por_publicacion": 50179.467391304344,
-        "engagement_sobre_impresiones": 3.6309022116485803,
+        "retweets": 56,
+        "impresiones": 4619224,
+        "likes": 137321,
+        "reposts": 19194,
+        "respuestas": 9361,
+        "citas": 1961,
+        "bookmarks": 2553,
+        "interacciones": 167837,
+        "interacciones_por_publicacion": 1824.3152173913043,
+        "impresiones_por_publicacion": 50208.95652173913,
+        "engagement_sobre_impresiones": 3.633445790894748,
         "mejor_publicacion_interacciones": {
           "id": "2109240249746649122",
           "fecha": "2026-10-11T11:10:37.000Z",
@@ -1338,27 +1448,29 @@
             "reply_count": 646,
             "retweet_count": 3430
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Revuelta",
         "username": "revuelta_es",
-        "seguidores": 64454,
+        "seguidores": 64447,
         "siguiendo": 173,
-        "total_publicaciones": 90,
-        "actividad_total": 107,
-        "publicaciones_propias": 90,
+        "total_publicaciones": 91,
+        "actividad_total": 108,
+        "publicaciones_propias": 91,
         "retweets": 17,
-        "impresiones": 2387498,
-        "likes": 44364,
-        "reposts": 9798,
-        "respuestas": 2166,
+        "impresiones": 2389030,
+        "likes": 44387,
+        "reposts": 9803,
+        "respuestas": 2170,
         "citas": 505,
-        "bookmarks": 2777,
-        "interacciones": 56833,
-        "interacciones_por_publicacion": 631.4777777777778,
-        "impresiones_por_publicacion": 26527.755555555555,
-        "engagement_sobre_impresiones": 2.380441784663275,
+        "bookmarks": 2778,
+        "interacciones": 56865,
+        "interacciones_por_publicacion": 624.8901098901099,
+        "impresiones_por_publicacion": 26253.076923076922,
+        "engagement_sobre_impresiones": 2.3802547477428075,
         "mejor_publicacion_interacciones": {
           "id": "2113352382746890326",
           "fecha": "2026-10-22T19:30:46.000Z",
@@ -1386,7 +1498,9 @@
             "reply_count": 351,
             "retweet_count": 1226
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Noves Generacions de Catalunya",
@@ -1397,16 +1511,16 @@
         "actividad_total": 163,
         "publicaciones_propias": 72,
         "retweets": 91,
-        "impresiones": 1799138,
-        "likes": 90596,
-        "reposts": 11740,
+        "impresiones": 1802611,
+        "likes": 90661,
+        "reposts": 11758,
         "respuestas": 3195,
         "citas": 488,
-        "bookmarks": 1387,
-        "interacciones": 106019,
-        "interacciones_por_publicacion": 1472.486111111111,
-        "impresiones_por_publicacion": 24988.027777777777,
-        "engagement_sobre_impresiones": 5.8927664248101035,
+        "bookmarks": 1392,
+        "interacciones": 106102,
+        "interacciones_por_publicacion": 1473.638888888889,
+        "impresiones_por_publicacion": 25036.26388888889,
+        "engagement_sobre_impresiones": 5.886017560083678,
         "mejor_publicacion_interacciones": {
           "id": "2110043935854747899",
           "fecha": "2026-10-13T16:24:11.000Z",
@@ -1434,27 +1548,29 @@
             "reply_count": 94,
             "retweet_count": 1109
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Navarra",
         "username": "nngg_navarra",
-        "seguidores": 2153,
+        "seguidores": 2154,
         "siguiendo": 2086,
         "total_publicaciones": 176,
         "actividad_total": 341,
         "publicaciones_propias": 176,
         "retweets": 165,
-        "impresiones": 487209,
-        "likes": 14699,
+        "impresiones": 489063,
+        "likes": 14702,
         "reposts": 1926,
-        "respuestas": 1473,
+        "respuestas": 1480,
         "citas": 135,
         "bookmarks": 137,
-        "interacciones": 18233,
-        "interacciones_por_publicacion": 103.5965909090909,
-        "impresiones_por_publicacion": 2768.2329545454545,
-        "engagement_sobre_impresiones": 3.7423364510918313,
+        "interacciones": 18243,
+        "interacciones_por_publicacion": 103.6534090909091,
+        "impresiones_por_publicacion": 2778.7670454545455,
+        "engagement_sobre_impresiones": 3.730194269449948,
         "mejor_publicacion_interacciones": {
           "id": "2112490175813087440",
           "fecha": "2026-10-20T10:24:40.000Z",
@@ -1482,27 +1598,29 @@
             "reply_count": 83,
             "retweet_count": 468
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Valencia",
         "username": "nngg_vlc",
-        "seguidores": 307,
+        "seguidores": 306,
         "siguiendo": 253,
-        "total_publicaciones": 92,
-        "actividad_total": 382,
-        "publicaciones_propias": 92,
-        "retweets": 290,
-        "impresiones": 372133,
-        "likes": 9815,
-        "reposts": 1481,
-        "respuestas": 1060,
-        "citas": 116,
-        "bookmarks": 272,
-        "interacciones": 12472,
-        "interacciones_por_publicacion": 135.56521739130434,
-        "impresiones_por_publicacion": 4044.9239130434785,
-        "engagement_sobre_impresiones": 3.3514899243012577,
+        "total_publicaciones": 94,
+        "actividad_total": 385,
+        "publicaciones_propias": 94,
+        "retweets": 291,
+        "impresiones": 378575,
+        "likes": 9966,
+        "reposts": 1529,
+        "respuestas": 1084,
+        "citas": 119,
+        "bookmarks": 275,
+        "interacciones": 12698,
+        "interacciones_por_publicacion": 135.08510638297872,
+        "impresiones_por_publicacion": 4027.3936170212764,
+        "engagement_sobre_impresiones": 3.3541570362543753,
         "mejor_publicacion_interacciones": {
           "id": "2120619374415323197",
           "fecha": "2026-11-11T20:47:12.000Z",
@@ -1530,7 +1648,9 @@
             "reply_count": 40,
             "retweet_count": 136
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de la Región de Murcia",
@@ -1538,9 +1658,9 @@
         "seguidores": 4106,
         "siguiendo": 1421,
         "total_publicaciones": 56,
-        "actividad_total": 329,
+        "actividad_total": 330,
         "publicaciones_propias": 56,
-        "retweets": 273,
+        "retweets": 274,
         "impresiones": 209815,
         "likes": 9165,
         "reposts": 1861,
@@ -1578,7 +1698,9 @@
             "reply_count": 200,
             "retweet_count": 275
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Arran",
@@ -1589,16 +1711,16 @@
         "actividad_total": 105,
         "publicaciones_propias": 37,
         "retweets": 68,
-        "impresiones": 180542,
-        "likes": 5131,
-        "reposts": 1400,
+        "impresiones": 180854,
+        "likes": 5146,
+        "reposts": 1411,
         "respuestas": 348,
         "citas": 142,
         "bookmarks": 91,
-        "interacciones": 7021,
-        "interacciones_por_publicacion": 189.75675675675674,
-        "impresiones_por_publicacion": 4879.513513513513,
-        "engagement_sobre_impresiones": 3.8888458087314866,
+        "interacciones": 7047,
+        "interacciones_por_publicacion": 190.45945945945945,
+        "impresiones_por_publicacion": 4887.945945945946,
+        "engagement_sobre_impresiones": 3.8965132095502453,
         "mejor_publicacion_interacciones": {
           "id": "2119833487754580053",
           "fecha": "2026-11-09T16:44:22.000Z",
@@ -1626,27 +1748,29 @@
             "reply_count": 117,
             "retweet_count": 356
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Joventut Nacionalista de Catalunya",
         "username": "JNCatalunya",
-        "seguidores": 10791,
+        "seguidores": 10792,
         "siguiendo": 522,
         "total_publicaciones": 34,
         "actividad_total": 66,
         "publicaciones_propias": 34,
         "retweets": 32,
-        "impresiones": 119864,
-        "likes": 3075,
-        "reposts": 987,
+        "impresiones": 120070,
+        "likes": 3088,
+        "reposts": 991,
         "respuestas": 98,
         "citas": 45,
         "bookmarks": 50,
-        "interacciones": 4205,
-        "interacciones_por_publicacion": 123.67647058823529,
-        "impresiones_por_publicacion": 3525.4117647058824,
-        "engagement_sobre_impresiones": 3.508142561569779,
+        "interacciones": 4222,
+        "interacciones_por_publicacion": 124.17647058823529,
+        "impresiones_por_publicacion": 3531.470588235294,
+        "engagement_sobre_impresiones": 3.516282168734905,
         "mejor_publicacion_interacciones": {
           "id": "2122069401826632159",
           "fecha": "2026-11-15T20:49:06.000Z",
@@ -1674,27 +1798,29 @@
             "reply_count": 7,
             "retweet_count": 24
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Illes Balears",
         "username": "NNGGBalears",
-        "seguidores": 3256,
+        "seguidores": 3257,
         "siguiendo": 985,
         "total_publicaciones": 53,
         "actividad_total": 291,
         "publicaciones_propias": 53,
         "retweets": 238,
-        "impresiones": 74758,
-        "likes": 1105,
-        "reposts": 711,
-        "respuestas": 51,
+        "impresiones": 75075,
+        "likes": 1111,
+        "reposts": 712,
+        "respuestas": 53,
         "citas": 33,
         "bookmarks": 9,
-        "interacciones": 1900,
-        "interacciones_por_publicacion": 35.84905660377358,
-        "impresiones_por_publicacion": 1410.5283018867924,
-        "engagement_sobre_impresiones": 2.541534016426336,
+        "interacciones": 1909,
+        "interacciones_por_publicacion": 36.0188679245283,
+        "impresiones_por_publicacion": 1416.5094339622642,
+        "engagement_sobre_impresiones": 2.542790542790543,
         "mejor_publicacion_interacciones": {
           "id": "2118396177385439430",
           "fecha": "2026-11-05T17:33:01.000Z",
@@ -1722,27 +1848,29 @@
             "reply_count": 2,
             "retweet_count": 12
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Jovent Republicà",
         "username": "JoventRepublica",
-        "seguidores": 13781,
+        "seguidores": 13782,
         "siguiendo": 1901,
         "total_publicaciones": 26,
         "actividad_total": 32,
         "publicaciones_propias": 26,
         "retweets": 6,
-        "impresiones": 29916,
-        "likes": 1043,
-        "reposts": 473,
+        "impresiones": 29986,
+        "likes": 1049,
+        "reposts": 474,
         "respuestas": 297,
         "citas": 36,
         "bookmarks": 5,
-        "interacciones": 1849,
-        "interacciones_por_publicacion": 71.11538461538461,
-        "impresiones_por_publicacion": 1150.6153846153845,
-        "engagement_sobre_impresiones": 6.180639122877389,
+        "interacciones": 1856,
+        "interacciones_por_publicacion": 71.38461538461539,
+        "impresiones_por_publicacion": 1153.3076923076924,
+        "engagement_sobre_impresiones": 6.189555125725339,
         "mejor_publicacion_interacciones": {
           "id": "2111338284060205318",
           "fecha": "2026-10-17T06:07:28.000Z",
@@ -1770,7 +1898,9 @@
             "reply_count": 68,
             "retweet_count": 35
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Asturias",
@@ -1781,16 +1911,16 @@
         "actividad_total": 66,
         "publicaciones_propias": 11,
         "retweets": 55,
-        "impresiones": 21857,
-        "likes": 446,
-        "reposts": 77,
+        "impresiones": 22016,
+        "likes": 455,
+        "reposts": 78,
         "respuestas": 22,
-        "citas": 0,
+        "citas": 1,
         "bookmarks": 7,
-        "interacciones": 545,
-        "interacciones_por_publicacion": 49.54545454545455,
-        "impresiones_por_publicacion": 1987,
-        "engagement_sobre_impresiones": 2.493480349544768,
+        "interacciones": 556,
+        "interacciones_por_publicacion": 50.54545454545455,
+        "impresiones_por_publicacion": 2001.4545454545455,
+        "engagement_sobre_impresiones": 2.525436046511628,
         "mejor_publicacion_interacciones": {
           "id": "2119136197557760350",
           "fecha": "2026-11-07T18:33:35.000Z",
@@ -1818,7 +1948,9 @@
             "reply_count": 14,
             "retweet_count": 19
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones del País Vasco",
@@ -1866,7 +1998,9 @@
             "reply_count": 14,
             "retweet_count": 51
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Castilla-La Mancha",
@@ -1877,7 +2011,7 @@
         "actividad_total": 52,
         "publicaciones_propias": 16,
         "retweets": 36,
-        "impresiones": 11872,
+        "impresiones": 11873,
         "likes": 118,
         "reposts": 57,
         "respuestas": 16,
@@ -1885,8 +2019,8 @@
         "bookmarks": 1,
         "interacciones": 194,
         "interacciones_por_publicacion": 12.125,
-        "impresiones_por_publicacion": 742,
-        "engagement_sobre_impresiones": 1.6340970350404314,
+        "impresiones_por_publicacion": 742.0625,
+        "engagement_sobre_impresiones": 1.6339594036890424,
         "mejor_publicacion_interacciones": {
           "id": "2111026883806507202",
           "fecha": "2026-10-16T09:30:04.000Z",
@@ -1914,7 +2048,9 @@
             "reply_count": 2,
             "retweet_count": 20
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Castilla y León",
@@ -1962,7 +2098,9 @@
             "reply_count": 8,
             "retweet_count": 18
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Andalucía",
@@ -1973,7 +2111,7 @@
         "actividad_total": 40,
         "publicaciones_propias": 16,
         "retweets": 24,
-        "impresiones": 3589,
+        "impresiones": 3591,
         "likes": 115,
         "reposts": 48,
         "respuestas": 6,
@@ -1981,8 +2119,8 @@
         "bookmarks": 1,
         "interacciones": 169,
         "interacciones_por_publicacion": 10.5625,
-        "impresiones_por_publicacion": 224.3125,
-        "engagement_sobre_impresiones": 4.70883254388409,
+        "impresiones_por_publicacion": 224.4375,
+        "engagement_sobre_impresiones": 4.706209969367864,
         "mejor_publicacion_interacciones": {
           "id": "2111510811558707414",
           "fecha": "2026-10-17T17:33:02.000Z",
@@ -2010,7 +2148,59 @@
             "reply_count": 1,
             "retweet_count": 3
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
+      },
+      {
+        "nombre": "Joventut Socialista de Catalunya",
+        "username": "jsccatalunya",
+        "seguidores": 6701,
+        "siguiendo": 716,
+        "total_publicaciones": 4,
+        "actividad_total": 12,
+        "publicaciones_propias": 4,
+        "retweets": 8,
+        "impresiones": 2285,
+        "likes": 93,
+        "reposts": 35,
+        "respuestas": 2,
+        "citas": 0,
+        "bookmarks": 1,
+        "interacciones": 130,
+        "interacciones_por_publicacion": 32.5,
+        "impresiones_por_publicacion": 571.25,
+        "engagement_sobre_impresiones": 5.689277899343545,
+        "mejor_publicacion_interacciones": {
+          "id": "2107012935122124812",
+          "fecha": "2026-10-05T07:40:04.000Z",
+          "texto": "Ens hi deixarem la pell per defensar els drets de la gent jove, l’habitatge i un futur amb oportunitats per a tothom.\n\n🌹 Plantarem cara als fons voltor.\n✊ Estem preparats i preparades.\n❤️A votar, a mobilitzar-nos i a guanyar! https://t.co/fBZlEJyiJ9",
+          "interacciones": 45,
+          "metricas": {
+            "bookmark_count": 0,
+            "impression_count": 577,
+            "like_count": 33,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 11
+          }
+        },
+        "mejor_publicacion_impresiones": {
+          "id": "2109932963207041216",
+          "fecha": "2026-10-13T09:03:13.000Z",
+          "texto": "Senyor Fernández, pel 12-O només s'està aixecat per l'arribada dels Reis, l'Himne, els Caiguts i la Bandera. La resta es mira assegut, com pot veure que va fer la Reina i el Govern. \n\nMenys demagògia i més conèixer el protocol amb una mica de sort algun dia ho descobriràs! 😉 https://t.co/Naq1u9v5Tj https://t.co/SuMhr8qTn9",
+          "impresiones": 622,
+          "metricas": {
+            "bookmark_count": 1,
+            "impression_count": 622,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+          }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Melilla",
@@ -2058,55 +2248,9 @@
             "reply_count": 1,
             "retweet_count": 13
           }
-        }
-      },
-      {
-        "nombre": "Joventut Socialista de Catalunya",
-        "username": "jsccatalunya",
-        "seguidores": 6701,
-        "siguiendo": 716,
-        "total_publicaciones": 4,
-        "actividad_total": 12,
-        "publicaciones_propias": 4,
-        "retweets": 8,
-        "impresiones": 2195,
-        "likes": 87,
-        "reposts": 34,
-        "respuestas": 2,
-        "citas": 0,
-        "bookmarks": 1,
-        "interacciones": 123,
-        "interacciones_por_publicacion": 30.75,
-        "impresiones_por_publicacion": 548.75,
-        "engagement_sobre_impresiones": 5.603644646924829,
-        "mejor_publicacion_interacciones": {
-          "id": "2107012935122124812",
-          "fecha": "2026-10-05T07:40:04.000Z",
-          "texto": "Ens hi deixarem la pell per defensar els drets de la gent jove, l’habitatge i un futur amb oportunitats per a tothom.\n\n🌹 Plantarem cara als fons voltor.\n✊ Estem preparats i preparades.\n❤️A votar, a mobilitzar-nos i a guanyar! https://t.co/fBZlEJyiJ9",
-          "interacciones": 45,
-          "metricas": {
-            "bookmark_count": 0,
-            "impression_count": 577,
-            "like_count": 33,
-            "quote_count": 0,
-            "reply_count": 1,
-            "retweet_count": 11
-          }
         },
-        "mejor_publicacion_impresiones": {
-          "id": "2109932963207041216",
-          "fecha": "2026-10-13T09:03:13.000Z",
-          "texto": "Senyor Fernández, pel 12-O només s'està aixecat per l'arribada dels Reis, l'Himne, els Caiguts i la Bandera. La resta es mira assegut, com pot veure que va fer la Reina i el Govern. \n\nMenys demagògia i més conèixer el protocol amb una mica de sort algun dia ho descobriràs! 😉 https://t.co/Naq1u9v5Tj https://t.co/SuMhr8qTn9",
-          "impresiones": 622,
-          "metricas": {
-            "bookmark_count": 1,
-            "impression_count": 622,
-            "like_count": 15,
-            "quote_count": 0,
-            "reply_count": 0,
-            "retweet_count": 4
-          }
-        }
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Extremadura",
@@ -2154,7 +2298,9 @@
             "reply_count": 0,
             "retweet_count": 5
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Novas Xeracións de Galicia",
@@ -2202,7 +2348,9 @@
             "reply_count": 7,
             "retweet_count": 4
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Cantabria",
@@ -2210,9 +2358,9 @@
         "seguidores": 3312,
         "siguiendo": 1553,
         "total_publicaciones": 4,
-        "actividad_total": 14,
+        "actividad_total": 15,
         "publicaciones_propias": 4,
-        "retweets": 10,
+        "retweets": 11,
         "impresiones": 603,
         "likes": 20,
         "reposts": 16,
@@ -2250,7 +2398,9 @@
             "reply_count": 1,
             "retweet_count": 6
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de la Comunitat Valenciana",
@@ -2298,7 +2448,9 @@
             "reply_count": 0,
             "retweet_count": 2
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Aragón",
@@ -2320,7 +2472,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Canarias",
@@ -2342,7 +2496,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de La Rioja",
@@ -2364,7 +2520,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Ceuta",
@@ -2386,29 +2544,31 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       }
     ],
     "por_interacciones": [
       {
         "nombre": "Nuevas Generaciones de Madrid",
         "username": "nnggmadrid",
-        "seguidores": 19422,
+        "seguidores": 19424,
         "siguiendo": 2852,
-        "total_publicaciones": 89,
-        "actividad_total": 345,
-        "publicaciones_propias": 89,
+        "total_publicaciones": 90,
+        "actividad_total": 346,
+        "publicaciones_propias": 90,
         "retweets": 256,
-        "impresiones": 4822269,
-        "likes": 155674,
-        "reposts": 22429,
-        "respuestas": 9021,
-        "citas": 1978,
-        "bookmarks": 3526,
-        "interacciones": 189102,
-        "interacciones_por_publicacion": 2124.741573033708,
-        "impresiones_por_publicacion": 54182.79775280899,
-        "engagement_sobre_impresiones": 3.921432006385376,
+        "impresiones": 4831838,
+        "likes": 156316,
+        "reposts": 22497,
+        "respuestas": 9045,
+        "citas": 1983,
+        "bookmarks": 3554,
+        "interacciones": 189841,
+        "interacciones_por_publicacion": 2109.3444444444444,
+        "impresiones_por_publicacion": 53687.08888888889,
+        "engagement_sobre_impresiones": 3.9289603666348087,
         "mejor_publicacion_interacciones": {
           "id": "2110082808735539278",
           "fecha": "2026-10-13T18:58:39.000Z",
@@ -2436,27 +2596,29 @@
             "reply_count": 307,
             "retweet_count": 806
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de España",
         "username": "NNGG_Es",
-        "seguidores": 41986,
+        "seguidores": 41985,
         "siguiendo": 2036,
         "total_publicaciones": 92,
-        "actividad_total": 147,
+        "actividad_total": 148,
         "publicaciones_propias": 92,
-        "retweets": 55,
-        "impresiones": 4616511,
-        "likes": 137149,
-        "reposts": 19167,
-        "respuestas": 9346,
-        "citas": 1959,
-        "bookmarks": 2547,
-        "interacciones": 167621,
-        "interacciones_por_publicacion": 1821.9673913043478,
-        "impresiones_por_publicacion": 50179.467391304344,
-        "engagement_sobre_impresiones": 3.6309022116485803,
+        "retweets": 56,
+        "impresiones": 4619224,
+        "likes": 137321,
+        "reposts": 19194,
+        "respuestas": 9361,
+        "citas": 1961,
+        "bookmarks": 2553,
+        "interacciones": 167837,
+        "interacciones_por_publicacion": 1824.3152173913043,
+        "impresiones_por_publicacion": 50208.95652173913,
+        "engagement_sobre_impresiones": 3.633445790894748,
         "mejor_publicacion_interacciones": {
           "id": "2109240249746649122",
           "fecha": "2026-10-11T11:10:37.000Z",
@@ -2484,7 +2646,9 @@
             "reply_count": 646,
             "retweet_count": 3430
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Noves Generacions de Catalunya",
@@ -2495,16 +2659,16 @@
         "actividad_total": 163,
         "publicaciones_propias": 72,
         "retweets": 91,
-        "impresiones": 1799138,
-        "likes": 90596,
-        "reposts": 11740,
+        "impresiones": 1802611,
+        "likes": 90661,
+        "reposts": 11758,
         "respuestas": 3195,
         "citas": 488,
-        "bookmarks": 1387,
-        "interacciones": 106019,
-        "interacciones_por_publicacion": 1472.486111111111,
-        "impresiones_por_publicacion": 24988.027777777777,
-        "engagement_sobre_impresiones": 5.8927664248101035,
+        "bookmarks": 1392,
+        "interacciones": 106102,
+        "interacciones_por_publicacion": 1473.638888888889,
+        "impresiones_por_publicacion": 25036.26388888889,
+        "engagement_sobre_impresiones": 5.886017560083678,
         "mejor_publicacion_interacciones": {
           "id": "2110043935854747899",
           "fecha": "2026-10-13T16:24:11.000Z",
@@ -2532,27 +2696,29 @@
             "reply_count": 94,
             "retweet_count": 1109
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Juventudes Socialistas de España",
         "username": "JSE_ORG",
-        "seguidores": 28049,
+        "seguidores": 28057,
         "siguiendo": 2658,
         "total_publicaciones": 91,
         "actividad_total": 116,
         "publicaciones_propias": 91,
         "retweets": 25,
-        "impresiones": 4686296,
-        "likes": 53110,
-        "reposts": 15665,
-        "respuestas": 8952,
-        "citas": 1175,
-        "bookmarks": 1428,
-        "interacciones": 78902,
-        "interacciones_por_publicacion": 867.054945054945,
-        "impresiones_por_publicacion": 51497.758241758245,
-        "engagement_sobre_impresiones": 1.6836751242345769,
+        "impresiones": 4687770,
+        "likes": 53223,
+        "reposts": 15712,
+        "respuestas": 8972,
+        "citas": 1177,
+        "bookmarks": 1433,
+        "interacciones": 79084,
+        "interacciones_por_publicacion": 869.054945054945,
+        "impresiones_por_publicacion": 51513.956043956045,
+        "engagement_sobre_impresiones": 1.6870281605112878,
         "mejor_publicacion_interacciones": {
           "id": "2122326388799951098",
           "fecha": "2026-11-16T13:50:16.000Z",
@@ -2580,27 +2746,29 @@
             "reply_count": 1366,
             "retweet_count": 362
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Revuelta",
         "username": "revuelta_es",
-        "seguidores": 64454,
+        "seguidores": 64447,
         "siguiendo": 173,
-        "total_publicaciones": 90,
-        "actividad_total": 107,
-        "publicaciones_propias": 90,
+        "total_publicaciones": 91,
+        "actividad_total": 108,
+        "publicaciones_propias": 91,
         "retweets": 17,
-        "impresiones": 2387498,
-        "likes": 44364,
-        "reposts": 9798,
-        "respuestas": 2166,
+        "impresiones": 2389030,
+        "likes": 44387,
+        "reposts": 9803,
+        "respuestas": 2170,
         "citas": 505,
-        "bookmarks": 2777,
-        "interacciones": 56833,
-        "interacciones_por_publicacion": 631.4777777777778,
-        "impresiones_por_publicacion": 26527.755555555555,
-        "engagement_sobre_impresiones": 2.380441784663275,
+        "bookmarks": 2778,
+        "interacciones": 56865,
+        "interacciones_por_publicacion": 624.8901098901099,
+        "impresiones_por_publicacion": 26253.076923076922,
+        "engagement_sobre_impresiones": 2.3802547477428075,
         "mejor_publicacion_interacciones": {
           "id": "2113352382746890326",
           "fecha": "2026-10-22T19:30:46.000Z",
@@ -2628,27 +2796,29 @@
             "reply_count": 351,
             "retweet_count": 1226
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Navarra",
         "username": "nngg_navarra",
-        "seguidores": 2153,
+        "seguidores": 2154,
         "siguiendo": 2086,
         "total_publicaciones": 176,
         "actividad_total": 341,
         "publicaciones_propias": 176,
         "retweets": 165,
-        "impresiones": 487209,
-        "likes": 14699,
+        "impresiones": 489063,
+        "likes": 14702,
         "reposts": 1926,
-        "respuestas": 1473,
+        "respuestas": 1480,
         "citas": 135,
         "bookmarks": 137,
-        "interacciones": 18233,
-        "interacciones_por_publicacion": 103.5965909090909,
-        "impresiones_por_publicacion": 2768.2329545454545,
-        "engagement_sobre_impresiones": 3.7423364510918313,
+        "interacciones": 18243,
+        "interacciones_por_publicacion": 103.6534090909091,
+        "impresiones_por_publicacion": 2778.7670454545455,
+        "engagement_sobre_impresiones": 3.730194269449948,
         "mejor_publicacion_interacciones": {
           "id": "2112490175813087440",
           "fecha": "2026-10-20T10:24:40.000Z",
@@ -2676,27 +2846,29 @@
             "reply_count": 83,
             "retweet_count": 468
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Valencia",
         "username": "nngg_vlc",
-        "seguidores": 307,
+        "seguidores": 306,
         "siguiendo": 253,
-        "total_publicaciones": 92,
-        "actividad_total": 382,
-        "publicaciones_propias": 92,
-        "retweets": 290,
-        "impresiones": 372133,
-        "likes": 9815,
-        "reposts": 1481,
-        "respuestas": 1060,
-        "citas": 116,
-        "bookmarks": 272,
-        "interacciones": 12472,
-        "interacciones_por_publicacion": 135.56521739130434,
-        "impresiones_por_publicacion": 4044.9239130434785,
-        "engagement_sobre_impresiones": 3.3514899243012577,
+        "total_publicaciones": 94,
+        "actividad_total": 385,
+        "publicaciones_propias": 94,
+        "retweets": 291,
+        "impresiones": 378575,
+        "likes": 9966,
+        "reposts": 1529,
+        "respuestas": 1084,
+        "citas": 119,
+        "bookmarks": 275,
+        "interacciones": 12698,
+        "interacciones_por_publicacion": 135.08510638297872,
+        "impresiones_por_publicacion": 4027.3936170212764,
+        "engagement_sobre_impresiones": 3.3541570362543753,
         "mejor_publicacion_interacciones": {
           "id": "2120619374415323197",
           "fecha": "2026-11-11T20:47:12.000Z",
@@ -2724,7 +2896,9 @@
             "reply_count": 40,
             "retweet_count": 136
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de la Región de Murcia",
@@ -2732,9 +2906,9 @@
         "seguidores": 4106,
         "siguiendo": 1421,
         "total_publicaciones": 56,
-        "actividad_total": 329,
+        "actividad_total": 330,
         "publicaciones_propias": 56,
-        "retweets": 273,
+        "retweets": 274,
         "impresiones": 209815,
         "likes": 9165,
         "reposts": 1861,
@@ -2772,7 +2946,9 @@
             "reply_count": 200,
             "retweet_count": 275
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Arran",
@@ -2783,16 +2959,16 @@
         "actividad_total": 105,
         "publicaciones_propias": 37,
         "retweets": 68,
-        "impresiones": 180542,
-        "likes": 5131,
-        "reposts": 1400,
+        "impresiones": 180854,
+        "likes": 5146,
+        "reposts": 1411,
         "respuestas": 348,
         "citas": 142,
         "bookmarks": 91,
-        "interacciones": 7021,
-        "interacciones_por_publicacion": 189.75675675675674,
-        "impresiones_por_publicacion": 4879.513513513513,
-        "engagement_sobre_impresiones": 3.8888458087314866,
+        "interacciones": 7047,
+        "interacciones_por_publicacion": 190.45945945945945,
+        "impresiones_por_publicacion": 4887.945945945946,
+        "engagement_sobre_impresiones": 3.8965132095502453,
         "mejor_publicacion_interacciones": {
           "id": "2119833487754580053",
           "fecha": "2026-11-09T16:44:22.000Z",
@@ -2820,27 +2996,29 @@
             "reply_count": 117,
             "retweet_count": 356
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Joventut Nacionalista de Catalunya",
         "username": "JNCatalunya",
-        "seguidores": 10791,
+        "seguidores": 10792,
         "siguiendo": 522,
         "total_publicaciones": 34,
         "actividad_total": 66,
         "publicaciones_propias": 34,
         "retweets": 32,
-        "impresiones": 119864,
-        "likes": 3075,
-        "reposts": 987,
+        "impresiones": 120070,
+        "likes": 3088,
+        "reposts": 991,
         "respuestas": 98,
         "citas": 45,
         "bookmarks": 50,
-        "interacciones": 4205,
-        "interacciones_por_publicacion": 123.67647058823529,
-        "impresiones_por_publicacion": 3525.4117647058824,
-        "engagement_sobre_impresiones": 3.508142561569779,
+        "interacciones": 4222,
+        "interacciones_por_publicacion": 124.17647058823529,
+        "impresiones_por_publicacion": 3531.470588235294,
+        "engagement_sobre_impresiones": 3.516282168734905,
         "mejor_publicacion_interacciones": {
           "id": "2122069401826632159",
           "fecha": "2026-11-15T20:49:06.000Z",
@@ -2868,27 +3046,29 @@
             "reply_count": 7,
             "retweet_count": 24
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Illes Balears",
         "username": "NNGGBalears",
-        "seguidores": 3256,
+        "seguidores": 3257,
         "siguiendo": 985,
         "total_publicaciones": 53,
         "actividad_total": 291,
         "publicaciones_propias": 53,
         "retweets": 238,
-        "impresiones": 74758,
-        "likes": 1105,
-        "reposts": 711,
-        "respuestas": 51,
+        "impresiones": 75075,
+        "likes": 1111,
+        "reposts": 712,
+        "respuestas": 53,
         "citas": 33,
         "bookmarks": 9,
-        "interacciones": 1900,
-        "interacciones_por_publicacion": 35.84905660377358,
-        "impresiones_por_publicacion": 1410.5283018867924,
-        "engagement_sobre_impresiones": 2.541534016426336,
+        "interacciones": 1909,
+        "interacciones_por_publicacion": 36.0188679245283,
+        "impresiones_por_publicacion": 1416.5094339622642,
+        "engagement_sobre_impresiones": 2.542790542790543,
         "mejor_publicacion_interacciones": {
           "id": "2118396177385439430",
           "fecha": "2026-11-05T17:33:01.000Z",
@@ -2916,27 +3096,29 @@
             "reply_count": 2,
             "retweet_count": 12
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Jovent Republicà",
         "username": "JoventRepublica",
-        "seguidores": 13781,
+        "seguidores": 13782,
         "siguiendo": 1901,
         "total_publicaciones": 26,
         "actividad_total": 32,
         "publicaciones_propias": 26,
         "retweets": 6,
-        "impresiones": 29916,
-        "likes": 1043,
-        "reposts": 473,
+        "impresiones": 29986,
+        "likes": 1049,
+        "reposts": 474,
         "respuestas": 297,
         "citas": 36,
         "bookmarks": 5,
-        "interacciones": 1849,
-        "interacciones_por_publicacion": 71.11538461538461,
-        "impresiones_por_publicacion": 1150.6153846153845,
-        "engagement_sobre_impresiones": 6.180639122877389,
+        "interacciones": 1856,
+        "interacciones_por_publicacion": 71.38461538461539,
+        "impresiones_por_publicacion": 1153.3076923076924,
+        "engagement_sobre_impresiones": 6.189555125725339,
         "mejor_publicacion_interacciones": {
           "id": "2111338284060205318",
           "fecha": "2026-10-17T06:07:28.000Z",
@@ -2964,7 +3146,9 @@
             "reply_count": 68,
             "retweet_count": 35
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones del País Vasco",
@@ -3012,7 +3196,9 @@
             "reply_count": 14,
             "retweet_count": 51
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Asturias",
@@ -3023,16 +3209,16 @@
         "actividad_total": 66,
         "publicaciones_propias": 11,
         "retweets": 55,
-        "impresiones": 21857,
-        "likes": 446,
-        "reposts": 77,
+        "impresiones": 22016,
+        "likes": 455,
+        "reposts": 78,
         "respuestas": 22,
-        "citas": 0,
+        "citas": 1,
         "bookmarks": 7,
-        "interacciones": 545,
-        "interacciones_por_publicacion": 49.54545454545455,
-        "impresiones_por_publicacion": 1987,
-        "engagement_sobre_impresiones": 2.493480349544768,
+        "interacciones": 556,
+        "interacciones_por_publicacion": 50.54545454545455,
+        "impresiones_por_publicacion": 2001.4545454545455,
+        "engagement_sobre_impresiones": 2.525436046511628,
         "mejor_publicacion_interacciones": {
           "id": "2119136197557760350",
           "fecha": "2026-11-07T18:33:35.000Z",
@@ -3060,7 +3246,9 @@
             "reply_count": 14,
             "retweet_count": 19
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Castilla y León",
@@ -3108,7 +3296,9 @@
             "reply_count": 8,
             "retweet_count": 18
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Castilla-La Mancha",
@@ -3119,7 +3309,7 @@
         "actividad_total": 52,
         "publicaciones_propias": 16,
         "retweets": 36,
-        "impresiones": 11872,
+        "impresiones": 11873,
         "likes": 118,
         "reposts": 57,
         "respuestas": 16,
@@ -3127,8 +3317,8 @@
         "bookmarks": 1,
         "interacciones": 194,
         "interacciones_por_publicacion": 12.125,
-        "impresiones_por_publicacion": 742,
-        "engagement_sobre_impresiones": 1.6340970350404314,
+        "impresiones_por_publicacion": 742.0625,
+        "engagement_sobre_impresiones": 1.6339594036890424,
         "mejor_publicacion_interacciones": {
           "id": "2111026883806507202",
           "fecha": "2026-10-16T09:30:04.000Z",
@@ -3156,7 +3346,9 @@
             "reply_count": 2,
             "retweet_count": 20
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Andalucía",
@@ -3167,7 +3359,7 @@
         "actividad_total": 40,
         "publicaciones_propias": 16,
         "retweets": 24,
-        "impresiones": 3589,
+        "impresiones": 3591,
         "likes": 115,
         "reposts": 48,
         "respuestas": 6,
@@ -3175,8 +3367,8 @@
         "bookmarks": 1,
         "interacciones": 169,
         "interacciones_por_publicacion": 10.5625,
-        "impresiones_por_publicacion": 224.3125,
-        "engagement_sobre_impresiones": 4.70883254388409,
+        "impresiones_por_publicacion": 224.4375,
+        "engagement_sobre_impresiones": 4.706209969367864,
         "mejor_publicacion_interacciones": {
           "id": "2111510811558707414",
           "fecha": "2026-10-17T17:33:02.000Z",
@@ -3204,7 +3396,9 @@
             "reply_count": 1,
             "retweet_count": 3
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Melilla",
@@ -3252,7 +3446,9 @@
             "reply_count": 1,
             "retweet_count": 13
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Joventut Socialista de Catalunya",
@@ -3263,16 +3459,16 @@
         "actividad_total": 12,
         "publicaciones_propias": 4,
         "retweets": 8,
-        "impresiones": 2195,
-        "likes": 87,
-        "reposts": 34,
+        "impresiones": 2285,
+        "likes": 93,
+        "reposts": 35,
         "respuestas": 2,
         "citas": 0,
         "bookmarks": 1,
-        "interacciones": 123,
-        "interacciones_por_publicacion": 30.75,
-        "impresiones_por_publicacion": 548.75,
-        "engagement_sobre_impresiones": 5.603644646924829,
+        "interacciones": 130,
+        "interacciones_por_publicacion": 32.5,
+        "impresiones_por_publicacion": 571.25,
+        "engagement_sobre_impresiones": 5.689277899343545,
         "mejor_publicacion_interacciones": {
           "id": "2107012935122124812",
           "fecha": "2026-10-05T07:40:04.000Z",
@@ -3300,7 +3496,9 @@
             "reply_count": 0,
             "retweet_count": 4
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Extremadura",
@@ -3348,7 +3546,9 @@
             "reply_count": 0,
             "retweet_count": 5
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Novas Xeracións de Galicia",
@@ -3396,7 +3596,9 @@
             "reply_count": 7,
             "retweet_count": 4
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Cantabria",
@@ -3404,9 +3606,9 @@
         "seguidores": 3312,
         "siguiendo": 1553,
         "total_publicaciones": 4,
-        "actividad_total": 14,
+        "actividad_total": 15,
         "publicaciones_propias": 4,
-        "retweets": 10,
+        "retweets": 11,
         "impresiones": 603,
         "likes": 20,
         "reposts": 16,
@@ -3444,7 +3646,9 @@
             "reply_count": 1,
             "retweet_count": 6
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de la Comunitat Valenciana",
@@ -3492,7 +3696,9 @@
             "reply_count": 0,
             "retweet_count": 2
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Aragón",
@@ -3514,7 +3720,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Canarias",
@@ -3536,7 +3744,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de La Rioja",
@@ -3558,7 +3768,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Ceuta",
@@ -3580,29 +3792,31 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       }
     ],
     "por_seguidores": [
       {
         "nombre": "Revuelta",
         "username": "revuelta_es",
-        "seguidores": 64454,
+        "seguidores": 64447,
         "siguiendo": 173,
-        "total_publicaciones": 90,
-        "actividad_total": 107,
-        "publicaciones_propias": 90,
+        "total_publicaciones": 91,
+        "actividad_total": 108,
+        "publicaciones_propias": 91,
         "retweets": 17,
-        "impresiones": 2387498,
-        "likes": 44364,
-        "reposts": 9798,
-        "respuestas": 2166,
+        "impresiones": 2389030,
+        "likes": 44387,
+        "reposts": 9803,
+        "respuestas": 2170,
         "citas": 505,
-        "bookmarks": 2777,
-        "interacciones": 56833,
-        "interacciones_por_publicacion": 631.4777777777778,
-        "impresiones_por_publicacion": 26527.755555555555,
-        "engagement_sobre_impresiones": 2.380441784663275,
+        "bookmarks": 2778,
+        "interacciones": 56865,
+        "interacciones_por_publicacion": 624.8901098901099,
+        "impresiones_por_publicacion": 26253.076923076922,
+        "engagement_sobre_impresiones": 2.3802547477428075,
         "mejor_publicacion_interacciones": {
           "id": "2113352382746890326",
           "fecha": "2026-10-22T19:30:46.000Z",
@@ -3630,7 +3844,9 @@
             "reply_count": 351,
             "retweet_count": 1226
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Arran",
@@ -3641,16 +3857,16 @@
         "actividad_total": 105,
         "publicaciones_propias": 37,
         "retweets": 68,
-        "impresiones": 180542,
-        "likes": 5131,
-        "reposts": 1400,
+        "impresiones": 180854,
+        "likes": 5146,
+        "reposts": 1411,
         "respuestas": 348,
         "citas": 142,
         "bookmarks": 91,
-        "interacciones": 7021,
-        "interacciones_por_publicacion": 189.75675675675674,
-        "impresiones_por_publicacion": 4879.513513513513,
-        "engagement_sobre_impresiones": 3.8888458087314866,
+        "interacciones": 7047,
+        "interacciones_por_publicacion": 190.45945945945945,
+        "impresiones_por_publicacion": 4887.945945945946,
+        "engagement_sobre_impresiones": 3.8965132095502453,
         "mejor_publicacion_interacciones": {
           "id": "2119833487754580053",
           "fecha": "2026-11-09T16:44:22.000Z",
@@ -3678,27 +3894,29 @@
             "reply_count": 117,
             "retweet_count": 356
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de España",
         "username": "NNGG_Es",
-        "seguidores": 41986,
+        "seguidores": 41985,
         "siguiendo": 2036,
         "total_publicaciones": 92,
-        "actividad_total": 147,
+        "actividad_total": 148,
         "publicaciones_propias": 92,
-        "retweets": 55,
-        "impresiones": 4616511,
-        "likes": 137149,
-        "reposts": 19167,
-        "respuestas": 9346,
-        "citas": 1959,
-        "bookmarks": 2547,
-        "interacciones": 167621,
-        "interacciones_por_publicacion": 1821.9673913043478,
-        "impresiones_por_publicacion": 50179.467391304344,
-        "engagement_sobre_impresiones": 3.6309022116485803,
+        "retweets": 56,
+        "impresiones": 4619224,
+        "likes": 137321,
+        "reposts": 19194,
+        "respuestas": 9361,
+        "citas": 1961,
+        "bookmarks": 2553,
+        "interacciones": 167837,
+        "interacciones_por_publicacion": 1824.3152173913043,
+        "impresiones_por_publicacion": 50208.95652173913,
+        "engagement_sobre_impresiones": 3.633445790894748,
         "mejor_publicacion_interacciones": {
           "id": "2109240249746649122",
           "fecha": "2026-10-11T11:10:37.000Z",
@@ -3726,27 +3944,29 @@
             "reply_count": 646,
             "retweet_count": 3430
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Juventudes Socialistas de España",
         "username": "JSE_ORG",
-        "seguidores": 28049,
+        "seguidores": 28057,
         "siguiendo": 2658,
         "total_publicaciones": 91,
         "actividad_total": 116,
         "publicaciones_propias": 91,
         "retweets": 25,
-        "impresiones": 4686296,
-        "likes": 53110,
-        "reposts": 15665,
-        "respuestas": 8952,
-        "citas": 1175,
-        "bookmarks": 1428,
-        "interacciones": 78902,
-        "interacciones_por_publicacion": 867.054945054945,
-        "impresiones_por_publicacion": 51497.758241758245,
-        "engagement_sobre_impresiones": 1.6836751242345769,
+        "impresiones": 4687770,
+        "likes": 53223,
+        "reposts": 15712,
+        "respuestas": 8972,
+        "citas": 1177,
+        "bookmarks": 1433,
+        "interacciones": 79084,
+        "interacciones_por_publicacion": 869.054945054945,
+        "impresiones_por_publicacion": 51513.956043956045,
+        "engagement_sobre_impresiones": 1.6870281605112878,
         "mejor_publicacion_interacciones": {
           "id": "2122326388799951098",
           "fecha": "2026-11-16T13:50:16.000Z",
@@ -3774,27 +3994,29 @@
             "reply_count": 1366,
             "retweet_count": 362
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Madrid",
         "username": "nnggmadrid",
-        "seguidores": 19422,
+        "seguidores": 19424,
         "siguiendo": 2852,
-        "total_publicaciones": 89,
-        "actividad_total": 345,
-        "publicaciones_propias": 89,
+        "total_publicaciones": 90,
+        "actividad_total": 346,
+        "publicaciones_propias": 90,
         "retweets": 256,
-        "impresiones": 4822269,
-        "likes": 155674,
-        "reposts": 22429,
-        "respuestas": 9021,
-        "citas": 1978,
-        "bookmarks": 3526,
-        "interacciones": 189102,
-        "interacciones_por_publicacion": 2124.741573033708,
-        "impresiones_por_publicacion": 54182.79775280899,
-        "engagement_sobre_impresiones": 3.921432006385376,
+        "impresiones": 4831838,
+        "likes": 156316,
+        "reposts": 22497,
+        "respuestas": 9045,
+        "citas": 1983,
+        "bookmarks": 3554,
+        "interacciones": 189841,
+        "interacciones_por_publicacion": 2109.3444444444444,
+        "impresiones_por_publicacion": 53687.08888888889,
+        "engagement_sobre_impresiones": 3.9289603666348087,
         "mejor_publicacion_interacciones": {
           "id": "2110082808735539278",
           "fecha": "2026-10-13T18:58:39.000Z",
@@ -3822,27 +4044,29 @@
             "reply_count": 307,
             "retweet_count": 806
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Jovent Republicà",
         "username": "JoventRepublica",
-        "seguidores": 13781,
+        "seguidores": 13782,
         "siguiendo": 1901,
         "total_publicaciones": 26,
         "actividad_total": 32,
         "publicaciones_propias": 26,
         "retweets": 6,
-        "impresiones": 29916,
-        "likes": 1043,
-        "reposts": 473,
+        "impresiones": 29986,
+        "likes": 1049,
+        "reposts": 474,
         "respuestas": 297,
         "citas": 36,
         "bookmarks": 5,
-        "interacciones": 1849,
-        "interacciones_por_publicacion": 71.11538461538461,
-        "impresiones_por_publicacion": 1150.6153846153845,
-        "engagement_sobre_impresiones": 6.180639122877389,
+        "interacciones": 1856,
+        "interacciones_por_publicacion": 71.38461538461539,
+        "impresiones_por_publicacion": 1153.3076923076924,
+        "engagement_sobre_impresiones": 6.189555125725339,
         "mejor_publicacion_interacciones": {
           "id": "2111338284060205318",
           "fecha": "2026-10-17T06:07:28.000Z",
@@ -3870,27 +4094,29 @@
             "reply_count": 68,
             "retweet_count": 35
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Joventut Nacionalista de Catalunya",
         "username": "JNCatalunya",
-        "seguidores": 10791,
+        "seguidores": 10792,
         "siguiendo": 522,
         "total_publicaciones": 34,
         "actividad_total": 66,
         "publicaciones_propias": 34,
         "retweets": 32,
-        "impresiones": 119864,
-        "likes": 3075,
-        "reposts": 987,
+        "impresiones": 120070,
+        "likes": 3088,
+        "reposts": 991,
         "respuestas": 98,
         "citas": 45,
         "bookmarks": 50,
-        "interacciones": 4205,
-        "interacciones_por_publicacion": 123.67647058823529,
-        "impresiones_por_publicacion": 3525.4117647058824,
-        "engagement_sobre_impresiones": 3.508142561569779,
+        "interacciones": 4222,
+        "interacciones_por_publicacion": 124.17647058823529,
+        "impresiones_por_publicacion": 3531.470588235294,
+        "engagement_sobre_impresiones": 3.516282168734905,
         "mejor_publicacion_interacciones": {
           "id": "2122069401826632159",
           "fecha": "2026-11-15T20:49:06.000Z",
@@ -3918,7 +4144,9 @@
             "reply_count": 7,
             "retweet_count": 24
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Andalucía",
@@ -3929,7 +4157,7 @@
         "actividad_total": 40,
         "publicaciones_propias": 16,
         "retweets": 24,
-        "impresiones": 3589,
+        "impresiones": 3591,
         "likes": 115,
         "reposts": 48,
         "respuestas": 6,
@@ -3937,8 +4165,8 @@
         "bookmarks": 1,
         "interacciones": 169,
         "interacciones_por_publicacion": 10.5625,
-        "impresiones_por_publicacion": 224.3125,
-        "engagement_sobre_impresiones": 4.70883254388409,
+        "impresiones_por_publicacion": 224.4375,
+        "engagement_sobre_impresiones": 4.706209969367864,
         "mejor_publicacion_interacciones": {
           "id": "2111510811558707414",
           "fecha": "2026-10-17T17:33:02.000Z",
@@ -3966,7 +4194,9 @@
             "reply_count": 1,
             "retweet_count": 3
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de la Comunitat Valenciana",
@@ -4014,7 +4244,9 @@
             "reply_count": 0,
             "retweet_count": 2
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Joventut Socialista de Catalunya",
@@ -4025,16 +4257,16 @@
         "actividad_total": 12,
         "publicaciones_propias": 4,
         "retweets": 8,
-        "impresiones": 2195,
-        "likes": 87,
-        "reposts": 34,
+        "impresiones": 2285,
+        "likes": 93,
+        "reposts": 35,
         "respuestas": 2,
         "citas": 0,
         "bookmarks": 1,
-        "interacciones": 123,
-        "interacciones_por_publicacion": 30.75,
-        "impresiones_por_publicacion": 548.75,
-        "engagement_sobre_impresiones": 5.603644646924829,
+        "interacciones": 130,
+        "interacciones_por_publicacion": 32.5,
+        "impresiones_por_publicacion": 571.25,
+        "engagement_sobre_impresiones": 5.689277899343545,
         "mejor_publicacion_interacciones": {
           "id": "2107012935122124812",
           "fecha": "2026-10-05T07:40:04.000Z",
@@ -4062,7 +4294,9 @@
             "reply_count": 0,
             "retweet_count": 4
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Noves Generacions de Catalunya",
@@ -4073,16 +4307,16 @@
         "actividad_total": 163,
         "publicaciones_propias": 72,
         "retweets": 91,
-        "impresiones": 1799138,
-        "likes": 90596,
-        "reposts": 11740,
+        "impresiones": 1802611,
+        "likes": 90661,
+        "reposts": 11758,
         "respuestas": 3195,
         "citas": 488,
-        "bookmarks": 1387,
-        "interacciones": 106019,
-        "interacciones_por_publicacion": 1472.486111111111,
-        "impresiones_por_publicacion": 24988.027777777777,
-        "engagement_sobre_impresiones": 5.8927664248101035,
+        "bookmarks": 1392,
+        "interacciones": 106102,
+        "interacciones_por_publicacion": 1473.638888888889,
+        "impresiones_por_publicacion": 25036.26388888889,
+        "engagement_sobre_impresiones": 5.886017560083678,
         "mejor_publicacion_interacciones": {
           "id": "2110043935854747899",
           "fecha": "2026-10-13T16:24:11.000Z",
@@ -4110,7 +4344,9 @@
             "reply_count": 94,
             "retweet_count": 1109
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Castilla y León",
@@ -4158,7 +4394,9 @@
             "reply_count": 8,
             "retweet_count": 18
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones del País Vasco",
@@ -4206,7 +4444,9 @@
             "reply_count": 14,
             "retweet_count": 51
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de la Región de Murcia",
@@ -4214,9 +4454,9 @@
         "seguidores": 4106,
         "siguiendo": 1421,
         "total_publicaciones": 56,
-        "actividad_total": 329,
+        "actividad_total": 330,
         "publicaciones_propias": 56,
-        "retweets": 273,
+        "retweets": 274,
         "impresiones": 209815,
         "likes": 9165,
         "reposts": 1861,
@@ -4254,7 +4494,9 @@
             "reply_count": 200,
             "retweet_count": 275
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Novas Xeracións de Galicia",
@@ -4302,7 +4544,9 @@
             "reply_count": 7,
             "retweet_count": 4
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Castilla-La Mancha",
@@ -4313,7 +4557,7 @@
         "actividad_total": 52,
         "publicaciones_propias": 16,
         "retweets": 36,
-        "impresiones": 11872,
+        "impresiones": 11873,
         "likes": 118,
         "reposts": 57,
         "respuestas": 16,
@@ -4321,8 +4565,8 @@
         "bookmarks": 1,
         "interacciones": 194,
         "interacciones_por_publicacion": 12.125,
-        "impresiones_por_publicacion": 742,
-        "engagement_sobre_impresiones": 1.6340970350404314,
+        "impresiones_por_publicacion": 742.0625,
+        "engagement_sobre_impresiones": 1.6339594036890424,
         "mejor_publicacion_interacciones": {
           "id": "2111026883806507202",
           "fecha": "2026-10-16T09:30:04.000Z",
@@ -4350,7 +4594,9 @@
             "reply_count": 2,
             "retweet_count": 20
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Canarias",
@@ -4372,7 +4618,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Asturias",
@@ -4383,16 +4631,16 @@
         "actividad_total": 66,
         "publicaciones_propias": 11,
         "retweets": 55,
-        "impresiones": 21857,
-        "likes": 446,
-        "reposts": 77,
+        "impresiones": 22016,
+        "likes": 455,
+        "reposts": 78,
         "respuestas": 22,
-        "citas": 0,
+        "citas": 1,
         "bookmarks": 7,
-        "interacciones": 545,
-        "interacciones_por_publicacion": 49.54545454545455,
-        "impresiones_por_publicacion": 1987,
-        "engagement_sobre_impresiones": 2.493480349544768,
+        "interacciones": 556,
+        "interacciones_por_publicacion": 50.54545454545455,
+        "impresiones_por_publicacion": 2001.4545454545455,
+        "engagement_sobre_impresiones": 2.525436046511628,
         "mejor_publicacion_interacciones": {
           "id": "2119136197557760350",
           "fecha": "2026-11-07T18:33:35.000Z",
@@ -4420,7 +4668,9 @@
             "reply_count": 14,
             "retweet_count": 19
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Cantabria",
@@ -4428,9 +4678,9 @@
         "seguidores": 3312,
         "siguiendo": 1553,
         "total_publicaciones": 4,
-        "actividad_total": 14,
+        "actividad_total": 15,
         "publicaciones_propias": 4,
-        "retweets": 10,
+        "retweets": 11,
         "impresiones": 603,
         "likes": 20,
         "reposts": 16,
@@ -4468,27 +4718,29 @@
             "reply_count": 1,
             "retweet_count": 6
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Illes Balears",
         "username": "NNGGBalears",
-        "seguidores": 3256,
+        "seguidores": 3257,
         "siguiendo": 985,
         "total_publicaciones": 53,
         "actividad_total": 291,
         "publicaciones_propias": 53,
         "retweets": 238,
-        "impresiones": 74758,
-        "likes": 1105,
-        "reposts": 711,
-        "respuestas": 51,
+        "impresiones": 75075,
+        "likes": 1111,
+        "reposts": 712,
+        "respuestas": 53,
         "citas": 33,
         "bookmarks": 9,
-        "interacciones": 1900,
-        "interacciones_por_publicacion": 35.84905660377358,
-        "impresiones_por_publicacion": 1410.5283018867924,
-        "engagement_sobre_impresiones": 2.541534016426336,
+        "interacciones": 1909,
+        "interacciones_por_publicacion": 36.0188679245283,
+        "impresiones_por_publicacion": 1416.5094339622642,
+        "engagement_sobre_impresiones": 2.542790542790543,
         "mejor_publicacion_interacciones": {
           "id": "2118396177385439430",
           "fecha": "2026-11-05T17:33:01.000Z",
@@ -4516,7 +4768,9 @@
             "reply_count": 2,
             "retweet_count": 12
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Extremadura",
@@ -4564,7 +4818,9 @@
             "reply_count": 0,
             "retweet_count": 5
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de La Rioja",
@@ -4586,27 +4842,29 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Navarra",
         "username": "nngg_navarra",
-        "seguidores": 2153,
+        "seguidores": 2154,
         "siguiendo": 2086,
         "total_publicaciones": 176,
         "actividad_total": 341,
         "publicaciones_propias": 176,
         "retweets": 165,
-        "impresiones": 487209,
-        "likes": 14699,
+        "impresiones": 489063,
+        "likes": 14702,
         "reposts": 1926,
-        "respuestas": 1473,
+        "respuestas": 1480,
         "citas": 135,
         "bookmarks": 137,
-        "interacciones": 18233,
-        "interacciones_por_publicacion": 103.5965909090909,
-        "impresiones_por_publicacion": 2768.2329545454545,
-        "engagement_sobre_impresiones": 3.7423364510918313,
+        "interacciones": 18243,
+        "interacciones_por_publicacion": 103.6534090909091,
+        "impresiones_por_publicacion": 2778.7670454545455,
+        "engagement_sobre_impresiones": 3.730194269449948,
         "mejor_publicacion_interacciones": {
           "id": "2112490175813087440",
           "fecha": "2026-10-20T10:24:40.000Z",
@@ -4634,7 +4892,9 @@
             "reply_count": 83,
             "retweet_count": 468
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Aragón",
@@ -4656,7 +4916,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Ceuta",
@@ -4678,7 +4940,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Melilla",
@@ -4726,27 +4990,29 @@
             "reply_count": 1,
             "retweet_count": 13
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Valencia",
         "username": "nngg_vlc",
-        "seguidores": 307,
+        "seguidores": 306,
         "siguiendo": 253,
-        "total_publicaciones": 92,
-        "actividad_total": 382,
-        "publicaciones_propias": 92,
-        "retweets": 290,
-        "impresiones": 372133,
-        "likes": 9815,
-        "reposts": 1481,
-        "respuestas": 1060,
-        "citas": 116,
-        "bookmarks": 272,
-        "interacciones": 12472,
-        "interacciones_por_publicacion": 135.56521739130434,
-        "impresiones_por_publicacion": 4044.9239130434785,
-        "engagement_sobre_impresiones": 3.3514899243012577,
+        "total_publicaciones": 94,
+        "actividad_total": 385,
+        "publicaciones_propias": 94,
+        "retweets": 291,
+        "impresiones": 378575,
+        "likes": 9966,
+        "reposts": 1529,
+        "respuestas": 1084,
+        "citas": 119,
+        "bookmarks": 275,
+        "interacciones": 12698,
+        "interacciones_por_publicacion": 135.08510638297872,
+        "impresiones_por_publicacion": 4027.3936170212764,
+        "engagement_sobre_impresiones": 3.3541570362543753,
         "mejor_publicacion_interacciones": {
           "id": "2120619374415323197",
           "fecha": "2026-11-11T20:47:12.000Z",
@@ -4774,7 +5040,9 @@
             "reply_count": 40,
             "retweet_count": 136
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       }
     ],
     "por_engagement": [
@@ -4824,7 +5092,9 @@
             "reply_count": 8,
             "retweet_count": 18
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Melilla",
@@ -4872,7 +5142,9 @@
             "reply_count": 1,
             "retweet_count": 13
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Cantabria",
@@ -4880,9 +5152,9 @@
         "seguidores": 3312,
         "siguiendo": 1553,
         "total_publicaciones": 4,
-        "actividad_total": 14,
+        "actividad_total": 15,
         "publicaciones_propias": 4,
-        "retweets": 10,
+        "retweets": 11,
         "impresiones": 603,
         "likes": 20,
         "reposts": 16,
@@ -4920,27 +5192,29 @@
             "reply_count": 1,
             "retweet_count": 6
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Jovent Republicà",
         "username": "JoventRepublica",
-        "seguidores": 13781,
+        "seguidores": 13782,
         "siguiendo": 1901,
         "total_publicaciones": 26,
         "actividad_total": 32,
         "publicaciones_propias": 26,
         "retweets": 6,
-        "impresiones": 29916,
-        "likes": 1043,
-        "reposts": 473,
+        "impresiones": 29986,
+        "likes": 1049,
+        "reposts": 474,
         "respuestas": 297,
         "citas": 36,
         "bookmarks": 5,
-        "interacciones": 1849,
-        "interacciones_por_publicacion": 71.11538461538461,
-        "impresiones_por_publicacion": 1150.6153846153845,
-        "engagement_sobre_impresiones": 6.180639122877389,
+        "interacciones": 1856,
+        "interacciones_por_publicacion": 71.38461538461539,
+        "impresiones_por_publicacion": 1153.3076923076924,
+        "engagement_sobre_impresiones": 6.189555125725339,
         "mejor_publicacion_interacciones": {
           "id": "2111338284060205318",
           "fecha": "2026-10-17T06:07:28.000Z",
@@ -4968,7 +5242,9 @@
             "reply_count": 68,
             "retweet_count": 35
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Extremadura",
@@ -5016,7 +5292,9 @@
             "reply_count": 0,
             "retweet_count": 5
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Noves Generacions de Catalunya",
@@ -5027,16 +5305,16 @@
         "actividad_total": 163,
         "publicaciones_propias": 72,
         "retweets": 91,
-        "impresiones": 1799138,
-        "likes": 90596,
-        "reposts": 11740,
+        "impresiones": 1802611,
+        "likes": 90661,
+        "reposts": 11758,
         "respuestas": 3195,
         "citas": 488,
-        "bookmarks": 1387,
-        "interacciones": 106019,
-        "interacciones_por_publicacion": 1472.486111111111,
-        "impresiones_por_publicacion": 24988.027777777777,
-        "engagement_sobre_impresiones": 5.8927664248101035,
+        "bookmarks": 1392,
+        "interacciones": 106102,
+        "interacciones_por_publicacion": 1473.638888888889,
+        "impresiones_por_publicacion": 25036.26388888889,
+        "engagement_sobre_impresiones": 5.886017560083678,
         "mejor_publicacion_interacciones": {
           "id": "2110043935854747899",
           "fecha": "2026-10-13T16:24:11.000Z",
@@ -5064,7 +5342,9 @@
             "reply_count": 94,
             "retweet_count": 1109
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de la Región de Murcia",
@@ -5072,9 +5352,9 @@
         "seguidores": 4106,
         "siguiendo": 1421,
         "total_publicaciones": 56,
-        "actividad_total": 329,
+        "actividad_total": 330,
         "publicaciones_propias": 56,
-        "retweets": 273,
+        "retweets": 274,
         "impresiones": 209815,
         "likes": 9165,
         "reposts": 1861,
@@ -5112,7 +5392,9 @@
             "reply_count": 200,
             "retweet_count": 275
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Joventut Socialista de Catalunya",
@@ -5123,16 +5405,16 @@
         "actividad_total": 12,
         "publicaciones_propias": 4,
         "retweets": 8,
-        "impresiones": 2195,
-        "likes": 87,
-        "reposts": 34,
+        "impresiones": 2285,
+        "likes": 93,
+        "reposts": 35,
         "respuestas": 2,
         "citas": 0,
         "bookmarks": 1,
-        "interacciones": 123,
-        "interacciones_por_publicacion": 30.75,
-        "impresiones_por_publicacion": 548.75,
-        "engagement_sobre_impresiones": 5.603644646924829,
+        "interacciones": 130,
+        "interacciones_por_publicacion": 32.5,
+        "impresiones_por_publicacion": 571.25,
+        "engagement_sobre_impresiones": 5.689277899343545,
         "mejor_publicacion_interacciones": {
           "id": "2107012935122124812",
           "fecha": "2026-10-05T07:40:04.000Z",
@@ -5160,7 +5442,9 @@
             "reply_count": 0,
             "retweet_count": 4
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Novas Xeracións de Galicia",
@@ -5208,7 +5492,9 @@
             "reply_count": 7,
             "retweet_count": 4
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Andalucía",
@@ -5219,7 +5505,7 @@
         "actividad_total": 40,
         "publicaciones_propias": 16,
         "retweets": 24,
-        "impresiones": 3589,
+        "impresiones": 3591,
         "likes": 115,
         "reposts": 48,
         "respuestas": 6,
@@ -5227,8 +5513,8 @@
         "bookmarks": 1,
         "interacciones": 169,
         "interacciones_por_publicacion": 10.5625,
-        "impresiones_por_publicacion": 224.3125,
-        "engagement_sobre_impresiones": 4.70883254388409,
+        "impresiones_por_publicacion": 224.4375,
+        "engagement_sobre_impresiones": 4.706209969367864,
         "mejor_publicacion_interacciones": {
           "id": "2111510811558707414",
           "fecha": "2026-10-17T17:33:02.000Z",
@@ -5256,7 +5542,9 @@
             "reply_count": 1,
             "retweet_count": 3
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones del País Vasco",
@@ -5304,27 +5592,29 @@
             "reply_count": 14,
             "retweet_count": 51
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Madrid",
         "username": "nnggmadrid",
-        "seguidores": 19422,
+        "seguidores": 19424,
         "siguiendo": 2852,
-        "total_publicaciones": 89,
-        "actividad_total": 345,
-        "publicaciones_propias": 89,
+        "total_publicaciones": 90,
+        "actividad_total": 346,
+        "publicaciones_propias": 90,
         "retweets": 256,
-        "impresiones": 4822269,
-        "likes": 155674,
-        "reposts": 22429,
-        "respuestas": 9021,
-        "citas": 1978,
-        "bookmarks": 3526,
-        "interacciones": 189102,
-        "interacciones_por_publicacion": 2124.741573033708,
-        "impresiones_por_publicacion": 54182.79775280899,
-        "engagement_sobre_impresiones": 3.921432006385376,
+        "impresiones": 4831838,
+        "likes": 156316,
+        "reposts": 22497,
+        "respuestas": 9045,
+        "citas": 1983,
+        "bookmarks": 3554,
+        "interacciones": 189841,
+        "interacciones_por_publicacion": 2109.3444444444444,
+        "impresiones_por_publicacion": 53687.08888888889,
+        "engagement_sobre_impresiones": 3.9289603666348087,
         "mejor_publicacion_interacciones": {
           "id": "2110082808735539278",
           "fecha": "2026-10-13T18:58:39.000Z",
@@ -5352,7 +5642,9 @@
             "reply_count": 307,
             "retweet_count": 806
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Arran",
@@ -5363,16 +5655,16 @@
         "actividad_total": 105,
         "publicaciones_propias": 37,
         "retweets": 68,
-        "impresiones": 180542,
-        "likes": 5131,
-        "reposts": 1400,
+        "impresiones": 180854,
+        "likes": 5146,
+        "reposts": 1411,
         "respuestas": 348,
         "citas": 142,
         "bookmarks": 91,
-        "interacciones": 7021,
-        "interacciones_por_publicacion": 189.75675675675674,
-        "impresiones_por_publicacion": 4879.513513513513,
-        "engagement_sobre_impresiones": 3.8888458087314866,
+        "interacciones": 7047,
+        "interacciones_por_publicacion": 190.45945945945945,
+        "impresiones_por_publicacion": 4887.945945945946,
+        "engagement_sobre_impresiones": 3.8965132095502453,
         "mejor_publicacion_interacciones": {
           "id": "2119833487754580053",
           "fecha": "2026-11-09T16:44:22.000Z",
@@ -5400,27 +5692,29 @@
             "reply_count": 117,
             "retweet_count": 356
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Navarra",
         "username": "nngg_navarra",
-        "seguidores": 2153,
+        "seguidores": 2154,
         "siguiendo": 2086,
         "total_publicaciones": 176,
         "actividad_total": 341,
         "publicaciones_propias": 176,
         "retweets": 165,
-        "impresiones": 487209,
-        "likes": 14699,
+        "impresiones": 489063,
+        "likes": 14702,
         "reposts": 1926,
-        "respuestas": 1473,
+        "respuestas": 1480,
         "citas": 135,
         "bookmarks": 137,
-        "interacciones": 18233,
-        "interacciones_por_publicacion": 103.5965909090909,
-        "impresiones_por_publicacion": 2768.2329545454545,
-        "engagement_sobre_impresiones": 3.7423364510918313,
+        "interacciones": 18243,
+        "interacciones_por_publicacion": 103.6534090909091,
+        "impresiones_por_publicacion": 2778.7670454545455,
+        "engagement_sobre_impresiones": 3.730194269449948,
         "mejor_publicacion_interacciones": {
           "id": "2112490175813087440",
           "fecha": "2026-10-20T10:24:40.000Z",
@@ -5448,27 +5742,29 @@
             "reply_count": 83,
             "retweet_count": 468
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de España",
         "username": "NNGG_Es",
-        "seguidores": 41986,
+        "seguidores": 41985,
         "siguiendo": 2036,
         "total_publicaciones": 92,
-        "actividad_total": 147,
+        "actividad_total": 148,
         "publicaciones_propias": 92,
-        "retweets": 55,
-        "impresiones": 4616511,
-        "likes": 137149,
-        "reposts": 19167,
-        "respuestas": 9346,
-        "citas": 1959,
-        "bookmarks": 2547,
-        "interacciones": 167621,
-        "interacciones_por_publicacion": 1821.9673913043478,
-        "impresiones_por_publicacion": 50179.467391304344,
-        "engagement_sobre_impresiones": 3.6309022116485803,
+        "retweets": 56,
+        "impresiones": 4619224,
+        "likes": 137321,
+        "reposts": 19194,
+        "respuestas": 9361,
+        "citas": 1961,
+        "bookmarks": 2553,
+        "interacciones": 167837,
+        "interacciones_por_publicacion": 1824.3152173913043,
+        "impresiones_por_publicacion": 50208.95652173913,
+        "engagement_sobre_impresiones": 3.633445790894748,
         "mejor_publicacion_interacciones": {
           "id": "2109240249746649122",
           "fecha": "2026-10-11T11:10:37.000Z",
@@ -5496,27 +5792,29 @@
             "reply_count": 646,
             "retweet_count": 3430
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Joventut Nacionalista de Catalunya",
         "username": "JNCatalunya",
-        "seguidores": 10791,
+        "seguidores": 10792,
         "siguiendo": 522,
         "total_publicaciones": 34,
         "actividad_total": 66,
         "publicaciones_propias": 34,
         "retweets": 32,
-        "impresiones": 119864,
-        "likes": 3075,
-        "reposts": 987,
+        "impresiones": 120070,
+        "likes": 3088,
+        "reposts": 991,
         "respuestas": 98,
         "citas": 45,
         "bookmarks": 50,
-        "interacciones": 4205,
-        "interacciones_por_publicacion": 123.67647058823529,
-        "impresiones_por_publicacion": 3525.4117647058824,
-        "engagement_sobre_impresiones": 3.508142561569779,
+        "interacciones": 4222,
+        "interacciones_por_publicacion": 124.17647058823529,
+        "impresiones_por_publicacion": 3531.470588235294,
+        "engagement_sobre_impresiones": 3.516282168734905,
         "mejor_publicacion_interacciones": {
           "id": "2122069401826632159",
           "fecha": "2026-11-15T20:49:06.000Z",
@@ -5544,27 +5842,29 @@
             "reply_count": 7,
             "retweet_count": 24
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Valencia",
         "username": "nngg_vlc",
-        "seguidores": 307,
+        "seguidores": 306,
         "siguiendo": 253,
-        "total_publicaciones": 92,
-        "actividad_total": 382,
-        "publicaciones_propias": 92,
-        "retweets": 290,
-        "impresiones": 372133,
-        "likes": 9815,
-        "reposts": 1481,
-        "respuestas": 1060,
-        "citas": 116,
-        "bookmarks": 272,
-        "interacciones": 12472,
-        "interacciones_por_publicacion": 135.56521739130434,
-        "impresiones_por_publicacion": 4044.9239130434785,
-        "engagement_sobre_impresiones": 3.3514899243012577,
+        "total_publicaciones": 94,
+        "actividad_total": 385,
+        "publicaciones_propias": 94,
+        "retweets": 291,
+        "impresiones": 378575,
+        "likes": 9966,
+        "reposts": 1529,
+        "respuestas": 1084,
+        "citas": 119,
+        "bookmarks": 275,
+        "interacciones": 12698,
+        "interacciones_por_publicacion": 135.08510638297872,
+        "impresiones_por_publicacion": 4027.3936170212764,
+        "engagement_sobre_impresiones": 3.3541570362543753,
         "mejor_publicacion_interacciones": {
           "id": "2120619374415323197",
           "fecha": "2026-11-11T20:47:12.000Z",
@@ -5592,7 +5892,9 @@
             "reply_count": 40,
             "retweet_count": 136
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de la Comunitat Valenciana",
@@ -5640,27 +5942,29 @@
             "reply_count": 0,
             "retweet_count": 2
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Illes Balears",
         "username": "NNGGBalears",
-        "seguidores": 3256,
+        "seguidores": 3257,
         "siguiendo": 985,
         "total_publicaciones": 53,
         "actividad_total": 291,
         "publicaciones_propias": 53,
         "retweets": 238,
-        "impresiones": 74758,
-        "likes": 1105,
-        "reposts": 711,
-        "respuestas": 51,
+        "impresiones": 75075,
+        "likes": 1111,
+        "reposts": 712,
+        "respuestas": 53,
         "citas": 33,
         "bookmarks": 9,
-        "interacciones": 1900,
-        "interacciones_por_publicacion": 35.84905660377358,
-        "impresiones_por_publicacion": 1410.5283018867924,
-        "engagement_sobre_impresiones": 2.541534016426336,
+        "interacciones": 1909,
+        "interacciones_por_publicacion": 36.0188679245283,
+        "impresiones_por_publicacion": 1416.5094339622642,
+        "engagement_sobre_impresiones": 2.542790542790543,
         "mejor_publicacion_interacciones": {
           "id": "2118396177385439430",
           "fecha": "2026-11-05T17:33:01.000Z",
@@ -5688,7 +5992,9 @@
             "reply_count": 2,
             "retweet_count": 12
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Asturias",
@@ -5699,16 +6005,16 @@
         "actividad_total": 66,
         "publicaciones_propias": 11,
         "retweets": 55,
-        "impresiones": 21857,
-        "likes": 446,
-        "reposts": 77,
+        "impresiones": 22016,
+        "likes": 455,
+        "reposts": 78,
         "respuestas": 22,
-        "citas": 0,
+        "citas": 1,
         "bookmarks": 7,
-        "interacciones": 545,
-        "interacciones_por_publicacion": 49.54545454545455,
-        "impresiones_por_publicacion": 1987,
-        "engagement_sobre_impresiones": 2.493480349544768,
+        "interacciones": 556,
+        "interacciones_por_publicacion": 50.54545454545455,
+        "impresiones_por_publicacion": 2001.4545454545455,
+        "engagement_sobre_impresiones": 2.525436046511628,
         "mejor_publicacion_interacciones": {
           "id": "2119136197557760350",
           "fecha": "2026-11-07T18:33:35.000Z",
@@ -5736,27 +6042,29 @@
             "reply_count": 14,
             "retweet_count": 19
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Revuelta",
         "username": "revuelta_es",
-        "seguidores": 64454,
+        "seguidores": 64447,
         "siguiendo": 173,
-        "total_publicaciones": 90,
-        "actividad_total": 107,
-        "publicaciones_propias": 90,
+        "total_publicaciones": 91,
+        "actividad_total": 108,
+        "publicaciones_propias": 91,
         "retweets": 17,
-        "impresiones": 2387498,
-        "likes": 44364,
-        "reposts": 9798,
-        "respuestas": 2166,
+        "impresiones": 2389030,
+        "likes": 44387,
+        "reposts": 9803,
+        "respuestas": 2170,
         "citas": 505,
-        "bookmarks": 2777,
-        "interacciones": 56833,
-        "interacciones_por_publicacion": 631.4777777777778,
-        "impresiones_por_publicacion": 26527.755555555555,
-        "engagement_sobre_impresiones": 2.380441784663275,
+        "bookmarks": 2778,
+        "interacciones": 56865,
+        "interacciones_por_publicacion": 624.8901098901099,
+        "impresiones_por_publicacion": 26253.076923076922,
+        "engagement_sobre_impresiones": 2.3802547477428075,
         "mejor_publicacion_interacciones": {
           "id": "2113352382746890326",
           "fecha": "2026-10-22T19:30:46.000Z",
@@ -5784,27 +6092,29 @@
             "reply_count": 351,
             "retweet_count": 1226
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Juventudes Socialistas de España",
         "username": "JSE_ORG",
-        "seguidores": 28049,
+        "seguidores": 28057,
         "siguiendo": 2658,
         "total_publicaciones": 91,
         "actividad_total": 116,
         "publicaciones_propias": 91,
         "retweets": 25,
-        "impresiones": 4686296,
-        "likes": 53110,
-        "reposts": 15665,
-        "respuestas": 8952,
-        "citas": 1175,
-        "bookmarks": 1428,
-        "interacciones": 78902,
-        "interacciones_por_publicacion": 867.054945054945,
-        "impresiones_por_publicacion": 51497.758241758245,
-        "engagement_sobre_impresiones": 1.6836751242345769,
+        "impresiones": 4687770,
+        "likes": 53223,
+        "reposts": 15712,
+        "respuestas": 8972,
+        "citas": 1177,
+        "bookmarks": 1433,
+        "interacciones": 79084,
+        "interacciones_por_publicacion": 869.054945054945,
+        "impresiones_por_publicacion": 51513.956043956045,
+        "engagement_sobre_impresiones": 1.6870281605112878,
         "mejor_publicacion_interacciones": {
           "id": "2122326388799951098",
           "fecha": "2026-11-16T13:50:16.000Z",
@@ -5832,7 +6142,9 @@
             "reply_count": 1366,
             "retweet_count": 362
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Castilla-La Mancha",
@@ -5843,7 +6155,7 @@
         "actividad_total": 52,
         "publicaciones_propias": 16,
         "retweets": 36,
-        "impresiones": 11872,
+        "impresiones": 11873,
         "likes": 118,
         "reposts": 57,
         "respuestas": 16,
@@ -5851,8 +6163,8 @@
         "bookmarks": 1,
         "interacciones": 194,
         "interacciones_por_publicacion": 12.125,
-        "impresiones_por_publicacion": 742,
-        "engagement_sobre_impresiones": 1.6340970350404314,
+        "impresiones_por_publicacion": 742.0625,
+        "engagement_sobre_impresiones": 1.6339594036890424,
         "mejor_publicacion_interacciones": {
           "id": "2111026883806507202",
           "fecha": "2026-10-16T09:30:04.000Z",
@@ -5880,7 +6192,9 @@
             "reply_count": 2,
             "retweet_count": 20
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Aragón",
@@ -5902,7 +6216,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Canarias",
@@ -5924,7 +6240,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de La Rioja",
@@ -5946,7 +6264,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Ceuta",
@@ -5968,29 +6288,31 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       }
     ],
     "por_actividad": [
       {
         "nombre": "Nuevas Generaciones de Navarra",
         "username": "nngg_navarra",
-        "seguidores": 2153,
+        "seguidores": 2154,
         "siguiendo": 2086,
         "total_publicaciones": 176,
         "actividad_total": 341,
         "publicaciones_propias": 176,
         "retweets": 165,
-        "impresiones": 487209,
-        "likes": 14699,
+        "impresiones": 489063,
+        "likes": 14702,
         "reposts": 1926,
-        "respuestas": 1473,
+        "respuestas": 1480,
         "citas": 135,
         "bookmarks": 137,
-        "interacciones": 18233,
-        "interacciones_por_publicacion": 103.5965909090909,
-        "impresiones_por_publicacion": 2768.2329545454545,
-        "engagement_sobre_impresiones": 3.7423364510918313,
+        "interacciones": 18243,
+        "interacciones_por_publicacion": 103.6534090909091,
+        "impresiones_por_publicacion": 2778.7670454545455,
+        "engagement_sobre_impresiones": 3.730194269449948,
         "mejor_publicacion_interacciones": {
           "id": "2112490175813087440",
           "fecha": "2026-10-20T10:24:40.000Z",
@@ -6018,75 +6340,29 @@
             "reply_count": 83,
             "retweet_count": 468
           }
-        }
-      },
-      {
-        "nombre": "Nuevas Generaciones de España",
-        "username": "NNGG_Es",
-        "seguidores": 41986,
-        "siguiendo": 2036,
-        "total_publicaciones": 92,
-        "actividad_total": 147,
-        "publicaciones_propias": 92,
-        "retweets": 55,
-        "impresiones": 4616511,
-        "likes": 137149,
-        "reposts": 19167,
-        "respuestas": 9346,
-        "citas": 1959,
-        "bookmarks": 2547,
-        "interacciones": 167621,
-        "interacciones_por_publicacion": 1821.9673913043478,
-        "impresiones_por_publicacion": 50179.467391304344,
-        "engagement_sobre_impresiones": 3.6309022116485803,
-        "mejor_publicacion_interacciones": {
-          "id": "2109240249746649122",
-          "fecha": "2026-10-11T11:10:37.000Z",
-          "texto": "Feijóo va con el perro sin atar.\n\nEl PSOE contrata sicarios para matar a una jueza.\n\nEmpate 👏 https://t.co/FldJqOsqtB",
-          "interacciones": 30200,
-          "metricas": {
-            "bookmark_count": 446,
-            "impression_count": 805613,
-            "like_count": 25959,
-            "quote_count": 165,
-            "reply_count": 646,
-            "retweet_count": 3430
-          }
         },
-        "mejor_publicacion_impresiones": {
-          "id": "2109240249746649122",
-          "fecha": "2026-10-11T11:10:37.000Z",
-          "texto": "Feijóo va con el perro sin atar.\n\nEl PSOE contrata sicarios para matar a una jueza.\n\nEmpate 👏 https://t.co/FldJqOsqtB",
-          "impresiones": 805613,
-          "metricas": {
-            "bookmark_count": 446,
-            "impression_count": 805613,
-            "like_count": 25959,
-            "quote_count": 165,
-            "reply_count": 646,
-            "retweet_count": 3430
-          }
-        }
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Valencia",
         "username": "nngg_vlc",
-        "seguidores": 307,
+        "seguidores": 306,
         "siguiendo": 253,
-        "total_publicaciones": 92,
-        "actividad_total": 382,
-        "publicaciones_propias": 92,
-        "retweets": 290,
-        "impresiones": 372133,
-        "likes": 9815,
-        "reposts": 1481,
-        "respuestas": 1060,
-        "citas": 116,
-        "bookmarks": 272,
-        "interacciones": 12472,
-        "interacciones_por_publicacion": 135.56521739130434,
-        "impresiones_por_publicacion": 4044.9239130434785,
-        "engagement_sobre_impresiones": 3.3514899243012577,
+        "total_publicaciones": 94,
+        "actividad_total": 385,
+        "publicaciones_propias": 94,
+        "retweets": 291,
+        "impresiones": 378575,
+        "likes": 9966,
+        "reposts": 1529,
+        "respuestas": 1084,
+        "citas": 119,
+        "bookmarks": 275,
+        "interacciones": 12698,
+        "interacciones_por_publicacion": 135.08510638297872,
+        "impresiones_por_publicacion": 4027.3936170212764,
+        "engagement_sobre_impresiones": 3.3541570362543753,
         "mejor_publicacion_interacciones": {
           "id": "2120619374415323197",
           "fecha": "2026-11-11T20:47:12.000Z",
@@ -6114,27 +6390,79 @@
             "reply_count": 40,
             "retweet_count": 136
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
+      },
+      {
+        "nombre": "Nuevas Generaciones de España",
+        "username": "NNGG_Es",
+        "seguidores": 41985,
+        "siguiendo": 2036,
+        "total_publicaciones": 92,
+        "actividad_total": 148,
+        "publicaciones_propias": 92,
+        "retweets": 56,
+        "impresiones": 4619224,
+        "likes": 137321,
+        "reposts": 19194,
+        "respuestas": 9361,
+        "citas": 1961,
+        "bookmarks": 2553,
+        "interacciones": 167837,
+        "interacciones_por_publicacion": 1824.3152173913043,
+        "impresiones_por_publicacion": 50208.95652173913,
+        "engagement_sobre_impresiones": 3.633445790894748,
+        "mejor_publicacion_interacciones": {
+          "id": "2109240249746649122",
+          "fecha": "2026-10-11T11:10:37.000Z",
+          "texto": "Feijóo va con el perro sin atar.\n\nEl PSOE contrata sicarios para matar a una jueza.\n\nEmpate 👏 https://t.co/FldJqOsqtB",
+          "interacciones": 30200,
+          "metricas": {
+            "bookmark_count": 446,
+            "impression_count": 805613,
+            "like_count": 25959,
+            "quote_count": 165,
+            "reply_count": 646,
+            "retweet_count": 3430
+          }
+        },
+        "mejor_publicacion_impresiones": {
+          "id": "2109240249746649122",
+          "fecha": "2026-10-11T11:10:37.000Z",
+          "texto": "Feijóo va con el perro sin atar.\n\nEl PSOE contrata sicarios para matar a una jueza.\n\nEmpate 👏 https://t.co/FldJqOsqtB",
+          "impresiones": 805613,
+          "metricas": {
+            "bookmark_count": 446,
+            "impression_count": 805613,
+            "like_count": 25959,
+            "quote_count": 165,
+            "reply_count": 646,
+            "retweet_count": 3430
+          }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Juventudes Socialistas de España",
         "username": "JSE_ORG",
-        "seguidores": 28049,
+        "seguidores": 28057,
         "siguiendo": 2658,
         "total_publicaciones": 91,
         "actividad_total": 116,
         "publicaciones_propias": 91,
         "retweets": 25,
-        "impresiones": 4686296,
-        "likes": 53110,
-        "reposts": 15665,
-        "respuestas": 8952,
-        "citas": 1175,
-        "bookmarks": 1428,
-        "interacciones": 78902,
-        "interacciones_por_publicacion": 867.054945054945,
-        "impresiones_por_publicacion": 51497.758241758245,
-        "engagement_sobre_impresiones": 1.6836751242345769,
+        "impresiones": 4687770,
+        "likes": 53223,
+        "reposts": 15712,
+        "respuestas": 8972,
+        "citas": 1177,
+        "bookmarks": 1433,
+        "interacciones": 79084,
+        "interacciones_por_publicacion": 869.054945054945,
+        "impresiones_por_publicacion": 51513.956043956045,
+        "engagement_sobre_impresiones": 1.6870281605112878,
         "mejor_publicacion_interacciones": {
           "id": "2122326388799951098",
           "fecha": "2026-11-16T13:50:16.000Z",
@@ -6162,27 +6490,29 @@
             "reply_count": 1366,
             "retweet_count": 362
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Revuelta",
         "username": "revuelta_es",
-        "seguidores": 64454,
+        "seguidores": 64447,
         "siguiendo": 173,
-        "total_publicaciones": 90,
-        "actividad_total": 107,
-        "publicaciones_propias": 90,
+        "total_publicaciones": 91,
+        "actividad_total": 108,
+        "publicaciones_propias": 91,
         "retweets": 17,
-        "impresiones": 2387498,
-        "likes": 44364,
-        "reposts": 9798,
-        "respuestas": 2166,
+        "impresiones": 2389030,
+        "likes": 44387,
+        "reposts": 9803,
+        "respuestas": 2170,
         "citas": 505,
-        "bookmarks": 2777,
-        "interacciones": 56833,
-        "interacciones_por_publicacion": 631.4777777777778,
-        "impresiones_por_publicacion": 26527.755555555555,
-        "engagement_sobre_impresiones": 2.380441784663275,
+        "bookmarks": 2778,
+        "interacciones": 56865,
+        "interacciones_por_publicacion": 624.8901098901099,
+        "impresiones_por_publicacion": 26253.076923076922,
+        "engagement_sobre_impresiones": 2.3802547477428075,
         "mejor_publicacion_interacciones": {
           "id": "2113352382746890326",
           "fecha": "2026-10-22T19:30:46.000Z",
@@ -6210,27 +6540,29 @@
             "reply_count": 351,
             "retweet_count": 1226
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Madrid",
         "username": "nnggmadrid",
-        "seguidores": 19422,
+        "seguidores": 19424,
         "siguiendo": 2852,
-        "total_publicaciones": 89,
-        "actividad_total": 345,
-        "publicaciones_propias": 89,
+        "total_publicaciones": 90,
+        "actividad_total": 346,
+        "publicaciones_propias": 90,
         "retweets": 256,
-        "impresiones": 4822269,
-        "likes": 155674,
-        "reposts": 22429,
-        "respuestas": 9021,
-        "citas": 1978,
-        "bookmarks": 3526,
-        "interacciones": 189102,
-        "interacciones_por_publicacion": 2124.741573033708,
-        "impresiones_por_publicacion": 54182.79775280899,
-        "engagement_sobre_impresiones": 3.921432006385376,
+        "impresiones": 4831838,
+        "likes": 156316,
+        "reposts": 22497,
+        "respuestas": 9045,
+        "citas": 1983,
+        "bookmarks": 3554,
+        "interacciones": 189841,
+        "interacciones_por_publicacion": 2109.3444444444444,
+        "impresiones_por_publicacion": 53687.08888888889,
+        "engagement_sobre_impresiones": 3.9289603666348087,
         "mejor_publicacion_interacciones": {
           "id": "2110082808735539278",
           "fecha": "2026-10-13T18:58:39.000Z",
@@ -6258,7 +6590,9 @@
             "reply_count": 307,
             "retweet_count": 806
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Noves Generacions de Catalunya",
@@ -6269,16 +6603,16 @@
         "actividad_total": 163,
         "publicaciones_propias": 72,
         "retweets": 91,
-        "impresiones": 1799138,
-        "likes": 90596,
-        "reposts": 11740,
+        "impresiones": 1802611,
+        "likes": 90661,
+        "reposts": 11758,
         "respuestas": 3195,
         "citas": 488,
-        "bookmarks": 1387,
-        "interacciones": 106019,
-        "interacciones_por_publicacion": 1472.486111111111,
-        "impresiones_por_publicacion": 24988.027777777777,
-        "engagement_sobre_impresiones": 5.8927664248101035,
+        "bookmarks": 1392,
+        "interacciones": 106102,
+        "interacciones_por_publicacion": 1473.638888888889,
+        "impresiones_por_publicacion": 25036.26388888889,
+        "engagement_sobre_impresiones": 5.886017560083678,
         "mejor_publicacion_interacciones": {
           "id": "2110043935854747899",
           "fecha": "2026-10-13T16:24:11.000Z",
@@ -6306,7 +6640,9 @@
             "reply_count": 94,
             "retweet_count": 1109
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de la Región de Murcia",
@@ -6314,9 +6650,9 @@
         "seguidores": 4106,
         "siguiendo": 1421,
         "total_publicaciones": 56,
-        "actividad_total": 329,
+        "actividad_total": 330,
         "publicaciones_propias": 56,
-        "retweets": 273,
+        "retweets": 274,
         "impresiones": 209815,
         "likes": 9165,
         "reposts": 1861,
@@ -6354,27 +6690,29 @@
             "reply_count": 200,
             "retweet_count": 275
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Illes Balears",
         "username": "NNGGBalears",
-        "seguidores": 3256,
+        "seguidores": 3257,
         "siguiendo": 985,
         "total_publicaciones": 53,
         "actividad_total": 291,
         "publicaciones_propias": 53,
         "retweets": 238,
-        "impresiones": 74758,
-        "likes": 1105,
-        "reposts": 711,
-        "respuestas": 51,
+        "impresiones": 75075,
+        "likes": 1111,
+        "reposts": 712,
+        "respuestas": 53,
         "citas": 33,
         "bookmarks": 9,
-        "interacciones": 1900,
-        "interacciones_por_publicacion": 35.84905660377358,
-        "impresiones_por_publicacion": 1410.5283018867924,
-        "engagement_sobre_impresiones": 2.541534016426336,
+        "interacciones": 1909,
+        "interacciones_por_publicacion": 36.0188679245283,
+        "impresiones_por_publicacion": 1416.5094339622642,
+        "engagement_sobre_impresiones": 2.542790542790543,
         "mejor_publicacion_interacciones": {
           "id": "2118396177385439430",
           "fecha": "2026-11-05T17:33:01.000Z",
@@ -6402,7 +6740,9 @@
             "reply_count": 2,
             "retweet_count": 12
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Arran",
@@ -6413,16 +6753,16 @@
         "actividad_total": 105,
         "publicaciones_propias": 37,
         "retweets": 68,
-        "impresiones": 180542,
-        "likes": 5131,
-        "reposts": 1400,
+        "impresiones": 180854,
+        "likes": 5146,
+        "reposts": 1411,
         "respuestas": 348,
         "citas": 142,
         "bookmarks": 91,
-        "interacciones": 7021,
-        "interacciones_por_publicacion": 189.75675675675674,
-        "impresiones_por_publicacion": 4879.513513513513,
-        "engagement_sobre_impresiones": 3.8888458087314866,
+        "interacciones": 7047,
+        "interacciones_por_publicacion": 190.45945945945945,
+        "impresiones_por_publicacion": 4887.945945945946,
+        "engagement_sobre_impresiones": 3.8965132095502453,
         "mejor_publicacion_interacciones": {
           "id": "2119833487754580053",
           "fecha": "2026-11-09T16:44:22.000Z",
@@ -6450,27 +6790,29 @@
             "reply_count": 117,
             "retweet_count": 356
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Joventut Nacionalista de Catalunya",
         "username": "JNCatalunya",
-        "seguidores": 10791,
+        "seguidores": 10792,
         "siguiendo": 522,
         "total_publicaciones": 34,
         "actividad_total": 66,
         "publicaciones_propias": 34,
         "retweets": 32,
-        "impresiones": 119864,
-        "likes": 3075,
-        "reposts": 987,
+        "impresiones": 120070,
+        "likes": 3088,
+        "reposts": 991,
         "respuestas": 98,
         "citas": 45,
         "bookmarks": 50,
-        "interacciones": 4205,
-        "interacciones_por_publicacion": 123.67647058823529,
-        "impresiones_por_publicacion": 3525.4117647058824,
-        "engagement_sobre_impresiones": 3.508142561569779,
+        "interacciones": 4222,
+        "interacciones_por_publicacion": 124.17647058823529,
+        "impresiones_por_publicacion": 3531.470588235294,
+        "engagement_sobre_impresiones": 3.516282168734905,
         "mejor_publicacion_interacciones": {
           "id": "2122069401826632159",
           "fecha": "2026-11-15T20:49:06.000Z",
@@ -6498,27 +6840,29 @@
             "reply_count": 7,
             "retweet_count": 24
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Jovent Republicà",
         "username": "JoventRepublica",
-        "seguidores": 13781,
+        "seguidores": 13782,
         "siguiendo": 1901,
         "total_publicaciones": 26,
         "actividad_total": 32,
         "publicaciones_propias": 26,
         "retweets": 6,
-        "impresiones": 29916,
-        "likes": 1043,
-        "reposts": 473,
+        "impresiones": 29986,
+        "likes": 1049,
+        "reposts": 474,
         "respuestas": 297,
         "citas": 36,
         "bookmarks": 5,
-        "interacciones": 1849,
-        "interacciones_por_publicacion": 71.11538461538461,
-        "impresiones_por_publicacion": 1150.6153846153845,
-        "engagement_sobre_impresiones": 6.180639122877389,
+        "interacciones": 1856,
+        "interacciones_por_publicacion": 71.38461538461539,
+        "impresiones_por_publicacion": 1153.3076923076924,
+        "engagement_sobre_impresiones": 6.189555125725339,
         "mejor_publicacion_interacciones": {
           "id": "2111338284060205318",
           "fecha": "2026-10-17T06:07:28.000Z",
@@ -6546,7 +6890,9 @@
             "reply_count": 68,
             "retweet_count": 35
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Andalucía",
@@ -6557,7 +6903,7 @@
         "actividad_total": 40,
         "publicaciones_propias": 16,
         "retweets": 24,
-        "impresiones": 3589,
+        "impresiones": 3591,
         "likes": 115,
         "reposts": 48,
         "respuestas": 6,
@@ -6565,8 +6911,8 @@
         "bookmarks": 1,
         "interacciones": 169,
         "interacciones_por_publicacion": 10.5625,
-        "impresiones_por_publicacion": 224.3125,
-        "engagement_sobre_impresiones": 4.70883254388409,
+        "impresiones_por_publicacion": 224.4375,
+        "engagement_sobre_impresiones": 4.706209969367864,
         "mejor_publicacion_interacciones": {
           "id": "2111510811558707414",
           "fecha": "2026-10-17T17:33:02.000Z",
@@ -6594,7 +6940,9 @@
             "reply_count": 1,
             "retweet_count": 3
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Castilla-La Mancha",
@@ -6605,7 +6953,7 @@
         "actividad_total": 52,
         "publicaciones_propias": 16,
         "retweets": 36,
-        "impresiones": 11872,
+        "impresiones": 11873,
         "likes": 118,
         "reposts": 57,
         "respuestas": 16,
@@ -6613,8 +6961,8 @@
         "bookmarks": 1,
         "interacciones": 194,
         "interacciones_por_publicacion": 12.125,
-        "impresiones_por_publicacion": 742,
-        "engagement_sobre_impresiones": 1.6340970350404314,
+        "impresiones_por_publicacion": 742.0625,
+        "engagement_sobre_impresiones": 1.6339594036890424,
         "mejor_publicacion_interacciones": {
           "id": "2111026883806507202",
           "fecha": "2026-10-16T09:30:04.000Z",
@@ -6642,7 +6990,9 @@
             "reply_count": 2,
             "retweet_count": 20
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Castilla y León",
@@ -6690,7 +7040,9 @@
             "reply_count": 8,
             "retweet_count": 18
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones del País Vasco",
@@ -6738,7 +7090,9 @@
             "reply_count": 14,
             "retweet_count": 51
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Asturias",
@@ -6749,16 +7103,16 @@
         "actividad_total": 66,
         "publicaciones_propias": 11,
         "retweets": 55,
-        "impresiones": 21857,
-        "likes": 446,
-        "reposts": 77,
+        "impresiones": 22016,
+        "likes": 455,
+        "reposts": 78,
         "respuestas": 22,
-        "citas": 0,
+        "citas": 1,
         "bookmarks": 7,
-        "interacciones": 545,
-        "interacciones_por_publicacion": 49.54545454545455,
-        "impresiones_por_publicacion": 1987,
-        "engagement_sobre_impresiones": 2.493480349544768,
+        "interacciones": 556,
+        "interacciones_por_publicacion": 50.54545454545455,
+        "impresiones_por_publicacion": 2001.4545454545455,
+        "engagement_sobre_impresiones": 2.525436046511628,
         "mejor_publicacion_interacciones": {
           "id": "2119136197557760350",
           "fecha": "2026-11-07T18:33:35.000Z",
@@ -6786,7 +7140,9 @@
             "reply_count": 14,
             "retweet_count": 19
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Melilla",
@@ -6834,7 +7190,9 @@
             "reply_count": 1,
             "retweet_count": 13
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Extremadura",
@@ -6882,7 +7240,9 @@
             "reply_count": 0,
             "retweet_count": 5
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Joventut Socialista de Catalunya",
@@ -6893,16 +7253,16 @@
         "actividad_total": 12,
         "publicaciones_propias": 4,
         "retweets": 8,
-        "impresiones": 2195,
-        "likes": 87,
-        "reposts": 34,
+        "impresiones": 2285,
+        "likes": 93,
+        "reposts": 35,
         "respuestas": 2,
         "citas": 0,
         "bookmarks": 1,
-        "interacciones": 123,
-        "interacciones_por_publicacion": 30.75,
-        "impresiones_por_publicacion": 548.75,
-        "engagement_sobre_impresiones": 5.603644646924829,
+        "interacciones": 130,
+        "interacciones_por_publicacion": 32.5,
+        "impresiones_por_publicacion": 571.25,
+        "engagement_sobre_impresiones": 5.689277899343545,
         "mejor_publicacion_interacciones": {
           "id": "2107012935122124812",
           "fecha": "2026-10-05T07:40:04.000Z",
@@ -6930,7 +7290,9 @@
             "reply_count": 0,
             "retweet_count": 4
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Cantabria",
@@ -6938,9 +7300,9 @@
         "seguidores": 3312,
         "siguiendo": 1553,
         "total_publicaciones": 4,
-        "actividad_total": 14,
+        "actividad_total": 15,
         "publicaciones_propias": 4,
-        "retweets": 10,
+        "retweets": 11,
         "impresiones": 603,
         "likes": 20,
         "reposts": 16,
@@ -6978,7 +7340,9 @@
             "reply_count": 1,
             "retweet_count": 6
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Novas Xeracións de Galicia",
@@ -7026,7 +7390,9 @@
             "reply_count": 7,
             "retweet_count": 4
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de la Comunitat Valenciana",
@@ -7074,7 +7440,9 @@
             "reply_count": 0,
             "retweet_count": 2
           }
-        }
+        },
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Aragón",
@@ -7096,7 +7464,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Canarias",
@@ -7118,7 +7488,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de La Rioja",
@@ -7140,7 +7512,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       },
       {
         "nombre": "Nuevas Generaciones de Ceuta",
@@ -7162,7 +7536,9 @@
         "impresiones_por_publicacion": 0,
         "engagement_sobre_impresiones": 0,
         "mejor_publicacion_interacciones": null,
-        "mejor_publicacion_impresiones": null
+        "mejor_publicacion_impresiones": null,
+        "tipo_fuente": "organizacion_juvenil",
+        "incluir_en_visor": true
       }
     ]
   }
