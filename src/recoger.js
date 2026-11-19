@@ -231,6 +231,8 @@ async function main() {
 
       resultados.push({
         nombre_organizacion: cuenta.nombre,
+        tipo_fuente: cuenta.tipo || "organizacion_juvenil",
+        incluir_en_visor: cuenta.incluir_en_visor !== false,
 
         usuario: {
           id: usuario.id,
