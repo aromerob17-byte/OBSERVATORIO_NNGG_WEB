@@ -1,0 +1,84 @@
+name: Publicar Pulso Joven
+
+on:
+  workflow_call:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/publicar.yml'
+      - '.github/manual-publish-trigger.txt'
+
+permissions:
+  contents: read
+  actions: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: observatorio-pages
+  cancel-in-progress: false
+
+jobs:
+  preparar:
+    runs-on: ubuntu-latest
+    outputs:
+      artifact_name: ${{ steps.nombre.outputs.name }}
+    steps:
+      - name: Descargar los datos guardados
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+      - name: Verificar archivos del visor
+        run: |
+          test -s index.html
+          test -s data/resumen.json
+          test -s data/historico.json
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Identificar paquete de esta ejecución
+        id: nombre
+        run: echo "name=github-pages-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}" >> "$GITHUB_OUTPUT"
+      - name: Preparar sitio
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+          name: ${{ steps.nombre.outputs.name }}
+          retention-days: 7
+
+  desplegar:
+    needs: preparar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Esperar a que GitHub indexe el paquete
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ARTIFACT_NAME: ${{ needs.preparar.outputs.artifact_name }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          for intento in {1..18}; do
+            if total=$(gh api --paginate "repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts?per_page=100" | jq -s --arg nombre "$ARTIFACT_NAME" '[.[].artifacts[] | select(.name == $nombre and .expired == false)] | length'); then
+              if [ "$total" = 1 ]; then
+                echo "Paquete disponible: $ARTIFACT_NAME"
+                exit 0
+              fi
+              if [ "$total" -gt 1 ]; then
+                echo '::error::Hay paquetes duplicados; no se publicará un artefacto ambiguo.'
+                exit 1
+              fi
+            fi
+            echo "Paquete aún no visible; intento $intento/18"
+            sleep 10
+          done
+          echo '::error::GitHub no ha indexado el paquete de publicación.'
+          exit 1
+      - name: Publicar dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: ${{ needs.preparar.outputs.artifact_name }}
